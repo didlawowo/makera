@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "bceee2d425321a4a",
+    "text": "2.5*15mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "7d51184446808d82",
+    "text": "3.175*17mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b948f9298de94df4",
+    "text": "3.175*25mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "1dfa0b2755087cf2",
+    "text": "3.175*32mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e7b8e30e1c15e423",
+    "text": "3.175*42mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "c282cd921ebd732a",
+    "text": "Engraving Metal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "737c6d35c6067fab",
+    "text": "0.1mm*60° Engraving(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "372f7da21c79e02b",
+    "text": "PFeed:500",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a01316d4b2797b97",
+    "text": "0.2mm*30° Engraving(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "7c8f7580744249ec",
+    "text": "0.3mm*30° Engraving(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9c8e6d467c5227e3",
+    "text": "0.4mm*30° Engraving(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "5acb09939fee33b1",
+    "text": "0.5mm*30° Engraving(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "adced849e0ad4464",
+    "text": "Engraving Non Metal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "c25d11cd4aa6b6e1",
+    "text": "0.1mm*30° Engraving",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "afb3d372744429ef",
+    "text": "0.2mm*30° Engraving",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2c14457ce1f90ef3",
+    "text": "0.3mm*30° Engraving",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e4a01052c0cfe7a8",
+    "text": "0.4mm*30° Engraving",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "337f0d012db42e5f",
+    "text": "0.5mm*30° Engraving",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "ea9d1111b371f1e5",
+    "text": "Ball Nose Metal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "80b714ac42cdf04a",
+    "text": "1*3mm ball nose(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "21ce0a1106582be8",
+    "text": "1.5*4.5mm ball nose(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "db147b61944c81fa",
+    "text": "2*6mm ball nose(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b8185cc07edd4a33",
+    "text": "2.5*7.5mm ball nose(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "96cb3d02400c07a7",
+    "text": "3.175*10mm ball nose(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "667ab894c290d4ae",
+    "text": "Ball Nose Non Metal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "c7d0620417655bce",
+    "text": "1*4mm ball nose",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "c6545b4ffc379391",
+    "text": "1.5*8mm ball nose",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "8d8be8feb4b28669",
+    "text": "2*12mm ball nose",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "f483b0ca6480f95b",
+    "text": "2.5*15mm ball nose",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e40b89b75adb0739",
+    "text": "3.175*22mm ball nose",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e0516fecaac71689",
+    "text": "0.6mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "6d100704c5671f9e",
+    "text": "DOC:0.3",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "45085d020aa5edb4",
+    "text": "0.7mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9bebe818e7b9a630",
+    "text": "0.8mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "f2e041995a6d1e61",
+    "text": "0.9mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "ac62dcff0b5e6159",
+    "text": "1.1mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0e576857e01e60f0",
+    "text": "1.2mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "8f3c11bd6ac8ca2a",
+    "text": "1.3mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "82c01d8f337a217a",
+    "text": "1.4mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "8252015e70cf4f85",
+    "text": "1.5mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "d21a502a4cb695ed",
+    "text": "1.6mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "cb14413c630432c1",
+    "text": "1.7mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a8a1e5de36394f59",
+    "text": "1.8mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a1c66fdee33c7515",
+    "text": "1.9mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "d3bc1e38b761ccc9",
+    "text": "1mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "7f7b7a1a75aad327",
+    "text": "2.1mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2cd4f8a60d82be9a",
+    "text": "2.4mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b0bb2251d0ee9885",
+    "text": "2.5mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2d2ebf113e0b9d32",
+    "text": "2mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e274432e598f40ea",
+    "text": "3.175mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e11d55d0e94ebf53",
+    "text": "3mm Corn",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0e2113782a3d0373",
+    "text": "Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "c55b29ee7d748c7a",
+    "text": "0.2*3.5mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "07e0eb3e88f1db0d",
+    "text": "0.3*5.5mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "f38b84b27666fc08",
+    "text": "0.4*7mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a45d3207dcd34b6a",
+    "text": "0.5*8.5mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "392eaac005f674c6",
+    "text": "0.6*9.5mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "4238fa03027201b0",
+    "text": "0.7*10mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0725b041dce88fe5",
+    "text": "0.8*10mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "258edb4f30187e58",
+    "text": "0.9*10mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "38d655753d30fbec",
+    "text": "1*10mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "41aa91aee793b253",
+    "text": "1.1*10mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e71978538dabedf9",
+    "text": "1.2*10mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e81d5e9db058c429",
+    "text": "1.3*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "4af6c2e3e8ec5f76",
+    "text": "1.4*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "31e4dee1c84f1a9c",
+    "text": "1.5*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "ede1fe150be5773a",
+    "text": "1.6*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "786e7f43f2cd38c0",
+    "text": "1.7*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a3462e284897726b",
+    "text": "1.8*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "770f532540cf0fbf",
+    "text": "1.9*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "66489e0b80cda3c9",
+    "text": "2*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0c39648f43708c0d",
+    "text": "2.1*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a29fe9a4f95cbacc",
+    "text": "2.2*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "dab6be77a8ae7e4e",
+    "text": "2.3*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "70118c3e04871956",
+    "text": "2.4*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "64a366ce1556638d",
+    "text": "2.5*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "1eb2ca776f6e3c4f",
+    "text": "2.6*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "947e7522470c5fa3",
+    "text": "2.7*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "6ad95e44f1d543c9",
+    "text": "2.8*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "cae42cb909244f55",
+    "text": "2.9*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "3791869715c91cc3",
+    "text": "3*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "59644ed4d4c0048a",
+    "text": "3.175*12mm Drill",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "70fbc45b0ef70c2c",
+    "text": "Chamfering Bits",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2207d40a9e7f4d56",
+    "text": "0.1mm*90° Chamfering",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "31e0450e8a9426aa",
+    "text": "Feed:600",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9bd6128c51ce567e",
+    "text": "Feed:1200",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "78e94a7eec74a021",
+    "text": "Solder Mask Remover",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "1c6e2de4065fbf1a",
+    "text": "0.3mm*30° Solder Mask Removal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "d8efa3161b1e079d",
+    "text": "RPM:6000",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9467f3392488843d",
+    "text": "Feed:400",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e2df35be81ae8819",
+    "text": "Laser Module - Carvera (2.5w) and Carvera Air (5w)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a3c74848466d2ba7",
+    "text": "Note that these settings are estimates as specific material properties can vary based on material color and manufacturer. Always take extreme care when testing laser settings, perform test cuts in a well ventilated space, always use protective eyewear, and never leave the laser unattended. Also ensure that the materials being cut and engraved are compatible with laser processing, and if not, utilize the milling spindle instead.",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9354f2dc3d69b7c5",
+    "text": "For additional information and support, check out our",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "482c382543056b6a",
+    "text": "Carvera How To's",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "7b2615c2e1f99630",
+    "text": "for tutorials and guides.",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0e5f317bd91ca7b3",
+    "text": "Example Settings for the Carvera and Carvera Air Laser Module",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "616cb218a65b982f",
+    "text": "Material",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "6dfbd2ecf25b9557",
+    "text": "Suggested Thickness (Cut)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "c5cbc42ec0724e64",
+    "text": "Laser Vector (Engrave)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "eff3762a9b7a1d3d",
+    "text": "Laser Vector (Cut)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "4528c53278d50d12",
+    "text": "Laser Image (Engrave)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "cc776832b48a25aa",
+    "text": "Speed (mm/m)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0d20df5612126169",
+    "text": "Power (%)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "d91ce51260493960",
+    "text": "# of Passes",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "64d748839986cb97",
+    "text": "MDF",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "35045eff549e30b5",
+    "text": "Paper",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "cd113ea5a585377e",
+    "text": "Corrugated Cardboard",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "460c4e5d8bbe0fd2",
+    "text": "EVA Foam",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "4efe0ede17a8fbf8",
+    "text": "Felt Fabric",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "54710da0534c5cac",
+    "text": "Genuine Leather",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "ae177135b3779043",
+    "text": "Engraving Rubber",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "8c45d952da35dae0",
+    "text": "Wooden Veneer",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "88ef9f2225a1c37e",
+    "text": "Soft Woods",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "842bcd6ab07ed2be",
+    "text": "Hard Woods",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "82c624de8ad49858",
+    "text": "PCB Silk Screen (Light Soldermask)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a57c779e0b9a4a05",
+    "text": "PCB Silk Screen (Dark Soldermask)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b849896b8bb2a20d",
+    "text": "Masking Tape",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9297a89c2a5eadad",
+    "text": "Thread Milling Parameters - 3.175mm (1/8\") Shank Diameter Bits",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "585999cfae381e05",
+    "text": "Both the Carvera and Carvera Air desktop CNC's can be used to machine threads for the holes in your parts using thread milling bits, and thread milling operations. You can find Thread milling bits in our",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "824d80d71985f082",
+    "text": "store",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a820ae1cb851d88a",
+    "text": ", and the default feed and speed parameters for these bits are pre-loaded in",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0fc2b4c63f6d4890",
+    "text": ". Please also refer to the table below as a general guideline to assist as you created threaded holes using your CNC's.",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "927c084e678640ac",
+    "text": "Thread Milling Parameters",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2ef9c699245c3419",
+    "text": "Speed & Feed Parameters",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "316339c60c32a361",
+    "text": "Nominal Size",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9841d0980c0fc942",
+    "text": "Thread Pitch",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "979d31145dec3c4a",
+    "text": "Tapping Drill Size",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b50108c461d7dbba",
+    "text": "Woods & Plastics",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "946cf5f592c018eb",
+    "text": "Metals",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "6d0d264e16c4c8d6",
+    "text": "Composites",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "86427847ffa07e44",
+    "text": "Feed:200",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "17826d544b36003a",
+    "text": "DOC:0.25",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b80dbdf396dd8783",
+    "text": "Feed:100",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "66cc36c759e02aeb",
+    "text": "Feed:150",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "64822935d898e66c",
+    "text": "PFeed:150",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "8799316689b754bc",
+    "text": "DOC:0.4",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e927edd9468d9525",
+    "text": "DOC:0.45",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "714a5e039c037eb5",
+    "text": "Feed:250",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2d3a64c8059157fc",
+    "text": "PFeed:250",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "ea56ffc058de1998",
+    "text": "DOC:0.7",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "3e6f3a7d983775a5",
+    "text": "DOC:0.8",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9ccaa35947f47dae",
+    "text": "Supported Codes",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "af5ca955bd4beb7c",
+    "text": "The Carvera firmware is based on Smoothieware, which support both CNC and 3d printing, we only list Carvera Desktop CNC related codes below, check",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "f41fba482905e3d9",
+    "text": "for the original code support by Smoothieware.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "6ef84e472a05a727",
+    "text": "G Codes",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "340f463033e0fd5d",
+    "text": "Code",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1cfa117418e67ed4",
+    "text": "Code_Example",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8d71dbe6de622437",
+    "text": "Move to the given coordinates. It is used to go to a new area without cutting, it is also called a “rapid” move. Note that the F parameter can be used here and is remembered by subsequent commands",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ccca09641c2509c4",
+    "text": "Move to the given coordinates, see above for the difference with G0. Takes the same F parameter as G0",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0a312d759af7df49",
+    "text": "Clockwise circular motion : go to point with coordinates XYZ while rotating around point with relative coordinates IJ",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "284ecbe1bcc243cf",
+    "text": "Counter-clockwise motion : see above",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "25cc9eadcfff456e",
+    "text": "Dwell P<seconds>",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "d231748affd3781c",
+    "text": "Set workspace coordinates",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "752610ed2a230746",
+    "text": "Select XYZ plane (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0d056b9976c3aa9f",
+    "text": "Select XZY plane (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7840835c97916816",
+    "text": "Select YZX plane (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "3c32d431286d9cbd",
+    "text": "Inch mode : passed coordinates will be considered as Inches, so internally translated to millimeters",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "9e41acc7b96d9ffa",
+    "text": "Millimeter mode (",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "37a8eec1ce19687d",
+    "text": "default",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "38770d4a2580bcd6",
+    "text": ") : passed coordinates will be considered as millimeters",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c1c2dd0ceba6a252",
+    "text": "G28 means goto clearance position on the Carvera",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "082e5d62173fcc16",
+    "text": "G32 probes the grid and turns the compensation on, this will remain in effect until reset or M370, X and Y are the start position, A and B are the width and length, I and J are the grid size, H is the height.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "bf2a3603cba642d7",
+    "text": "Standard probe commands implemented as documented",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b79020f8a166dcf1",
+    "text": "Must be on a line by itself OR the first G code on a line, the directly following G0/G1 will be executed in MCS coordinates",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "aa7a175e88241c60",
+    "text": "Use workspace coordinates",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "611baa8a9a07b738",
+    "text": "Absolute mode (",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ea6060ffb2df92b4",
+    "text": ") (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "2b01ccecb6cce966",
+    "text": "Relative mode (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "14ba17a42ed46e2d",
+    "text": "Set global workspace coordinate system to specified coordinates",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "f8406fa8bdeeb17f",
+    "text": "Clear the G92 offsets",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b82868d11da68a86",
+    "text": "Manually set homing (MCS) for XYZ",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b33c8139abc69936",
+    "text": "M Codes",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "d50432a7e1286e6c",
+    "text": "Starts the spindle. The S parameter sets the speed in rotations per minute",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "51ec1cf313b397d7",
+    "text": "Stops the spindle",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "132e2bf2246ce58a",
+    "text": "Auto tool change,  T0 indicates wireless probe, T-1 indicates None",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "65bed0e2a6c221e8",
+    "text": "Starts the airflow",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "51e114883dd3ffb9",
+    "text": "Stops the airflow",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "9adc37a714fbd250",
+    "text": "End of the program, no action on the Carvera",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "cecb2236eceada85",
+    "text": "Read the current spindle temperature",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c7c4cf85621e3a99",
+    "text": "S<factor in percent>- set feed speed factor override percentage",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "705c7a329a14e3bb",
+    "text": "S<factor in percent>- set spindle speed factor override percentage",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "39b9af87647c5e0c",
+    "text": "Enter the laser mode, The machine will drop the current tool automatically and calibrate the spindle Collet (to set the laser offset to the working surface)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1120af02d5c6ddc8",
+    "text": "Exit the laser mode",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "2af60e6570fde822",
+    "text": "Enter the laser test mode, the laser module will be supplied a very low power, usually used for re-focusing the laser",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "16713b0685adbe04",
+    "text": "Exit the laser test mode",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ad6fa597cedd948c",
+    "text": "S<factor in percent>- set laser power factor override percentage",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c6bad87994d49da8",
+    "text": "Turn on the auto vacuum mode, if on, the vacuum will be turned on automatically when the spindle is running and turned off when the spindle is not running",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1eca6ca7ccc7a41e",
+    "text": "Turn off the auto vacuum mode",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "bdb56807ddd75804",
+    "text": "Clears the auto bed levelling data and disabled the compensation until G32 is run again",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0d03703086dadcc1",
+    "text": "Display the current bed leveling grid data in the MDI window",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "021a4c1f20d12a81",
+    "text": "Retrieve device MAC address",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7f87abe53d330ff8",
+    "text": "Retrieve device IP address",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "2d62b354f84b4941",
+    "text": "Execute the ATC homing process, homing will be executed automatically when issuing M490.1 or M490.2 if needed",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "3321b901020c602a",
+    "text": "Tightens the spindle collect to secure a new tool in the spindle",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "38d18e25f34283d8",
+    "text": "Loosens the spindle collet and drops the current milling bit",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "5dd8582b2e8a1ec3",
+    "text": "Execute a calibration, and the TLO (tool length offset) for the current tool will be reset",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "f1acc2075fd40cdc",
+    "text": "Set the status of automatic tool change，subcode 1: Drop tool, subcode 2: Pick tool, subcode 3:Calibrate, subcode 4:margin, subcode 5:Zprobe, subcode 6: Autolevel, subcode 7: Done, subcode 0: None",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "bc71affd940cf93a",
+    "text": "Pauses the machine and waits for a resume command to continue",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "26f808bb86d3a3e2",
+    "text": "Turn on the internal vacuum (Carvera). The S parameter sets the power of the vacuum (S100 = 100%)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "6dce23d665d32b49",
+    "text": "Turn off the internal vacuum (Carvera)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "4a1ec219a1b902ef",
+    "text": "Turn on the spindle cooling fan.  The S parameter sets the power of the fan",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "29bf4143c0625e2f",
+    "text": "Turn off the spindle cooling fan",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "6f199329a5853c88",
+    "text": "Turn on the light",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "89124f757072d922",
+    "text": "Turn off the light",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7d520c4ce5301b9e",
+    "text": "Turn on the tool detector sensor laser",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1a996ff5e845efc9",
+    "text": "Turn off the tool detector sensor laser",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7e42907c68cc7bf1",
+    "text": "Turn on the wireless probe charging power",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "24c6651b4586c22b",
+    "text": "Turn off the wireless probe charging power",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "05e9319c08376027",
+    "text": "Turn on the extended port power.  The S parameter sets the PWM output of the port, such as the suction power  (S50 = 50%)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "57fcfd3ad36ef1c3",
+    "text": "Turn off the extended port power",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "cd73950dcdd2e503",
+    "text": "Turn on the beep. (only for Carvera Air)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8d5cfba608da3896",
+    "text": "Turn off the beep. (only for Carvera Air)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8bacd900aecd504f",
+    "text": "Console Commands",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "a0b6023a990c646e",
+    "text": "The smoothieware supports console commands to operating files, running jobs, monitoring status, etc. The Carvera firmware support most of them too,",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ab0de4b998bc0c0e",
+    "text": "checkout here",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "a185aacd886a1f85",
+    "text": ". We have integrated them into GUI so you don't need to run manually. The below list are the ones are modified or added by the Carvera.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "713166971d730f81",
+    "text": "Command",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "16ec9aa6660b6592",
+    "text": "Command_Example",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7978f506baa16285",
+    "text": "ap",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "98cb656d8af085cd",
+    "text": "Enable/disable or change the password for the WiFi Access Point",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "acd85906eb4edc85",
+    "text": "'ap ssid xxxx' (change AP name ).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0c124192b940ed54",
+    "text": "'ap password xxxx' (set password ).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "22667c5f3221a4e3",
+    "text": "'ap disable' (disable AP).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "5acc00f31bea40a6",
+    "text": "'ap enable' (enable AP).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "89e448883d6895da",
+    "text": "ap xxxx",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "a3cacc8283f848a0",
+    "text": "goto",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b966d6040511d3f5",
+    "text": "Resume a job from a certain line.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8d59829c1e15afe1",
+    "text": "Usage",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "e6fa05269542a708",
+    "text": "Open the job, and start normally.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "5a21c26aaceddd21",
+    "text": "When the job begins to execute, pause it.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "eef6dbf747f424b2",
+    "text": "When it is successfully paused, go to the MDI window and manually input goto XXXX",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "306d292ca3f6a1f2",
+    "text": "You will see the job jump to XXXX line",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8c0f7e59f9ec06a5",
+    "text": "Hit resume and continue the job.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "4b598102b961c35c",
+    "text": "Be very careful about Z height, and avoid any collisions, you can lift the Z a bit after pausing the job.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "3e958ddbef0b0b00",
+    "text": "goto xxxx",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "336074805fc85398",
+    "text": "time",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "df53e0e57f746755",
+    "text": "Retrieve the current time of the control board, displayed in timestamp format",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "5ca4f3850ccc331a",
+    "text": "version",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b5b952aa1ee9ce15",
+    "text": "Retrieve the current firmware version",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0a443a771fa4d848",
+    "text": "wlan",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "649f3a5a22b6d979",
+    "text": "Connect/disconnect or scan the WiFi network.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "22f30d06cddcb8c2",
+    "text": "'wlan' (scan WiFi ).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ec7aeed1b5fe9fee",
+    "text": "'wlan ssid password' (connect to a certain WiFi AP).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "9997d6e9e8d87829",
+    "text": "'wlan -d' (Disconnect from WiFi AP).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1748a478cdf71874",
+    "text": "wlan xxxx",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "3d07af5e675af33b",
+    "text": "Check the functionality of the 4th axis module (harmonic drive version) on the Carvera and Carvera Air",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8978eeb8f1383699",
+    "text": "‘enable_4th’ (enable 4th axis module with harmonic drive ) - Carvera",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "2c6f4a7b0abd7208",
+    "text": "‘disable_4th’ (disable 4th axis module with harmonic drive ) - Carvera",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7f1df453e621c31c",
+    "text": "‘check_4th’ (checks rotation limits of 4th axis module with harmonic drive) - Carvera & Carvera Air",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "708dd2dcb62e5dce",
+    "text": "check_4th",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "d01b7ce9154ef026",
+    "text": "beep",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c3f06ffa7df4227e",
+    "text": "Enable or disable the beep tone played on the Carvera Air",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "87184b63f4f5712d",
+    "text": "‘config-set sd switch.beep.enable false’ (disable the tone)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c73e211316a2a6b1",
+    "text": "config-set sd switch.beep.enable true (enable the tone)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "aa665e395e9b4e76",
+    "text": "Reset the machine after running these commands for the change to take effect",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "c8538fa2083075f1",
+    "text": "1. The network can be configured via a USB cable or the machine’s built-in WiFi accessing point.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "62df84f7524f3a2d",
+    "text": "2. Connect via USB: Connect the USB cable and open the Carvera Air control software. Click the status button in the status bar, click “USB...”, you will see your USB device and choose one to connect. Then the status button will be updated, displaying machine is connected in USB mode.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "8aee5b60170366a2",
+    "text": "3. Connect via accessing point: Open the WiFi setting on your computer, find the accessing point named CARVERA_AIR_XXXXX and connect (No password). After successfully connected, open the Carvera Air control software; click the status button in the status bar; click” WIFI…”;Carvera Air will automatically search connectable devices. Please refresh it if Carvera Air cannot find any devices. After connecting to the device, the status button will be updated; displaying machine is connected in WiFi mode.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "d9c23e1ec9651a28",
+    "text": "4. WiFi configuration: Click the “more” button (end of the status bar) in the status bar; click the WIFI icon, the system will start searching WIFI in the workplace. Select a WIFI, enter the password and connect. Please retry if the connection failed.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "b0934695b76e169c",
+    "text": "5. Disconnect: Click the status button; click “Disconnect”; Switch back to your WiFi.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "e031eb996787595a",
+    "text": "6. Redo step 3 from Click “WIFI”to connect Carvera Air through WIFI.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "5ca6455db647cfe7",
+    "text": "Note: If you decide not to use Carvera Air for a long time, please keep a tool clamped in the spindle, but do not use the wireless probe. It will reduce the elasticity of the tool clamp without a tool for long time. The wireless probe cannot be charged automatically if it is not in the tool holder.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "ea848b0fde40fb63",
+    "text": "Air tool kit",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "4b75a40adaeccd0c",
+    "text": "The wired probe is a key component supporting Z-axis probing, machining boundary scanning, and automatic leveling.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "f689889009a09009",
+    "text": "1. Installation: It is stored on the right side of the spindle by default, and the cable has been connected and is ready for immediate use. The installation and removal method for the wired probe is the same as that for a standard milling bit.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "57a08a2c57e0f5c6",
+    "text": "2. Probing: When the wired probe is triggered, the green indicator light turns on.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "703be343c78073e5",
+    "text": "3. Laser indicator: Press the wired probe twice to turn on the laser indicator (used for manual tool setting of the XY axis). The laser indicator will also be turned on automatically when probing, scanning boundaries, or auto-leveling.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "89847693dd50d48d",
+    "text": "4. Test: Open the drop-down list in the status toolbar and select the diagnostic function, the diagnostic status dialog box will pop up. Press the wired probe and you can see the Probe signal is triggered, indicating the wired probe is working.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "09f4ed15229a95f8",
+    "text": "Note: Unlike the crash of milling bits, the crash of the wired probe may cause serious damage to the probe. Please use the wired probe with caution. Always observe its traveling path, and stop the machine when finding any obstacles to protect the wired probe.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "c3086f68003b955b",
+    "text": "Use case: Normally, using the wired probe and the anchor-based positioning system is quite enough for most jobs. But when you need to place the workpiece not at the anchor point and need to accurately find the origin, you can use the manual probe.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "1bd95f64016de0cb",
+    "text": "Note: you must insert and calibrate a tool using the automatic tool setter prior to beginning the manual XYZ probing process.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "2bad3eeaf33caffe",
+    "text": "Usage:",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "9633880c4e035258",
+    "text": "1. Unplug the wired probe and plug the manual probe into the 4-pin socket on the top right of the spindle shell.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "906ee2453766d6e7",
+    "text": "2. Place the manual probe (white plastic side) against the lower left corner of the workpiece firmly.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "5b0f5fbd31d40a66",
+    "text": "3. Move the machine and let the milling bit be positioned in the square area of the manual probe.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "a36efc5958e906d6",
+    "text": "4. Attach the magnetic end of the manual probe to the spindle shaft as shown.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "1f19e634b60da381",
+    "text": "5. Click the 'Set Origin->Set By XYZ Probe\" function, and set the height offset and the diameter of the milling bit. (It is recommended to use the 3.175mm diameter test rod we provided for probing so that the default parameters can be applied directly)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "9e8dbbaa7b161c4c",
+    "text": "Note: Tip: The manual probe process will automatically set the origin of X, Y, and Z axes. There is no need to set them again.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "9ce359e01e8086d3",
+    "text": "Just like the main button in front of the Carvera Air machine, when any unexpected situation occurs, you can quickly press the emergency stop button to stop the machine, and the machine will stop immediately and enter the alarm state. You need to go to the control software to unlock the machine before continuing to use it. The emergency stop button has a self-locking function, just turn the emergency stop button clockwise to unlock it.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "7005c2ccbc955457",
+    "text": "Use case: There are two main use cases for the air assist module. One is for chip removal and cooling during CNC machining, especially when machining metal materials. The second is to prevent the material from burning during laser engra ving to improve the engraving quality.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "04465891ab14179b",
+    "text": "Installation: An normal small air pump is more than enough for the Carvera air assist module, insert the 8 mm pipe into the plug at the back of the machine, and ensure that the air pipe is firmly fixed.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "151a0965a40ea9a2",
+    "text": "Air control:",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "ddd521ae9ff04743",
+    "text": "1. Adjust the blue knob at the end of the air assist module to control the airflow, pull the knob to adjust, and press the blue knob to lock. Turn the knob clockwise to decrease the flow and counterclockwise to increase the flow.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "766bc4e807e16b9b",
+    "text": "2.The angle of the air nozzle can be adjusted to match different tool lengths and laser focus position.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "194fe7c9cba92da2",
+    "text": "Note: The air assist module and dust collection module cannot operate simultaneously. Please remove the dust shoe before using the air assist module. When the air assist module is not used for an extended period, turn off the air pump.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  }
+]

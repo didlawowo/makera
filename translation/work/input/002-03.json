@@ -1,0 +1,257 @@
+[
+  {
+    "id": "06cf11a4f25105c2",
+    "text": "Manually control Carvera Air’s movement and execute other commands. Because Carvera Air does most of the jobs automatically, the manual control interface is hidden by default. Click the arrow on the right side of the interface to switch whether to display it.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "cc4f0763f052abc1",
+    "text": "All indicators include 3 items: a symbol, main data and sub-data. Click the button can open the corresponding drop-down list.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "08de46597938165b",
+    "text": "1. Machine status and control",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "8bdc7825cd9a42e7",
+    "text": "1.1. Symbol: A unique colour to distinguish the status.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "997165247d74edd4",
+    "text": "1.2. Main data: Explanation of device status.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "a8ae37cdbc439520",
+    "text": "1.3. Sub-data: Current connection mode.(No connection, WiFi or USB)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d41b45997cc52af2",
+    "text": "1.4. Drop-down list:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "8bb60e1b49fca86e",
+    "text": "WIFI",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "f6ad2ad3ea4c6590",
+    "text": ": Connecting Carvera via WiFi.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "61f0acff1735aac4",
+    "text": "USB",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "2356d4a64c7e1be9",
+    "text": ": Connecting Carvera via USB.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "2ca7cae6e056ffa5",
+    "text": "Unlock/Reset",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "2754db28622ce51a",
+    "text": ": Unlock or reset Carvera.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "acfc5be785a9bb3d",
+    "text": "Disconnect",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d9b8fae1a87acf0d",
+    "text": ": Disconnect Carvera from your device.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "93d61da939fcb60f",
+    "text": "Explanation of different Carvera Air  statuses :",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "3ec7360bbecc49fc",
+    "text": "2. Coordination status and control",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "a8fbac958e44196f",
+    "text": "2.1. Symbols: X/Y/Z/A",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "abfc94c4da930114",
+    "text": "2.2. Main data: Work Coordinates (The position of the tool relative to the work origin). This position depends on where you place your workpiece and where you want to start machining on it.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "23bc64d8907680ab",
+    "text": "2.3. Sub-data: Machine coordinates (The position of the tool relative to the machine origin). The machine origin is fixed and located at the upper-right corner of the machine, so these coordinates are generally negative.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "622af0cc2084755a",
+    "text": "2.4. Drop-down list:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "80b37c393a754b3b",
+    "text": "2.4.1 Set Origin: Use this option to set the work coordinates for the X, Y, Z, and A axes; You can either set them to zero or specify a specific value based on the current position; Typically, Carvera Air uses two fixed anchor points to automatically set the starting point, so you usually don't need to set the origin manually.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "807a77ceee897e03",
+    "text": "2.4.2 Rotary axis (A axis):",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "33899f5c1428c419",
+    "text": "Shrink Function: Use this to calculate the remainder of the rotation angle modulo 360 degrees when dealing with large rotation angles.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "117dbf8ee70e2c9f",
+    "text": "Fast Move Function: This function first executes the \"Shrink\" function and then rotates directly to the specified position.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "3f4dc33dac766dbb",
+    "text": "3. Feed status and control",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "3acf7447fc5576c7",
+    "text": "3.1. Symbol: Feed icon",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "eb61905c5169bb9c",
+    "text": "3.2. Main data: Real-time feeding speed",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "f7b6a1e87ee6595d",
+    "text": "3.3. Sub-data: Target feeding speed/Feeding speed scale(moving message)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d406fa44488cf60c",
+    "text": "3.4. Drop-down list:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "01d3e84afbbf861e",
+    "text": "3.4.1. Feed Status: Target feeding speed /Feeding speed scale",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "12df0ac7de1d5825",
+    "text": "3.4.2. Speed Scaling: Set the feed rate by percentage. For safety reasons, the adjustment range is limited to 50% to 200%",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "7e4206000506c15d",
+    "text": "Note: Adjusting the feed rate will not take effect immediately. Generally, it will take a few seconds to wait for the current command to finish.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "97dd96270fcaf519",
+    "text": "4. Spindle status and control",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "71d921cf88fbfcd2",
+    "text": "4.1. Symbol: Spindle icon",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "0a72c2cd50e56bd5",
+    "text": "4.2. Main data: Real-time spindle rotary speed (RPM)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "cccb663b5bc4da29",
+    "text": "4.3. Sub-data: Target spindle rotary speed/ Spindle speed scale/Real-time spindle temperature (moving message)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "e8efe1c000065ca8",
+    "text": "4.4. Drop-down list:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "5222fd2f73be305b",
+    "text": "4.4.1. Spindle Status: Target spindle rotary speed/ Spindle speed range /Real-time spindle temperature summary display",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d48a70e68854a344",
+    "text": "4.4.2. Auto Vacuum: Choose to turn on/off auto vacuum while the spindle is rotating. Default - on.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "3f322885e971a7b2",
+    "text": "4.4.3. RPM Scaling: Set the spindle speed range by percentage. For safety reasons, the adjustment amount range is limited from 50% to 200%.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "1926f8c3b6b36750",
+    "text": "Note: Turn on the Vacuum or adjust the spindle rotary speed will not take effect immediately. Generally, it will take a few seconds to wait for the current command to finish.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "c50f2330ad85ee5f",
+    "text": "5. Tool status and control",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "3d887a2353534115",
+    "text": "5.1. Symbol: Tool icon",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "16b646e1032686ea",
+    "text": "5.2. Main data: Display the number 1 to 6 of the current tool on the spindle, no tool - “None”, wireless probe - “Probe”",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "334a0f3548c933bc",
+    "text": "5.3. Sub-data: Current Tool Length Offset（TLO）/Wireless Probe Power(moving message)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "59225b45644e07bb",
+    "text": "5.4. Drop-down list:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "f4fbb5dbc7b13b86",
+    "text": "5.4.1 Tool Status:  TLO/Wireless Probe Power summary display",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "c0e2062c46857832",
+    "text": "5.4.2. Change tool: Change to the selected tool or wireless probe, and perform automatic calibration.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "52c3217eb70b6bde",
+    "text": "5.4.3. Calibrate tool: Automatically calibrate the current tool and set TLO.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "231f6f986e7011aa",
+    "text": "5.4.4. Drop tool: Drop the current tool.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  }
+]

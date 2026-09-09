@@ -1,0 +1,59 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Problematic XYZ movement</title><h1>Problematic XYZ movement</h1><article><div><h2 id="troubleshooting-a-servo-motor-losing-steps-or-axis-movement-issues" class="toc-header"><a class="toc-anchor" href="#troubleshooting-a-servo-motor-losing-steps-or-axis-movement-issues">¶</a> <strong>Troubleshooting a Servo Motor Losing Steps or Axis Movement Issues</strong></h2>
+<p>If you ever experience any of the following issues on your Makera CNC machine:</p>
+<p>Incorrect movement on one of the axes</p>
+<p>Motor losing steps</p>
+<p>No movement on an axis</p>
+<p>Directional issues (wrong direction)</p>
+<p>Axis has jagged or uneven movement</p>
+<p>Please follow this step-by-step guide to identify and fix the problem.</p>
+<hr>
+<h3 id="step-1-identify-the-affected-axis" class="toc-header"><a class="toc-anchor" href="#step-1-identify-the-affected-axis">¶</a> <strong>Step 1: Identify the Affected Axis</strong></h3>
+<p>Before opening the machine, determine which axis is affected by examining your faulty job or test cut:</p>
+<p>If the toolpath or details are <strong>stretched left or right</strong>, the issue is likely on the <strong>X-axis</strong>.</p>
+<p>If the details are <strong>stretched up and down</strong>, the issue is likely on the <strong>Y-axis</strong>.</p>
+<p>If the parts are cutting <strong>too deep or too shallow</strong>, the issue is likely on the <strong>Z-axis</strong>.</p>
+<p>Knowing which axis is affected will help you check the correct motor and wiring.</p>
+<hr>
+<h3 id="step-2-access-the-controller-board" class="toc-header"><a class="toc-anchor" href="#step-2-access-the-controller-board">¶</a> <strong>Step 2: Access the Controller Board</strong></h3>
+<p>Power off and unplug your CNC machine.</p>
+<p>Remove the <strong>back panel</strong> of the machine.</p>
+<p>Locate the <strong>controller board</strong> — it is positioned on the right-hand side inside the enclosure (see image for reference).</p>
+<figure class="image"><img src="https://wiki.makera.com/screenshot_2025-11-07_144404.png"></figure>
+<p>Find the plug corresponding to the affected axis.</p>
+<p>Gently remove the plug and inspect the connector. Make sure all wires are seated securely in the plug.</p>
+<p>Reseat the plug firmly back into the controller board.</p>
+<hr>
+<h3 id="step-3-inspect-the-motor-connection" class="toc-header"><a class="toc-anchor" href="#step-3-inspect-the-motor-connection">¶</a> <strong>Step 3: Inspect the Motor Connection</strong></h3>
+<p>Next, check the connection on the opposite end of the same wire — the motor itself.</p>
+<p><strong>X-axis motor</strong>: Accessible from the <strong>back panel</strong> of the machine.</p>
+<figure class="image image_resized" style="width:32.61%;"><img src="https://wiki.makera.com/_dsc6867_e.jpg"></figure>
+<p><strong>Y-axis motor</strong>: Accessible from <strong>under the machine</strong>.</p>
+<figure class="image image_resized" style="width:32.7%;"><img src="https://wiki.makera.com/_dsc6876e.jpg"></figure>
+<p><strong>Z-axis motor</strong>: Accessible from the <strong>front of the machine</strong>, behind the gantry.</p>
+<figure class="image image_resized" style="width:32.56%;"><img src="https://wiki.makera.com/_dsc6860_plug.jpg"></figure>
+<p>Inspect the plug for looseness or damage, and ensure the connector is fully seated.</p>
+<hr>
+<h3 id="step-4-test-the-machine" class="toc-header"><a class="toc-anchor" href="#step-4-test-the-machine">¶</a> <strong>Step 4: Test the Machine</strong></h3>
+<p>After checking and reseating all plugs:</p>
+<p>Power on the machine.</p>
+<p>Run a short test job or jog the affected axis manually.</p>
+<p>Observe if the issue has been resolved.</p>
+<p>If the problem persists, continue to the next step.</p>
+<hr>
+<h3 id="step-5-check-cable-continuity" class="toc-header"><a class="toc-anchor" href="#step-5-check-cable-continuity">¶</a> <strong>Step 5: Check Cable Continuity</strong></h3>
+<p>Using a multimeter, test the continuity of the cable between the controller board and the motor.</p>
+<p>If you detect a break or inconsistent signal, the cable may need replacement.</p>
+<p>Ensure there are no visible signs of wear, fraying, or pin damage on the connectors.</p>
+<hr>
+<h3 id="step-6-contact-support" class="toc-header"><a class="toc-anchor" href="#step-6-contact-support">¶</a> <strong>Step 6: Contact Support</strong></h3>
+<p>If you have verified the connections and continuity but the issue continues, please contact <strong>Makera Support</strong> for further assistance.</p>
+<p>📧 <strong>Email:</strong> support@makera.com</p>
+<p>Include the following in your email:</p>
+<p>Description of the problem</p>
+<p>Axis affected (X, Y, or Z)</p>
+<p>A photo of your setup and any visible damage</p>
+<p>Your machine’s serial number (if available)</p>
+<hr>
+<h3 id="summary" class="toc-header"><a class="toc-anchor" href="#summary">¶</a> <strong>Summary</strong></h3>
+<p>Most cases of lost steps or incorrect movement are caused by loose or poor electrical connections between the controller and the motor. Carefully checking both ends of the wiring often resolves the issue. If not, the problem may lie in the cable or the motor itself, in which case Makera Support can assist with replacement or further diagnosis.</p>
+</div></article></html>

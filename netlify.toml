@@ -1,0 +1,18 @@
+[build]
+  publish = "site"
+  command = "test -f site/index.html && test -f site/assets/style.css && test -f site/assets/app.js && test -f site/assets/search-data.js && test -f site/fr/58aad18200dc6379fe3c.html"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "DENY"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public,max-age=31536000,immutable"

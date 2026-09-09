@@ -1,0 +1,252 @@
+[
+  {
+    "id": "ccf80ff9d2f512ab",
+    "text": "1. Navigate to the \"Machine\" menu and click \"Machine Configuration Management\".",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "d996cf9aab883540",
+    "text": "2. Click the \"Add a custom machine\" button.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "02aaa5f9ef8586ef",
+    "text": "3. Fill in the information as shown below.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "1da4adaa2fd34301",
+    "text": "4. Select the post processors just imported and set the \"Carvera ATC (mm)(*.cnc)\" as default.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "59fc09e14027c440",
+    "text": "5. Click \"Apply\" then \"OK\" to save the configuration.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "61ce094a2de2cceb",
+    "text": "Install Tool Database",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "4c63cf1412044bb5",
+    "text": "1. Navigate to the \"Toolpaths\" menu and click \"Tool Database\".",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "baf9ffbcca3f2c17",
+    "text": "2. Click the \"Import a tool database\" button.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "60e04960c43c95a8",
+    "text": "3. Select the \"CarveraTools.vtdb\" file.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "5c4f851d9df65ce6",
+    "text": "4. Click the \"Merge\" button on the popup confirm dialog and finish the import.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "b691ac5f508c63d9",
+    "text": "Using VCarve Desktop Profiles",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "8521d352a8e09919",
+    "text": "When saving Tool paths, select Carvera Desktop CNC Machine and a suitable post processor for your job.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "dbcb3161f6870b5c",
+    "text": "Milling Spindle - 3.175mm (1/8\") Shank Diameter Bits",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "932b6ea696f530e7",
+    "text": "The following recommended parameters are based on current tests. The machining speed with small diameter tools/hard materials should be slow and fast in opposite. We will conduct more tests and provide more detailed parameter recommendations in the future on our website.",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e4deac588d1c11d2",
+    "text": "Please start the test from the lower limit of the parameter, and adjust them based on the test results. For additional information and support, check out our",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b8ae3038aab2abe4",
+    "text": "tutorials and guides.",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "fd4279c6045da4f3",
+    "text": "*RPM: SpindleSpeed(RPM) / Feed: FeedRate(mm/min) / PFeed: PlungeFeedRate(mm/min) / DOC: Depth of Cut(mm)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "34ca0e76608842ff",
+    "text": "Group",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "bf61918ceda355fa",
+    "text": "Aluminum",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "54fb636380fa6abc",
+    "text": "Brass",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "45dc1993cb60cec2",
+    "text": "Carbon Fiber",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "d35b0efe21288fd5",
+    "text": "Copper",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "7d540a95c1bc7d06",
+    "text": "Hardwood",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b83700147fd748ac",
+    "text": "Plastic",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "cd3a31270e4e78e5",
+    "text": "Softwood",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "5190b593ad82f9fe",
+    "text": "Single Flute Metal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "345c699dfc5867e4",
+    "text": "1*3mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "5bd464abc1f20747",
+    "text": "RPM:12000",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "6db8926b957c73b6",
+    "text": "Feed:500",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0bc9a62b84d887e9",
+    "text": "PFeed:200",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e9d8d475c8b79264",
+    "text": "DOC:0.1",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "fd63b285290a5021",
+    "text": "Feed:300",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2cc5e7ea58005f20",
+    "text": "PFeed:100",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "48d424cba9d90cd8",
+    "text": "DOC:0.05",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "f18dfcbbb85488fa",
+    "text": "RPM:10000",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2e2a97503e9b9f25",
+    "text": "Feed:1000",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0d7815cc292d6cab",
+    "text": "PFeed:300",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "28ff03cc1151331d",
+    "text": "DOC:0.5",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b9adb375e994e758",
+    "text": "DOC:1",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "1f150babdcd58071",
+    "text": "1.5*6mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a6dc873e0198bcfb",
+    "text": "2*8mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "c955c4fa682c576f",
+    "text": "DOC:0.15",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "af75714b9794fb64",
+    "text": "2.5*12mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "1d8a9263c92988b3",
+    "text": "DOC:0.2",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "ea90ffec6a9a5438",
+    "text": "DOC:2",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "15420285373d58c5",
+    "text": "3.175*12mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "96a3008317aae693",
+    "text": "Single Flute Non Metal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "d3f1f7743b463419",
+    "text": "1*3mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0ff0448cee95699a",
+    "text": "1.5*8mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "4f059ab97fd7ca48",
+    "text": "2*12mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  }
+]

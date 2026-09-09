@@ -1,0 +1,327 @@
+[
+  {
+    "id": "ba79b70585a824d1",
+    "text": "in front of the Path function at the top of the paths list. You can also right-click on the Path function and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fe61f8b26052b942",
+    "text": "[Show All Paths]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "63f2a079f3510d41",
+    "text": "[Hide All Paths]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9e1a5c5506af0aaf",
+    "text": "in the pop-up menu that appears to toggle between showing / hiding all tool paths.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a0427579e4f5c3a5",
+    "text": "Show/Hide Quick Move",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6322e02611ec83a4",
+    "text": "In the path list, right-click the specified tool path name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4740cd8c73ee332c",
+    "text": "[Show Fast Move]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "16a8d86140e66feb",
+    "text": "[Hide Fast Move]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8a1473418e84c8f0",
+    "text": "in the pop-up menu to switch the display of the fast move icon information in the tool path preview.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fddfb0c64a44fa93",
+    "text": "Move tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0e2fd9e974b313c9",
+    "text": "In the path list, select the tool path which you want to move, right-click the tool path name, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8c9a50fa223fe7df",
+    "text": "in the pop-up menu that appears to move the selected tool path up or down in the path list. You can also adjust the tool path order by dragging a tool path with the left mouse button in the path list.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "be401cec186225a8",
+    "text": "Export G-Code tool path file",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e3d4308572503e4f",
+    "text": "To export a G-Code tool path file, you can right-click on the Path function at the top of the path list and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dfedf7c7cb4e68c8",
+    "text": "[Save All Paths]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "56830a7e1cecbdac",
+    "text": "in the pop-up menu to export all tool paths. You can also select a specific tool path name to be exported with the left mouse button, right-click on the tool path name, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "32d3c0c9ffced725",
+    "text": "[Export]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bba08c6af20ec539",
+    "text": "in the pop- up menu that appears. In the pop-up interface, confirm that the tool path(s) to be exported is checked, and click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "becb75b129c41f4e",
+    "text": "button to export only the selected tool paths. In the save path dialog box that then appears, set the file location and file name of the G-Code tool path file that is to be exported, then click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "861bb7102507d19a",
+    "text": "[Save]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bbd0475f67629fbf",
+    "text": "button to complete the saving of the tool path file to your computer.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4c9783a9b1e2d940",
+    "text": "The material library is used to create and maintain stock material types and material previews as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7c84a7bec3c9a241",
+    "text": ". Material information is mainly used for stock material previews in the Stock panel within the main interface, and for tool parameter settings in the associated materials in the Tool Library.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4938c84402fadb9d",
+    "text": "To Create a New Material:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ca0f6559931039f1",
+    "text": "[Add]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b00421966da2aaa5",
+    "text": "button, enter the material name and press",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "52e9e0fc24c65521",
+    "text": "[Import Image]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cc380ae66585b223",
+    "text": "to import an image for the material preview, then click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "497548075c1ac7f6",
+    "text": "[Apply]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "052becdd54d09520",
+    "text": "to complete the creation of the new material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "35482e4161e8455f",
+    "text": "To Edit Existing Materials:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1a45b1ce5f601028",
+    "text": "Select the material name to be edited in the list on the left with the left mouse button. The selected material will appear in the right side of the materials library window. Press",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "93eecdb5e3e8e98b",
+    "text": "to allow for changes to be made to the name and preview image. Then click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bae3df5a02a52ae2",
+    "text": "to complete the changes made to the selected material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c82aa47c2a0b1747",
+    "text": "To Duplicate a Material:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "84f460117620ceac",
+    "text": "Select the material name to be cloned in the list on the left with the left mouse button, click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a94cdfba4d745653",
+    "text": "to complete the material duplication. The new material will be added at the bottom of the material list.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a100d9c055c4f203",
+    "text": "To Delete a Material:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5fe29a498ab298c5",
+    "text": "Select the material name to be deleted in the list on the left with the left mouse button, then click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "faf10c0cad6ffc29",
+    "text": "to complete the deletion of the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e20c40a284b04a56",
+    "text": "When deleting material, if a tool references the current material information, the tool processing parameters for the current material in the tool configuration information will also be deleted when the corresponding material is deleted.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f5ce69c99335c2c5",
+    "text": "The tool library is used to maintain the tool information used in tool path design as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a6644de71806185f",
+    "text": ". The tool parameters include tool type and basic appearance, processing parameters of the tool set for associated materials, etc. The tools can be grouped and managed in lists, and the backup and recovery of tool information is supported.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c78169efa3753754",
+    "text": "Tool Group Management",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "05f25060e01a6a34",
+    "text": "Tool groups can be used to organize and manage tools in groups, and support the creation, renaming, duplication, deletion, importing, and exporting of tools as a group.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dbfc311a5c93b333",
+    "text": "To Create a New Tool Group:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0adba893c305792a",
+    "text": "Select the parent node of the group to be created, click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a6849595c72f5608",
+    "text": "[New Tool Group]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "410cc8f0b242e96e",
+    "text": ", and a new tool group node will be created under the selected tool group node.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "504e7b2580594a51",
+    "text": "To Rename a Tool Group:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "92be7e7055839d05",
+    "text": "Right-click the tool group name and select the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "495d262668ca6e83",
+    "text": "in the menu that appears to rename the group name.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cd04504c9c94622b",
+    "text": "To Copy a Tool Group:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "15bd5a2019728fc0",
+    "text": "Right-click the tool group you want to copy, click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a84c274a3a016bd",
+    "text": ", and a duplicated record of the selected tool group will be created at the end of the tool group list within the current level.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b2e6f872208b8dca",
+    "text": "To Delete a Tool Group:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4d21b3ed2956fc93",
+    "text": "Select the tool group to be deleted and click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "054c92933ecd67b8",
+    "text": "to delete the current tool group and all tool information stored within that tool group.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b07d41af374d805b",
+    "text": "Export / Import Tool Group Information:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "644450543f7531ea",
+    "text": "Export:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "edd7f193c809a4c6",
+    "text": "Select the tool group to be exported, then click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d09506525af2f338",
+    "text": "to save the selected tool group, the contained tool information, and the material information referenced in the exported tool information to your computer.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "efb24e633a2aab1e",
+    "text": "Import:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8ee20052a3b19314",
+    "text": "Select the parent tool group node you wish to import a tool group to. Click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "aa70c3773054e1e6",
+    "text": "[Import]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

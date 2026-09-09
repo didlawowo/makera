@@ -1,0 +1,178 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>ATC</title><h1>ATC</h1><article><div><h2 id="" class="toc-header"><a class="toc-anchor" href="#">¶</a>  </h2>
+<p> </p>
+<h2 id="atc-drop-or-pick-up-tool-error" class="toc-header"><a class="toc-anchor" href="#atc-drop-or-pick-up-tool-error">¶</a> <strong>ATC drop or pick up tool error</strong></h2>
+<p>Picking or dropping any tool or WP gives an error.</p>
+<p>This error can be caused by a few things, below are a few scenarios.</p>
+<figure class="image"><img src="https://wiki.makera.com/screenshot_2023-05-11_185504.png"></figure>
+<p>Scenarios:</p>
+<p>- There is no tool to pick up.</p>
+<p>- Incorrect collet is being used.  </p>
+<ul>
+  <li>Smaller collet will result in the bit being pushed into the tool holder.</li>
+  <li>A larger collet will not pick up the bit at all.</li>
+</ul>
+<p>- The tool was pulled out of the holder slightly or pushed the tool into the tool holder. (See "<a href="https://wiki.makera.com/en/carvera/troubleshooting/ATC#atc-misalignment" class="is-internal-link is-valid-page">ATC misalignment</a>" topic)</p>
+<p>- After doing the tool detection operation an error occurs (See "<a href="https://wiki.makera.com/en/carvera/troubleshooting/ATC#atc-tool-detector-problem" class="is-internal-link is-valid-page">tool detection sensor problem</a>" topic)</p>
+<p>- The tool stays in the collet after doing the drop command (See "<a href="https://wiki.makera.com/en/carvera/troubleshooting/ATC#the-tool-stays-in-the-collet-after-releasing" class="is-internal-link is-valid-page">Tool stays in the collet after releasing</a>" topic)</p>
+<p>- The tool position is occupied.</p>
+<figure class="image"><img src="https://wiki.makera.com/screenshot_2023-05-11_185742.png"></figure>
+<p> </p>
+<h2 id="atc-misalignment" class="toc-header"><a class="toc-anchor" href="#atc-misalignment">¶</a> <strong>ATC Misalignment</strong></h2>
+<p> </p>
+<p>ATC misalignment is when you can see that there is an offset from where the bit drops to the holder.</p>
+<figure class="image image_resized" style="width:50%;"><img src="https://wiki.makera.com/_dsc5980.png">
+  <figcaption>Tool rack misalignment example</figcaption>
+</figure>
+<p><strong>ATC misalignment can cause a few different scenarios.</strong></p>
+<ul>
+  <li>the bit lifts out of the holder slightly after dropping the tool.</li>
+</ul>
+<figure class="image image_resized" style="width:50.07%;"><img src="https://wiki.makera.com/_dsc5972.png"></figure>
+<ul>
+  <li>crushes the bit into the bit holder when dropping.</li>
+</ul>
+<figure class="image image_resized" style="width:50.07%;"><img src="https://wiki.makera.com/_dsc5973.png"></figure>
+<ul>
+  <li>The bit stays in the collet after dropping</li>
+</ul>
+<p> </p>
+<p><strong>Step 1</strong></p>
+<ul>
+  <li>Check for backlash on all axis (see "<a href="https://wiki.makera.com/en/carvera/troubleshooting/Accuracy" class="is-internal-link is-valid-page">X, Y, and Z backlash</a>" topic)</li>
+</ul>
+<p>If there is any backlash in any of the axis, follow the instructions and move on to step 2.</p>
+<ul>
+  <li>Check if any of the limit switches are loose.</li>
+</ul>
+<figure class="image image_resized" style="width:50.3%;"><img src="https://wiki.makera.com/_dsc5987.png"></figure>
+<p>If any of the limit switches are loose, retighten and move on to step 2.</p>
+<p> </p>
+<p><strong>Step 2</strong></p>
+<p>Do a manual XYZ probe in anchor point 1 and readjust the value in the settings menu.</p>
+<p> </p>
+<ul>
+  <li>Move the spindle head over anchor point 1</li>
+  <li>Plug in the manual probe at the side of the machine bed. and attach the magnet to the side of the collet holder</li>
+</ul>
+<figure class="image image_resized" style="width:50.08%;"><img src="https://wiki.makera.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230420155235.png"></figure>
+<ul>
+  <li>Use a square guide material to keep the probe in position. and do the XYZ probe</li>
+</ul>
+<figure class="image image_resized" style="width:50%;"><img src="https://wiki.makera.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230420155241.png"></figure>
+<ul>
+  <li>Take note of the X and Y coordinates in the top toolbar.</li>
+  <li>Go to the advanced settings and adjust the X and Y coordinates to the above-documented values.</li>
+</ul>
+<figure class="image image_resized" style="width:50.09%;"><img src="https://wiki.makera.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230420155256.png"></figure>
+<ul>
+  <li>Reset and try again.</li>
+</ul>
+<p> </p>
+<p>If step 2 does not rectify the offset, continue to step 3</p>
+<p> </p>
+<p><strong>Step 3</strong></p>
+<p>Do a manual tool rack offset.</p>
+<p> </p>
+<p>1. Drop the tool from the toolbar.</p>
+<p>2. Right before it moves into the tool holder, stop the machine with the front button.</p>
+<p>3. Unlock the machine then have a look to see if the positioning is not in the center of the tool holder.</p>
+<figure class="image image_resized" style="width:50%;"><img src="https://wiki.makera.com/_dsc5980.png">
+  <figcaption>Tool rack misalignment example</figcaption>
+</figure>
+<p>4. Manually move X\Y to see how far the offset is and document the measurement. (<strong>Be very careful when moving X/Y set the step to 0.1mm</strong>)  </p>
+<p>5. In the advanced settings menu adjust the "tool rack offset" parameter according to the measurement documented.</p>
+<figure class="image image_resized" style="width:50.02%;"><img src="https://wiki.makera.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230420155351.png"></figure>
+<p>6. Add or deduct the measurement documented and press apply.</p>
+<p>7. Reset the machine and check if the tool locates in the center of the tool holder.</p>
+<p>8. If not yet centered, repeat the process.</p>
+<p>9. If there is still a misalignment error (contact support)</p>
+<p> </p>
+<h2 id="atc-tool-detector-problem" class="toc-header"><a class="toc-anchor" href="#atc-tool-detector-problem">¶</a> <strong>ATC tool detector problem</strong></h2>
+<p> </p>
+<p>After doing the tool detection operation an error occurs</p>
+<p>The tool sensor detects if there is a bit in the holder or not by using a laser to shine against the shaft of the tool</p>
+<figure class="image image_resized" style="width:50.07%;"><img src="https://wiki.makera.com/_dsc5981.png"></figure>
+<p> </p>
+<p>-Diagnostics</p>
+<p> </p>
+<p>Go to the diagnostics menu in the controller and switch on "ToolSensorPWR"</p>
+<p>Use a tool to check if the sensor detects the bit.</p>
+<figure class="image image_resized" style="width:49.88%;"><img src="https://wiki.makera.com/_dsc5984.jpg"></figure>
+<p>If the sensor is not triggered at all at any distance the sensor is faulty (please contact support)</p>
+<p> </p>
+<p>If the tool is not triggering the sensor in front of the back cover, you may need to manually adjust the sensor distance.</p>
+<p> </p>
+<p>To manually adjust the detection distance of the laser, you will need to open the back of the machine (see "Maintenance" topic) </p>
+<figure class="image image_resized" style="width:49.76%;"><img src="https://wiki.makera.com/_dsc6018.jpg"></figure>
+<p> </p>
+<ul>
+  <li>Locate the sensor controller in the top LHS corner at the back of the machine.</li>
+  <li>A green light on the module should turn on when the sensor is triggered.</li>
+  <li>With a small screwdriver, you can adjust the detection distance and check distance by looking at the trigger light on the controller Use a white piece of paper to check if the green sensor is triggered in the menu.</li>
+  <li>Hold the piece of paper about 100mm away from the sensor.</li>
+  <li>After the adjustment is completed try another tool change.</li>
+  <li>If there is still an error (contact support)</li>
+</ul>
+<p> </p>
+<h2 id="the-tool-stays-in-the-collet-after-releasing" class="toc-header"><a class="toc-anchor" href="#the-tool-stays-in-the-collet-after-releasing">¶</a> <strong>The tool stays in the collet after releasing</strong></h2>
+<p>This could be caused by 2 things:</p>
+<p> </p>
+<p>1. ATC misalignment (see "<a href="https://wiki.makera.com/en/carvera/troubleshooting/ATC#atc-misalignment" class="is-internal-link is-valid-page">ATC misalignmen</a>t" topic)</p>
+<p> </p>
+<p>2. The release action is not enough to release the bit in the bit holder.</p>
+<p> </p>
+<p>To adjust this go to the "Action distance" in the ATC section of the advanced settings</p>
+<p>Increase this value by 0.1mm increments until the tool easily drops. (Don't adjust this too much, max 0.3mm) </p>
+<p>(contact support if the above still does not rectify the problem)</p>
+<p> </p>
+<h2 id="a-grinding-noise-is-coming-from-the-atc-on-tool-change" class="toc-header"><a class="toc-anchor" href="#a-grinding-noise-is-coming-from-the-atc-on-tool-change">¶</a> A grinding noise is coming from the ATC on tool change.</h2>
+<p>When a grinding noise is coming from the ATC mechanism when doing a tool change a few things can cause this:</p>
+<p> </p>
+<ul>
+  <li><a href="https://wiki.makera.com/carvera/troubleshooting/troubleshooting/brass_nut_issue" class="is-internal-link is-valid-page">The ATC mechanism (brass nut) might be stuck</a></li>
+  <li>The limit switch might not be working</li>
+  <li>Action distance is too much</li>
+</ul>
+<p> </p>
+<p>The first step to rectify this is to check at the top of the ATC mechanism for a slotted pin which you can use to release the mechanism.  </p>
+<p>(Older machines do not have this slot available)</p>
+<p> </p>
+<p>(REF PIC of slot)</p>
+<figure class="image image_resized" style="width:49.5%;"><img src="https://wiki.makera.com/dsc02618.jpg"></figure>
+<p> </p>
+<figure class="image image_resized" style="width:49.87%;"><img src="https://wiki.makera.com/dsc02617.jpg"></figure>
+<p> </p>
+<figure class="image image_resized" style="width:50.08%;"><img src="https://wiki.makera.com/dsc02613.jpg"></figure>
+<p> </p>
+<p>Turn the slot with a screwdriver to try and release the inner nut.</p>
+<p> </p>
+<p>Clockwise direction to move up the brass nut, and counterclockwise to move down the nut.</p>
+<p> </p>
+<p>If this still does not rectify the problem and the slot can be turned easily then you need to further investigate.</p>
+<p> </p>
+<p>If your machine does not have this slot, please contact support (support@makera.com)or continue to the below instructions.</p>
+<p> </p>
+<p>Remove the cover from the spindle</p>
+<p> </p>
+<p>REF PIC cover removal</p>
+<figure class="image image_resized" style="width:50.35%;"><img src="https://wiki.makera.com/dsc02614.jpg"></figure>
+<figure class="image image_resized" style="width:50.26%;"><img src="https://wiki.makera.com/dsc02616.jpg"></figure>
+<p> </p>
+<p>and look at the movement of the limit switch trigger pin.</p>
+<p> </p>
+<p>REF PIC trigger area</p>
+<figure class="image image_resized" style="width:20.28%;"><img src="https://wiki.makera.com/20230428_170259.jpg"></figure>
+<figure class="image image_resized" style="width:20.52%;"><img src="https://wiki.makera.com/20230428_170337.jpg"></figure>
+<p> </p>
+<p> </p>
+<p>The ATC neutral position is when the mechanism pin is upwards and the collet is engaged.</p>
+<p>The brass nut pushes onto the collet to release the bit.</p>
+<p> </p>
+<p>The limit switch triggers the stop point for the clamp and returns slightly and this is called the retract distance.</p>
+<p> </p>
+<p>If the limit switch is not triggering the return of the pin downwards, then the limit switch needs to be checked.</p>
+<p> </p>
+<p>If there is still a problem after the above procedure please contact support@makera.com</p>
+<p> </p>
+<p> </p>
+</div></article></html>

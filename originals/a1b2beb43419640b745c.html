@@ -1,0 +1,36 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Usage of External Control for the Cyclone Dust Collector</title><h1>Usage of External Control for the Cyclone Dust Collector</h1><article><div><h2 id="usage-of-external-control-interfaces" class="toc-header"><a class="toc-anchor" href="#usage-of-external-control-interfaces">¶</a> Usage of External Control interfaces:</h2>
+<p>1. The External Control pin is located on the back panel of the machine and connected through an aviation plug (GX12-4).</p>
+<figure class="image image_resized" style="width:31%;"><img src="https://wiki.makera.com/cyclone_external_control.jpg"></figure>
+<p>2. Instructions for aviation plug pins</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <th>pin </th>
+        <th>name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <th>1</th>
+        <th>GND</th>
+        <th>Terminal used to return current</th>
+      </tr>
+      <tr>
+        <th>2</th>
+        <th>External Control Input (PWM)</th>
+        <th>This port is used to receive PWM signals for control. The typical input frequency is 100Hz. The duty cycle of the PWM input can be used to adjust the speed of the motor. The external control input will be activated when the control knob of the dust collector is set to the “OFF / AUTO” position. </th>
+      </tr>
+      <tr>
+        <th>3</th>
+        <th>ALARM Output</th>
+        <th>The output voltage is 5v. Different alarms correspond to different frequencies of pulse outputs which is used for indicating fault conditions. </th>
+      </tr>
+      <tr>
+        <th>4</th>
+        <th>Reserved</th>
+        <th>Not used, reserved for future extensions. </th>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+</div></article></html>

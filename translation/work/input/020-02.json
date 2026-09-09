@@ -1,0 +1,262 @@
+[
+  {
+    "id": "069556b670eb572a",
+    "text": "When this option is chosen, you may select a 3D model to generate contour paths around. This is suitable for generating the outer perimeter around the bottom edge of a STEP or STL file that has been imported.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e91c94a566eef04d",
+    "text": "Face:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a17573727d43e3f4",
+    "text": "When this option is chosen, you may select face(s) on an imported STEP file to generate contours paths around. This is suitable for selecting inner profiles, pockets, holes, or edges you wish to machine using contour tool path operations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8367aa88ca3feba8",
+    "text": "After choosing a mode and making your selection, press",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ee49a6d33ce81bb5",
+    "text": "[Generate Contours]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d167e6de1640d297",
+    "text": "to automatically generate the contour paths around your 3D model. After contour paths have been generated, you may press",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0398bce8ba71b9e4",
+    "text": "[Clear Contours]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "15375905ec054d2a",
+    "text": "to delete any generated contours and make a new selection.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d63a08c435958f2c",
+    "text": "Once contour paths have been generated, consider and adjust the following parameters to create 3D Contour Tool Paths:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ae1d722d21439870",
+    "text": "Set End Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bf6aeabf992a9f03",
+    "text": "Automatically be determined based on the selected contour generated from the selected 3D Model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4318c51b466340a7",
+    "text": "End Depth Offset:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8dd89c4ab9cae176",
+    "text": "This parameter allows you to machine above or below the End Depth atomically set by the selected contour path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e53000826af2633a",
+    "text": "Set Last Pass Depth",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "34a0cab5c48d9623",
+    "text": "Set the position processing strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e6c15f3a2008a789",
+    "text": "The outer contour created by the tool is processed along the inner side of the selected contour path. If multiple paths are selected and selected paths intersect, this mode will not generate a tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "597292cd14584510",
+    "text": "The inner contour created by the tool cutting is processed along the outer side of the selected contour path. If multiple paths are selected and selected paths intersect, this mode will not generate a tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "39cea334d22eeceb",
+    "text": "The tool axis is processed along the contour line of the selected contour path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eae57086b6d5abd6",
+    "text": "Click the left mouse button where you want a tab to be created along the outline of your selected contour path. After the tab is successfully added, the tab position will be marked on the graphic outline. Multiple supports can be added to the selected contour path continuously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "67e51fa319fcb72a",
+    "text": "3D Drilling Tool Paths allows for drilling operations to be created based on selected faces on a 3D Model imported in the STEP file format, as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c33ae531697db9ca",
+    "text": "You can create 3D Drilling Tool Paths based on the center of selected faces, and you may select either the flat circular bottom face of a hole or the cylindrical walls of a hole the selected 3D model. You may also select more than one face at a time if you want to make multiple holes with the same parameters. The created drilling diameter is related to the selected tool diameter and has nothing to do with the selected 3D face size. To create 3D Drilling Tool Paths, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9ff4c74ac31b98d8",
+    "text": "Drill Tip End Depth",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f1505ad76a92cb6a",
+    "text": "Determined automatically based on the selected faces within the 3D Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5f4febaebd5f0960",
+    "text": "Depth Offset:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3574a97c12e556c8",
+    "text": "Allows you to drill above or below the Drill Tip End Depth which is determined automatically.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a8409ae086be8572",
+    "text": "Setting machining strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5e4aee0f5ee1282f",
+    "text": "3D Thread Milling Tool Paths allows for Thread Milling operations according to the selected drilled faces on a 3D Model imported in the STEP file format, as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "81ef2b2a20775393",
+    "text": "The created Thread size is relative to the selected cutting tool and the diameter of the hole created in a previous Drilling Tool Path for the selected faces within the 3D model. You must select the cylindrical faces of a hole within a model, and may select more than one face at a time if you wish to create multiple Thread Milling operations with the same parameters. It is important that a selected 3D face has already had a 3D Drilling Operation created prior to attempting to create a 3D Thread Milling Tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b3b7ee1e5961dc97",
+    "text": "To create 3D Thread Milling Tool Paths, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e2c76fc287a45671",
+    "text": "End Depth",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7fe778502af2ea5d",
+    "text": "Allows you to mill above or below the End Depth which is determined automatically.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9cc636ff9d306982",
+    "text": "3D Chamfer Tool Paths can be used to chamfered cuts along the edges or outlines of 3D Models as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8c29711ddc8b1034",
+    "text": "To create 3D Chamfer Tool Paths, we must first generate 2D contour paths that can be selected for this type of operation. As discussed earlier in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b025c944b4ab266f",
+    "text": "function from within the edit and transform menus. You can also perform this operation from within the 3D Chamfer Tool Path menu in the Extended Properties Panel:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c7e754563bbe53b5",
+    "text": "When this option is chosen, you may select a 3D model to generate contour paths around. This is suitable for generating the outer perimeter around the bottom edge of a STEP or STL file that has been imported, such as when making a 3D Contour Tool Path to cut out a part.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c17d9b8908f2ccd6",
+    "text": "When this option is chosen, you may select face(s) on an imported STEP file to generate contours paths around. This is suitable for selecting inner profiles, pockets, holes, or edges you wish to machine, such as when creating a 3D Chamfer tool path operation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5e75a8d07f1b8cfc",
+    "text": "Once contour paths have been generated, select the contour paths you wish to chamfer and then consider and adjust the following parameters to create 3D Chamfer Tool Paths:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a7c8c041283d6e71",
+    "text": "This offsets the tip of the chamfer bit from the selected contour path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c727d12e4e9ee5ff",
+    "text": "Laser Vector tool path operations use laser engraving modules to stroke or fill selected vector graphics.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2dd070dcac60f4f7",
+    "text": "To create Laser Vector Tool Path operations, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6b23717a37a6321a",
+    "text": "Speed:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e13b05f6e144e9cd",
+    "text": "Adjust the Laser processing moving speed, see the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "96f8aa860b47aecd",
+    "text": "of our Wiki for recommended and parameters based on compatible materials.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f0ba57159b6431c7",
+    "text": "Power:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "efc86712308ddc2d",
+    "text": "Adjust the Laser processing output power, see the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7ce1afa3f281b07b",
+    "text": "Mode:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9fb67c827fec9b5a",
+    "text": "Line:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e94a6e61599027bd",
+    "text": "Engrave along the outline of a vector graphics (stroke)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c4c3a7a5d31550c4",
+    "text": "Fill:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "af6effa91e6a422a",
+    "text": "Use parallel lines to fill the interior of the vector graphics",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8e332430add1b8db",
+    "text": "Offset Fill:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "344186205cc047d6",
+    "text": "Refer to the outline of the vector graphic and shift it inward to fill the inside of the vector graphic based on the set parameter",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

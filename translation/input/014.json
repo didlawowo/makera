@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "411a240e07ce319e",
+    "text": "— it is positioned on the right-hand side inside the enclosure (see image for reference).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "3fbb8f5931cb7311",
+    "text": "Find the plug corresponding to the affected axis.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6a35fb75cd8cadb6",
+    "text": "Gently remove the plug and inspect the connector. Make sure all wires are seated securely in the plug.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "44019ead3b3d9ead",
+    "text": "Reseat the plug firmly back into the controller board.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "3a76095b65e93798",
+    "text": "Step 3: Inspect the Motor Connection",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "82106bdeebee4c54",
+    "text": "Next, check the connection on the opposite end of the same wire — the motor itself.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "bc571803b47819a6",
+    "text": "X-axis motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "fe750efd0aa16c28",
+    "text": ": Accessible from the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "81cafd6979642af4",
+    "text": "Y-axis motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "d1453ecb0c5bbebe",
+    "text": ": Accessible from",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "797120484928bb29",
+    "text": "under the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "b3724f9dc8561b4c",
+    "text": "Z-axis motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "4c9dc9edba63e095",
+    "text": "front of the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6aeb01828a514612",
+    "text": ", behind the gantry.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "e86d372e38329371",
+    "text": "Inspect the plug for looseness or damage, and ensure the connector is fully seated.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "b3cdf514279fadf2",
+    "text": "Step 4: Test the Machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "2d756e0b0af006eb",
+    "text": "After checking and reseating all plugs:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "9dc7cc96dc7d093c",
+    "text": "Power on the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "20a6b5019f2a3286",
+    "text": "Run a short test job or jog the affected axis manually.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "1a4c77f45bda4efd",
+    "text": "Observe if the issue has been resolved.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "f67daeadc9076c32",
+    "text": "If the problem persists, continue to the next step.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6ec34143f27f5231",
+    "text": "Step 5: Check Cable Continuity",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6d4f2c2432949ec8",
+    "text": "Using a multimeter, test the continuity of the cable between the controller board and the motor.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "bce6a02e6f74fdb8",
+    "text": "If you detect a break or inconsistent signal, the cable may need replacement.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "c5cb93a5abb404b3",
+    "text": "Ensure there are no visible signs of wear, fraying, or pin damage on the connectors.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "b6c49a7eac60ea66",
+    "text": "Step 6: Contact Support",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "7f28398a0d74499f",
+    "text": "If you have verified the connections and continuity but the issue continues, please contact",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "dbc00d2ab5174f6b",
+    "text": "Makera Support",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "812acc75b09992f1",
+    "text": "for further assistance.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "17507dcf845793fa",
+    "text": "Email:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "fe51105531ac5cf9",
+    "text": "Include the following in your email:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "ed6a54f559b93e67",
+    "text": "Description of the problem",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "d70935129485e5b8",
+    "text": "Axis affected (X, Y, or Z)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "ca6ca2e3cb29767f",
+    "text": "A photo of your setup and any visible damage",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "56f08ab4318d48a4",
+    "text": "Your machine’s serial number (if available)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "8e76a94ac8320d51",
+    "text": "Summary",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "c65ffb27b7ec4172",
+    "text": "Most cases of lost steps or incorrect movement are caused by loose or poor electrical connections between the controller and the motor. Carefully checking both ends of the wiring often resolves the issue. If not, the problem may lie in the cable or the motor itself, in which case Makera Support can assist with replacement or further diagnosis.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "c6152d66b6a94bda",
+    "text": "brass nut issue",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "313d56f5cf75fba3",
+    "text": "My brass nut is stuck",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "9d4d738986f42055",
+    "text": "This guide explains how to resolve a common issue affecting the automatic tool changer (ATC), where the machine produces a grinding noise or fails during the homing process.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "fa5eff36285524b6",
+    "text": "This issue is typically caused by an",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "5a394121cde6bdda",
+    "text": "over-tightened brass coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "c8bb8a408343b69c",
+    "text": "inside the spindle assembly.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "98d6c66abf9f0083",
+    "text": "Symptoms",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "127830f17149e034",
+    "text": "You may be experiencing this issue if your machine shows one or more of the following:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "859d20b8d374e380",
+    "text": "“ATC home fail” error",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "82bac16a44551bdb",
+    "text": "Loud grinding or slipping noise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "e742fad044aa4193",
+    "text": "Tool changer not engaging or releasing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "ee8f80b8b713909a",
+    "text": "Motor spins, but no mechanical movement occurs",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "f1f8ee998b756e1c",
+    "text": "Tool changer appears stuck",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "8a81ead633065bc7",
+    "text": "Root Cause",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "4ffd32991340844b",
+    "text": "Inside the tool changer assembly, there is a",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "dfbe86b74a68d517",
+    "text": "brass threaded coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "01edaf2b5f4caa05",
+    "text": "connected to a motor-driven shaft.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "a297f15792eb9772",
+    "text": "If this brass piece becomes",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "ae723e4241e687a9",
+    "text": "over-tightened",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "fcbd4a0859e6c858",
+    "text": ", or there is some debris buildup, the motor cannot generate enough torque to loosen it. As a result:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "56c75616a5f4f50e",
+    "text": "The motor spins",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "d4d6a039bd65fad9",
+    "text": "The gearbox slips",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "88af5d4a88384312",
+    "text": "A grinding noise is produced",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "f7f0f4c4c4429ef9",
+    "text": "The tool changer fails to operate correctly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "83093de27a5f17fb",
+    "text": "Allen keys / hex set",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1a2f850525580361",
+    "text": "Screwdrivers",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "b7a442c1fc7bced8",
+    "text": "Pliers (optional)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1e99737e09a52842",
+    "text": "Rubber grip or cloth",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "40389653f94f9e44",
+    "text": "Optional: Custom 3D-printed gripping tool",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "6aeb9e16ff461058",
+    "text": "Step-by-Step Solution",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "fdd3ea3c27c0b7a7",
+    "text": "1. Remove the Spindle Cover",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "7c3e45d48dca89eb",
+    "text": "Power off and unplug the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "173b3370acda7471",
+    "text": "Remove the outer spindle cover by unscrewing the mounting screws",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1780e755dbce5a90",
+    "text": "Carefully expose the internal spindle assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "553090ad228c837b",
+    "text": "2. Disassemble the Spindle",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "76321e58aa1f7a05",
+    "text": "4 long screws at the bottom of the spindle",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "2c4d2d0a4016518e",
+    "text": "Remove them to separate the spindle housing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "ec1049e3ed391647",
+    "text": "3. Remove the Stepper Motor and Mid Section",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "cb6b2eefbc410db7",
+    "text": "Detach the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "4e6ad63c4f54bc9b",
+    "text": "stepper motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "28cc0fa237b231a2",
+    "text": "middle section of the spindle assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "53368d7731010728",
+    "text": "Set all parts aside carefully",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "d06bca59ca1a71b4",
+    "text": "4. Remove the Limit Switch Pin",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "b01bf0a6d79cc141",
+    "text": "limit switch",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "9567ebb814978f01",
+    "text": "steel pin underneath it",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "234d13fa9cdcf839",
+    "text": "This will allow access to the tool changer mechanism",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "33a542569b201bec",
+    "text": "5. Extract the Tool Changer Mechanism",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "64632cfdca2f3ca5",
+    "text": "Pull out the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "849ce97dc3a24d25",
+    "text": "automatic tool changer assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "4fcb00bef5be270e",
+    "text": "Ensure nothing is obstructing the removal",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "c35eb405df780a32",
+    "text": "6. Identify the Brass Coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "32db8e56e445a5e7",
+    "text": "brass threaded piece on the shaft",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "eb909f1d37b9638f",
+    "text": "This is the component that is typically stuck",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "28f938f3d5db4466",
+    "text": "7. Loosen the Brass Coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "496d6960431c6302",
+    "text": "Important:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "a1bd203415696476",
+    "text": "The gearbox makes it difficult to rotate the shaft backward",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "6334ceb147d4d52e",
+    "text": "You may need firm, controlled force",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "0f5f6e4eebb7b583",
+    "text": "Recommended methods:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "443e9efd74e8be7b",
+    "text": "Option A: Manual Grip",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "842e7bcb44e2e5a4",
+    "text": "Use a rubber grip or cloth",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "2ed4a625b61e5dd7",
+    "text": "Attempt to loosen the brass piece by hand",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "c5b7457abd6fad0d",
+    "text": "Option B: Pliers (Use Carefully)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "a7b09b6029607966",
+    "text": "Apply controlled force",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "487c62313563480f",
+    "text": "Avoid damaging the brass surface",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "c308c37bea9c7cb6",
+    "text": "Option C: 3D-Printed Tool (Best Method)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "00452aebee21aaed",
+    "text": "Use a custom tool that fits around the brass coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "2b34be2c1b1ad47e",
+    "text": "Add a rubber insert for extra grip",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "8c6da268923f247e",
+    "text": "Provides strong torque without damage",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "676ead35fcfed355",
+    "text": "Pro Tip",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "45110e8c781d4174",
+    "text": "If the shaft spins while trying to loosen the brass piece:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "77146325433e6804",
+    "text": "Reinstall the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "35494a6d7042404e",
+    "text": "stepper motor into the gearbox",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1868cf01cebee6f8",
+    "text": "This will prevent the shaft from rotating and make loosening easier",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "8d188364cf9dcbdb",
+    "text": "Reassembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "b7367f6cdd8c046b",
+    "text": "Once the brass coupling is loosened:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "e3ecf2167e925e52",
+    "text": "Reinstall the tool changer mechanism",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "e0b0c9cfbaeb3892",
+    "text": "The brass nut can be positioned anywhere on the shaft.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1937f7475bc5fde5",
+    "text": "Replace the limit switch pin",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "bd8d76b62c5ef083",
+    "text": "Reassemble the spindle sections",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "d478ee999186ae6a",
+    "text": "Reattach the stepper motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "4d72a78ebae2a333",
+    "text": "Install the spindle cover",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "8b237da691cade89",
+    "text": "Power on the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "89c5be88a733da11",
+    "text": "Run a tool change operation",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "23d7b5d9382e54b9",
+    "text": "Confirm:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "386b62e0cb26b272",
+    "text": "No grinding noise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "2ce06fb8a5a85e21",
+    "text": "Smooth tool engagement",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "33596dbb80ed5876",
+    "text": "No ATC errors",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "dbc468a14b601d5d",
+    "text": "FAQ",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "c910d474dcd724bf",
+    "text": "General",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "14b1f165b62d9f02",
+    "text": "I am new to CNC, how can I quickly get familiar with Carvera and make my own projects?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "051df637a686cb18",
+    "text": "CNC is a quite big topic, especially the CAD and CAM aspects. There are a lot of materials you can look at on the internet. For the Carvera machine, we will provide a detailed instruction manual and example guide for new users to get familiar with.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "001e35f67dc36d38",
+    "text": "We are making step-by-step video tutorials on our",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "c048cfebb41d5d86",
+    "text": "YouTube channel",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "48ba700af99dd598",
+    "text": "By joining our discussion group on",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "d41f5b4977ee05c6",
+    "text": "Facebook",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "053bc65874ad6098",
+    "text": "Discord",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "8ec18376790939d8",
+    "text": ", you can meet thousands of Carvera owners and fans and get help and inspiration from each other.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "f5f52d7fa46fa376",
+    "text": "Here is a useful",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "bb7578c9a4cb0d26",
+    "text": "CNC Beginner Playlist",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4c9d4e14d59d90f8",
+    "text": "organized by our community member Craig Trader.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "e13e39772efe6206",
+    "text": "I have CNC experience, what should I know before using the Carvera?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "8512596583c19cd8",
+    "text": "Just go through the instruction manual and follow the step-by-step example guide to finishing the initial projects, you could learn how to use the Carvera quite easily.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "7975300f01bc46f8",
+    "text": "Hardware",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "59ec47c396584a08",
+    "text": "Can Carvera handle Steel?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "274d2eea38df8828",
+    "text": "If you machine steel occasionally and don't care too much about the time, then the answer is Yes! With a relatively low speed, you can get carbon steel and stainless steel milled with a clean finish.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "2c375edcb3d5dd2c",
+    "text": "Here is a test video on YouTube, check it out:",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4c4877e701b47975",
+    "text": "What kind of milling bits can Carvera accept?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "3e306957459ed038",
+    "text": "The Carvera comes with a 1/8-inch collet and a bunch of free 1/8-inch milling bits. In our experience, 1/8-inch milling bits are the most common bits used for small desktop CNCs, and can handle almost all jobs.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "df8d8f4249b69dc1",
+    "text": "But in case you are rough milling soft materials such as wood, foam, epoxy, etc, you can absolutely use bigger shaft diameter ones. We offer optional ¼in, 6mm, and 4mm spindle collets for your to purchase.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "a4f03e8c2a6eeb9a",
+    "text": "Note that to adapt our auto tool changer mechanism, you can not use bits with a head diameter bigger than ¼in. And the total length of the bits should be less than 3in/76mm.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "a2190c0daa744792",
+    "text": "Do I need to prepare my own milling bits in advance?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4d193ffeb3eeb1e5",
+    "text": "If you are a seasoned CNC user and know exactly what kind of milling bits you need for your projects, then you can prepare your own. But if you are new to CNC, we suggest using the milling bits we provide for the example projects and other initial projects. Then get new ones based on your later needs.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "446d61463ecb26f2",
+    "text": "What is the connection type, recommended flow rate, and psi requirement for the air assist pump on the Carvera?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "f87f8372a51d44c4",
+    "text": "The connector is a Pneumatic Straight Push-In Fitting, model PC 08, designed for an 8mm outer diameter tube.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "2bb7e1d4c8d13dca",
+    "text": "Suggested pressure > 50 psi",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "f775b09d9c833886",
+    "text": "What CAM software to use with Carvera?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "b84fface893c085a",
+    "text": "Carvera supports mainstream CAM Software, and we are continuously adding new CAM software profiles based on our customers' needs. Here are some ones that we think are suitable for the Carvera machine and are easy to learn and use for different types of milling jobs.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "2458c74e4dc81d82",
+    "text": ": A powerful yet easy-to-use CAM software that supports 2DPCB and Laser paths. (3D/Rotary paths coming in the next phase)",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "32116dbb232eaf66",
+    "text": "Fusion 360: A cloud-based CAD/3D modeling, CAM, CAE, and PCB software platform for both product design and manufacturing. Compare to other industrial software, Fusion 360 is relatively easy to learn and is an all-in-one solution. If you are new to CAD and CAM, and you are interested in making mechanical/electronic/robot/drone parts or something like them, fusion 360 is a good option. It's free for students or startups with full functions, the personal version is free too but has some limitations.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "275ff462673f62f2",
+    "text": "VCarve Desktop: Gives you the power to produce complex 2D patterns with profile, pocket, drill, and inlay toolpaths, plus gives you the ability to create 3D and rotary relief by importing 3d model files. It can also do laser engraving with an add-on module. VCarve Desktop is suitable for woodworking, jewelry making, art making, etc.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4c1688a9b950eb31",
+    "text": "Kiri:Moto: Free, open-source, browser-based application that bridges 3D design to fabrication with tools for CAM, 3D Printing, and Laser output. There is no software to install, and all data and processing happen privately and locally to the browser window. Import STL, OBJ, and 3MF files and output GCode or SVG. 3 and 4-axis CAM operations include: roughing, pocketing, contouring, tracing, and more. Preview and animate your jobs ahead of time to see what you will get before the milling begins.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4c6f95b3b12d00c9",
+    "text": "You can get our official tutorials for the software on our",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "6c3384a18c2c36d0",
+    "text": "What CAM software to use for making PCBs?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "9b69dfd0c5283f5c",
+    "text": "We recommend",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "e3c518f8849a3e31",
+    "text": ", FlatCAM (free and open-source), or CopperCAM for PCB milling. Check the",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "247328c48f4915d7",
+    "text": "tutorial video here.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "3a78695388b38b5c",
+    "text": "Home",
+    "page": "https://wiki.makera.com/en/home"
+  },
+  {
+    "id": "30e4478b0e7064c5",
+    "text": "If you would like to be a contributor to the Wiki content, to share your experience with others, contact our education team",
+    "page": "https://wiki.makera.com/en/home"
+  },
+  {
+    "id": "7c11166f4e232bc0",
+    "text": "Official Makera Educator Community",
+    "page": "https://wiki.makera.com/en/home"
+  },
+  {
+    "id": "0e98b239d7405796",
+    "text": "group allows for educators within our community to collaborate on Facebook.",
+    "page": "https://wiki.makera.com/en/home"
+  },
+  {
+    "id": "3d34c4c74f234358",
+    "text": "Project Sharing",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "47419e7e509fd4df",
+    "text": "This section of the Knowledge Sharing page is dedicated to sharing projects and tutorials on how to use the Carvera, Carvera Air, and subtractive manufacturing methods to create various projects effectively from across the Makera Community. Are you interested in developing and sharing a project on this page? If so,",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e3acaa06ccbfc7d4",
+    "text": "email us",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "0c21b0f366f577c0",
+    "text": "to learn how to support!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "8bc1d53cc57c24b7",
+    "text": "In",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "bf222c1c7634011f",
+    "text": "this tutorial",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "a18513254b2146ed",
+    "text": ", we demonstrate how to complete the LED light example project included with the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e2a732695e8987bd",
+    "text": "CNC! You can also find a step by step guide to this example",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "13407131c147781c",
+    "text": ", we demonstrate how to complete the laser example project included with the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "4823abb1b5d56b4f",
+    "text": ", we demonstrate how to complete the three axis example project included with the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "38bcb259b61f1d37",
+    "text": ", we demonstrate how to complete the 4th axis example project included with the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "22dbead932d1f9a2",
+    "text": ", we look how to get started with Makera CAM as we create a simple aluminum project from a 2D vector file.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ea66a5b6d3cedf59",
+    "text": ", we look at the first public beta release of Makera CAM as we show how to create a complex PCB project.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "4b6fde05f950390e",
+    "text": ", we learn how simple one-sided PCBs can be prepared in Makera CAM, then see how they can be manufactured using a desktop CNC.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "21dd63cd70bbceaa",
+    "text": ", we look at how",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6b3e5b94a7050368",
+    "text": "bi-color",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "eed9954079359b05",
+    "text": "stock can be machined to make signs, tags, and other products using Makera CAM!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d31a55951db246dd",
+    "text": ", we look at how to prepare and manufacture a push card style fidget toy using the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "117e29e7c6d493d2",
+    "text": "EDC Fidget Toy toolkit",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "fc653858c851be78",
+    "text": ", the Carvera, and Makera CAM!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6b1674cb89d4ef7c",
+    "text": ", we look at how to prepare and manufacture a multi-part fidget spinner using the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "212b6fbb7c6aea28",
+    "text": ", we look at how to machine a simple bottle opener out of wood and aluminum with Makera CAM and the Carvera!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "2d403f566aa576c8",
+    "text": ", we look at how to machine a multi-sided and multi-part table top game using Makera CAM and the Carvera!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "debdbe8fda98c42c",
+    "text": ", we look at how to to create a 2-sided wooden phone stand with Makera CAM and the Carvera Air!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "4ea8033c05b257a2",
+    "text": ", we look at how to to create a 3D relief out of solid brass with Makera CAM and the Carvera Air!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "2961fb9a2caf7a1c",
+    "text": ", we look at how to to create a rotation relief project for the 4th Axis with Makera CAM and the Carvera Air!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "955cf775f1d5cad1",
+    "text": ", we look at how the Trammel of Archimedes can be made shown in the Evolutionary Ellipsographs Lesson Plan",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "78b4b2b209036816",
+    "text": ", we look at how to setup and use the Carvera Desktop CNC with Fusion 360 as we make a keychain out of aluminum.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b0f710b2f85637a2",
+    "text": ", we look at how to setup and use the Carvera Desktop CNC with Fusion 360 as we make a 3D knot puzzle. You can also find a step by step guide for this project on",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d3c07717b356a72e",
+    "text": "Instructables",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ff00398ae8caa6c4",
+    "text": ", we look at how to setup and use the Carvera Desktop CNC with Fusion 360 as we make a tic tac toe board game. You can also find a step by step guide for this project on",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e094a4ee8fb38e1c",
+    "text": ", we look at how to setup and use the Carvera Desktop CNC with Fusion 360 as we make a mini maze game.  You can also find a step by step guide for this project on",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "20f1705c8e8f8a54",
+    "text": ", we look at how to design and fabricate a brass ring using the Carvera Air and 4th Axis Module.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "66a0ae884df59de9",
+    "text": ", we look at how to setup and use the Carvera Desktop CNC with Fusion 360 as we make multi-part trophy.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "8391bff9a4841bf0",
+    "text": ", we look at how to setup and use the Carvera Desktop CNC with Fusion 360 as we create thread milling operations.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "69ec2d4ffc6482fe",
+    "text": ", we look at how to setup and use the Carvera Desktop CNC's Laser Engraver Module with Lightburn.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "98b815e9f6693ff2",
+    "text": "Part 1",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "23eaa531abd22838",
+    "text": "of this series, we look at configuring the technology database in Solidworks CAM for the Carvera, while we look at how to prepare a design for manufacturing in",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "5e9b00ff6f836175",
+    "text": "Part 2",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "bbaa01deaa5ab9d2",
+    "text": ", we look at how to setup and use the Carvera Desktop CNC with the web-based CAM program, kiri:moto, as we fabricate a wooden jewelry box.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f061b8589489cfec",
+    "text": "Design Sharing",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "5f9e65c745645d33",
+    "text": "This section of the Knowledge Sharing page is dedicated to sharing design files from official Makera Lessons, Projects, and Tutorials.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "344a1d7fcc78015e",
+    "text": "Getting Started with Makera CAM",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "2906e6a11b5e0412",
+    "text": ".SVG",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "334cd3a102dfd467",
+    "text": ".JPG",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "666f8cc0f03414ba",
+    "text": ".MKC",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "4bc9cacd77377896",
+    "text": ", Makera CAM is introduced as a simple project is prepared and milled from aluminum. The design files referenced in this tutorial can be found here.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "1452899af267d422",
+    "text": "Makera_textonly",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "10c5c3a076e8954b",
+    "text": "Makera_withborder",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "9fe8384e6427022d",
+    "text": "Makera_withholes",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e6e0e47725602286",
+    "text": "Makera_rastertext",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f4033ed00c29e93e",
+    "text": "makeracam_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "aebaa40d049a5732",
+    "text": "3D Relief Example Files",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "20ae6c42c1849da4",
+    "text": "3-Axis Examples",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "daa66151675a48f5",
+    "text": "4-Axis Examples",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "2ade507af4f1096b",
+    "text": "In many of our",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "17a55e1600e7c436",
+    "text": "Makera CAM tutorials",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "8e11860284ae872b",
+    "text": ", we look at how to make different 3D reliefs using both 3 axis and 4 axis configurations on the Carvera and Carvera Air. You can find the example files shown in this tutorials here.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "c52df63d29397c50",
+    "text": "dogrelief_example.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b77b97e05667c9af",
+    "text": "soldiercoin.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "5d6cab48e408aacc",
+    "text": "nefertiti.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "87ca1d17f924d030",
+    "text": "(by @lecaramel)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b6d9152984a7d7df",
+    "text": "LED PCB Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "5a73201eedaef999",
+    "text": "PCB",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "317d5b135156ca9d",
+    "text": ", we learn how to prepare simple PCBs using the Carvera and Makera CAM to create the PCB from the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "46898a1b067c83ed",
+    "text": "LED Light",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "90c55d61e4389c22",
+    "text": "examples project.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "95b17a0827155c70",
+    "text": "led_samplepcb.zip",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "a8126e6246a2bec6",
+    "text": "led_pcb_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6e5e542352027f2f",
+    "text": "LED Light Part Files",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "28ab7a443325c47f",
+    "text": "Part Files",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6afb07fd0b1b26d2",
+    "text": "In our",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e07c29e0f97689e0",
+    "text": ", we learn how to prepare 3D models using the part files from the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b35047408d448365",
+    "text": "example project for the Carvera and Carvera Air.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "90770bc58c01b2bb",
+    "text": "led-acrylic-frame.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d364188da90ff5a0",
+    "text": "led-base-abs.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "395cf5e600453ae0",
+    "text": "led-touch-aluminum.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "a0ebbf9aac4bce53",
+    "text": "Trammel of Archimedes Example Projects",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "707bc8d30b37b67d",
+    "text": "Simple Version",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "642e71a51c7318e0",
+    "text": "Advanced Version",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "44976178598dab84",
+    "text": ", we look at how the Trammel of Archimedes can be fabricated using the Carvera Air and Makera CAM. This project is also featured in the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6bf2d492a049d764",
+    "text": "Evolutionary Ellipsographs",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "83b0d8aa36e8c081",
+    "text": "Lesson Plan for educators.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "1b44d287e2622fbd",
+    "text": "simpletrammel_3dparts.stp",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e66e126817af743d",
+    "text": "simpletrammel_2darm.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "07330bbb183cd030",
+    "text": "simpletrammelex_base.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "be063512b78f1207",
+    "text": "simpletrammelex_arm.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ff004fab84538d3b",
+    "text": "trammel_base.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "62c2a1ed050769b0",
+    "text": "trammel_armparts.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "737b5f1e412c730c",
+    "text": "trammelex_base.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "29e1fbe470ef8976",
+    "text": "trammelex_armparts.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ff01600a2eeeb401",
+    "text": "Owl Ring 4th Axis Example Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "808196c479a0ac63",
+    "text": "CAM Files",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "399899ba8ca7c36a",
+    "text": ", we create a brass owl ring using the Carvera Air and optional 4th axis module through rotational relief tool paths using Makera CAM.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "95ef735abc11d072",
+    "text": "owlring.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "535c76a5efe460df",
+    "text": "owlring_withsupports.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6d222b9e93067e3c",
+    "text": "owlring_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "fb088ba54e69af34",
+    "text": "Spring 2025 Example Projects",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "557be850c34b262e",
+    "text": "Phone Stand",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "c095f4100e1c5a40",
+    "text": "Brass Relief",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "cc3efd0c65d0f8ad",
+    "text": "Rotation Relief",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  }
+]

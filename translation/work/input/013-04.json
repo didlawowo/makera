@@ -1,0 +1,292 @@
+[
+  {
+    "id": "3b999ec57f157525",
+    "text": "6. Copy the updated file (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "a77ee75b8ee1def0",
+    "text": "firmware.bin)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "c7a4d70e14e48fb8",
+    "text": "to the SD card and insert the card back into the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "376c701cbed3d761",
+    "text": "7. Restart the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "f9dfbed30f7be868",
+    "text": "8. If the above does not work, or there are no files located on the card, replace the SD card and reload the 4 files.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "7012150f756d089f",
+    "text": "Contact support for these files as they are machine specific.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "af1705994f506b23",
+    "text": "16GB SD card is recommended.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "1f06c282fc025d71",
+    "text": "Wireless probe troubleshooting",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "a5b569e6fa4b6d2f",
+    "text": "A single probe is tested in the factory and is already paired to the machine on arrival.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "fbb50597e33b00e5",
+    "text": "(the box should be marked with a sticker)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "07934139870b2370",
+    "text": "Diagnostics:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "de3198581e9e3c6c",
+    "text": "- Does the green light show when pushing the tip of the probe?",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "fce652a0ada651d6",
+    "text": "- Does the laser switch on if you touch the tip twice?",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "7f317bebed63c336",
+    "text": "- Does the orange charging light which on when placed in the holder?",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "34ed4f0ffbdd91ea",
+    "text": "-  Does the Probe trigger in the diagnostics panel when touching the tip?",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "e1e42267c4fca056",
+    "text": "- Is it paired successfully to the machine? (see \"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "27d646b60c1f8121",
+    "text": "wireless probe",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "e95be74d05745d6c",
+    "text": "\" topic under manuals section)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "95a9ad9598935c9e",
+    "text": "If any of the above is not working (contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "c16cddebc5075541",
+    "text": "Machine halts in the middle of an operation.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "aa8592d57e8046ea",
+    "text": "- The WP is not charged enough the finish the sequence and loses pairing information.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "39b43698b767e4da",
+    "text": "- Pair (see \"pairing instruction\" in the manual section) and charge the probe and try again.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "c5d89b99c26bfc65",
+    "text": "The WP lifts out of the holder and does not charge. (orange light does not switch on)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "efb60dd93295bcbb",
+    "text": "Push the bit back into the holder manually.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "d58d5f61b14095dd",
+    "text": "The machine tool rack is misaligned (see “",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "2ddf1cdcc6ecf9a0",
+    "text": "” topic)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "02d7abda1e4a2263",
+    "text": "Alert when doing TLO the machine halts mid-air and gives an error.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "06da0bf4b5b9dddc",
+    "text": "- Pair (see \"pairing instruction\" in the manual section) and pair the probe and try again.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "fcac46fdcb6e69d7",
+    "text": "Voltage stays @ 0.0v and is not charging.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "d2210c66f63e4dfc",
+    "text": "- Probe is not paired",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "3e389f89d1ddcde4",
+    "text": "- Faulty probe battery (contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "9610d6f8bebc0fb1",
+    "text": "Problematic XYZ movement",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "c424f6694472861f",
+    "text": "Troubleshooting a Servo Motor Losing Steps or Axis Movement Issues",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "2eb7ac5cd089e9c1",
+    "text": "If you ever experience any of the following issues on your Makera CNC machine:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "f25bd8519819c7c6",
+    "text": "Incorrect movement on one of the axes",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "2f7309094902c974",
+    "text": "Motor losing steps",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "b456c1c2c19597d1",
+    "text": "No movement on an axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "8b69afcbabae3bde",
+    "text": "Directional issues (wrong direction)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "60fac43321cbc321",
+    "text": "Axis has jagged or uneven movement",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "62334b2642f61aa5",
+    "text": "Please follow this step-by-step guide to identify and fix the problem.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "575a58e95f4dba54",
+    "text": "Step 1: Identify the Affected Axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "539ba390787b598e",
+    "text": "Before opening the machine, determine which axis is affected by examining your faulty job or test cut:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "497deebc41b7f3bb",
+    "text": "If the toolpath or details are",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "018707f9354cafa6",
+    "text": "stretched left or right",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6ad90c76b1b908eb",
+    "text": ", the issue is likely on the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "ff3cbf6febc71360",
+    "text": "X-axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "9f4a48f50bacb833",
+    "text": "If the details are",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "61524b53b26362f8",
+    "text": "stretched up and down",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "287863927d736265",
+    "text": "Y-axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "e4603527ac393d3b",
+    "text": "If the parts are cutting",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "7246305af75a3286",
+    "text": "too deep or too shallow",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "077bd04559788c56",
+    "text": "Z-axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "f02a5950faf4486f",
+    "text": "Knowing which axis is affected will help you check the correct motor and wiring.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "3221326a02612817",
+    "text": "Step 2: Access the Controller Board",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "750c848e31d26f15",
+    "text": "Power off and unplug your CNC machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "94198594254bd9a3",
+    "text": "back panel",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "2cea259810b01a47",
+    "text": "of the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "ad1cbc95f5d924ed",
+    "text": "controller board",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  }
+]

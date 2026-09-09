@@ -1,0 +1,56 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Air 4th-axis relief</title><h1>Air 4th-axis relief</h1><article><div><figure class="image image_resized" style="width:49.65%;"><img src="https://wiki.makera.com/%E4%B8%BB%E9%A1%B5%E6%A1%88%E4%BE%8B%E4%B8%BB%E5%9B%BE1.png"></figure>
+<p>This case shows you how to use Carvera Air’s rotary axis to machine a 3D object. We don’t use dust collection for rotary axis machining, so we split the roughing and finishing process into two jobs. You should clean the dust between the two steps.</p>
+<p>The Nefertiti sample model in this guide was from Thomas Roussel - Thingiverse: @lecaramel.</p>
+<blockquote>
+  <p>Note: Please read the instruction manual carefully to understand how to install and use the 4th axis.<a href="https://wiki.makera.com/en/Air/Manual/toolkit#rotary-module" class="is-internal-link is-invalid-page">https://wiki.makera.com/en/Air/Manual/toolkit#rotary-module</a></p>
+</blockquote>
+<blockquote>
+  <p>Note：Some of the parameters for 4-axis and 3-axis machining are different: The 3-axis can be positioned using anchor point 1 or anchor point 2. The Y-axis position of the 4-axis is fixed, and the X-axis is positioned releative to the right edge of the headstock.</p>
+</blockquote>
+<blockquote>
+  <p>Note：We don’t use auto-leveling for 4-axis machining, and the auto z probe position is fixed.</p>
+</blockquote>
+<blockquote>
+  <p>Note：We don’t use dust collection for 4-axis machining. Please remove the dust shoe.</p>
+</blockquote>
+<h1 id="tutorial-video" class="toc-header"><a class="toc-anchor" href="#tutorial-video">¶</a> Tutorial Video</h1>
+<p><a href="https://youtu.be/loaVx0TT7IM" class="is-external-link">https://youtu.be/loaVx0TT7IM</a></p>
+<p> </p>
+<h1 id="material-preparation" class="toc-header"><a class="toc-anchor" href="#material-preparation">¶</a> Material preparation</h1>
+<figure class="image image_resized" style="width:27.23%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_44.png"></figure>
+<p> </p>
+<h1 id="machining-process" class="toc-header"><a class="toc-anchor" href="#machining-process">¶</a> Machining process</h1>
+<p>1. Plug in the cable and Install the rotary axis. （Please read the Carvera Air instruction manual for using the rotary axis）If your Carvera Air is on, please power off the machine first before installation.</p>
+<figure class="image image_resized" style="width:50.77%;"><img src="https://wiki.makera.com/4-axis-001.png"></figure>
+<p> </p>
+<p>2. Fix the Epoxy Tooling Board to the rotary axis, let the corner direction up and down.</p>
+<figure class="image image_resized" style="width:50.56%;"><img src="https://wiki.makera.com/4-axis-002.png"></figure>
+<p>3. Make sure the used milling bits are ready . No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.  </p>
+<p>4. Turn on the power and wait for the automatic homing to complete.</p>
+<p>5. Open the control software and connect to Carvera Air (please read Carvera Air instruction manual for detailed steps)</p>
+<p>6. Open Root-&gt;Examples-&gt;Rotation in the remote directory. </p>
+<p> </p>
+<h2 id="roughing-process" class="toc-header"><a class="toc-anchor" href="#roughing-process">¶</a> Roughing process</h2>
+<p>1. Select “NefertitiRough.nc” roughing file.</p>
+<p>2. Open the task configuration and operation dialog box.</p>
+<p> </p>
+<figure class="image image_resized" style="width:51.38%;"><img src="https://wiki.makera.com/4-axis-003.png"></figure>
+<p> </p>
+<p>3.  Set working coordinate to X offset 50 (relative to the right edge of the 4th axis headstock), and Y offset 0.</p>
+<p>4. Check the “Scan Margin” option.</p>
+<p>5. Check the “Auto Z Probe” option(4-axis z probe at fixed position, no configuration required).</p>
+<p>6. Check the configuration according to the figure above and click Run, change the tools according to the controller software's prompt.（Please refer to Item 6 of “<a href="https://wiki.makera.com/en/Air/Manual/Air-LED-Light#circuit" class="is-internal-link is-invalid-page"><strong>No UV solder mask</strong></a>”）</p>
+<p>7. This step can produce lots of dust, please use a vacuum to clean before next step.</p>
+<p> </p>
+<h2 id="finishing-process" class="toc-header"><a class="toc-anchor" href="#finishing-process">¶</a> Finishing process</h2>
+<p>1. Select “NefertitiFinish.nc” finishing file.</p>
+<p>2. Open the task configuration and operation dialog box (the automatic detection has been completed in step 1, no need to redo it here).</p>
+<p> </p>
+<figure class="image image_resized" style="width:50.04%;"><img src="https://wiki.makera.com/4-axis-004.png"></figure>
+<p> </p>
+<p>3. Uncheck the “Scan Margin” option.</p>
+<p>4. Uncheck the “Auto Z Probe” option.</p>
+<p>5. Check the configuration according to the figure above and click Run, change the tools according to the controller software's prompt.（Please refer to Item 6 of “<a href="https://wiki.makera.com/en/Air/Manual/Air-LED-Light#circuit" class="is-internal-link is-invalid-page"><strong>No UV solder mask</strong></a>”）</p>
+<p>6. Use a vacuum to clean up the dust and take out the epoxy tooling board.</p>
+<p> </p>
+</div></article></html>

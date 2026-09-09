@@ -1,0 +1,55 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>4th-axis relief</title><h1>4th-axis relief</h1><article><div><figure class="image image_resized" style="width:49.65%;"><img src="https://wiki.makera.com/%E4%B8%BB%E9%A1%B5%E6%A1%88%E4%BE%8B%E4%B8%BB%E5%9B%BE1.png"></figure>
+<p>This case shows you how to use Carvera’s rotary axis to machine a 3D object. We don’t use dust collection for rotary axis machining, so we split the roughing and finishing process into two jobs. You should clean the dust between the two steps. The CAM software used in this case is DeskProto.</p>
+<p>The Nefertiti sample model in this guide was from Thomas Roussel - Thingiverse: @lecaramel.</p>
+<p> </p>
+<blockquote>
+  <p>Note：Some of the parameters for 4-axis and 3-axis machining are different: The 3-axis can be positioned using anchor point 1 or anchor point 2. The Y-axis position of the 4-axis is fixed, and the X-axis is positioned releative to the right edge of the headstock.</p>
+</blockquote>
+<blockquote>
+  <p>Note：We don’t use auto-leveling for 4-axis machining, and the auto z probe position is fixed.</p>
+</blockquote>
+<blockquote>
+  <p>Note：We don’t use dust collection for 4-axis machining. Please remove the dust shoe, lift up the dust shoe rail and fix the dust collection tube to the temporary point, take off the dust bin to prevent collision (Read Carvera instruction manual for more imformations)</p>
+</blockquote>
+<h1 id="tutorial-video" class="toc-header"><a class="toc-anchor" href="#tutorial-video">¶</a> Tutorial Video</h1>
+<p><a href="https://youtu.be/trAddmoJdzQ" class="is-external-link">https://youtu.be/trAddmoJdzQ</a></p>
+<p> </p>
+<h1 id="material-preparation" class="toc-header"><a class="toc-anchor" href="#material-preparation">¶</a> Material preparation</h1>
+<figure class="image image_resized" style="width:12.08%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_44.png"></figure>
+<p> </p>
+<h1 id="machining-process" class="toc-header"><a class="toc-anchor" href="#machining-process">¶</a> Machining process</h1>
+<p>1. Plug in the cable and Install the rotary axis. （Please read the Carvera instruction manual for using the rotary axis）If your Carvera is on, please power off the machine first before installation.</p>
+<figure class="image image_resized" style="width:43.01%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_64.png"></figure>
+<p> </p>
+<p>2. Fix the Epoxy Tooling Board to the rotary axis, let the corner direction up and down.</p>
+<figure class="image image_resized" style="width:35.88%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_74.png"></figure>
+<p>3. Check if the milling bits are on the right position . No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.  </p>
+<p>4. Turn on the power and wait for the automatic homing to complete.</p>
+<p>5. Open the control software and connect to Carvera (please read Carvera instruction manual for detailed steps)</p>
+<p>6. Open Root-&gt;Examples-&gt;Rotation in the remote directory. </p>
+<p> </p>
+<h2 id="roughing-process" class="toc-header"><a class="toc-anchor" href="#roughing-process">¶</a> Roughing process</h2>
+<p>1. Select “NefertitiRough.nc” roughing file.</p>
+<p>2. Open the task configuration and operation dialog box.</p>
+<p> </p>
+<figure class="image image_resized" style="width:40.64%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_94.png"></figure>
+<p> </p>
+<p>3.  Set working coordinate to X offset 50 (relative to the right edge of the 4th axis headstock), and Y offset 0.</p>
+<p>4. Check the “Scan Margin” option.</p>
+<p>5. Check the “Auto Z Probe” option(4-axis z probe at fixed position, no configuration required).</p>
+<p>6. Check the configuration and click run, then wait for the completion.</p>
+<p>7. This step can produce lots of dust, please use a vacuum to clean before next step.</p>
+<p> </p>
+<h2 id="finishing-process" class="toc-header"><a class="toc-anchor" href="#finishing-process">¶</a> Finishing process</h2>
+<p>1. Select “NefertitiFinish.nc” finishing file.</p>
+<p>2. Open the task configuration and operation dialog box (the automatic detection has been completed in step 1, no need to redo it here).</p>
+<p> </p>
+<figure class="image image_resized" style="width:40.41%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_104.png"></figure>
+<p> </p>
+<p>3. Uncheck the “Scan Margin” option.</p>
+<p>4. Uncheck the “Auto Z Probe” option.</p>
+<p>5. Check the configuration and click run, then wait for the completion.</p>
+<p>6. Use a vacuum to clean up the dust and take out the epoxy tooling board.</p>
+<p>7. Use the handsaw in the accessory kit to remove the remaining epoxy on both ends.</p>
+<p> </p>
+</div></article></html>

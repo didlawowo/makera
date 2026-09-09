@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Turn on or off the buzzer</title><h1>Turn on or off the buzzer</h1><article><div><h2 id="how-to-turn-on-or-off-the-buzzer" class="toc-header"><a class="toc-anchor" href="#how-to-turn-on-or-off-the-buzzer">¶</a> How to turn on or off the buzzer:</h2>
+<p>1. Turn off the buzzer.</p>
+<ul>
+  <li>Input '<i><strong>config-set sd switch.beep.enable false</strong></i>' in the MDI window, and then click the <i><strong>'send' button</strong></i>. If the setting is successful, the message bar will return 'sd: switch.beep.enable has been set to false'.</li>
+  <li>Turn off the power to the machine and then turn it back on.</li>
+  <li>After the modification, the buzzer will only sound once when the machine is initially powered on, and it will not sound again at other times.</li>
+</ul>
+<figure class="image image_resized" style="width:68.98%;"><img src="https://wiki.makera.com/set-beep-off.png"></figure>
+<figure class="image image_resized" style="width:39.95%;"><img src="https://wiki.makera.com/set-beep-off2.png"></figure>
+<p>2. Turn on the buzzer.</p>
+<ul>
+  <li>Input '<i><strong>config-set sd switch.beep.enable true</strong></i>' in the MDI window, and then click the <i><strong>'send' button</strong></i>. If the setting is successful, the message bar will return 'sd: switch.beep.enable has been set to true'.</li>
+  <li>Turn off the power to the machine and then turn it back on.</li>
+  <li>After modification, the buzzer will sound when the machine is powered on, issues warnings, errors, automatic tool change prompts, and when the machining task is completed.</li>
+</ul>
+<figure class="image image_resized" style="width:69.42%;"><img src="https://wiki.makera.com/set-beep-on.png"></figure>
+</div></article></html>

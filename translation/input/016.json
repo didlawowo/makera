@@ -1,0 +1,837 @@
+[
+  {
+    "id": "2a5c318e0ee153b2",
+    "text": "In this video, we look at how raster image files, such as JPGs and PNGs, can be imported into Makera CAM. Raster image files are ideal for creating engravings using laser modules, but Makera CAM also allows for us to trace images to convert them into vector designs for 2D tool path generation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "edd37fc48e9defc5",
+    "text": "Transform Tools",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "bad9447d15cf3bf2",
+    "text": "In this video, we look at the different tools available for adjusting objects and design files in Makera CAM. This includes transforming shapes to move, rotate, or scale them, as well as mirroring designs and manipulating them in our project files.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "18774755b4f8606f",
+    "text": "Center to Center",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "dadba76973ac5b0e",
+    "text": "In this video, we look at how to use the Center to Center tool for adjusting objects in our designs. Center to Center allows for us to easily and quickly align the center points of two objects in Makera CAM. This is a more accurate approach to transforming the shapes manually.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "46e7874d842d506c",
+    "text": "Creating Shapes",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "028d772f73e7db12",
+    "text": "In this video, we look at the basic tools for creating simple shapes in our project files. While Makera CAM is not a CAD program, you can create 2D rectangles and circles, as well as 3D cubes, cylinders, or cones in your projects to allow for designing to be quick and easy when manufacturing your projects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "13ec0a1bcb3e5ce2",
+    "text": "2D Drilling Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "0bb8d4f34801f520",
+    "text": "In this video, we look at how to create 2D drilling operations (formerly Vector Drilling) using our 2D design files. Drilling operations can be used to machine holes in our projects, and there are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "7166c1ef95dc5e00",
+    "text": "2D Thread Milling Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "e489aa5758fd553a",
+    "text": "In this video, we look at how to create 2D thread milling operations using our 2D design files. When combined with Drilling operations, Thread Milling tool paths can be used to cut threads in a hole or around a cylinder in our projects, and there are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "f1a597e13437442c",
+    "text": "2D Pocket Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "f10134d58a123f46",
+    "text": "In this video, we look at how to create 2D pocket operations (formerly Vector Pocket) using our 2D design files. Pocket operations can be used to machine pockets or facing operations with our projects, and there are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "b00570c8fd752f2f",
+    "text": "2D Contour Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "36a166c77219d4e9",
+    "text": "In this video, we look at how to create 2D contour operations (formerly Vector Contour) using our 2D design files. Contour operations can be used to cut our designs or create engravings in our projects, and there are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "c8298df9c4babaec",
+    "text": "2D Chamfer Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "21a3857122c107e3",
+    "text": "In this video, we look at how to create 2D chamfer operations (formerly part of Vector Contour) using our 2D design files. Chamfer operations can be used to create a specific kind of contour tool path to cut a chamfered edge in our designs. There are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "b74b4ec048858a89",
+    "text": "3D Drilling Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "c8418a98c40d823b",
+    "text": "In this video, we look at how to create 3D drilling operations using our 3D design files in STEP formats. Drilling operations can be used to machine holes in our projects, and there are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "fc8bd6e9907cd9ab",
+    "text": "3D Thread Milling Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "3cf646ab4a9b7ff6",
+    "text": "In this video, we look at how to create 3D thread milling operations using our 3D design files in STEP formats. When combined with Drilling operations, Thread Milling tool paths can be used to cut threads in a hole or around a cylinder in our projects, and there are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "579db49f74efe8ae",
+    "text": "3D Pocket Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "7427f087817924fb",
+    "text": "In this video, we look at how to create 3D pocket operations using our 3D design files in STEP formats. Pocket operations can be used to machine pockets or facing operations with our projects, and there are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "247194c9f8ac5870",
+    "text": "3D Contour Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "b194be513827c2e1",
+    "text": "In this video, we look at how to create 3D contour operations using our 3D design files in STEP and STL formats. Contour operations can be used to cut our designs or create engravings in our projects, and there are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "e512312e88e3e97a",
+    "text": "3D Chamfer Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "c83fe206dbd0c4c4",
+    "text": "In this video, we look at how to create 3D chamfer operations using our 3D design files. Chamfer operations can be used to create a specific kind of contour tool path to cut a chamfered edge in our designs. There are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "e8804a4fc0776cbb",
+    "text": "3D Relief Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "a8f7fa80dabf6d2d",
+    "text": "In this video, we look at how to create 3D relief operations using our 3D design files in STL formats for 3-Axis machining. Relief tool paths follow the unique intricacies in your design files to machine 3D designs with combined processes. There are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "5514fdcd7156b9b3",
+    "text": "4th-Axis Relief Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "6fc613f0e0bbab6e",
+    "text": "In this video, we look at how to create 3D relief operations using our 3D design files in STL formats for 4th-axis machining. Makera CAM allows for you to prepare relief tool paths that follow the unique intricacies in your design files to machine 3D designs with combined processes on the 4th Axis rotary model. There are a few different strategies that can be used when preparing these tool paths as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "ce9d44c377cb28fb",
+    "text": "Laser Image Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "59141cb1d32d201a",
+    "text": "In this video, we look at how to create laser image operations using raster image files. Laser image operations can be used to engrave photographs on a range of materials using the laser engraving module, as well as create a variety of projects as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "6561c9d14e1a89e2",
+    "text": "Laser Vector Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8e35acf62d8cd518",
+    "text": "In this video, we look at how to create laser vector operations using vector design files. Laser vector operations can be used to cut or engrave a range of materials using the engraving module, as well as create a wide range of unique projects as shown in this video.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "673f91904c0f988a",
+    "text": "Working with PCBs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "24a4e4a276be233d",
+    "text": "In this video, we overview how PCB files can be imported and prepared in Makera CAM. We look at key steps to take when exporting a PCB file to maximize compatible with Makera CAM, as well as common settings and techniques that can be implemented in your PCB projects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "54fb3337a8e4d90c",
+    "text": "Makera CAM 3D Milling Release Livestream",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "c1de60b4e046e6e8",
+    "text": "In this live stream, we introduce new features and tools included in a recent public beta release of Makera CAM. This includes general changes and upgrades, as well as the ability to import and work with 3D design files for both 3-axis and 4-axis machining.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "6caab1f492d4e47a",
+    "text": "Click here to view the recording of the live event",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "17583b33ff60bd98",
+    "text": "from 2/26/25.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "455f9ec4f03399f8",
+    "text": "In this video, we are guided through a simple project using Makera CAM and the Carvera Desktop CNC machine. Starting from an imported vector design file, we learn how to prepare our tool paths using different drill, pocket, and contour operations to complete this example project.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "3a66d92e49ee6311",
+    "text": "For additional information and support as you learn how to use Makera CAM for your CNC projects, check out our",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c16baff49c06172d",
+    "text": "video tutorials for Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e6e6eed25b221671",
+    "text": ". Are you new to CNC's? If so, we recommend you check out our",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d462ecd061af02c3",
+    "text": "Makera CAM is a tool path design software tailored for the Carvera and Carvera Air desktop CNC machines. This manual contains necessary operating instructions and resources to help you find success as you prepare designs for production using subtractive manufacturing techniques.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a05e78e90c7afa90",
+    "text": "Visit our website",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3dafab0a7520f713",
+    "text": "for more information about Makera CAM, and find Makera CAM Tutorial Videos",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ff1063acde0f6a3e",
+    "text": "The Makera CAM main interface includes the menu bar, main functions on the tool bar, stock parameters, functions panel, Design Area, extended properties panel, and lower status bar.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f1e978c854f98fda",
+    "text": "Version Features",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f14b03a0a9a3231d",
+    "text": "This guide has been most recently revised for",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "832d238b91c184d1",
+    "text": "Makera CAM Version 0.2.0 (Beta)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "068c9b153686782c",
+    "text": ". For downloads, version features, and release notes, visit the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b765ef03cc388d97",
+    "text": "GitHub page for Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0009cd73b2df1810",
+    "text": "Typical Operation Workflow",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "15ad426b1195e3de",
+    "text": "Creating a manufacturable file using Makera CAM can be done through the following steps:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "094fa89dc80d03ef",
+    "text": "Navigational Techniques",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7f3a27e3a5e00077",
+    "text": "You can navigate in Makera CAM through different operations using the mouse and keyboard shortcuts as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "519c72ebb781e312",
+    "text": "this video",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7f517f6666ecbc95",
+    "text": ". Basic navigational techniques are as follows:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "156e1e95c06f8cab",
+    "text": "Left Mouse Button:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eb5fdaa10c93dc6c",
+    "text": "Click the left mouse button to select a single image or vector graphic object under the cursor. Generated tool paths cannot be selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1386ca39ab01c9c0",
+    "text": "Hold and drag the left button",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "97b876ad9fe64d49",
+    "text": "to the right",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "814930c7c6b84255",
+    "text": "to create a selection box to select multiple graphic objects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "077219bf3a9a4a4b",
+    "text": "The graphic objects",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c35e52c13a2f1668",
+    "text": "will be marked as selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5f7f25011e00bcda",
+    "text": "completely selected",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2b4e97c5faf3e151",
+    "text": "by the selection box",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "74c78b287c3acfaa",
+    "text": "to the left",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "010879ec1d26348e",
+    "text": "All graphic objects",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2f2cd146e5e4c62f",
+    "text": "touched",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b717e51d1f2cad92",
+    "text": "Press and hold the Shift key while clicking with the left mouse button or dragging a selection box to select multiple graphic objects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "35e03a191ce3f893",
+    "text": "When working in the Functions Panel on the left side of the main interface:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2e98991dabad1d69",
+    "text": "Click the left mouse button to select a single layer / path entry.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "331f03b5be00b522",
+    "text": "Press and hold the Shift key and click the left mouse button to select multiple continuous layers / path entries.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "02a8fd4038c82656",
+    "text": "Press and hold the Ctrl key and click with the left mouse button to select multiple non-continuous layers / path entries",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f11c2b8ab98576ff",
+    "text": "Middle Mouse Button (Scroll Wheel):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0077e040a30a7309",
+    "text": "Press and hold the middle button and drag to pan across the Design Area in the current viewing angle.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4bb64fc5bdd6c21f",
+    "text": "Press and hold the Shift key while also holding and dragging the middle mouse button to rotate within the Design Area to change the current viewing angle.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9cd7e4a58500f431",
+    "text": "When no graphic object is selected in the Design Area, the rotation origin of the screen is the center of the stock",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "499c5e19558bb975",
+    "text": "When a graphic object is selected in the Design Area, the rotation origin is the center of the selected graphic combination.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d0b6dc0cac78a754",
+    "text": "Double-click the middle button to restore the current perspective back to the TOP perspective, the Design Area zoom will also be restored.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e044d7579ae089c6",
+    "text": "Right Mouse Button:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c2b393d682e39786",
+    "text": "The right mouse button will open a menu in the Design Area that includes editing functions (copy, cut, paste, delete), layer functions, tool path functions, graphic transformations, and library operations. For specific functions, please refer to the subsequent chapters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "922bd620c54db812",
+    "text": "When attempting to adjust graphic objects and design files in Makera CAM, you must first enter the transformation mode by opening the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d2d68041b53daa75",
+    "text": "Transform",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "769215973381a4dd",
+    "text": "menu in the extended properties panel. In transformation mode, you can move, rotate, and scale the design files. You can enter the transformation mode in the menu opened when right-clicking, or by opening the Transform properties in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "464c4ffd019e1e96",
+    "text": "Edit",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1ef379f6f9d82ba6",
+    "text": "menu items, or you can select the graphic and use keyboard shortcut keys to enter the corresponding modes: (M – move / R- rotate / S - scale). This is discussed in greater detail later in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d285ae5924da3bd1",
+    "text": "Adjusting Objects",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "485c5554060ac69b",
+    "text": "section of this guide.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2f1265644f42447e",
+    "text": "Selecting Objects",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "944b70df776fd80d",
+    "text": "For 2D design files, imported images, and graphic objects to be edited or manipulated in Makera CAM, they first must be selected as mentioned in the previous section. When 2D vector files (SVG, DXG) are selected, the lines in the design become",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "efa8efec6e6756c7",
+    "text": "dotted",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "da99ce5fe924f158",
+    "text": "to show that they are selected, as show in this",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fe30030e102ecf8f",
+    "text": "tutorial",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f1e0f3e33f1e50ab",
+    "text": "and below. The lines of the 2D object match the color set for the layer which the design file has been placed, as discussed later in the Layers section of this guide.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d92dba4cd02ca030",
+    "text": "When working with image files, the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4f1a55de40bce901",
+    "text": "border",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b17222b3589735a7",
+    "text": "around the image will be highlighted to show that the image has been selected as shown in this",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "93ff06cfdb9c11aa",
+    "text": "and below. The highlighted selection lines match the color set for the layer which the design file has been placed, as discussed later in the Layers section of this guide.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c2b7fd64062d6d45",
+    "text": "When working with 3D models (STEP, STL), the model will be highlighted in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eb5cdfe0d24bed30",
+    "text": "blue with a yellow perimeter",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8153f4dcc08ac620",
+    "text": "when selected as shown in this",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ef6457917cd044dd",
+    "text": "and below. When the 3D model is not selected, it will be displayed in the color of the layer which the model has been placed, as discussed later in the Layers section of this guide.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "30b8d96ec082ca9a",
+    "text": "If a design, image, or model has not been selected, options to manipulate it (transform, mirror, trace, or generating tool paths) will not be available for selection.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f71cfd19089fee25",
+    "text": "Main Functions",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ede260c503304473",
+    "text": "The following sections outline the main functions of Makera CAM's primary user interface.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7e1d7a74816abc89",
+    "text": "Launching Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0d385a750905b4d0",
+    "text": "Starting with the public Beta release of Makera CAM v0.2.0, users are greeted with a project selection window upon launch:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "73b843c343e95a33",
+    "text": "3 AXIS",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "18056f431ffee9cb",
+    "text": "- Creates a",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "17b313f1669068cb",
+    "text": "new project",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a4b9504a3b164d97",
+    "text": "for 3-axis machining. This will preset the STOCK and WCS to match the standard 3-axis configuration for the Carvera and Carvera Air, suitable for typical CNC milling or laser operations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dedf6fae1826686b",
+    "text": "4 AXIS -",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "da42d5d4f4fe2816",
+    "text": "Creates a",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7c32c823a4a0f3c8",
+    "text": "for 4-axis machining. This will preset the STOCK and WCS to suit the needs of the Carvera and Carvera Air when the optional 4th Axis rotary module has been configured.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "40b57a7b492340d5",
+    "text": "Open Project -",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6109ef446b86af65",
+    "text": "Allows for you to select and open a saved Makera CAM (.mkc) file from your computer for either 3-axis or 4-axis configurations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e2e623acb4e7ded6",
+    "text": "Open Recent -",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d2becb2ae205612d",
+    "text": "Allows for you to quickly browse through up to 10 recently opened Makera CAM (.mkc) files from your computer for either 3-axis or 4-axis configurations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0c29234c12310f5d",
+    "text": "From within a Makera CAM project, creating a New (Ctrl+N) project will reopen the project selection window.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4c5b745b8d2c091c",
+    "text": "Menu Bar Introduction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "50009ce1da4d15e1",
+    "text": "File",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "278d8c078eb10c0a",
+    "text": "The options in the file menu perform the following actions:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "18fdd549b2ed367a",
+    "text": "New",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "19b3d19f7fbb7f4a",
+    "text": "New Project, opens project selection window",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4e0308d33ea08e8b",
+    "text": "Open...",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bb01f7b8dfaad176",
+    "text": "Open a saved project",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f692b685e8649380",
+    "text": "Open Recent...",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ec66f7676a015b46",
+    "text": "Choose from the 10 most recently opened projects",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1509f561f2416598",
+    "text": "Save",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1e9cad29812fe99b",
+    "text": "Save Project",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a3dca5ad8733bf2",
+    "text": "Save As...",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "59e039d8a0b148c8",
+    "text": "Save Project as a copy or with a new project name",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0e268b8489127799",
+    "text": "Import Image...",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6b7e94a5ca2e7596",
+    "text": "Import image files in JPG/PNG/BMP and other formats",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "067883e8c034bdc1",
+    "text": "Import 2D Model...",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "97652b6a0c5e83f8",
+    "text": "Import DXF / SVG vector design files",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a1546c4d34acd79c",
+    "text": "Import 3D Model...",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e4a0a296fbb0fd3f",
+    "text": "Import STL / STEP 3D model files",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "041075293b0e674e",
+    "text": "Import PCB...",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4469793551be2273",
+    "text": "Import components of a PCB Gerber Design File",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "63831f89ccae55c4",
+    "text": "The options in the edit menu perform the following actions:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a8283ade31856f71",
+    "text": "Undo",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a83779285dd1894f",
+    "text": "Undo the last transformation operation",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "74273989b0966e23",
+    "text": "Redo",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "06782f01feec3163",
+    "text": "Redo an undone transformation operation",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1f45f02561f41db9",
+    "text": "Cut",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e4667e2c757a9a0c",
+    "text": "Cut the selected object",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e21f935f11d7e966",
+    "text": "Copy",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "62f68e6c00431ec0",
+    "text": "Copy the selected object",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f3380f7b44bd70af",
+    "text": "Paste",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e1fcf9403dc31b5e",
+    "text": "Paste the copied/cut object to the active layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e2d0a54968ead24e",
+    "text": "Delete",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2a456adacf8938b0",
+    "text": "Delete the selected object",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c57d9432d172d561",
+    "text": "Options to open transform tools within the Extended Properties Panel (move, rotate, scale, mirror)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4759498ac2a719c6",
+    "text": "Create",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b386267c6bb57e9b",
+    "text": "Create simple dimensioned 2D or 3D shapes on the current layer in the Extended Properties Panel.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7e14c3d7dd12bbd0",
+    "text": "Trace",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "49239b181c0bdb3a",
+    "text": "Image tracing function can convert the selected raster image into an approximate vector graphics, or be used to create contour paths around the edges of a 3D model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "62fa5a5b0d3c3188",
+    "text": "Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "91ac3d1f1b599f8a",
+    "text": "The options in the path menu perform the following actions:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3895df54d1929d82",
+    "text": "2D Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "54e846f24baaf6e1",
+    "text": "Create 2D machining tool paths based on the features of an imported 2D Design file - Includes 2D Contour, 2D Pocket, 2D Drilling, 2D Thread Milling, and 2D Chamfer operations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3f55851f08d33d29",
+    "text": "3D Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

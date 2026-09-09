@@ -1,0 +1,172 @@
+[
+  {
+    "id": "16e28c6cf732deaa",
+    "text": "3. Dust Extraction: Connect an external vacuum cleaner to the dust port on the rear of the machine (22mm inner diameter; an adapter may be required). You can manually start and stop the dust collection system. Alternatively, you can automatically control the external dust collection equipment using the machine's external control port. For detailed instructions, please refer to the official knowledge base: https://wiki.makera.com/",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "ba11b1d0a81aa73f",
+    "text": "Note: Installing the dust shoe may interfere with rapid tool changes. You can choose to remove the dust shoe during tool changes based on your usage preferences.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "497c8bd0ef53eeaa",
+    "text": "Note: Use caution when installing or removing the dust shoe, particularly if a milling bit is present in the spindle.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "070cbb71809ea426",
+    "text": "1. Preparation: To facilitate transportation, the spindle box for the 4th axis is fixed in the right position. Refer to the illustration to loosen the four screws securing the spindle box. Carefully align the leftmost side of the 4th axis spindle box with the left side of the 4th axis base plate.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "d3312ed24b784fbc",
+    "text": "2. Installation:",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "bcb77a2f23787027",
+    "text": "2.1 Using two 4mm alignment pins, position the 4th axis at the center of the worktable as shown in the illustration. Fasten the 4th axis to the worktable with six M5×20 screws.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "481928594240c0a3",
+    "text": "2.2 Ensure the machine is powered off before proceeding.Bend the 4th axis connection cable towards the rear inside the machine. Insert the cable into the 4th axis interface at position 1 in the illustration (ensure the dust cover at the interface is open first). Using the hex key and M4×8 screws provided in the 4th axis packaging, secure the cable clamp to position 2 shown in the illustration (remove the existing screws from the original position first).",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "5eb40516a8032637",
+    "text": "3. Workpiece holding:",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "c9a394af9f93b6a2",
+    "text": "3.1. Loosen the locking screw at position A on the tail stock as shown in the figure, adjust the tail stock tip to the right side by turning the knob counterclockwise.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "600bab9ffa8767f8",
+    "text": "3.2. Loosen the 2 fixing screws at position B.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "2a0c6f8929777e01",
+    "text": "3.3. Use two wrenches to adjust the opening size of the chuck and place the workpiece in.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "75802e4222af0ca3",
+    "text": "3.4. Align the tail stock tip to the end of the workpiece, and tighten the two fixing screws at position B.（We highly recommend drilling a small hole at the end of the block tail for better holding strength, especially for hard materials.)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "a56cff09f6f389aa",
+    "text": "3.5. Use two wrenches to tighten the chuck, push the tail stock tip close to the workpiece by turning the knob clockwise, and lock the locking screw at position A. (Don't push too hard to the workpiece, it's ok when there is no gap and backlash, better drill a small hole first at the center of the workpiece tail for fixing.)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "bdf6ad6dc9374906",
+    "text": "4. Software Settings: The right edge of the headstock is the reference point for setting the working coordinates of the rotary module. When performing rotary machining, you only need to set the distance between the X axis and the reference point and set Y to 0.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "0164c43b81650de7",
+    "text": "Note: Usually, you don’t need to move the head stock, because the reference point on the head stock should be fixed for precise positioning. Ensure that the holding position/size/G-Code/work coordinate of the workpiece match with each other, otherwise it may cause damage to the module or tool bit.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "d906a423c590f7cf",
+    "text": "Carvera Air comes with a 1/8 inch(3.175mm) spindle collet. This is the commonly used size for desktop-level CNC machines, which can meet most machining requirements. For special sizes such as 4mm/6mm/6.35mm, you can change the spindle collet and the tail shaft of the wired probe.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "b3c0b84dff90ac4c",
+    "text": "1. Change spindle collet: Use the handle to drop the current tool, insert the spindle collet installer into the current collet, and rotate counterclockwise to remove the current collet. Use the same way to install the new collet. (Do not over tighten)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "f76734aa462d31cb",
+    "text": "2. Change the tail shaft of the wir ed probe: Rotate the wired probe’s tail shaft counterclockwise to uninstall. Use the same method to change the new tail shaft. (Do not over tighten)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "47d37e2eb402862d",
+    "text": "The Carvera Air machine has an optional 5W diode laser module, which can engrave wood, plastic, and other materials, an excellent complement to the Milling function.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "33968b6071e85a7b",
+    "text": "Installation/Removal: Insert the laser module as you would a standard milling bit, ensuring its orientation matches the direction indicated in the image. Confirm that the laser module does not rotate post-installation. Connect the cable to the laser module and to the 3-pin socket located at the",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "ae6df35a780550f5",
+    "text": "top right of the spindle casing.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "d18198791c1b6854",
+    "text": "Optional - you can use the included silicone tube to connect the air inlet of the laser module to the air nozzle for Air Assist during laser processing, achieving better laser engraving results.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "a6800c56c3ef6b2f",
+    "text": "Note: The focal length of the laser module is fixed at approximately 5mm below the laser module (including the protective plate). Please ensure the material is flat, and make sure there are no obstacles higher than 5mm around the workpiece.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "3654c6f5fd612df1",
+    "text": "Note: Always wear laser protection goggles when using laser function.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "2d3208e1758481c3",
+    "text": "Carvera Air Troubleshooting",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "7ebd0aa9d556af28",
+    "text": "Carvera Air general preliminary troubleshooting",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "46774c469da61a5f",
+    "text": "Please note that this page is a WOP and Makera reserves the right to modify and update content accordingly.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "b3337e87d8684b4a",
+    "text": "When an error occurs on the machine it can be mostly solved by following the steps below:",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "4d512f0db31c58e9",
+    "text": "1. Have you tried it a second time?",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "a87e8b90178be2a3",
+    "text": "2. Is your firmware and the controller software updated?",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "e3b0c3aa45b505e2",
+    "text": "3. Have you unplugged all cables and reset the machine?",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "ca8162962c845c2a",
+    "text": "4. Are you using the right post processor?",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "994ff9787a1621b9",
+    "text": "If the above does not solve the problem, further investigation is needed. Below are a few general troubleshooting topics.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "7ec79f1146d948b3",
+    "text": "Click on the link and follow the steps accordingly.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  }
+]

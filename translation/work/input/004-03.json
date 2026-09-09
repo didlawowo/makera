@@ -1,0 +1,67 @@
+[
+  {
+    "id": "b4c3dfa08dd714bb",
+    "text": "Workholding is one of the most important steps when using a CNC machine. Carvera Air provides two different workholding methods and corresponding tools to adapt to different types, shapes, and sizes of workpieces. While holding the workpiece, you can also locate the workpiece to the pre-defined position accurately by using Carvera Air’s anchor-based system.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "e71056271d3f27b0",
+    "text": "1. L-Bracket: Carvera Air provides a L-shaped bracket, which can be fixed at one of the two anchor points with two 4mm dowel pins and three M5 screws (the thick bracket uses long screws). The lower left corner is Anchor 1, and the middle position is Anchor2. There are two semi-circular openings of the thin positioner, you can put two M5 screws to fix the lower-left corner of the workpiece there.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "6fb826c4ab1144f4",
+    "text": "2. Top Clamps: The top clamp usually fixes the workpiece with a thickness of less than 2 cm together with the L-Bracket.The purpose of the top clamp with a cross groove is to facilitate the use of long sides to fix the workpiece. We recommend using shims at the end of top clamps to fix",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "a48f2b75d6ed1341",
+    "text": "Note: The top clamp is not very thick, so please do not screw too tight.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "64f23652607eab0a",
+    "text": "Note: If you need to cut through a workpiece, we highly recommend placing a 1-2mm thick waste board (as the complimentary one) under the workpiece. This can avoid damage to the workbench.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "795b44f71c8aad3b",
+    "text": "Note: Please select corresponding length screws to fix different workpieces, you do not want to scratch the plate under workbench.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "80b5315c40223106",
+    "text": "To cooperate with Carvera Air’s auto tool changing mechanism, you need to use the collar installer to install the collar when replacing new milling bits. The collar installer can do both installation and removal. (the collar is reusable).",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "700478c351538596",
+    "text": "Collar installation: As shown in the figure, unscrew the front part of the installer. Insert the collar and the tool. Put in the installation metal ring (support 3.175/4/6/6.35mm). Loosen the tail pressure screw, screw back the front part, and tighten the tail pressure screw to complete the installation.After the installation is complete, the collar will be embedded with the tool, leaving a length of about 12mm at the tail for clamping.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "af324b8c713db1c5",
+    "text": "Collar removal: As shown in the figure, unscrew the front part of the installer, put the tool with the collar. Put in the removal thimble, loosen the tail pressure screw, screw back the front part, tighten the tail pressure screw, and the removal is complete.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "cba1592d31425628",
+    "text": "Note: The milling bits are sharp, be careful when install and uninstall collars.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "924fa8657af28b2c",
+    "text": "Chip evacuation is an important part of CNC but is usually ignored by other desktop-level CNC machines. Carvera Air provides a convenient way for you to attach an external vacuum.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "f24895614038ec53",
+    "text": "1.Use cases: The primary factor in deciding whether to use the dust collection system is potential interference. If obstacles in the machining path block the dust shoe, do not use the dust collection system. Dust collection is ideal for machining thin and flat workpieces, such as plates. Avoid using dust collection when machining thick or irregular workpieces, or when utilizing the 4th axis.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "4f59deb2514063e9",
+    "text": "2. Installation/Removal: Two fixed magnets are positioned above the dust shoe, allowing for easy magnetic installation and removal. The notch on the dust shoe aligns with the spindle shape for precise positioning. When not in use, the dust pipe can be secured into the upper latch.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  }
+]

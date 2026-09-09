@@ -1,0 +1,272 @@
+[
+  {
+    "id": "fa9a05b67602c44a",
+    "text": "1. Connect the inlet of the external dust collector to the lower rear Dust port (Ø22 mm).",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "43ff72260b6fb5bf",
+    "text": "2. Connect the outlet of the dust collector to the upper rear Air Inlet Port (Ø22 mm).",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "9eaf2dfab777cefd",
+    "text": "3. (If available) Connect the control cable to the rear external control port.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "10e67fabe298d0e6",
+    "text": "4. Enable auto air blow and dust collection in the control software during operation.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "ebd4376f3c25ddd3",
+    "text": "For best performance, use a dust collector with external air assist (e.g., Makera Cyclone Dust Collector Lite). Refer to the dust collector manual for detailed instructions.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "af8bf82ba14b8b27",
+    "text": "Makera Z1 (Z1 & Z1Pro) comes with a standard 1/8\" (3.175 mm) spindle collet, which fits most commonly used tools for desktop CNC machines. If you need to use tools with different shank diameters, please replace the collet with the appropriate size.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "ec4092d7bc514502",
+    "text": "1. Refer to the Tool Change section and remove the current tool.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c6c193a755c35312",
+    "text": "2. Press down the tool change lever to lock the spindle (prevent rotation).",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "8648f01358ee2eca",
+    "text": "3. Use the Spindle Collet Installer from the toolbox to remove the existing collet.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c51b96cd8a147e32",
+    "text": "4. Install the new collet and ensure it is securely seated.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "307765699e8c12da",
+    "text": "1. Make sure the tool shank matches the collet size after replacement.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c3123d39e7633a72",
+    "text": "2. When using accessories such as the wired probe, 3D probe rod, or 3D probe, replace the shank with the corresponding size as well.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "5ecb62baa1626a7e",
+    "text": "The wired probe supports automatic Z-axis probing, surface leveling, and machining area scanning.When used with Makera Z1(Z1 & Z1Pro)’s anchor-based system, it enables easy XYZ positioning and simplifies the CNC workflow.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "32d7f85449a9a9db",
+    "text": "Operation Steps；",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "a88ff6f642ff9864",
+    "text": "1. Follow the prompt in the control software to switch to the probe.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c0c18268af8a0f68",
+    "text": "2. Refer to the Tool Change section to remove the current tool and install the wired probe.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "44dd468d1836a39d",
+    "text": "3. Click Continue or press the main button to start probe calibration; the system will complete the remaining steps automatically.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "a9a7bef7cd999cb8",
+    "text": "Double-click the probe to activate the laser indication and check its current position。",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "0c13ee6e106a9a17",
+    "text": "Makera 4-in-1 Screwdriver integrates multiple functions—including a screwdriver, hand saw, and hand file—into one compact tool. With a single tool, you can quickly switch between clamping, removal, and finishing tasks, making it an essential companion for your CNC workflow.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "ef15ccea4d178e30",
+    "text": "The collet nut features a clearance slot design, allowing fast tool changes without fully removing the nut.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b25edba1788f4561",
+    "text": "For the file attachment, simply loosen the nut, insert the tool, and tighten it. For screwdriver bits and the saw attachment, loosen the nut, align them with the wide or narrow slot in the collet, insert, and tighten securely.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "3ee4ee011a3baa1a",
+    "text": "Always ensure the tool is firmly secured before use to prevent it from coming loose during operation.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "bac30636553b1fc2",
+    "text": "Connect the emergency stop button cable to the emergency stop port on the rear of the machine.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7d6a20d14fefe458",
+    "text": "In case of an emergency (such as tool breakage, jamming, or workpiece loosening), press the emergency stop button to immediately stop the machine.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "60f43212d318680e",
+    "text": "The emergency stop is a latching switch. Before powering on, turn it clockwise to release.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "219ddb290fc7cd1d",
+    "text": "The main button also functions as an emergency stop by default and can be used to stop the machine when needed.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "9d5b418533d6f196",
+    "text": "The Bit Collar Installer is used to mount bit collars onto milling bits, helping control the clamping length, improve tool change efficiency, and reduce the risk of injury.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "89541bc48dffe1fe",
+    "text": "It supports installation and removal for various bit and collar sizes, enabling easy reuse.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "995155f3ce786316",
+    "text": "Installing the collar:",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "59f95d85e7c37478",
+    "text": "1. Press the spring button and pull the pusher to the outermost position.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7cadcc3ed87a9ac0",
+    "text": "2. Place the collar into the front socket.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "0c9d479256f3a123",
+    "text": "3. Position the milling bit (with cap) onto the pusher.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d5219b626571b54d",
+    "text": "4. Push forward to align the bit with the collar.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "743ba45b1e03c904",
+    "text": "5. Turn the screw knob to press the bit into the collar (Default exposed length is ~12 mm; adjust as needed).",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "9593b21aa7f59c0d",
+    "text": "Removing the collar:",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "53ac0f8a63f0db50",
+    "text": "1. Press the spring button and pull the pusher outward",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "983238ab24d3696a",
+    "text": "2. Insert the removal pin from the bottom into the pusher",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d21506fd6fdcaed8",
+    "text": "3. Place the bit with collar into the front socket",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7e9143c26949bbbc",
+    "text": "4. Push forward to align the removal pin with the bit",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "931c273258a64cd1",
+    "text": "5. Turn the screw knob to eject the collar",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "6f8ab7be781646bd",
+    "text": "Note: During installation, the pusher will pass through the bit’s protective cap. This is normal.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "9c3f839db137b417",
+    "text": "3D Probe Rod",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "5b60ae333fec7a7c",
+    "text": "The 3D Probe Rod enables automatic X, Y, and Z axis probing on conductive materials. It is ideal for regular shapes (such as square or round workpieces) when performing edge finding or center finding in custom fixturing setups like vises.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "dd255825843c8013",
+    "text": "1. Follow the on-screen instructions to switch to the 3D Probe Rod",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "dfccb86d0ec9e542",
+    "text": "2. Refer to the “Tool Change” section to remove the current tool and install the 3D Probe Rod",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "97c6ccd6f49ae0c9",
+    "text": "3. Disconnect the Wired Probe and connect the 3D Probe Rod cable",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "0e9601565cf4caa0",
+    "text": "4. Click Continue or press the main button to start automatic probe calibration",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d6f60123163dd09b",
+    "text": "5. Follow the software guidance to complete the 3D probing process (see wiki.makera.com for details)",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7d2d28fd94225f2c",
+    "text": "The 3D Probe Rod only works with conductive materials. The workpiece must be electrically connected to the aluminum table via locating pins, screws, or other conductive methods.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "bf1f308124c18274",
+    "text": "The LED indicator on the Makera Z1 (Z1 & Z1Pro)spindle cover displays the machine status, such as idle, running, and alerts.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b86945a900708c6a",
+    "text": "It also features segmented lighting to indicate the active tool number during tool changes.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "06bde00f812115e6",
+    "text": "Scan the QR code to download Makera Studio and the Makera App. Design and generate toolpaths on your computer, then control the machine from your computer or mobile device.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "1b7a1afbb012e3a2",
+    "text": "Plug in the power cable and turn on the switch. Makera Z1(Z1 & Z1Pro) will home all axes automatically, and the illumination light will stay blue (idle).",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "5e7e8f50e990b775",
+    "text": "Wi-Fi Setup",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  }
+]

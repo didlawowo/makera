@@ -1,0 +1,282 @@
+[
+  {
+    "id": "3430bdae2cbe777c",
+    "text": "1. X Axis ball screw.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "ba572e603b9534d2",
+    "text": "To gain access to the x-axis ball screw remove the horizontal covers that are visible from the front of",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "5654f77301a99041",
+    "text": "the machine behind the spindle head. Fig 1. Make sure the machine is off and unplugged.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "d2285cbd52912354",
+    "text": "1. Push the spindle head all the way left along the X-axis.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "dcfdfa3b141223b5",
+    "text": "2. With an Allen key unscrew the screws as per Fig.1, then remove the metal cover.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "48cb798cc7bb6b6e",
+    "text": "Fig 1",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "3962a7830477e6a1",
+    "text": "3. Push the spindle head all the way right along the X-axis",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "dcd4c30a529832e1",
+    "text": "4. With an Allen key unscrew the screws as per Fig.2, then remove the metal cover",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "3ccdcb748892e35e",
+    "text": "Fig 2",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "4ecdb4b5aefad9a8",
+    "text": "5. Looking from down the ball screw you will see two Allen screws on the ball nut as in Fig. 3",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "b5a960d077d975ef",
+    "text": "loosen both roughly half a turn, push the spindle head left and right to feel if it is looser, and wiggle",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "d52b7ea7d69f2ab0",
+    "text": "the spindle head to check for backlash, you want the spindle to move freely with some",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "733408ea5430ee09",
+    "text": "resistance but without any backlash.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "866a00557082fcae",
+    "text": "Fig 3",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "97388646f114b5de",
+    "text": "2. Y Axis Ball screw.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "377caeb1d5dcf1c8",
+    "text": "The ball screw for the Y-axis is under the bed.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "7c0dff6ac7c8ab57",
+    "text": "1. Lift the machine from the front and place a prop under the legs high enough for you to get",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "22c4355dddb033de",
+    "text": "access to the ball nut screws Fig. 4",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "aa66628c1eb55098",
+    "text": "Fig 4",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "55215824ab14c280",
+    "text": "2. There are two Allen screws on the ball nut Fig. 5, loosen them about half a turn and push the bed",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "206fd1390bca7223",
+    "text": "back and forth to feel if it is looser, wiggle the bed back and forth to check for backlash, the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "a19714ee6803bc02",
+    "text": "bed must be able to move with some resistance but without any backlash.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "132677e103bf8f5e",
+    "text": "Fig 5",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "1e4dc6ee81304360",
+    "text": "3. Z-Axis ball screw.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "91e3f4bbc06c88c6",
+    "text": "Access to the Z-axis ball screw is the vertical cover directly behind the spindle head Fig. 6.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "915852c03e1fb0ee",
+    "text": "Fig 6",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "3e17c3480de7ca40",
+    "text": "1. Raise the spindle head this will reveal two cover screws Fig 7, and unscrew them with an Allen key.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "dcaf5cad463c324a",
+    "text": "Fig 7",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "d1fe25e8ce1a1797",
+    "text": "2. Ensure the spindle head is roughly centered, and the bed is all the way forward. Push the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "632c8d0587a2b837",
+    "text": "spindle head all the way down, and make sure there are no cutting bits in the spindle. Remove the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "4f1a05efa996305c",
+    "text": "4 remaining cover screws Fig. 8",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "e9f1ef1a8a03afa6",
+    "text": "Fig 8",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "848969def9eace15",
+    "text": "3. Unclip the metal cover from the clear plastic lid. Fig. 9. This will allow the ball screw cover to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "a974f6d0c0eaf083",
+    "text": "slide down.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "87381b84a0673f5a",
+    "text": "Fig 9",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "b27a820e960c33fe",
+    "text": "4. From the top you can see two Allen screws on the ball nut (use your smartphone camera to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "c4d2176ac07d5e25",
+    "text": "get an easier view of the screws). Fig. 10",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "ade3b6b3cb3b7fbe",
+    "text": "5. Loosen the Allen screws about a half turn and push the spindle dead up and down to feel if it is",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "8187c6bc702f2e56",
+    "text": "looser, wiggle the head to feel for backlash. The head must move with some resistance but",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "1a561d2f981a6501",
+    "text": "without any backlash.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "2f119c9c515c15b0",
+    "text": "Fig 10",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "5c9485f3b0cc7a5c",
+    "text": "Cyclone Dust Collector Maintenance",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "34dc98cc8a9f9b6b",
+    "text": "The Makera Cyclone Dust Collector is a complex electromechanical device full of sensors, electronics, and mechanical parts.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "d4b6605c1205a1ff",
+    "text": "Regular maintenance will reduce the wear and increase the life of the Dust Collector.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "0ce4fe00389de8f5",
+    "text": "Before starting any maintenance procedures ensure the Dust Collector is turned off and unplugged.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "ce6675c2ecc79849",
+    "text": "Vacuum or compressed air can be used for cleaning, do not wash filters or parts.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "eadfa5c59b39b55f",
+    "text": "Cyclone Dust Collector Routine Maintenance Tutorial Video",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "97341a2d3e7e99a9",
+    "text": "Usage of External Control for the Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "ba7446a1ed4b59b0",
+    "text": "Cyclone Manual",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "62dca007a0990ba1",
+    "text": "Click here",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "1ead326a0b0b406c",
+    "text": "to view our tutorial videos for the Makera Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "fde214fc6df00de1",
+    "text": "Instruction Manual for the Makera Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "df8a36d620d01e50",
+    "text": "Overview Video",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "6171b2a461207d19",
+    "text": "Statement",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "b346d5bcfe9cd00b",
+    "text": "FCC statement:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "fb8d9ca025a16f66",
+    "text": "Any Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  }
+]

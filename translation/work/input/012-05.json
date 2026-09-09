@@ -1,0 +1,112 @@
+[
+  {
+    "id": "4f4547c58abfdac7",
+    "text": "Go to the advanced settings and adjust the X and Y coordinates to the above-documented values.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "203efab31e54dfd8",
+    "text": "Reset and try again.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "507cabb7962ecf56",
+    "text": "If step 2 does not rectify the offset, continue to step 3",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "394c36ddc82c4828",
+    "text": "Step 3",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "1cc8dc53fbd2556a",
+    "text": "Do a manual tool rack offset.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "956c0bc85a3a560f",
+    "text": "1. Drop the tool from the toolbar.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "3be6eb92d43befae",
+    "text": "2. Right before it moves into the tool holder, stop the machine with the front button.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "137a484f1945f5b2",
+    "text": "3. Unlock the machine then have a look to see if the positioning is not in the center of the tool holder.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "9875c600f633e413",
+    "text": "4. Manually move X\\Y to see how far the offset is and document the measurement. (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "e535c891d4843282",
+    "text": "Be very careful when moving X/Y set the step to 0.1mm",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "28c1a4cf6ea3281b",
+    "text": "5. In the advanced settings menu adjust the \"tool rack offset\" parameter according to the measurement documented.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "82aee4377578e622",
+    "text": "6. Add or deduct the measurement documented and press apply.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "6ac0c1cc1c01fc5c",
+    "text": "7. Reset the machine and check if the tool locates in the center of the tool holder.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "2adeaa724d6fb408",
+    "text": "8. If not yet centered, repeat the process.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "3b7a30a32a268e49",
+    "text": "9. If there is still a misalignment error (contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "157350f745cfb4e7",
+    "text": "After doing the tool detection operation an error occurs",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "43bb0bcf35cf110b",
+    "text": "The tool sensor detects if there is a bit in the holder or not by using a laser to shine against the shaft of the tool",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "3179b90ec07f9472",
+    "text": "-Diagnostics",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "ab5cee79f1080bd9",
+    "text": "Go to the diagnostics menu in the controller and switch on \"ToolSensorPWR\"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "829c9dfc230c55e3",
+    "text": "Use a tool to check if the sensor detects the bit.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "f702148bb6c5c3ae",
+    "text": "If the sensor is not triggered at all at any distance the sensor is faulty (please contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "b71dde646f31afca",
+    "text": "If the tool is not triggering the sensor in front of the back cover, you may need to manually adjust the sensor distance.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "a90128c053ab659b",
+    "text": "Note: The current task cannot be stopped immediately when the task is paused or held. It has to wait for the buffer zone finish. If emergency occurs that needs to stop the machine immediately, please click the emergency stop button in the software or press the physical emergency stop button on the front panel of the machine. Carvera is built by closed-loop servo motors, and it saves the coordinate and status at each step. Therefore, no needs to reset the tool after reboot/unlock.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "46cec1fa2a815853",
+    "text": "5. XYZ Probe：Use the manual probe to do x/y/z axis probing. See detailed introductions in the next chapter.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "96d78a3481994143",
+    "text": "Different from the cumbersome operation process of general CNC, Carvera greatly simplifies the machining process. The general operation steps are as follows:",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "6cd32b63cd50ed64",
+    "text": "1. Turn on the Carvera device and wait for the homing to end.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "136dc4a637a3703b",
+    "text": "3. Place the tools.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "58e8a17174775472",
+    "text": "4. Open the control software and connect to the device.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "aa698b37e68ddea6",
+    "text": "5. Upload and open the G-Code file.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "b5eb71928d7d8af5",
+    "text": "6. Open the task setting box, set the working zero point and automatic detection rules.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "ce59b5cb69f6bdb2",
+    "text": "7. Start and wait until the machining process ends.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "8225e9792d54f9b0",
+    "text": "Note: After completing the",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "6ee32a96b2af8106",
+    "text": "sample case",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "b5f3cfcef21daa20",
+    "text": ", you will understand how smooth the machining process is when using the Carvera.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "f80d299c2eb4b3d2",
+    "text": "Software Installation",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "c33cb6eab3c0a2b3",
+    "text": "Windows Installation",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "82218b943cdb29b0",
+    "text": "Click to download",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "6f9db1f32f3e6faa",
+    "text": "Carvera Controller(Windows)",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "baf483d912be28a5",
+    "text": "Launch the installer executable",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "f958a6a2e35b3176",
+    "text": "Windows may ask if you trust the software, as Carvera Controller is not currently digitally signed",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "ce49f4b23e6af648",
+    "text": "Select if you would like to create a desktop icon",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "95ba4ed9329f4a25",
+    "text": "Click",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "569ca49f4aaf7846",
+    "text": "Install",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "a6c7a84baa6750fc",
+    "text": "Finish",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "a0e12aaea47d9329",
+    "text": "That's it! Locate the Carvera Controller icon to launch the program",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "06a9827773fda05d",
+    "text": "Install Windows USB Driver (if you connect the machine via USB)",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "11d6ef7e2ca3f40a",
+    "text": "After connecting the USB into your computer. Then open the device manager and under the",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "4e027dbb70b262fc",
+    "text": "Other devices",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "6b0b711ca05fac65",
+    "text": "tab you should see it as",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "d870543bea71e64c",
+    "text": "FTDI 232R UART",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "cb5b1129662c17a1",
+    "text": ". If it shows up there correctly then follow the steps from",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "fcc1685ec515bb6f",
+    "text": "\"STEP 1\"",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "f4a242dc0a2dfbd9",
+    "text": ". And if it shows up as",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "c27e71594165eb28",
+    "text": "USB Serial Port",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "662bd1c7d789bae8",
+    "text": ". In that case simply follow the steps from",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "43eb3655a5c97e70",
+    "text": "\"STEP 2\"",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "c57b5ae01922abbe",
+    "text": "Step 1: Installing First Set of USB drivers",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "5d4fd0490a338f72",
+    "text": "Firstly, Open the device manager, right click on the FTDI and click on",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "5f0b2e1866112d57",
+    "text": "Update drivers",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "8daba3b236eb8106",
+    "text": ". Then click on",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "7fa9c538e45ba300",
+    "text": "Browse My computer for drivers",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "ae7dc4328ad6e151",
+    "text": "and then just select the driver Folder where you downloaded the drivers. And then hit ok, make sure",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "2e235f96386998db",
+    "text": "Include Subfolder",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "c4a56e00e35299b4",
+    "text": "is ticked. And now click on",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "1ff57a29d7c9d11b",
+    "text": "Next",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "88ed73cbe0b52f45",
+    "text": "and it will install first set of drivers",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "3b3efa3403d13440",
+    "text": "Step 2: Installing Second Set of USB drivers",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "08b9c234349ec741",
+    "text": "This time it will show up as",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "d767748a603799c8",
+    "text": "under",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "956cec1fecf54f4c",
+    "text": "other devices",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "3d5ffac8209452ee",
+    "text": ". So now again right click on it and",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "720e5e9497a36e56",
+    "text": "select update drivers",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "956cca61ec7786f7",
+    "text": ". Then again click on",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "984ab5ee16043e35",
+    "text": ". And then just select the driver Folder and hit ok again, make sure",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "fc8bd2ff4d019f79",
+    "text": "and it will install the second set of drivers. Which is same process as first one.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "712d037e9e6529e6",
+    "text": "If everything is done correctly, then the drivers will be installed and now you can use your USB without any problem.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "9c46650b6c463e89",
+    "text": "Mac/OSX Installation",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "fbbb19d9c5881573",
+    "text": "Carvera Controller(Mac)",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "58d6f1a86903b610",
+    "text": "Double-click the dmg file to mount it",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "fa354d3a53a48aa7",
+    "text": "Drag the CarveraController application into your applications folder",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "b77b78322352d971",
+    "text": "Launch CarveraController from the launcher as normal",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "7c86fd1963bcba0a",
+    "text": "You can now eject the DMG file (drag it to the trash bin)",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "c46b951155fb96f7",
+    "text": "Solution for APP damage error",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "5e73eb4490897d91",
+    "text": "If you encounter the warning as above, open the terminal window and execute the command below:",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "b873eaa28961668a",
+    "text": "sudo xattr -r -d com.apple.quarantine /Applications/CarveraController.app",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "a4ee9b6f23ba6c65",
+    "text": "Reopen the CarveraController application, it should be OK now.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "5b6b54293bcfa640",
+    "text": "If you still experience a crash, please execute the following command:",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "703128f11c241839",
+    "text": "open /Applications/CarveraController.app/Contents/MacOS/carvera",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "e65e26a4d4f29f15",
+    "text": "After this, you can directly open it next time.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "d5a53ddcc6e367e0",
+    "text": "Android Installation",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "fb6443e1a88805f3",
+    "text": "Carvera Controller(Android)",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "5a346cefb1996506",
+    "text": "Open your Android device's file explorer app. ...",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "feee9a10cfdb86c6",
+    "text": "Locate your APK file in your file explorer app and select it.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "56017090dd3b4e76",
+    "text": "The APK installer menu will appear—tap Install. ...",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "964fb96f1ac76182",
+    "text": "Allow time for the app to install.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "e2b05f3028ab8d5d",
+    "text": "Tap Done or Open once the installation is complete.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software-installation"
+  },
+  {
+    "id": "ad2ee5fa745aa3cb",
+    "text": "This case shows you how to use Carvera’s tool changing function to automatically complete roughing and finishing steps of machining a relief, providing you with an easy way to make exquisite craftwork. The CAM software is ArtCAM.",
+    "page": "https://wiki.makera.com/en/carvera/manual/three-axis-relief"
+  },
+  {
+    "id": "8cc39ceb4d0c9d75",
+    "text": "1. Cut the 2mm MDF board with a size of 100*150mm as the wasteboard. (You can reuse the PCB one)",
+    "page": "https://wiki.makera.com/en/carvera/manual/three-axis-relief"
+  },
+  {
+    "id": "340381c187854138",
+    "text": "2. Fix the Epoxy Tooling Board and the wasteboard to the table as shown in the figure. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/three-axis-relief"
+  },
+  {
+    "id": "8fc7a6f7423230cc",
+    "text": "3. Check if the milling bits are on the right position. No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.",
+    "page": "https://wiki.makera.com/en/carvera/manual/three-axis-relief"
+  },
+  {
+    "id": "bd66683619719eaf",
+    "text": "6. Open Root->Examples->Relief in the remote directory. Select the “PirateShip.nc” file.",
+    "page": "https://wiki.makera.com/en/carvera/manual/three-axis-relief"
+  },
+  {
+    "id": "b4e947dd72dd2132",
+    "text": "8. Set working coordinate to X offset 3, and Y offset 3 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/three-axis-relief"
+  },
+  {
+    "id": "d9a961d4417d498b",
+    "text": "11. Uncheck “Auto Leveling”.（ Because the material’s surface will be milled to a certain height, no need for automatic levelling detection）",
+    "page": "https://wiki.makera.com/en/carvera/manual/three-axis-relief"
+  },
+  {
+    "id": "2fee22a321bbc060",
+    "text": "14. Remove the epoxy tooling board and use the handsaw in the accessory kit to take out your work.",
+    "page": "https://wiki.makera.com/en/carvera/manual/three-axis-relief"
+  },
+  {
+    "id": "51a7d932893d2eb5",
+    "text": "1. Charging: The wireless probe needs to be charged when it is used for the first time or after the machine has not been used for a long time (more than a week). The wireless probe will automatically start charging after turn on the machine. The charging indicator yellow light will be on and go out when it is full. You may start using it after the voltage reach 3.7v, no need to wait for full charge.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "f99680ab461d4e65",
+    "text": "2. Probing: When the wireless probe is triggered, the green indicator light turns on.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "34138e7997d8a3be",
+    "text": "3. Laser indicator: Press the wireless probe twice to turn on the laser indicator (used for manual tool setting of the XY axis). The laser indicator will also be turned on automatically when scanning the path area.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "f38b3d98a6291aae",
+    "text": "4. Pairing： The wireless probe that comes with the machine has already been paired to the machine by default, you can use it directly. For optional backup wireless probes, you need  to pair it first:",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "cedc7b53c0f57ad5",
+    "text": "4.1. Open the pairing wireless probe popup window in the control software.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "2f18a420c05cc724",
+    "text": "4.2. Click the “Start Pairing” button, and the machine will enter pairing mode. （You have 30 seconds to finish the pairing, need to do it again in case time is out）",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "b29f08a6b98cfdba",
+    "text": "4.3. Trigger the wireless probe for around 10 seconds until the green LEDstart to blink quickly, which means the wireless probe enters pairing mode.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "5ee7b11cba71bce3",
+    "text": "4.4. If pairing succeeds, the green LED will blink 5 times slowly.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "83e5bf958428ad87",
+    "text": "4.5. If pairing fails, the LED will be switched off. Please do it again.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "a02090f2cb9ed5c6",
+    "text": "4.6. You can go to diagnose the window to check if the wireless probe was paired successfully.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "22227bff332dc76b",
+    "text": "5. Test: Open the drop-down list in status toolbar and select the diagnostic function, the diagnostic status dialog box will pop up. Press the wireless probe and you can see the Probe signal is triggered, indicating the wireless probe is working.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "ada094d4967a1c28",
+    "text": "Note:  Unlike crash of milling bits, the crash of wireless probe may cause serious damage to the probe. Please use the wireless probe with caution. Always observe its traveling path, and stop the machine when finding any obstacles to protect the wireless probe.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "bbcfb4445fde5273",
+    "text": "Use case: Normally, using the wireless probe and the anchor-based positioning system is quite enough for most jobs. But when you need to place the workpiece not at the anchor point and need to accurately find the origin, you can use the manual probe.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "3ee2ca30e51e1a46",
+    "text": "1. Plug the manual probe into the 2-pin socket on the left side of the machine bed.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "c93578c3dd87e23e",
+    "text": "5. Click the \"XYZ Probe\" function, and set the height offset and the diameter of the milling bit. (It is recommended to use the 3.175mm diameter test rod we provided for probing so that the default parameters can be applied directly)",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "8731b3b02b1e5f6e",
+    "text": "6. Click OK to start the probing process.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "e7b1630e203ae27f",
+    "text": "Just like the main button in front of the Carvera machine, when any unexpected situation occurs, you can quickly press the emergency stop button to stop the machine, and the machine will stop immediately and enter the alarm state. You need to go to the control software to unlock the machine before continuing to use it. The emergency stop button has a self-locking function, just turn the emergency stop button clockwise to unlock it.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "c996d4d1cdf5e03b",
+    "text": "Use case: There are two main use cases for the air assist module. One is for chip removal and cooling during CNC machining, especially when machining metal materials. The second is to prevent the material from burning during laser engraving to improve the engraving quality.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "dcf71fb8c55c7db2",
+    "text": "1. Use GCode commands M7 and M9 to control the opening and closing of the main air switch.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "e650abec136ad312",
+    "text": "2. Adjust the blue knob at the end of the air assist module to control the airflow, pull the knob to adjust, and press the blue knob to lock. Turn the knob clockwise to decrease the flow and counterclockwise to increase the flow.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "fb42e088521140fc",
+    "text": "3. The angle of the air nozzle can be adjusted to match different tool lengths and laser focus position.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "4c81f6bf13c4acf2",
+    "text": "Note: The air assist module and the dust collection module cannot work at the same time, so remove the dust shoe and turn off the automatic dust collection before using the air assist module.  When the air assist module is not used for a long time, please turn off the air pump. Be careful that the air nozzle does not interfere with the dust shoe and auto tool changer mechanism.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "e7286b0789b3bb6b",
+    "text": "Workholding is one of the most important steps when using a CNC machine. Carvera provides two different workholding methods and corresponding tools to adapt to different types, shapes, sizes of workpieces. While holding the workpiece, you can also locate the workpiece to the pre-defined position accurately by using Carvera’s anchor based system.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "244fdb92c4a4490a",
+    "text": "1. L-Brackets: Carvera provides two types of L-shaped brackets, a thin one and a thick one, as shown in the figure. The L-Bracket can be fixed at one of the two anchor points with two 4mm dowel pins and three M5 screws(thick bracket uses long screws). The lower left corner is anchor 1, and the middle position is anchor 2. There are two semi-circular openings of the thin positioner, you can put two M5 screws to fix the lower-left corner of the workpiece there.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "9a87383099e6f6e1",
+    "text": "2. Top Clamps: The top clamp usually fixes the workpiece with a thickness of less than 2 cm together with the thin L-Bracket.The purpose of the top clamp with a cross groove is to facilitate the use of long sides to fix the workpiece. We recommend using shims at the end of top clamps to fix workpieces greater than 1 cm.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "6c17172ffba669db",
+    "text": "3. Side Clamps: The side clamp is usually work with the thick L-Bracket together to fix the workpiece with a thickness greater than 2 cm. The side clamp can also be used with the top clamp to fix a thin workpiece to process the surface, as shown in the figure.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "bfb96db13e4c7251",
+    "text": "To cooperate with Carvera’s auto tool changing mechanism, you need to use the collar installer to install the collar when replacing new milling bits. The collar installer can do both installation and removal. (the collar is reusable).",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "31265bb26447af27",
+    "text": "Chip evacuation is an important part of CNC but is usually ignored by other desktop-level CNC machines. Carvera has a built-in dust collecting and filtering system that can literally achieve dust-free machining process when doing light weight task and highly reduce the mess level when doing long time jobs .",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "8f4ff41188e17464",
+    "text": "1. Use case: The key factor in deciding whether to use the dust collection system is the interference situation. If the machining path has obstacles that block the dust shoe, do not use it. Generally, the dust collection could be used for machining thin and flat workpieces, such as plates. We suggest moving and locking the dust shoe to the highest position when machining thick and irregular workpieces. And remove the dust shoe entirely when using the 4th axis.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "7507d018ab66dda1",
+    "text": "2. Lock/Unlock: To fit Carvera's automatic tool change function, we designed the dust shoe to be able to slide up and down. As described earlier in the manual, pull out the black knob, and you can switch between lock and unlock states by rotating it every 30 degrees.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "cd2e780562f559d0",
+    "text": "3. Install/uninstall: When dust collection is not needed, you can move the dust shoe to the highest position and lock it, or you can loose the hand screw that fixes the dust shoe to the linear rail and remove the dust shoe. Use the pipe holder as shown in the figure to fix the dust pipe.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "0c6fff2de3deab51",
+    "text": "4. Dust bin: Clean the dust bin in time when the milling job is done.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "3a8aeda548f11a29",
+    "text": "5. Dust bypass: The built-in dust collection system is not very powerful and the capacity of the dust bin is limited, the Carvera supports the bypass of dust to external dust collection devices such as a vacuum cleaner:",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "92b205c2f2e82f27",
+    "text": "5.1. Switch the end of the dust pipe (L-shape) to the bypass input channel as shown.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "e879311baa14e140",
+    "text": "5.2. Connect your vacuum cleaner to the bypass output channel on the back of the machine, the inner diameter is 22mm.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "1ec3bcf62676c102",
+    "text": "Note: Do not lock the dust shoe at the bottom to avoid affecting the automatic tool change function.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "c62459b23862ce18",
+    "text": "Note: The built-in vacuum power is limited, bring your own vacuum cleaner to clean.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "4a54cef8117f3d2a",
+    "text": "Note: When using 4th axis, remove the dust shoe and dust bin for interference free.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "630107d271905f97",
+    "text": "1. Installation: As shown in the figure, fix the rotary module with two 4mm dowel pins and six M5*20 screws. Plug the motor cable into the 4 pin socket on the left side of machine bed. Please reboot the machine to enable the rotary module.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "c1bbc9f7e2036ea9",
+    "text": "2. Chuck Jaws Assembly: As shown in the figure, there are two assembly positions. The standard position is suitable for small workpieces, and the reversed position is suitable for bigger-diameter workpieces. The default position is reversed to fit our 4th axis example. You can change it to standard according to your needs. The assembly order should refer to the '1, 2, 3, 4' numbers marked on the jaws.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "ea5c8b2659f99270",
+    "text": "Carvera comes with a 1/8 inch(3.175mm) tool clamp. This is the common used size for desktop level CNC machines, which can meet most machining requirements. For special sizes such as 4mm/6mm/6.35mm, you can change the tool clamp and the tail shaft of the wireless probe.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "932b261b6135a94d",
+    "text": "1. Change spindle collet: Use the control software to drop the current tool, insert the spindle collet installer into current collet, rotate counterclockwise to remove current collet. Use the same way to install the new collet.(don't tighten too much for future exchange)",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "2b6d254b3052f48e",
+    "text": "2. Change tail shaft of wireless probe: Rotate the wireless probe’s tail shaft counterclockwise to remove. Use the same method to change the new tail shaft.(don't tighten too much for future exchange)",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "97e9d4de4ffe05ec",
+    "text": "The Carvera machine has a built-in 2.5W diode laser module, which can engrave wood, plastic, and other materials, an excellent complement to the CNC function. You don't need to adjust the focus or offset of the laser module by default because we have done that before leaving the factory. But if you encounter any problem with them,  we will explain the detailed adjustment method in the specific tutorial on our website.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  }
+]

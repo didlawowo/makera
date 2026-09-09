@@ -1,0 +1,137 @@
+[
+  {
+    "id": "6410f45d838d80de",
+    "text": "2.3. Set Work Origin: Set the work coordinates zero point relative to anchor points - the X/Y axis distance relative to anchor point 1 or 2. (Only X distance is needed when performing 4-Axis machining). Please note that the work coordinate settings will take effect immediately.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "12025819d9192345",
+    "text": "2.4. Scan Margin: Scan the rectangle path area before machining. When scanning, machine will switch to the wireless probe and turn on the red laser for observation. We recommend new users turn on this while running job.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "68a4ac524850aa14",
+    "text": "2.5. Auto Z Probe: Z-axis tool setting is required after changing the workpiece or the zero points of the work coordinate. When doing Z probe, machine will automatically switch to the wireless probe and do probe at the set position.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "586445de00fd72a4",
+    "text": "Work Origin: Perform Z axis probe at a certain distance related to the X/Y axis of the working coordinate zero point.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "7e471bad148c611d",
+    "text": "Path Origin: Perform Z axis probe at a certain distance related to the actual X/Y machining starting point (lower left corner). This method is selected by default.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "3394fc48989f7e85",
+    "text": "2.6. Auto Leveling: If requiring uniform machining depth, please select the automatic leveling option such as PCB engraving. You can set the leveling matrix size and the lifting height when moving horizontally during the leveling process. The less the flatness, the higher the lifting height needs to be. The higher the requirement for machining consistency, the denser the matrix. For PCB engraving, it is better to have matrix dots spaced about 1 cm apart.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "f348c34fb52223f4",
+    "text": "2.7. Run: Click to start machining process. If you set the scanning area, Z-axis tool setting or automatic leveling, the G-Code file will be executed after the automatic detection is completed.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "7b7bb8fae3c04b6d",
+    "text": "Note: The wired probe is a precise device that integrates mechanics and electronics, which is easy to damage. Please be careful when using it. Make sure no obstacles can block its way. We suggest new users turn on the scan margin function to preview the route. It is recommended to leave sufficient margin between L bracket position and path start point, greater or equal to 10/10mm.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "9644d1ad431d2225",
+    "text": "3、Task control",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "0ceda836d7e65921",
+    "text": "3.1. Task pause: Pause the running G-Code task and you can manually control the machine afterwards. But if you want to resume the task, please remember to turn on the spindle, or it may damage the tool if it resumes without rotating the spindle.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d649f670cd5a766c",
+    "text": "3.2. Task stop: Terminate the current G-Code task.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "3c171479b6bb246a",
+    "text": "3.3. Task hold: Similar to task pause, but the pause speed is faster and cannot control the machine manually during holding.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d7bc429f10029369",
+    "text": "3.4. Task track: Display the current G-Code task name, running time, percentage and other information.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "8fa801ad75ce4f48",
+    "text": "3.5. Emergency stop: Immediately stops the current task, turn off the spindle, the same function as the physical button in front the machine.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "2ca790ab5a37447b",
+    "text": "Note: The current task cannot be stopped immediately when the task is paused or held. It has to wait for the buffer zone finish. If emergency occurs that needs to stop the machine immediately, please click the emergency stop button in the software or press the physical emergency stop button on the front panel of the machine. Carvera Air is built by closed-loop servo motors, and it saves the coordinate and status at each step. Therefore, no needs to reset the tool after reboot/unlock.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "252041968280a569",
+    "text": "1. G-Code interface: Display the currently opened remote or local G- Code file. When the task is running, it will track and highlight the running line in real-time.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d503d31dc53467c1",
+    "text": "2. MDI: Display detailed send/receive commands, similar to the log information. In specific cases, you can manually enter the g-code for operation and diagnosis. Enter “clear” to clear the current command area.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d4a9cac024c61ebb",
+    "text": "1. Graphical preview:  Open the G code file to preview the G code graphics in the tool path preview area. Green lines are G1/G2/G3 code, and red lines are fast moving G0 code.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "5d24702e06e8357a",
+    "text": "2. Display control toolbar:  You can pan (right mouse button), rotate (left mouse button), zoom in (scroll wheel up), zoom out (scroll wheel down), and restore the preview (double-click) . You can also select to show/hide the G-Codes for for different tools.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "caeff0161c18b23f",
+    "text": "3. Playback toolbar:  When the task is not running, you can play, fast forward, or backward the preview. When the task is running, the preview graph shows the real-time machining trace.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "2147dc84a3e5219e",
+    "text": "1. Jogging control: Manually control the movement of the X/Y/Z axis and rotate the A axis at G0 fast speed (3000mm/min by default). You can set movement distance. The",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "56b9005f54772e67",
+    "text": "2. Status control: You can unlock, reboot or reset the device.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "cd8c86ce54745d4f",
+    "text": "3. Automatic detection: Automatically scan the machining area; perform Z-axis probe or automatic leveling. The difference between here and the task configuration is that you can just apply one-time detection, without executing the G code file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "17796462421346e2",
+    "text": "4. Move to the specified location: Provide a shortcut to quickly move to the specific location; including anchor points 1, 2, working zero points, G-code starting point, and clearance point (the upper right corner next to the machine zero points by default. You can quickly move the machine to there before cleaning the working surface after machining process end).",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "6521d95886c0987b",
+    "text": "5. Set Orign: Manually set the work origin coordinates or use the manual probe to perform X, Y, and Z axis probing. See detailed introductions in the next chapter.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "a1b7a0a412031115",
+    "text": "The device triggers an alarm when encountering an abnormal. Some alarms can be closed by unlocking. Some require rebooting the machine.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d16b3a470c31d8d0",
+    "text": "General Workflow",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  }
+]

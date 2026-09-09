@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1099d358d6cbfbc6",
+    "text": "Creates multiple thread passes based on set parameter. The default is 1.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0d2982bbece83453",
+    "text": "Select tool (thread milling bit) and modify/confirm tool processing parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

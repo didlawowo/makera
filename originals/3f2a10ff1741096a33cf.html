@@ -1,0 +1,127 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>brass nut issue</title><h1>brass nut issue</h1><article><div><h2 id="my-brass-nut-is-stuck" class="toc-header"><a class="toc-anchor" href="#my-brass-nut-is-stuck">¶</a> My brass nut is stuck</h2>
+<p>This guide explains how to resolve a common issue affecting the automatic tool changer (ATC), where the machine produces a grinding noise or fails during the homing process.</p>
+<p>This issue is typically caused by an <strong>over-tightened brass coupling</strong> inside the spindle assembly.</p>
+<hr>
+<h2 id="symptoms" class="toc-header"><a class="toc-anchor" href="#symptoms">¶</a> <strong>Symptoms</strong></h2>
+<p>You may be experiencing this issue if your machine shows one or more of the following:</p>
+<ul>
+  <li>“ATC home fail” error</li>
+  <li>Loud grinding or slipping noise</li>
+  <li>Tool changer not engaging or releasing</li>
+  <li>Motor spins, but no mechanical movement occurs</li>
+  <li>Tool changer appears stuck</li>
+</ul>
+<hr>
+<h2 id="root-cause" class="toc-header"><a class="toc-anchor" href="#root-cause">¶</a> <strong>Root Cause</strong></h2>
+<p>Inside the tool changer assembly, there is a <strong>brass threaded coupling</strong> connected to a motor-driven shaft.</p>
+<p>If this brass piece becomes <strong>over-tightened</strong>, or there is some debris buildup, the motor cannot generate enough torque to loosen it. As a result:</p>
+<ul>
+  <li>The motor spins</li>
+  <li>The gearbox slips</li>
+  <li>A grinding noise is produced</li>
+  <li>The tool changer fails to operate correctly</li>
+</ul>
+<hr>
+<h2 id="tools-required" class="toc-header"><a class="toc-anchor" href="#tools-required">¶</a> <strong>Tools Required</strong></h2>
+<ul>
+  <li>Allen keys / hex set</li>
+  <li>Screwdrivers</li>
+  <li>Pliers (optional)</li>
+  <li>Rubber grip or cloth</li>
+  <li>Optional: Custom 3D-printed gripping tool</li>
+</ul>
+<hr>
+<h2 id="step-by-step-solution" class="toc-header"><a class="toc-anchor" href="#step-by-step-solution">¶</a> <strong>Step-by-Step Solution</strong></h2>
+<h3 id="h-1-remove-the-spindle-cover" class="toc-header"><a class="toc-anchor" href="#h-1-remove-the-spindle-cover">¶</a> <strong>1. Remove the Spindle Cover</strong></h3>
+<ul>
+  <li>Power off and unplug the machine</li>
+  <li>Remove the outer spindle cover by unscrewing the mounting screws</li>
+  <li>Carefully expose the internal spindle assembly</li>
+</ul>
+<hr>
+<h3 id="h-2-disassemble-the-spindle" class="toc-header"><a class="toc-anchor" href="#h-2-disassemble-the-spindle">¶</a> <strong>2. Disassemble the Spindle</strong></h3>
+<ul>
+  <li>Locate the <strong>4 long screws at the bottom of the spindle</strong></li>
+  <li>Remove them to separate the spindle housing</li>
+</ul>
+<hr>
+<h3 id="h-3-remove-the-stepper-motor-and-mid-section" class="toc-header"><a class="toc-anchor" href="#h-3-remove-the-stepper-motor-and-mid-section">¶</a> <strong>3. Remove the Stepper Motor and Mid Section</strong></h3>
+<ul>
+  <li>Detach the <strong>stepper motor</strong></li>
+  <li>Remove the <strong>middle section of the spindle assembly</strong></li>
+  <li>Set all parts aside carefully</li>
+</ul>
+<hr>
+<h3 id="h-4-remove-the-limit-switch-pin" class="toc-header"><a class="toc-anchor" href="#h-4-remove-the-limit-switch-pin">¶</a> <strong>4. Remove the Limit Switch Pin</strong></h3>
+<ul>
+  <li>Locate the <strong>limit switch</strong></li>
+  <li>Remove the <strong>steel pin underneath it</strong></li>
+  <li>This will allow access to the tool changer mechanism</li>
+</ul>
+<hr>
+<h3 id="h-5-extract-the-tool-changer-mechanism" class="toc-header"><a class="toc-anchor" href="#h-5-extract-the-tool-changer-mechanism">¶</a> <strong>5. Extract the Tool Changer Mechanism</strong></h3>
+<ul>
+  <li>Pull out the <strong>automatic tool changer assembly</strong></li>
+  <li>Ensure nothing is obstructing the removal</li>
+</ul>
+<hr>
+<h3 id="h-6-identify-the-brass-coupling" class="toc-header"><a class="toc-anchor" href="#h-6-identify-the-brass-coupling">¶</a> <strong>6. Identify the Brass Coupling</strong></h3>
+<ul>
+  <li>Locate the <strong>brass threaded piece on the shaft</strong></li>
+  <li>This is the component that is typically stuck</li>
+</ul>
+<hr>
+<h3 id="h-7-loosen-the-brass-coupling" class="toc-header"><a class="toc-anchor" href="#h-7-loosen-the-brass-coupling">¶</a> <strong>7. Loosen the Brass Coupling</strong></h3>
+<h4 id="important" class="toc-header"><a class="toc-anchor" href="#important">¶</a> Important:</h4>
+<ul>
+  <li>The gearbox makes it difficult to rotate the shaft backward</li>
+  <li>You may need firm, controlled force</li>
+</ul>
+<h4 id="recommended-methods" class="toc-header"><a class="toc-anchor" href="#recommended-methods">¶</a> Recommended methods:</h4>
+<p><strong>Option A: Manual Grip</strong></p>
+<ul>
+  <li>Use a rubber grip or cloth</li>
+  <li>Attempt to loosen the brass piece by hand</li>
+</ul>
+<p><strong>Option B: Pliers (Use Carefully)</strong></p>
+<ul>
+  <li>Apply controlled force</li>
+  <li>Avoid damaging the brass surface</li>
+</ul>
+<p><strong>Option C: 3D-Printed Tool (Best Method)</strong></p>
+<ul>
+  <li>Use a custom tool that fits around the brass coupling</li>
+  <li>Add a rubber insert for extra grip</li>
+  <li>Provides strong torque without damage</li>
+</ul>
+<hr>
+<h3 id="pro-tip" class="toc-header"><a class="toc-anchor" href="#pro-tip">¶</a> <strong>Pro Tip</strong></h3>
+<p>If the shaft spins while trying to loosen the brass piece:</p>
+<ul>
+  <li>Reinstall the <strong>stepper motor into the gearbox</strong></li>
+  <li>This will prevent the shaft from rotating and make loosening easier</li>
+</ul>
+<hr>
+<h2 id="reassembly" class="toc-header"><a class="toc-anchor" href="#reassembly">¶</a> <strong>Reassembly</strong></h2>
+<p>Once the brass coupling is loosened:</p>
+<ol>
+  <li>Reinstall the tool changer mechanism</li>
+  <li>The brass nut can be positioned anywhere on the shaft.</li>
+  <li>Replace the limit switch pin</li>
+  <li>Reassemble the spindle sections</li>
+  <li>Reattach the stepper motor</li>
+  <li>Install the spindle cover</li>
+</ol>
+<hr>
+<h2 id="final-check" class="toc-header"><a class="toc-anchor" href="#final-check">¶</a> <strong>Final Check</strong></h2>
+<ul>
+  <li>Power on the machine</li>
+  <li>Run a tool change operation</li>
+</ul>
+<p>Confirm:</p>
+<ul>
+  <li>No grinding noise</li>
+  <li>Smooth tool engagement</li>
+  <li>No ATC errors</li>
+</ul>
+</div></article></html>

@@ -1,0 +1,217 @@
+[
+  {
+    "id": "cbb2564988abd10e",
+    "text": "Setup Device",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "64c41111ca7205ea",
+    "text": "1. Start LightBurn.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "dd8ec1bb5dbd75e6",
+    "text": "2. Click the \"Device\" button.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "5ca3ff4d1c4f180d",
+    "text": "3. Click the \"Import\" button in the popup dialog.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "0f0e024e60320ec6",
+    "text": "4. Select the \"LightBurn.lbdev\" file and finish importing the Makera Carvera device.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "b9da1969185aa73b",
+    "text": "Using LightBurn Profiles",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "99324039d7f460e2",
+    "text": "When saving GCode, select \"Makera\" as the current device.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "3fe85d1d862668ed",
+    "text": "Makera CAM Intro",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "d4ca16cfaecd87e7",
+    "text": "Introducing Makera CAM Beta: Powerful and Easy-to-Use",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "b24a5b498f9ae0c1",
+    "text": "Unlock the full potential of your Carvera with our comprehensive CAM software, supporting 2D/PCB and Laser paths. 3D and Rotary path support coming soon!",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "e0079735e61d7713",
+    "text": "Please feel free to contact us at",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "4e9caa9d93a7a7b8",
+    "text": "to apply for a trial.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "cf3e83b69201e33f",
+    "text": "Introductory Video",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "24ee5aefd2dd766f",
+    "text": "PCB processing Tutorial",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "4964fce926376ae9",
+    "text": "Makera CAM Tutorials",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "a95487e4f934a361",
+    "text": "For additional information and support as you learn how to use Makera CAM for your CNC projects, check out the official",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "19db1dc374ae2f75",
+    "text": "Makera CAM user guid",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "2096aec940ffe388",
+    "text": "e. And are you new to CNC's? If so, we recommend you check out our",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8c43346932b9070f",
+    "text": "Learn how to use Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "97836bfd07961282",
+    "text": "This page provides a collection of How-To videos and guides to support users as they learn to use Makera CAM software to prepare designs for manufacturing with their CNC machines. For each step by step guide, a short video has also been created to provide further support and clarity to our users. Greater detail and topics can be found in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "e57e201d8f6fe154",
+    "text": "Makera CAM User Guide",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "0b19d4df515a7ec8",
+    "text": ", and additional videos are also available on the official",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "364355ceebd38433",
+    "text": ". You can also find project tutorials and sample files for Makera CAM on the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "42b9dd8a364451dd",
+    "text": "page of our wiki.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8702cd29d3069434",
+    "text": "Makera CAM Overview",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "b05452c6ae13a45c",
+    "text": "In this video, we overview the most recent release of the public beta version of Makera CAM as we learn how to use the different tools and features within the program. We overview how to import different types of design files, as well as how to adjust our tools and materials to create tool paths for manufacturing.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "7ac32a4199255050",
+    "text": "How to Navigate and Select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "58ee8bfe13b5fd4b",
+    "text": "In this video, we cover the basic navigation tools to select objects, pan, rotate, and zoom within the design window. We also cover view options to customize the workspace, as well as look at how to select different types of graphic objects within our designs.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "ea70a8a53b6d283e",
+    "text": "The Tool Library",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "ef483636d90ca9fe",
+    "text": "In this video, we look at how to use and adjust the tool library. The tool library should correspond to the tools you have available for machining, as well as the stock you plan to use. In the tool library, we can edit and create tools, groups, and adjust default speed and feed parameters for our projects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "7fab066d964336d0",
+    "text": "Materials and Stock",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8d23e5bc9f023f8c",
+    "text": "In this video, we look at how the materials listed in the materials library can be edited and created, and how these materials impact the use of the stock parameters and default speeds and feeds for our tools when making tool paths.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "b1fb94a8ae47bc64",
+    "text": "Work Coordinate Systems",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "58b482da28d21e03",
+    "text": "In this video, we look at how to edit and create work coordinate systems for our multi-sided projects. Work Coordinate Systems, or WCS, allows you to choose the origin points for your stock, as well as setup multiple origins for separate jobs in a single project.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "329e5138aed801b1",
+    "text": "Working with Layers",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8b190e624da5bab4",
+    "text": "In this video, we look at what layers are, and how they can be created and edited in our projects. Layers allow for us to easily separate parts of our design, as well as work to support importing different types of design files.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "49ca7396a6a00cf4",
+    "text": "Working with Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "d57616e4acc57c23",
+    "text": "In this video, we look at how paths can be edited and exported in our projects. As shown in other videos, tool paths are an important part of CAM software as they are what guide our CNC machines to manufacture our projects. This video shows how to edit paths, as well as export them for manufacturing as a GCode file.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "941cdc964b2c6339",
+    "text": "Working with 2D Designs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "015f3afefc5b753c",
+    "text": "In this video, we look at how 2D files (formerly referred to as Vector Graphics), such as SVGs and DXFs, can be imported into Makera CAM. 2D design files are the ideal file type for creating 2D tool paths for subtractive manufacturing. This video shows how 2D files can be edited and used for our projects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "5611a9d870c31e3c",
+    "text": "Working with 3D Designs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "300be664d05c2150",
+    "text": "In this video, we look at how 3D files, such as STEPs and STLs, can be imported into Makera CAM. 3D design files are the ideal file type for creating 3D tool paths for subtractive manufacturing in both 3-axis and 4-axis configurations. This video shows how 3D files can be edited and used for our projects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "e6b923ab6f388f5e",
+    "text": "Working with Image Files",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  }
+]

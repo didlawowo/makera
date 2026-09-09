@@ -1,0 +1,652 @@
+[
+  {
+    "id": "82fed38b8fad3fd2",
+    "text": "6. Repeat the same process for the front section, sequentially installing No.3 and No.4 jaws, until the rear nut can be fully tightened.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/swapping-jaws"
+  },
+  {
+    "id": "4e182f06b48cadbe",
+    "text": "Converting from Forward-Jaw Chuck to Reverse-Jaw Chuck:",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/swapping-jaws"
+  },
+  {
+    "id": "eca37881cc67c60c",
+    "text": "2. After removing all the jaws, observe the numbering on each jaw. The correct order for the reverse-jaw chuck is No.4 - No.3 - No.2 - No.1.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/swapping-jaws"
+  },
+  {
+    "id": "99944aeaf7eed3b1",
+    "text": "3. When installing the reverse-jaw chuck, rotate the rear nut of the chuck and align the notch on the nut with any of the slots. Then, insert No.4 jaw and rotate the rear nut.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/swapping-jaws"
+  },
+  {
+    "id": "6cbbd526dbdfcc61",
+    "text": "4. Rotate the rear nut 90° and insert No.3 jaw into the next slot.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/swapping-jaws"
+  },
+  {
+    "id": "a822bfa147e17765",
+    "text": "6. Repeat the same process for the front section, sequentially installing No.2 and No.1 jaws, until the rear nut can be fully tightened.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/swapping-jaws"
+  },
+  {
+    "id": "fc2ed7d7a4d7a563",
+    "text": "Upgrade the Software",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "a80889717d47bc0f",
+    "text": "When you get the update notification in the controller software or get the software upgrade notice at other places.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "4feab225ee9abab9",
+    "text": "Firmware Upgrade",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "1f4b46df8f07ce72",
+    "text": "Download the latest firmware from our official website:",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "cce90e939e42aec3",
+    "text": "Open the controller software and connect to the Carvera.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "44075c4a49c95c49",
+    "text": "Click the top-right ‘other function’ menu and open the software update popup window.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "09cb219458ac8476",
+    "text": "Click the ‘upgrade’ button and select the latest firmware you just downloaded.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "6e59dcb3aea5b4cb",
+    "text": "Click upload, and wait for the uploading to finish, the machine will be reset automatically by default. Or you can manually reset the machine.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "5c57ab819d39b1d3",
+    "text": "After resetting, you can check if the firmware version has been updated by reopening the upgrade window, or manually input the ‘version’ command in the MDI window.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "e6bcdffdd3189ac6",
+    "text": "Controller Software Upgrade",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "b8cb87ba93bfd126",
+    "text": "For control software, just install the latest version and you are ready to use.",
+    "page": "https://wiki.makera.com/en/carvera/maintenance/upgrade-software"
+  },
+  {
+    "id": "b0b9fe24ffa96291",
+    "text": "Manual",
+    "page": "https://wiki.makera.com/en/carvera/manual"
+  },
+  {
+    "id": "5bee371143699bb2",
+    "text": "The content of this page is a structured version of the Instruction Manual and Example Guide.",
+    "page": "https://wiki.makera.com/en/carvera/manual"
+  },
+  {
+    "id": "08be98a8e2e3c077",
+    "text": "Instruction Manual",
+    "page": "https://wiki.makera.com/en/carvera/manual"
+  },
+  {
+    "id": "646aa7622edcb003",
+    "text": "General Steps",
+    "page": "https://wiki.makera.com/en/carvera/manual"
+  },
+  {
+    "id": "9639d7c6404d8aa6",
+    "text": "Wireless Probe",
+    "page": "https://wiki.makera.com/en/carvera/manual"
+  },
+  {
+    "id": "b61d47c87fba7346",
+    "text": "Tool Preparation",
+    "page": "https://wiki.makera.com/en/carvera/manual"
+  },
+  {
+    "id": "4681dc013166fce0",
+    "text": "4th-axis relief",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "bc8785a191495071",
+    "text": "This case shows you how to use Carvera’s rotary axis to machine a 3D object. We don’t use dust collection for rotary axis machining, so we split the roughing and finishing process into two jobs. You should clean the dust between the two steps. The CAM software used in this case is DeskProto.",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "e6e01faefb531cba",
+    "text": "Note：We don’t use dust collection for 4-axis machining. Please remove the dust shoe, lift up the dust shoe rail and fix the dust collection tube to the temporary point, take off the dust bin to prevent collision (Read Carvera instruction manual for more imformations)",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "37baeeb8900bb91a",
+    "text": "1. Plug in the cable and Install the rotary axis. （Please read the Carvera instruction manual for using the rotary axis）If your Carvera is on, please power off the machine first before installation.",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "3dc996672a5db0af",
+    "text": "3. Check if the milling bits are on the right position . No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "77dbe94c27f74d7b",
+    "text": "5. Open the control software and connect to Carvera (please read Carvera instruction manual for detailed steps)",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "00a07622d7d232a0",
+    "text": "6. Check the configuration and click run, then wait for the completion.",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "dd2e09bd075cd03e",
+    "text": "5. Check the configuration and click run, then wait for the completion.",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "27daa7e9b26de024",
+    "text": "7. Use the handsaw in the accessory kit to remove the remaining epoxy on both ends.",
+    "page": "https://wiki.makera.com/en/carvera/manual/4th-axis-relief"
+  },
+  {
+    "id": "f815b82b5ba80597",
+    "text": "Practice is the most direct and effective learning method. We provide a series of machining samples, materials and tools to make you familiar with the functions and procedures of using Carvera to do delicate works.",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "a6f5d4ca755059b9",
+    "text": "With fully automatic capabilities, Carvera greatly simplifies the machining process. However, we still recommend reading the Carvera instruction manual carefully before start using it. This will ensure that you get a quick knowledge of Carvera and avoid basic misoperations.",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "8ea347a31b714d9e",
+    "text": "For specifications and more information, please visit our official website:",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "b930bdc6bf31b444",
+    "text": "If you have any problems with Carvera, please contact us directly:",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "1451155f220ed29a",
+    "text": "Also, join in the Facebook group to discuss and share your experience with other Carvera users:",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "e2aa1a719a4a7d8e",
+    "text": "Go to download full version eBook:",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "abab3f5ba1e84fdb",
+    "text": "Tool preparation",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "2f60d67c76b95e18",
+    "text": "Please click for details：",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "437aea62a5bd6ad4",
+    "text": "Contents",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "cb23ef12f2489006",
+    "text": "LED light",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "a30a885e2b182406",
+    "text": "Laser engraving",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "03b9658df0f377b1",
+    "text": "Three-axis relief",
+    "page": "https://wiki.makera.com/en/carvera/manual/examples-guide"
+  },
+  {
+    "id": "87d8706ac481dcc0",
+    "text": "Laser engraving is a auxiliary function in Carvera. We chose a 2.5W laser for mainly engraving the material, not for cutting. This case shows how to use the laser function to engrave pictures as black and white photos. We use LightBurn as laser CAM software here.",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "8db80d950a947d3a",
+    "text": "1. Cut the 2mm MDF board with a size of 100（in direction X）*120mm（in direction Y）as the engraving Material.",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "8f94d5aa97aa2a45",
+    "text": "2. Fix the MDF to the table as the illustration above. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "29fc4d0267c099db",
+    "text": "4. Open the control software and connect to Carvera (please read Carvera instruction manual for detailed steps)",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "ce19ced7d63a38d1",
+    "text": "5. Open Root->Examples->Laser in the remote directory. Select the“AudreyHepburn.nc” file.",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "56d7a05df0cc3829",
+    "text": "7. Set working coordinate to X offset 7.5, and Y offset 10 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "7b7744a041b3d6db",
+    "text": "10. Uncheck the “Auto Leveling” option(Because laser engraving has a high tolerance for flatness, no need for leveling).",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "0503947efdd73203",
+    "text": "11. Check the configuration and click run, then wait for the completion.",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "e64276de97d30071",
+    "text": "12. Move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "9a380690fab1e44c",
+    "text": "13. Remove the MDF.",
+    "page": "https://wiki.makera.com/en/carvera/manual/laser-engraving"
+  },
+  {
+    "id": "78c98d9c1ca7a705",
+    "text": "The LED light in this example consists of four parts: the circuit, the base, the display light board, and the touch switch, which shows the comprehensive capabilities of the Carvera smart desktop CNC milling machine.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "ab6a4127cf52535b",
+    "text": "With Carvera, you can greatly accelerate the speed from design to prototype and even commercial products. The CAM software using in this example are CopperCAM, ArtCAM, Fusion360 and LightBurn.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "8f03d9561437c1bc",
+    "text": "1. Cut the 2mm MDF (Medium Density Fiberboard) with a size of 150*100mm as the wasteboard.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "9ed2113cb3e43636",
+    "text": "2. Fix the PCB and the wasteboard to the table, as shown in the figure. Place it close to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "440f3248b0d1baa4",
+    "text": "3. Check if the milling bits are in the right position. No.2-30°0.2mm V-bit，No.3-0.8mm corn bit，No.5-UV solder mask removal bit (Optional.)",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "b5bbefacfde37a88",
+    "text": "5. Open the control software and connect to Carvera (please read Carvera instruction manual for detailed steps.)",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "3bc8157cda0d7598",
+    "text": "6. Open the Root->Examples->LED folder under the Remote directory and select the machining file. If you bought the PCB pack and want to use the UV solder mask, please turn to the Use UV solder mask section; otherwise, continue the No UV solder mask section.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "53ec15d2dca90a97",
+    "text": "5. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "cafbe3b8756672df",
+    "text": "6. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 5, and the detection height to 2.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "b5c752d677a7e6fa",
+    "text": "7. Check the configuration and click run, then wait for the completion.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "ea0ca56d9e0eb7cd",
+    "text": "8. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "5be56848510a9341",
+    "text": "9. Take out the PCB board and cut off the tabs with the handsaw in the accessory kit.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "80e5986793150c73",
+    "text": "7. Check the configuration according to the figure above and click Run, then wait for the task to finish.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "056cf13490aa126b",
+    "text": "6. Check the configuration and click Run, then wait for the task to finish.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "d5cc76ac3796dd69",
+    "text": "1. Cut the 2mm MDF board with a size of 150*150mm as the wasteboard.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "df71c72b523ed811",
+    "text": "2. Fix the ABS plastic board and the wasteboard to the table as shown in the figure. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "e00a14ae5851ef6a",
+    "text": "3. Check if the milling bits are in the right position. No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "10e00ad9ae9f3f44",
+    "text": "6. Open Root->Examples->LED in the remote directory. Select“ABS-Base.nc” machining file.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "8ac23abdd868eb9d",
+    "text": "7. Open the task configuration and operation dialog box",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "74168da125c70a6c",
+    "text": "8. Set working coordinate to X offset 15, and Y offset 20 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "00f1f866f3528c48",
+    "text": "9. Check the “Scan Margin” option.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "a8c01251db5a7f3d",
+    "text": "10. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "c9254b2fd8fb43fc",
+    "text": "11. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 3, and the detection height to 2.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "4bdea33f114579dc",
+    "text": "12. Check the configuration and click run, then wait for the completion.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "a528e148a1f751a5",
+    "text": "13. Move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "fa838f6025c90273",
+    "text": "14. Use a vacuum to clean the table, take out the ABS board and use the handsaw in the accessory kit to remove the tabs.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "6338d180dee5daa3",
+    "text": "2. Remove the protective film on the top. Fix the acrylic board and the wasteboard to the table, as shown in the figure. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "093d5c14d54dd6ec",
+    "text": "6. Open Root->Examples->LED in the remote directory. Select the “ACRYLIC-XXXX.nc” file. Here we provided 5 pictures for you. You can choose the one of your preference.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "3ec97911ea03a6a5",
+    "text": "7. Open the task configuration and operation dialog box.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "2731f51470c87989",
+    "text": "8. Set working coordinate to X offset 15, and Y offset 25 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "94a1c5f8f6ac9409",
+    "text": "11. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 5, and the detection height to 2.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "c4463bfc7c3e2a56",
+    "text": "14. Use a vacuum to clean the worktop and remove the acrylic board.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "bdd9a95fd455c0b2",
+    "text": "15. Break the acrylic board by aligning the V-groove with an edge of a table.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "d1f5439b269a5e3c",
+    "text": "1. Cut the 2mm MDF with a size of 100*100mm as the wasteboard.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "3e99d5baa26dafd0",
+    "text": "2. Fix the aluminium alloy board and the wasteboard to the table, as shown in the figure. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "de44ec4215e9501c",
+    "text": "3. Check if the milling bit is in the right position. No.4-3.175*12 single flute spiral bit for metal.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "26ef654a784ab5d0",
+    "text": "6. Open Root->Examples->LED in the remote directory. Select the “ALUMINUM-Button.nc” file.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "89c15a2a6070156e",
+    "text": "8. Set working coordinate to X offset 10, and Y offset 10relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "56e32e9e07a19489",
+    "text": "11. Check the “Auto Leveling” option, set the number of X detection points to 3, Y to 3, and the detection height to 2.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "34a35d616d07b87b",
+    "text": "13. Move the machine to the clearance area after the operation is completed to reduce the interference to subsequent operations.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "6b81382182759304",
+    "text": "14. Use a vacuum to clean the worktop, remove the board and use the handsaw in the accessory kit to remove the tabs.",
+    "page": "https://wiki.makera.com/en/carvera/manual/led-light"
+  },
+  {
+    "id": "f97e9da0e3b879f0",
+    "text": "Other",
+    "page": "https://wiki.makera.com/en/carvera/manual/maintenance/Other"
+  },
+  {
+    "id": "f7bd60bb5186bf16",
+    "text": "TBA",
+    "page": "https://wiki.makera.com/en/carvera/manual/maintenance/Other"
+  },
+  {
+    "id": "9b3289a385a5301e",
+    "text": "Software",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "40cd3fa39efe584a",
+    "text": "Manually control Carvera’s movement and execute other commands. Because Carvera does most of the jobs automatically, the manual control interface is hidden by default. Click the arrow on the right side of the interface to switch whether to display it.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "0bee0fffd682a0f7",
+    "text": "1.4.1. WIFI: Connecting Carvera via WiFi.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "3a8d59a3ca116cfc",
+    "text": "1.4.2. USB: Connecting Carvera via USB.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "e697a8cee4d69930",
+    "text": "1.4.3 Unlock/Reset: Unlock or reset Carvera.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "e90c0dd352ae62da",
+    "text": "1.4.4. Disconnect: Disconnect Carvera from your device.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "a387f41c4c352e04",
+    "text": "Explanation of different Carvera statuses :",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "22e1b1b4acb512ee",
+    "text": "2.2. Main data: Work coordinate (The position of the tool relative to the work zero point). The position depends on where you put your workpiece and where you want to start on the workpiece.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "fd89b392ad5333af",
+    "text": "2.3. Sub-data: Machine coordinates (The position of the tool relative to the machine’s zero point). The position is fixed and located in the upper right corner of the machine, so the coordinates are generally negative.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "8fb64f6f6a8b0921",
+    "text": "2.4.1 Set Origin: The working coordinates of four axes - X/Y/Z/A can be set to zero. Carvera usually uses 2 fixed anchor points to set the starting point automatically, so we do not recommend setting the origin point by yourself.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "90b898d19d76ccad",
+    "text": "2.4.2 Rotary axis (A axis) does not distinct work coordinates and machine coordinates, and there is a “Shrink” function in the drop-down list, which can calculate the remainder according to 360 when having large rotation angles.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "af02b78b0d217029",
+    "text": "7.2. Device status diagnose: Check and your Carvera in detail and debug. No need to use it when Carvera runs in good condition. We will add a tutorial in the formal version of the instruction manual.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "0a1523e0917d08f3",
+    "text": "7.4. Wireless Probe Pairing: See the next chapter for detailed information.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "a3a4ea2300f1e834",
+    "text": "7.5. Software Upgrade:",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "98b17f34301144d2",
+    "text": "7.5.1. Controller: Controll software upgrade",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "6e11e3a198bdb91b",
+    "text": "7.5.2. Firmware: Firmware upgrade",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "ac1075643846b3c5",
+    "text": "7.5.3. Download: Link to the download page",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "ff0c973cc104b593",
+    "text": "7.5.4. Upgrade：For control software, just install the new version and you are ready to use. For firmware, you need to upload it to the machine using the control software",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "dfadd8a761d7092a",
+    "text": "7.5.5. Check at Startup：Check software updates and notice at the startup",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "69f4d5466a122ad7",
+    "text": "Carvera’s G-Code is executed in the controller to ensure the task’s efficiency and stability and avoid task failures caused by WiFi or USB connection instability. Therefore, the G-Code file needs to be uploaded to the machine before running the program. We have created examples folder on the machine and have already uploaded sample G-Code files.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "052066d2848e6d8c",
+    "text": "Because Carvera has automatic detection and leveling functions, we have integrated these settings and task execution into one interface.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "9a12a48802d1feb0",
+    "text": "2.1. Machining area preview: Display the preview of the machining area according to the current work coordinates and G-Code file.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "f8b404cf20235a8e",
+    "text": "Blue Circle: Zero position of work coordinate.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "d115ca49b3917724",
+    "text": "Green line area: G-Code file machining range.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "235972a38290b10b",
+    "text": "Green Bold line area: Indicates that Scan Margin is activated to automatically scan the area before machining.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "b544ce416d04290c",
+    "text": "Red Circle: Z probe position when Auto Z Probe is selected.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "6604035543715d7a",
+    "text": "Yellow Circle matrix: Levelling matrix when Auto Levelling is selected.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "034616f152ea88f1",
+    "text": "2.2. Set Work Origin: Set the work coordinates zero point relative to anchor points - the X/Y axis distance relative to anchor point 1 or 2. (Only X distance is needed when performing 4-Axis machining). Please note that the work coordinate settings will take effect immediately.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "a5d32243a6d90fec",
+    "text": "2.3. Scan Margin: Scan the rectangle path area before machining. When scanning, machine will switch to the wireless probe and turn on the red laser for observation. We recommend new users turn on this while running job.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "73ec07015664362f",
+    "text": "2.4. Auto Z Probe: Z-axis tool setting is required after changing the workpiece or the zero points of the work coordinate. When doing Z probe, machine will automatically switch to the wireless probe and do probe at the set position.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "04d25d46b77f1fd1",
+    "text": "2.5. Auto Leveling: If requiring uniform machining depth, please select the automatic leveling option such as PCB engraving. You can set the leveling matrix size and the lifting height when moving horizontally during the leveling process. The less the flatness, the higher the lifting height needs to be. The higher the requirement for machining consistency, the denser the matrix. For PCB engraving, it is better to have matrix dots spaced about 1 cm apart.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "826d01f4cf24403b",
+    "text": "2.6. Run: Click to start machining process. If you set the scanning area, Z-axis tool setting or automatic leveling, the G-Code file will be executed after the automatic detection is completed.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  },
+  {
+    "id": "da935c4d0f6101b0",
+    "text": "Note: The wireless probe is a precise device that integrates mechanics and electronics, which is easy to damage. Please be careful when using it. Make sure no obstacles can block its way. We suggest new users turn on the scan margin function to preview the route. It is recommended to leave sufficient margin between L bracket position and path start point, greater or equal to 10/10mm.",
+    "page": "https://wiki.makera.com/en/carvera/manual/software"
+  }
+]

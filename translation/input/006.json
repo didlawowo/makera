@@ -1,0 +1,532 @@
+[
+  {
+    "id": "1a6dd5cb476a91e4",
+    "text": "This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "6faaf0fe97f368eb",
+    "text": "Note: This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "99e0c338e0268b45",
+    "text": "—Reorient or relocate the receiving antenna.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "80db13132b84a4c6",
+    "text": "—Increase the separation between the equipment and receiver.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "6fa81f9054fe715c",
+    "text": "—Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "279553f2c007e99c",
+    "text": "—Consult the dealer or an experienced radio/TV technician for help.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "47c5ccc6054e4f79",
+    "text": "IC statement:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "27328a70b1efa5e5",
+    "text": "This product meets the applicable Innovation, Science and Economic Development Canada technical specifications.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "d4d66535f365e065",
+    "text": "Le présent matériel est conforme aux specifications techniques applicables d’Innovation, Sciences et Développement économique Canada.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "852a4fb521232db0",
+    "text": "Safety (Important)",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "c71ef51b814eb6b6",
+    "text": "Please read the following warnings and instructions carefully before operating the dust collector.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "0139fbe7e07c6a39",
+    "text": "Usage Environment",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "4a60029e03f9212b",
+    "text": "Do not use the dust collector in high-temperature environments (above 60°C), near fire hazards, or in areas with flammable liquids or oils. Ensure proper grounding before operation. Only qualified professionals should open the rear panel for inspection or repairs, as internal components carry high voltage .",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "abbf63b4c5b96149",
+    "text": "Operation Safety",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "9cf8a275f5a9947a",
+    "text": "Do not move or adjust filters or cyclones while the machine is running. Never touch the rotating impeller with hands or any objects. Always disconnect the power supply before cleaning or performing maintenance. Operate the dust collector only within the specified voltage range (refer to the label on the machine). Turn off and unplug the unit if the power supply is unstable.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "398bbd99e2ebc4d7",
+    "text": "Humidity & Maintenance",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "f33bf4fd1d5716b3",
+    "text": "Operate within a humidity range of 40% to 80%. Exceeding this range may damage internal circuits and reduce filter efficiency. Filters come with protective packaging—remove it before use. Filters are disposable—do not wash or reuse them. Always replace them with genuine Filter Cartridge for Makera Cylcone Dust Collector. Ensure filters are properly installed before operation. Running the dust collector without filters may allow dust to enter the motor and control system, causing damage (repairs will be at your own expense).",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "899537c5d62398d3",
+    "text": "Filter Maintenance",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "77c831ec340a56dd",
+    "text": "If filters become heavily clogged, stop using the machine immediately to avoid damage. Regularly clean and replace filters to maintain optimal performance. If filters are blocked, inefficient, or malfunctioning, replace them promptly with Filter Cartridge for Makera Cylcone Dust Collector. Follow these guidelines to ensure safe and efficient operation of your dust collector.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "c59399ca9dbd3105",
+    "text": "List of Items",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "b15c1e3a93bda079",
+    "text": "Items included with the Makera Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "1150f05446e4d344",
+    "text": "Note:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "4db5d22cc7da3eea",
+    "text": "▪ The power cable model may vary depending on the region.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "028cd2e727cb50f4",
+    "text": "▪ The control cable is compatible with the Carvera Air or the Makera Z1 and can not be directly connected to the Carvera at this time. We will provide an upgrade solution to enable automatic control on Carvera in the future.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "0297f137cc6976f7",
+    "text": "How to install and connect the Makera Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "5c5481d3d7227b1a",
+    "text": "Using the Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "9b4588e47382c2da",
+    "text": "Makera Cyclone Dust Collector Controls",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "cd2f7e4f10bf4c49",
+    "text": "Manual Mode:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "f792cf229a4d1a52",
+    "text": "Rotate the knob clockwise to turn on the dust collector. In this mode, you can manually control the on/off status and the collection power directly via the knob.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "303ecfe0d3933268",
+    "text": "Automatic Mode:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "5d0e1d51030db463",
+    "text": "Turn the knob to the OFF/AUTO position to enable Auto Control.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "dbeeff5c41581098",
+    "text": "You can test the dust control function in the Diagnostics > Extend Output section in the Carvera Controller.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "c44d75dbbcc71cd5",
+    "text": "Use M851 SXX in your G-code to turn on the dust collector, and M852 to turn it off. (XX represents the suction power percentage)",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "57c775751bb02033",
+    "text": "Laser Engraving",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "cabbde7585146d7a",
+    "text": "Insert the laser filter cotton into the large end of the dust hose as the first-stage fume filter. This helps extend the life of the main filter cartridge. Remember to remove it when switching back to dust collection mode.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "60553b0f8f60c11c",
+    "text": "Makera Cyclone Dust Collector Status Indicator Lights",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "17ccfa5b681e3e7b",
+    "text": "Maintenance",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "5e914ee5a72a8b2d",
+    "text": "Makera Cyclone Maintenance Procedures",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "0f95c2ac74f76953",
+    "text": "Instruction Manual for the Makera Cyclone Dust Collector Lite",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "122a1165e022b214",
+    "text": "Operate within a humidity range of 40% to 80%. Exceeding this range may damage internal circuits and reduce filter efficiency. Filters come with protective packaging—remove it before use. Filters are disposable—do not wash or reuse them. Always replace them with genuine Filter Cartridge for Makera Cylcone Dust Collector Lite. Ensure filters are properly installed before operation. Running the dust collector without filters may allow dust to enter the motor and control system, causing damage (repairs will be at your own expense).",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "69c83ec96e7e1fa0",
+    "text": "If filters become heavily clogged, stop using the machine immediately to avoid damage. Regularly clean and replace filters to maintain optimal performance. If filters are blocked, inefficient, or malfunctioning, replace them promptly with Filter Cartridge for Makera Cylcone Dust Collector Lite. Follow these guidelines to ensure safe and efficient operation of your dust collector.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "74c31751a8798a77",
+    "text": "Using the Cyclone Dust Collector Lite",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "84d0eb094de8661d",
+    "text": "Indicator Light Status:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "df97c40c8dea00bb",
+    "text": "Cyclone Dust Collector Troubleshooting",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "344594fcb2d975b9",
+    "text": "This page is under construction. We are in the process of developing troubleshooting guidelines and techniques to support the recent release of the Makera Cyclone Dust Collector. Please check back soon for more information, and contact us via support@makera.com for additional information and support at this time.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "21d6863fa8fe41e8",
+    "text": "Cyclone Dust Collector general preliminary troubleshooting",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "b073521fa3ce4d31",
+    "text": "When an error occurs with the unit it can be mostly solved by following the steps below:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "0dd0c06919f22314",
+    "text": "2. Are all ports and cables connected properly?",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "10f1a3d7ab14dcb4",
+    "text": "3. Have you unplugged all cables and reset the unit?",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "0643b26f011a02fa",
+    "text": "4. Have you checked for clogging?",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "31c772b1bdfe1df2",
+    "text": "Indicator Lights",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "6c9728ba54e59331",
+    "text": "The control dial will change color and flash to indicate potential faults as specified below.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "931451ae16cade5e",
+    "text": "Makera Cyclone Dust Collector Indicator Lights",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTroubleshooting"
+  },
+  {
+    "id": "2a1e730db775abbc",
+    "text": "Cyclone Dust Collector Tutorials",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "7eb41651f9e9e859",
+    "text": "Learn how to use the Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "79a53d13085548ad",
+    "text": "This page provides a collection of How-To videos and guides to support users as they learn to use the Makera Cyclone Dust Collector. For each guide and feature, a short video has also been created to provide further support and clarity to our users. Greater detail and topics can be found in the",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "a70a2f8c863b95b7",
+    "text": "Cyclone Dust Collector Manual",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "5be94cce366fc51f",
+    "text": "In this video, we overview the key setup and features for the Makera Cyclone Dust Collector. This includes looking at how it is well suited for a range of materials and projects for your desktop CNCs, as well as how to connect to the Cyclone. We also compare the different control modes, look at basic maintenance procedures, and see how the Cyclone can also be used as an air filtration unit for laser engraving projects as well.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "b02a0d48eedcfbba",
+    "text": "In this video, we are guided through setting up and connecting to the Makera Cyclone Dust Collector. This includes the hose pipe specifications and connection ports for the Carvera Air, Makera Z1, and Carvera desktop CNCs. We also look at the multiple control modes, including how to automatically turn the Cyclone on during machine operation.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "72d263f0cf2751ef",
+    "text": "Air Filtration for Laser Engraving",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "55946425aad3354a",
+    "text": "In this video, we are guided through using the Makera Cyclone Dust Collector as an Air Filtration unit for Laser Engraving projects. This can be done by adding a pre-stage filter to the Cyclone. It is important to ensure you are only ever using the cyclone to filter materials that are safe to use with laser engraving. Its also important to understand that the Cyclone was designed specifically with the laser modules for the Carvera, Carvera Air, and Makera Z1 in mind.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "4263d7ffd94dc933",
+    "text": "Routine Maintenance",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "ae63aee3b14eac3b",
+    "text": "In this video, we look at routine maintenance procedures for the Makera Cyclone Dust Collector. This includes the frequency and procedures for cleaning the filters, as well as when the filters should be replaced.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneTutorials"
+  },
+  {
+    "id": "9815b000ddd24030",
+    "text": "Usage of External Control interfaces:",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "1ecd17a5dce64ccf",
+    "text": "1. The External Control pin is located on the back panel of the machine and connected through an aviation plug (GX12-4).",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "ee872b9b0ab0ba8a",
+    "text": "2. Instructions for aviation plug pins",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "64f46a7526a186d2",
+    "text": "pin",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "82a3537ff0dbce7e",
+    "text": "name",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "526e0087cc3f254d",
+    "text": "Description",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "ccdd8d41edbac58e",
+    "text": "GND",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "19552dcfa507ab95",
+    "text": "Terminal used to return current",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "9f1efbece8ca743e",
+    "text": "External Control Input (PWM)",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "a97d5891de52d3e0",
+    "text": "This port is used to receive PWM signals for control. The typical input frequency is 100Hz. The duty cycle of the PWM input can be used to adjust the speed of the motor. The external control input will be activated when the control knob of the dust collector is set to the “OFF / AUTO” position.",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "d130fcdd071b11ad",
+    "text": "ALARM Output",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "3954cedbc840324a",
+    "text": "The output voltage is 5v. Different alarms correspond to different frequencies of pulse outputs which is used for indicating fault conditions.",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "3385ffe6747065e4",
+    "text": "Reserved",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "8898149d36551950",
+    "text": "Not used, reserved for future extensions.",
+    "page": "https://wiki.makera.com/en/Cyclone/cycloneExternalControl"
+  },
+  {
+    "id": "d3ccedd9541ea8b4",
+    "text": "Welcome to the world of CNC! This page is dedicated to supporting users who are new to subtractive manufacturing and production techniques using desktop CNC mills like the Carvera and Carvera Air. The following tutorials and guides are designed to introduce key concepts, as well as build good practices for safety and success.",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "b772b5d434a0ed6f",
+    "text": "In addition to the introductory guides found on this page, more how to's and projects can be found on the",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "369ecc39f19e812f",
+    "text": "page once your ready to put your skills to the test!",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "9b20f734305b4784",
+    "text": "Getting Started with CNC Machines Introductory Video Series",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "eacd9ecf839fd1cd",
+    "text": "What are CNC Machines?",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "d81600f6ca8847ab",
+    "text": "In this introductory video, we define what CNC Machines are, as well as look at different types of CNC Machines and the different types of projects that can be made with them! As you choose a CNC machine, it is important to consider the types materials you want to work with, as well as the types of design files you are looking to create. CNC Mills like the Carvera and Carvera Air can work with a range of 2D and 3D design files, as well as many different materials to make limitless things with precision and repeatability.",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "54a1e660daff40f2",
+    "text": "What is CAM?",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "c8bf77b96b061ff7",
+    "text": "In this introductory video, we define what CAM software is, as well as look at different types of CAD and CAM programs available and why you might choose one over the other to create something with a CNC machine! As you choose your CAM software, it is important to pick one that is not only compatible with your available resources, but also one that will support your needs and the types of projects you create. At Makera, we want our users to pick whichever CAM software they would like, but we've also noticed that few CAM programs are intuitive or as versatile as our own desktop CNC machines. Because of this, we've recently launched",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "089f0772c751ac30",
+    "text": "Makera CAM",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "bcf5e01e96f7fb07",
+    "text": "- our own CAM software solution to support our users!",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "6f059bf97d099584",
+    "text": "Safe Operation",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "372f662fc8b4d0fc",
+    "text": "In this introductory video, we are looking at steps and procedures to operation our CNC machines safely! CNC mills and routers like the Carvera and Carvera Air utilize a subtractive manufacturing process and offer laser engraving features which can create limitless projects, but it is crucial that we do this in a safe manner and work to reduce potential hazards. This video overviews general setup and features which allow for us to operate CNC machines in virtually any environment while also covering the basics for beginners and users who are new to CNC machines and subtractive manufacturing.",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "48c21e3487e5b23f",
+    "text": "Choosing Bits",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "6622ac5babe8e558",
+    "text": "In this video, we look at the different types of bits, also known as cutting tools, that you might consider for your CNC Project. Bits are what perform the cutting operations when manufacturing our projects, and choosing the correct bit to perform the type of cut we want on the material we are using is key. This video overviews the commonly used milling bits that are provided with the Carvera and Carvera Air, as well as some specialty bits for more complex projects too! In addition to this tutorial video, you can also learn more about choosing the right bit in",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "ab04f259461de80d",
+    "text": "this Instructable",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "5d8dd6573731d8f2",
+    "text": "too.",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "957ab2c7a9261f27",
+    "text": "And if you're looking for more bits to support your CNC projects, check out the bits available in the",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "71b42c82fe850d10",
+    "text": "Makera Store",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "151dbcded3a25611",
+    "text": "Speeds and Feeds",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "3bc6498be2a66d01",
+    "text": "The term “Speeds and Feeds” refers to the travel and cutting speed that our CNC machines operate at while manufacturing our projects. Choosing the right speeds and feeds is vital for the success of your project, and failure to do so might damage not only your bit, but your machine as well. This introductory video overviews key terms, as well as general practices for finding success as we prepare our projects for manufacturing! In addition to this tutorial video, you can also learn more about setting the right Speeds and Feeds in",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "8e7b6270538cf977",
+    "text": "You can learn more about the recommended speeds and feeds for the bits provided with the Carvera and Carvera Air on the",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "3a51cc97bb29debb",
+    "text": "Speeds & Feeds page",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "2efcea816bdb7486",
+    "text": "of our Wiki site.",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "96a215c1e4e2c249",
+    "text": "Choosing Stock",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "4c1ecef72a559aa3",
+    "text": "Stock is the term used to describe the material we used to manufacture our CNC projects. Versatile desktop CNC machines like the Carvera and Carvera Air can work with a wide range of materials, including woods, acrylic, composites, metals, and even printed circuit boards! As you choose the right stock for your project, there are some key considerations like choosing the right bits and speeds and feeds as well as needs for external cooling that will contribute towards the success of your project. This video also discusses the good practice for performing test cuts as we start a new project. In addition to this tutorial video, you can also learn more about choosing the right stock in",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "8216d0001ae4e675",
+    "text": "And if you're looking for more stock to support your CNC projects, check out the materials available in the",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "f5c59973dc4b7077",
+    "text": "Securing Stock",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "6f052467f09cdb0b",
+    "text": "As we prepare our projects for manufacturing, a key step towards creating a safe and successful environment is to properly secure the stock to the bed of our CNC machines. Failure to do this might not only ruin the project, but could also damage your machine and create potential hazards. This introductory video overviews how to use the different types of clamps and corner brackets that are provided with the Carvera and Carvera Air, as well as covers key strategies for successful manufacturing with desktop CNC mills.",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "07af34562568d22e",
+    "text": "Getting Started with our CNC Machines",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  }
+]

@@ -1,0 +1,1267 @@
+[
+  {
+    "id": "323e90a72fdccce9",
+    "text": "To manually adjust the detection distance of the laser, you will need to open the back of the machine (see \"Maintenance\" topic)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "cd6b0568fd3a58ef",
+    "text": "Locate the sensor controller in the top LHS corner at the back of the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "ad597c2e0c9cfcac",
+    "text": "A green light on the module should turn on when the sensor is triggered.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "36b6a2b5373431de",
+    "text": "With a small screwdriver, you can adjust the detection distance and check distance by looking at the trigger light on the controller Use a white piece of paper to check if the green sensor is triggered in the menu.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "f87effd904da7760",
+    "text": "Hold the piece of paper about 100mm away from the sensor.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "d6c05516087098ee",
+    "text": "After the adjustment is completed try another tool change.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "5f5f3563890690cb",
+    "text": "If there is still an error (contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "84190c150cbfe53b",
+    "text": "The tool stays in the collet after releasing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "133d93ad2c5a1e6a",
+    "text": "This could be caused by 2 things:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "08ca1c3f0668d748",
+    "text": "1. ATC misalignment (see \"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "dfaa5a153ae143b6",
+    "text": "ATC misalignmen",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4b09ee41b6f0ba4f",
+    "text": "t\" topic)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "d5c9a8f529342f34",
+    "text": "2. The release action is not enough to release the bit in the bit holder.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "e7d9d7a5967dbaec",
+    "text": "To adjust this go to the \"Action distance\" in the ATC section of the advanced settings",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "3988d8b788a3feaa",
+    "text": "Increase this value by 0.1mm increments until the tool easily drops. (Don't adjust this too much, max 0.3mm)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "395024013fa37d0c",
+    "text": "(contact support if the above still does not rectify the problem)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "d4b704a33ff5448d",
+    "text": "A grinding noise is coming from the ATC on tool change.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "d81dda28cb45f344",
+    "text": "When a grinding noise is coming from the ATC mechanism when doing a tool change a few things can cause this:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "9b229ef0513c4f57",
+    "text": "The ATC mechanism (brass nut) might be stuck",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "1fe55cf4752dcd13",
+    "text": "The limit switch might not be working",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4a4c6145e83d066b",
+    "text": "Action distance is too much",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "276a8cf16d6ae946",
+    "text": "The first step to rectify this is to check at the top of the ATC mechanism for a slotted pin which you can use to release the mechanism.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "c1584c9b770e34ff",
+    "text": "(Older machines do not have this slot available)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "839c3219818929e0",
+    "text": "(REF PIC of slot)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "e597cfdb4a5f2f3b",
+    "text": "Turn the slot with a screwdriver to try and release the inner nut.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "13644eb46d077bc1",
+    "text": "Clockwise direction to move up the brass nut, and counterclockwise to move down the nut.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "1e0adeadcc400deb",
+    "text": "If this still does not rectify the problem and the slot can be turned easily then you need to further investigate.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "c65b9ff0437bafc3",
+    "text": "If your machine does not have this slot, please contact support (support@makera.com)or continue to the below instructions.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "8e872dbbf7aba7b3",
+    "text": "Remove the cover from the spindle",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "e051af103373fb6e",
+    "text": "REF PIC cover removal",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "00cef2aff2beb61d",
+    "text": "and look at the movement of the limit switch trigger pin.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "eb963d45aeb6396c",
+    "text": "REF PIC trigger area",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "55892e5e3afafd92",
+    "text": "The ATC neutral position is when the mechanism pin is upwards and the collet is engaged.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "7da92243c8f7c489",
+    "text": "The brass nut pushes onto the collet to release the bit.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "af8fa668a5da2327",
+    "text": "The limit switch triggers the stop point for the clamp and returns slightly and this is called the retract distance.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "38bca16a795778aa",
+    "text": "If the limit switch is not triggering the return of the pin downwards, then the limit switch needs to be checked.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "7649fd01111a71c9",
+    "text": "If there is still a problem after the above procedure please contact support@makera.com",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "2c7ac8865554580f",
+    "text": "Loose tool holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "beac747064ae4f93",
+    "text": "Tool holder repair",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "10575af78313f23f",
+    "text": "Small clamp or bench vise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "a1188f4054be28fd",
+    "text": "Suitable nut or fixture with a hole (to compress the tool holder assembly)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "f73edd9b6bebf8b1",
+    "text": "2mm Allen key (for grub screw removal/installation)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "28e2a3164cd4f1f9",
+    "text": "✔ Ensure the machine is powered off.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "aaf48dc17ba5f046",
+    "text": "✔ Place the tool holder tray on a clean and stable work surface.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "f6db72874d57dd5e",
+    "text": "2. Disassembly of the Tool Holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "1fc8436cc81ccced",
+    "text": "2.1 Remove the Tool Holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "fde58db753041ef1",
+    "text": ", loosen and remove the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "1ff904ffaa5eb52c",
+    "text": "grub screw",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "e1f1beb0507f36e4",
+    "text": "located on the side of the tool holder (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "d61f3d76b128a5af",
+    "text": "Carefully",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "5372e99f2dcc1985",
+    "text": "slide the tool holder out of the tray",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "722009ca2cf5dda2",
+    "text": "2.2 Remove Internal Components",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "622a494d3ea8c7ba",
+    "text": "spring",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "cafe5b55eec652a4",
+    "text": "rear washer",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "ae33297a23d0ab50",
+    "text": "from inside the tool holder (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "567401ecfce9404e",
+    "text": "Figure 3 & 4",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "5cc1088e8b4fa575",
+    "text": "3. Reassembly of the Tool Holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "a20c33414ac23181",
+    "text": "3.1 Insert the Spring and Washer",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "2d28fe79c0a470c0",
+    "text": "Insert the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "73090a01fe46ea9b",
+    "text": "into the tool holder body.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "490504cde28c98a6",
+    "text": "washer",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "1a6b72b8ee1da59a",
+    "text": "over the opening so that it rests against the spring (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "3a862f2d53e7cc8f",
+    "text": "3.2 Compressing the Assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "e6b273afbf8cf5c3",
+    "text": "silver shaft of the tool holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "c1dcaf41fb1d976d",
+    "text": "through a large nut or fixture with a hole.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "2ce269e522616fdd",
+    "text": "clamp or bench vise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "849ff36cfb735fa1",
+    "text": ", gently compress the assembly until the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "ed51faad1d923b85",
+    "text": "washer is flush with the bottom of the tool holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "97285015dc285660",
+    "text": "Caution:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "f82fc2ec70d21c3e",
+    "text": "Ensure the washer remains level and does not tilt during compression.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "db3f15ea75e1af18",
+    "text": "4. Final Assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "dcbb32c509806f48",
+    "text": "4.1 Reinstall the Tool Holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "7c9a058d92c831b0",
+    "text": "Place the fully assembled tool holder back into the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "28a6cb3cf32c7f35",
+    "text": "tool holder tray",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "7f01f3db26cf0170",
+    "text": "Reinsert and securely tighten the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "18415f54907ca7a3",
+    "text": "Spring and washer installed correctly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "e344dbc589f4c359",
+    "text": "Washer compressed flush with tool holder base",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "a0f661ede48c848a",
+    "text": "Tool holder securely reinstalled in tray",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "8326e9c382ccdde1",
+    "text": "Grub screw tightened",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "36c846a5194b4146",
+    "text": "You have now successfully reassembled the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "a1e4f30e43a4ea82",
+    "text": "tool holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "872fa1edaa2417c2",
+    "text": "Accuracy troubleshooting",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "d35481ac37c22a93",
+    "text": "X,Y, and Z Backlash",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "d88f874fc815d95a",
+    "text": "Backlash causes some tolerance and inaccuracy in some operations.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "19eba12ed7ae67a7",
+    "text": "A slight movement would not affect accuracy too much.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "b5765606f0d924ab",
+    "text": "If there is a rattle or some excessive movement, it could cause accuracy problems.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "b046704fed191c7c",
+    "text": "Another scenario could be that the Z axis drops when the power is switched off.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "5e5856fba30cc86c",
+    "text": "For Y-axis backlash:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "79a4d9fdf68f71c7",
+    "text": "1. Remove the back panel (loosen all the screws as pictured below)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "5f23b4a98e54833b",
+    "text": "2. Remove the base lid (loosen 4 screws and slide the top out)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "b667b13d69c9329f",
+    "text": "3. Locate the axis tensioner nut in the middle bottom and the inner ball screw hold.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "0b3f3bbec147794a",
+    "text": "4. Do not over-tighten, tighten with increments to only remove the backlash.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "8dae81323b4e8373",
+    "text": "For X-axis backlash",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "8bfe2bff9a27271a",
+    "text": "Remove the back panel (loosen all the screws as pictured below)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "6e49d1d0d4692d22",
+    "text": "2. Remove the LHS panel by loosening the below screws:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "025dcbf50d704d7a",
+    "text": "3. Remember the 2 screws on the side.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "41dbf069939d3fef",
+    "text": "4. Remove the left side panel.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "ac084d8c28909011",
+    "text": "5. Remove the black dust cover and locate the axis tensioner nut and the inner ball screw hold.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "f11a64eeff411828",
+    "text": "For Z-axis backlash and Z-axis dropping when the machine is switched off.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "0b738c916ea497a1",
+    "text": "Remove the black dust cover and locate the axis tensioner nut and the inner ball screw hold.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "66184d4c9befdad7",
+    "text": "Do not over-tighten, tighten with increments to just remove the backlash.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "0a928c8b519619c9",
+    "text": "If the suction is bad or the vacuum is not working it could be caused by a few different scenarios:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "09060a195cabe5f9",
+    "text": "The vacuum motor is on but there is no suction.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "a85ec6cf91048d46",
+    "text": "The vacuum motor does not activate.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "7bf17acc42110f80",
+    "text": "Dust shoe does not stay down all the way.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "c2b66d9663ae4162",
+    "text": "-For the internal vacuum the pipe needs to be on the left-hand side.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "4c9fffdb58f598c3",
+    "text": "-Feel for debris or blockage in the pipe.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "14c3e40d8cbcfd20",
+    "text": "-Feel for suction at the dustbin outlet above the mesh section of the bin.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "355cf1517ef294eb",
+    "text": "-Open the back panel of the machine and see if there is any obstruction in the vacuum chamber.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "515a8d2baebd12fb",
+    "text": "-Remove the vacuum chamber if needed to remove any debris.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "f497d6200ca1620d",
+    "text": "- Check if the vacuum is working from the controller.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "fde41c8cb2fa5b29",
+    "text": "- Use manual commands to trigger the vacuum.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "2bfee699cb8a7767",
+    "text": "M801 S100 switch on",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "46a2b39e6342114f",
+    "text": "M802 to switch off",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "02e46a7097ac8dae",
+    "text": "-Check if the vacuum is plugged in correctly on both sides.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "59548263582ff361",
+    "text": "3. Dust shoe does not stay down all the way.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "ccf8e496f003ba8c",
+    "text": "To prevent the dust shoe from lifting up you can re-adjust (pull slightly) the pipe in the top clamp to slightly push down on the dust shoe.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "d82b2569804c75e3",
+    "text": "How to refocus the laser.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "ad2223968d1a9bd4",
+    "text": "• Please use UV safety goggles for this procedure.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "3e09ad30aa00832e",
+    "text": "• Remove the silicone cap from the laser head.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "6f89d11b3b52c6b0",
+    "text": "• Add an MDF spoil board for this test.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "c6c613a467fc6b7c",
+    "text": "• Start the sample laser file (AudreyHepburnSmall)  and stop the file when the laser operation starts. (Include a Z probe in the run config.)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "52ad1b2e937680c6",
+    "text": "• From the top toolbar in the controller, enable the laser and enable the test laser function, the power of the laser is set to 0.1 power, so it won’t burn the material.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "76ddb6f9b782be8f",
+    "text": "• On the laser’s head is a tunable knob that focuses the laser, use this to manually focus the laser.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "2a752c2272eb5362",
+    "text": "• (Look at the laser dot and make sure it is set to its most focused position)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "5ebd1f382361a49c",
+    "text": "• rerun the file and test if the laser has been focused.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "1ed8d3adbe9a0375",
+    "text": "How to realign the laser",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "7e7c506d6b1a98f7",
+    "text": "After the laser has been focused and you need to adjust the offset distance, follow the below steps:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "37a6084c7c1839f2",
+    "text": "1. Enter the laser mode, open the laser test again, go to x=0, y=0, z=0,",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "2c1f9e0d5afb8245",
+    "text": "2. Measure the laser red pointer offset in relation to the anchor point 1 position.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "bd1779a65af38c45",
+    "text": "3. In the settings window in the laser section, you can modify the offset values of X,Y, and Z.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "76a2fcf966e7597e",
+    "text": "4. Apply the new values and reset the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "cfb85520581d10c4",
+    "text": "5. Test to see if the offset modification was successful.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "7f55641cabb6b032",
+    "text": "Limitswitcherrors",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "dbb11d167a6ae108",
+    "text": "Limit switch errors",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "0be978948c58ef43",
+    "text": "The machine is designed with limit switches to insure that no harm is done to the machine when hitting the max distance in any of the axis.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "59c19debb9dc358b",
+    "text": "There are soft limit switches that are software-related. (They can be switched off in the advanced setting menu) soft limit were introduced in firmware version 0.9.5",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "680de7967bf6a304",
+    "text": "And there are hard limit switches that are hardware-related. (actual switches on the machine)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "6b6cb237d0727ceb",
+    "text": "There are a few cases where you will get limit switch errors:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "0c626a2f37ed61aa",
+    "text": "1. You are triggering the soft limit switch error when running a file. (Normal)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "531712134e202b29",
+    "text": "This means that your path origin falls out of the boundary of the machine and you need to adjust the offset in the run config or change the file size or origin in the CAM software.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "d119ffbd57f38257",
+    "text": "2. You are hitting the hard limit switch at the end of any of the axis. (Normal)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "550cad795e91f606",
+    "text": "This means that the soft limit are not activated and your path origin falls out of the boundary of the machine and you need to adjust the offset in the run config or change the file size or origin in the CAM software.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "3c145895e2bc2f51",
+    "text": "3. You are triggering a soft limit when running a 4th axis job.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "a64b66029e45caa9",
+    "text": "On firmware 0.9.6 and 0.9.7 The soft limit switch values in X was set to low. So you need to adjust the settings-advanced-xmin coordinates should be -371.5 by default. in the latest firmware, it was set to -370, which means that the machine hits a soft limit when trying to probe the 4th axis.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "80bf80bfc6d8a0ea",
+    "text": "4. One of the limit stays triggered and continues giving errors (machine fault)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "9200f865a29493d6",
+    "text": "The limit switches are \"normally closed\" which means if there is any disconnect in the connection to the switches, an alarm will trigger.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "3bca3b28ea0135c0",
+    "text": "You can find the specific limit switch being triggered in the midi window.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "dd783228334f42e5",
+    "text": "The best way to diagnose this is to open the diagnose window and see if that limit switch is engaged. If none are engaged , keep the diagnose window open and try to find the problematic area. This could be any of the below:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "ff970031f94c4538",
+    "text": "The limit switch itself",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "5d5473aed9d19b49",
+    "text": "The plug at the end of the limit switch",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "f6dd094c65418934",
+    "text": "The wires into the plug of that limit switch",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "784f40e2eb49a331",
+    "text": "The wires and plugs from the limit switch to the control board.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "361f37fba200ab61",
+    "text": "The connection on the control board.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "c254271b8a2aa32b",
+    "text": "Diagnose window:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "c173094e492e6c77",
+    "text": "If you can get the limit switch to trigger in the diagnose window you have found the faulty area.  We have had some recent encounters where the wires to the plug of the limit switch may be faulty.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "f8ffc267be284d6c",
+    "text": "For all different limit switches these areas are different. Please see your midi window for which limit switch troubleshoot.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "64457b6f5b93ef87",
+    "text": "For X- (to the left of the gantry) and X+ (to the right of the gantry) Please check if the limit switches are okay and not physically damaged.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "4acacb53c0d4630d",
+    "text": "X+ limit switch",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "83850a4e25e90e74",
+    "text": "X- limit switch",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "209207fc84ab1723",
+    "text": "X- and X+ limit switch plugs",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "d6d1d15cb59115a1",
+    "text": "Y- and Y+ you can access from the underside of the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "0c3801e2e3b450e8",
+    "text": "Z+ can be found on the top side of the gantry. There is no Z- limit switch. (the limit switch is on the frontside of the gantry, under the cable sheath at the top)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "c65219316f20c5ef",
+    "text": "If you can not find the limit switch error trigger, or you are RANDOMLY getting Hard limit errors without hitting any of the limit switches. Please contact support@makera.com",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "41950f0638b2187e",
+    "text": "We are testing a firmware version with a delayed trigger to the limit switches that may resolve very short limit switch triggers.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Limitswitches"
+  },
+  {
+    "id": "b3df495660388fa3",
+    "text": "Spindle Troubleshoot",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "ccda7beae9fb9f0d",
+    "text": "Scenario:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "04ad9a93b2544e95",
+    "text": "The spindle drops when the power is off",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "0ae4864c94359ae2",
+    "text": "(see",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "05338e1867979ed1",
+    "text": "topic for solution)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "cf2a98c3aee21baf",
+    "text": "The spindle does not spin or switch on:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "7bae5d9713ae4da5",
+    "text": "-Check if the spindle can spin freely when a tool is selected. (See",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "d23a686e3d6d052b",
+    "text": "problems)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "6fd77ceb3c60ce13",
+    "text": "-Can you switch on the spindle from the diagnostics panel.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "32818c33e583d37e",
+    "text": "-Test manual command to switch on the spindle M3",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "73b24082a818bd5b",
+    "text": "Remember to switch off the Auto vacuum option on the top toolbar. This usually gets confused with the sound of the spindle motor running.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "13304ca2c42f5162",
+    "text": "Further diagnostics:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "25c7f08542dc9e9e",
+    "text": "Remove the pack panel.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "20b7bd9cba7c70f1",
+    "text": "Check if the motor driver light is turned on.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "5482d0c254ea8a44",
+    "text": "If the light is off there is a driver problem. (Please contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Spindle"
+  },
+  {
+    "id": "f81858608c9969fa",
+    "text": "Machine is halted: home fail/SD card read fail",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "38692ccd84546d3b",
+    "text": "Start failure could be caused by 2 things:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "f6bf429e242f3eb1",
+    "text": "1. Start-up files are not located on the SD card or broken firmware was uploaded.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "f1e781512c7c03b9",
+    "text": "2. Faulty SD card.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "179bbf68f956bf76",
+    "text": "Firstly, try to re-upload the firmware through the controller software, reset and try again.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "532df552691348af",
+    "text": "If the latter does not resolve the conflict, then manually upload the firmware to the SD card.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "480629232aa1b02a",
+    "text": "The SD card consists of 4 files: “config”, “config backup”, “firmware”, and “examples” folder.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "e2753c07a0ce43a8",
+    "text": "If the “config” file is missing startup will fail.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "2e8bd0321a0e67bb",
+    "text": "To manually upload the firmware to the SD card:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "c445afcb85e4a153",
+    "text": "1. Switch off the machine and unplug the USB cables.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "6077fdd06d2065d6",
+    "text": "2. Remove the back lid (undo the screws as per pictured below)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "3ddf818962ee1be7",
+    "text": "3. Locate and take out the SD card, clean and plug it in again to see if it works.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "20be8e30ae89f604",
+    "text": "4. Remove the SD card and plug it into your computer. The SD card consists of 4 files:  “config”, “config backup”, “firmware”, and “examples” folder.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "d854a2fdf5239661",
+    "text": "5. Download the latest firmware from the website and change the name from",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "7c26d19c1194a566",
+    "text": "(carvera-firmware-x.x.x.bin) to (firmware.bin)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "3b999ec57f157525",
+    "text": "6. Copy the updated file (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "a77ee75b8ee1def0",
+    "text": "firmware.bin)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "c7a4d70e14e48fb8",
+    "text": "to the SD card and insert the card back into the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "376c701cbed3d761",
+    "text": "7. Restart the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "f9dfbed30f7be868",
+    "text": "8. If the above does not work, or there are no files located on the card, replace the SD card and reload the 4 files.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "7012150f756d089f",
+    "text": "Contact support for these files as they are machine specific.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "af1705994f506b23",
+    "text": "16GB SD card is recommended.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Startup"
+  },
+  {
+    "id": "1f06c282fc025d71",
+    "text": "Wireless probe troubleshooting",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "a5b569e6fa4b6d2f",
+    "text": "A single probe is tested in the factory and is already paired to the machine on arrival.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "fbb50597e33b00e5",
+    "text": "(the box should be marked with a sticker)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "07934139870b2370",
+    "text": "Diagnostics:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "de3198581e9e3c6c",
+    "text": "- Does the green light show when pushing the tip of the probe?",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "fce652a0ada651d6",
+    "text": "- Does the laser switch on if you touch the tip twice?",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "7f317bebed63c336",
+    "text": "- Does the orange charging light which on when placed in the holder?",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "34ed4f0ffbdd91ea",
+    "text": "-  Does the Probe trigger in the diagnostics panel when touching the tip?",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "e1e42267c4fca056",
+    "text": "- Is it paired successfully to the machine? (see \"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "27d646b60c1f8121",
+    "text": "wireless probe",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "e95be74d05745d6c",
+    "text": "\" topic under manuals section)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "95a9ad9598935c9e",
+    "text": "If any of the above is not working (contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "c16cddebc5075541",
+    "text": "Machine halts in the middle of an operation.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "aa8592d57e8046ea",
+    "text": "- The WP is not charged enough the finish the sequence and loses pairing information.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "39b43698b767e4da",
+    "text": "- Pair (see \"pairing instruction\" in the manual section) and charge the probe and try again.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "c5d89b99c26bfc65",
+    "text": "The WP lifts out of the holder and does not charge. (orange light does not switch on)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "efb60dd93295bcbb",
+    "text": "Push the bit back into the holder manually.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "d58d5f61b14095dd",
+    "text": "The machine tool rack is misaligned (see “",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "2ddf1cdcc6ecf9a0",
+    "text": "” topic)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "02d7abda1e4a2263",
+    "text": "Alert when doing TLO the machine halts mid-air and gives an error.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "06da0bf4b5b9dddc",
+    "text": "- Pair (see \"pairing instruction\" in the manual section) and pair the probe and try again.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "fcac46fdcb6e69d7",
+    "text": "Voltage stays @ 0.0v and is not charging.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "d2210c66f63e4dfc",
+    "text": "- Probe is not paired",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "3e389f89d1ddcde4",
+    "text": "- Faulty probe battery (contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Wireless-probe"
+  },
+  {
+    "id": "9610d6f8bebc0fb1",
+    "text": "Problematic XYZ movement",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "c424f6694472861f",
+    "text": "Troubleshooting a Servo Motor Losing Steps or Axis Movement Issues",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "2eb7ac5cd089e9c1",
+    "text": "If you ever experience any of the following issues on your Makera CNC machine:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "f25bd8519819c7c6",
+    "text": "Incorrect movement on one of the axes",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "2f7309094902c974",
+    "text": "Motor losing steps",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "b456c1c2c19597d1",
+    "text": "No movement on an axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "8b69afcbabae3bde",
+    "text": "Directional issues (wrong direction)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "60fac43321cbc321",
+    "text": "Axis has jagged or uneven movement",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "62334b2642f61aa5",
+    "text": "Please follow this step-by-step guide to identify and fix the problem.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "575a58e95f4dba54",
+    "text": "Step 1: Identify the Affected Axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "539ba390787b598e",
+    "text": "Before opening the machine, determine which axis is affected by examining your faulty job or test cut:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "497deebc41b7f3bb",
+    "text": "If the toolpath or details are",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "018707f9354cafa6",
+    "text": "stretched left or right",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6ad90c76b1b908eb",
+    "text": ", the issue is likely on the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "ff3cbf6febc71360",
+    "text": "X-axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "9f4a48f50bacb833",
+    "text": "If the details are",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "61524b53b26362f8",
+    "text": "stretched up and down",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "287863927d736265",
+    "text": "Y-axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "e4603527ac393d3b",
+    "text": "If the parts are cutting",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "7246305af75a3286",
+    "text": "too deep or too shallow",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "077bd04559788c56",
+    "text": "Z-axis",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "f02a5950faf4486f",
+    "text": "Knowing which axis is affected will help you check the correct motor and wiring.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "3221326a02612817",
+    "text": "Step 2: Access the Controller Board",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "750c848e31d26f15",
+    "text": "Power off and unplug your CNC machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "94198594254bd9a3",
+    "text": "back panel",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "2cea259810b01a47",
+    "text": "of the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "ad1cbc95f5d924ed",
+    "text": "controller board",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  }
+]

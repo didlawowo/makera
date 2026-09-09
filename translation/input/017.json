@@ -1,0 +1,852 @@
+[
+  {
+    "id": "b6086cd697dc590b",
+    "text": "Create 3D machining tool paths based on the features of an imported 3D Design file - Includes 3D Relief, 3D Contour, 3D Pocket, 3D Drilling, 3D Thread Milling, and 3D Chamfer operations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3849186c5612646f",
+    "text": "Rotation Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3f14d8a3d2873b74",
+    "text": "Creating 4-axis rotary machining tool paths when in a 4-axis project configuration around an imported 3D Design file - Includes Rotation Relief.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "74b7ee9a9b02e743",
+    "text": "Laser Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "924792609befc981",
+    "text": "Creating Laser Processing Paths - Includes Laser Vector and Laser Image.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3664895579f0a7e6",
+    "text": "Export",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "36b793494660b31d",
+    "text": "Export tool path G-Code files for production",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dcc839a4015c4b7d",
+    "text": "View",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "18961a06612dd46e",
+    "text": "The options in the view menu perform the following actions:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "35c1705fbb27eb36",
+    "text": "Show Tab Bar",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "739267c39d42a6dc",
+    "text": "Toggle show / hide of the Tab bar above the Tool Bar",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "45ba8865e4b42098",
+    "text": "Show All Tabs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "935cccdb0f283f72",
+    "text": "Open and display all open Tabs (when applicable)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "782788e3dc80456b",
+    "text": "Tool Bar",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2810375347a47dc7",
+    "text": "Toggle show / hide of the Tool bar above the Design Area",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0bc4c2af5c39ad1f",
+    "text": "Status bar",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "99f91e505d79d738",
+    "text": "Toggle show / hide of the Status bar below the Design Area",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9859597853197476",
+    "text": "Project",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "949079ffe0577a8b",
+    "text": "Toggle show / hide of the Stock and Functions Panel on the left side of the Design Area",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "03494b0d1f803522",
+    "text": "Camera",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eacc87fc447e24c1",
+    "text": "Switch the Design Area display perspective",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "509c517ede79fef0",
+    "text": "Zoom",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9cadfbe356ffb2e1",
+    "text": "Zoom in/out or fit all features within the Design Area",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "30085995c1508f6b",
+    "text": "Left Button",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ed91f87307624a9f",
+    "text": "Set the function of clicking the left mouse button. You can switch between Select / Pan / Zoom (Click: Zoom in / Alt+Click: Zoom Out) / Rotate",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "534ab6506ea1e384",
+    "text": "Enter Full Screen",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e5ed3cdbd9a43ef8",
+    "text": "Fits the application window to full screen (when applicable)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "818cd8d91aea3a16",
+    "text": "Setting",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9bb76690a574a85b",
+    "text": "The options in the setting menu perform the following actions:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "29e49590acd5c1a4",
+    "text": "Material Library",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9ae3810567431abc",
+    "text": "Set Material Library to add or change the material name and parameters of the stock material",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bf0fa14449e53aab",
+    "text": "Tool Library",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "96591102298ab859",
+    "text": "Set up the Tool Library, adjust the tool type and basic parameters, manage tool configurations by group, and set initial parameters related to tools that match different materials",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a4fe65264ef7dbb3",
+    "text": "Language",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ed14e31544e0ab29",
+    "text": "Switch the display language of Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "84f72e71429e5cc0",
+    "text": "Tool Bar Introduction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "820779ba6dd88e2e",
+    "text": "Stock Introduction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bd9c59ef8f987bf7",
+    "text": "Use this area of the interface to set the type and size of the blank stock material. An outlining perimeter corresponding to the set stock size will be displayed in the Design Area. The stock material types can be changed through",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ad04997cd1801e0d",
+    "text": "[Setting - Material Library]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bf353f37e621307e",
+    "text": ". The parameters for the Stock will also change depending on whether you're working in a 3-axis project or 4-axis project as 4-axis projects also allow for you to set the stock shape.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c4bac144574f79c6",
+    "text": "Functions Panel Introduction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "70a9028047210b17",
+    "text": "The Functions Panel mainly includes four parts: work coordinate system (WCS) tabs, 3D models, 2D layers, and Tool Paths.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "01c553f4e0e902bd",
+    "text": "Work Coordinate System partitioning supports the creation of multiple coordinate systems with different origin settings. By creating and switching between different work coordinate system tabs, you can quickly switch between different groups that include independent coordinate systems, layers, and tool paths within a single project document. The default work coordinate system (WCS 1) is set for the top of the stock.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1e0ad852cc060c8a",
+    "text": "Work Coordinate Systems (WCS)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a64133ce87eb3fed",
+    "text": "Creating a new WCS",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c604874051c1c38d",
+    "text": "button on the left side of the Functions Panel allows you to make a new WCS. You can also right-click the Work Coordinate System tab bar and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4f2335a141595c00",
+    "text": "[New Coordinate]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8d5f9b58f6ddd1e7",
+    "text": "in the pop-up menu .",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8875eac0a38657cd",
+    "text": "When creating a new work coordinate system, a name setting menu will be displayed in the Extended Properties Panel. Set the name of the new work coordinate system and select between10 coordinate origin control points in the TOP and BOTTOM planes within the stock outline in the Design Area to choose in the coordinate origin points of the new work coordinate system. Once set, click the Ok button in the Extended Properties Panel to complete the creation of the new work coordinate system.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a61251406cb7b916",
+    "text": "Modify the WCS",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4e780ebe0d4c82a1",
+    "text": "After right-clicking the WCS tab bar at the top of the Functions Panel, choose",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3335894212cafab6",
+    "text": "[Edit Coordinate]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7b758f81a665c967",
+    "text": "in the pop-up menu that appears. The current work coordinate system name setting interface will be displayed in the Extended Properties Panel allowing for the current work coordinate system name to be changed. The coordinate origin position of the current work coordinate system setting will be displayed in the Design Area. You can reselect 10 coordinate origin control points in the TOP and BOTTOM planes within the stock perimeter to modify the setting of the coordinate origin of the current work coordinate system. After completing various settings, click the Ok button to complete the modification of the work coordinate system.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1fe442b9eccfad0f",
+    "text": "If there is already a graphic object in the current coordinate system, the graphic object will adjust to changes of the coordinate origin and automatically match the new work coordinate system settings.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fe197b89edbbfa4f",
+    "text": "Deleting a Work Coordinate System",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "aada1c54df6d7d04",
+    "text": "Right-click the WCS tab that needs to be modified, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e3b2abda412eeff4",
+    "text": "[Delete]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6535aacf3572ebf5",
+    "text": "in the pop-up menu . The system will pop up a prompt to delete the selected WCS. Click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c6b789b0238baa95",
+    "text": "[Yes]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9ca1e4688678ad12",
+    "text": "to complete the deletion of the current coordinate system. When deleting a work coordinate system, the layer list and tool path list data under the coordinate system will be deleted at the same time.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "613bb3969db2bf3c",
+    "text": "Please confirm that all the data under the work coordinate system can be deleted before proceeding.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b0b644c538502569",
+    "text": "3D Models",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7a33bf4f91747c89",
+    "text": "Within a Makera CAM Project, the functions panel will display a section for any 3D model that has been imported or created in the project. See",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a6a7ce714a1e067f",
+    "text": "for more examples on how to work with 3D models.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bf71aaf307b9951d",
+    "text": "Each time a new 3D model is imported or created, it will be listed in this section of the Functions Panel. The color selection next to the name of the model will change the appearance of the model when it is not selected. When a 3D model is selected, it will be highlighted in blue with a yellow perimeter as described in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "98a82c6594f33f6c",
+    "text": "section of this guide earlier. If an item in this section of the Functions Panel is right-clicked, the following options appear:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "723b5a58a26056b9",
+    "text": "Import 3D Model…",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cc8606996de44529",
+    "text": "This allows you to select a 3D model in STL / STEP file formats from your computer and import it into your Makera CAM project.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b7e23f4525d9c43d",
+    "text": "Create 3D Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3d0d7912b3edbe85",
+    "text": "This opens the extended properties panel to allow for you to create a dimensioned 3D model within Makera CAM - including a cube, cylinder, or cone shape as discussed later in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d51c71eba61e2595",
+    "text": "Creating Objects",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "42a8875ff190b24d",
+    "text": "Clone Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7d54fe79c5f8b397",
+    "text": "This will make a duplicate of the selected 3D model and list it as a new object within the Functions Panel.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fcaa002f4d06a6e9",
+    "text": "Hide All Models / Show All Models",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "605c971f959da909",
+    "text": "To show/hide all 3D Models, you can also click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "606dc3ab29a46bd1",
+    "text": "eye icon",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d7cc85943b79fb45",
+    "text": "in front of the 3D Models functions a the top of the 3D models list to toggle visibility of all 3D Model objects. You can also right-click on the 3D Models function and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ef44f95ff18f9baf",
+    "text": "[Show All Layers]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e87067fa8621d009",
+    "text": "[Hide All Layers]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "807cd7e82a04f950",
+    "text": "to toggle the visibility of all 3D Models.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ba78785459650b86",
+    "text": "2D Layers",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3b2e2abe3ff6f0ef",
+    "text": "The Layers function within the Functions Panel contains a list of all 2D layers in the current work coordinate system. See",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cfca3928316b82a1",
+    "text": "for more examples on how to work with layers.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "94b006921f78a94b",
+    "text": "Each time a new Makera CAM project is created, a single layer will be made and selected as the active layer. When a 2D design is imported, it will be created as a new layer and listed within the 2D Layers section of the Functions Panel. When a 2D design or image is imported and selected, it will be displayed and highlighted in the color selection for the layer as described in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "028232652c600956",
+    "text": "Import Graphic",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6f4266d8758c0be4",
+    "text": "Choose between importing an",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1aa4cb0bcca76e92",
+    "text": "Image",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8a7172fb1e9c2e02",
+    "text": "(JPG / PNG / BMP), importing a",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "094176a307fc8243",
+    "text": "2D Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "539643ba7fb41cec",
+    "text": "(SVG / DXF), or importing the components of a",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c47bca76c51bf3ae",
+    "text": "gerber file.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b09ba564b06be5e2",
+    "text": "New Layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c4ab2a29e94359ee",
+    "text": "In the layer list, click the position where you want to insert a new layer, right-click, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0b02dd8cad6b8097",
+    "text": "[Insert layer]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "890e12a6f82fe30a",
+    "text": "in the pop-up menu that appears. A new layer will be inserted",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "88c7f08d0be5407e",
+    "text": "above",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d0dc3a4544f97b56",
+    "text": "the selected layer position. The new layer name is “New Layer” by default. The newly created layer will be activated as the current layer by default. To insert a new layer at the bottom of the layers list, right-click on the Layer Function at the top of the list and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0ada32935bccf915",
+    "text": "[New Layer]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e8f5d76260631bef",
+    "text": "from the pop-up menu to insert a new layer at the bottom of the layer list.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "89f6aeb6f2047fec",
+    "text": "Delete a layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "abd361366009cebe",
+    "text": "In the layer list, left-click the layer you want to delete to select it. To delete multiple layers at a time, you can use Ctrl+left-click to select non-contiguous layers, or use Shift+left-click to select the beginning and end areas of contiguous layers in the list. After selecting the layer(s) you want to delete, right-click the selected layer(s) and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cbe412235c3ca003",
+    "text": "in the pop-up menu to complete the deletion of the selected layer(s).",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "aba472823c9ccba2",
+    "text": "Deleting a layer will delete all objects in the selected layer. If the graphics have generated corresponding tool path information, deleting the layer will",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "254bb97b57f12e16",
+    "text": "not",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bd01f3dd849137c4",
+    "text": "delete the tool path information associated with the graphics. NOTE: An active layer cannot be deleted. You must first switch to another layer before attempting to delete the layer that is currently active.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9d9c56ec3df5c0b6",
+    "text": "Rename a layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "259e9fd37f6b3bd6",
+    "text": "In the layer list, left-click the layer to be renamed, then left-click the selected layer name again, or right-click the selected layer name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e04fd56c22c79110",
+    "text": "[Rename]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1d6b3aea11fd5e07",
+    "text": "in the pop-up menu that is displayed to rename the selected layer. After modifying the layer name, press Enter on the keyboard or left-click anywhere else in the Functions Panel system window to complete the renaming operation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "12b60a109fc0e002",
+    "text": "Show/Hide Layers",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "64b0de6e649c9927",
+    "text": "In the 2D Layer list, click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b1191448c1d073d2",
+    "text": "in front of each layer to switch between showing/hiding the contents of the selected layer. You can also right-click on a layer and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7ab994d50c468ec0",
+    "text": "[Show]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1e8eae8e1cb262ba",
+    "text": "in the pop-up menu that is displayed, or",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2c870fbc44c36de9",
+    "text": "[Hide]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b57da5663fe613e6",
+    "text": "to toggle between showing and hiding the contents of the selected layer.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5a92f4ee22c280da",
+    "text": "To show/hide all layers, click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1679bb283e35d15e",
+    "text": "in front of the 2D Layers functions a the top of the layers list to toggle visibility of all layers. You can also right-click on the 2D Layers function and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "07553cad297abf88",
+    "text": "to toggle the visibility of all 2D Layers.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3743698b02c41e52",
+    "text": "Activate current layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b918a7daa705ae42",
+    "text": "In the 2D Layers list, there is an activated current layer by default. When creating a new graphic or pasting a graphic, it will be placed on the active layer by default. To activate a layer, right-click the name of the layer you want to make active and choose",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "85d209f46fb651d1",
+    "text": "[Active]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "021936a57425be6f",
+    "text": "in the pop-up menu that appears to set this as the active layer. After the layer is set to be the default active layer, the layer name will be highlighted in the Functions Panel.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6bc048f06e7f384c",
+    "text": "Select all graphics in the layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2520605e5fd6a494",
+    "text": "In the 2D Layers list, select the name of the layer for which you want to select all graphics, right-click the layer name, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8215fe76bf5692f7",
+    "text": "[Select Graphics]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "45c5b9cf16b9cbf5",
+    "text": "in the pop-up menu that appears to select all graphics in the current layer. You can also double-click the layer name to quickly select all graphics in the layer.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1a159f8221ffd863",
+    "text": "Move the layer order",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e98e8425b4b940aa",
+    "text": "In the 2D Layers list, select the layer you want to move, right-click the layer name, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "065b58c3f745345b",
+    "text": "[Move Up]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "be9d799a8578b58c",
+    "text": "[Move Down]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e8b5da1a25b17fbf",
+    "text": "in the pop-up menu that appears to move the order of the selected layer(s) up or down in the layer list. You can also adjust the layer order by dragging the layer with the left mouse button.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e82d925bf9a29f0a",
+    "text": "Change layer display color",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "821ba1a6815b6a76",
+    "text": "Click the color rectangular area to the right of the layer name to change the display color of the specified layer. Once the rectangle has been selected, a pop-up color selection interface will appear to change the display color of the selected layer.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9c7995b5bc817bc8",
+    "text": "Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f8f941e0000a4a5f",
+    "text": "The Path function contains a list of all tool paths set in the current work coordinate system. Note that the ‘T’ numbers shown before the type of path created refers to the tool or tools used in that path. See",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "877887eb2fe5876a",
+    "text": "for examples on how to work with paths.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "df0605da14a96fdd",
+    "text": "Create Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e1432dd1b6a6108e",
+    "text": "Right-click the Path function and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "76c680d563facf1b",
+    "text": "[New Tool Path]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "89695df6c43fedf8",
+    "text": "in the pop-up menu that appears to create the following types of machining tool paths:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7303b1a90fb0eeaa",
+    "text": "Create 2D machining tool paths for 2D designs and vector graphic objects, including 2D Contour / 2D Pocket / 2D Drilling / 2D Thread Milling / 2D Chamfer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1bb635ced203fb2e",
+    "text": "Create 3D machining tool paths for 3D models, including 3D Relief / 3D Contour / 3D Pocket / 3D Drilling / 3D Thread Milling / 3D Chamfer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5fc1f12dcc04a9a2",
+    "text": "Creating 4-axis rotary machining tool paths for imported 3D models including Rotation Relief",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9137e3d6ed20a0d6",
+    "text": "Creating Laser Processing Paths for imported images or 2D models, including Laser Vector / Laser Image",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "914025458c580fe3",
+    "text": "Edit Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4c052991399e77f1",
+    "text": "Double-click the tool path name, or right-click the tool path name to be edited and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fe1d0a33de83fd34",
+    "text": "[Edit]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8a8c70f6df9a9518",
+    "text": "in the pop-up menu that appears. The current tool path parameter setting interface will be displayed in the Extended Properties Panel. If the object associated with the tool path in the Design Area are visible, the associated graphic elements will be automatically selected when editing the tool path. After completing the adjustment of various tool path parameters, click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e60affa3d93723f9",
+    "text": "[Calculate]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7e3f3b97c11cce88",
+    "text": "at the bottom of the Extended Properties Panel to complete the tool path recalculation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ab04db572d2d64a9",
+    "text": "When recalculating the tool path, you must ensure that there is at least one selected object in the Design Area, and the selected object must meet the calculation requirements of the current tool path parameters, otherwise the specified tool path cannot be regenerated and an error message will appear. When editing a tool path, you can reselect the associated object. When recalculating, the tool path will be generated based on the most recently selected graphic object. The newly generated tool path will replace the original tool path information and will be bound to the most recently selected graphic in the Design Area.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "abece50632867acf",
+    "text": "If an object is transformed or adjusted after a tool path has been created, the tool path will not update automatically. You will need to select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cd63cfc2acf5258c",
+    "text": "to open the parameters for that tool path and click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3f444e48467efbb0",
+    "text": "Delete Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f52670d4bdda192f",
+    "text": "In the path list, left-click the tool path to be deleted. You can use Ctrl+left mouse button to select non-contiguous tool paths, or use Shift+left mouse button to select the beginning and end area of contiguous tool paths. After completing the tool path range selection, right-click the selected tool path name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0e1964a8f96e73e0",
+    "text": "in the pop-up menu that appears to complete the deletion of the selected tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c478fec47362ad4e",
+    "text": "Rename Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "37916a96d007399f",
+    "text": "In the path list, left-click the tool path to be renamed, then left-click the selected tool path name again, or right-click the selected tool path name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "183d272cc6758062",
+    "text": "in the pop-up menu that appears to rename the selected tool path. After adjusting the name as desired, press the Enter key on the keyboard or left-click anywhere else in the Functions Panel to complete the renaming operation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0917eed9d52ef588",
+    "text": "Duplicate Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b33115ed5b3c5565",
+    "text": "In the path list, left-click the tool path to be cloned, right-click the selected tool path name, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1fc1648eecefb325",
+    "text": "[Duplicate]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fa9832ecd63398ab",
+    "text": "in the pop-up menu that appears to duplicate and generate a copy of the selected tool path at the bottom of the tool path list.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "21b7e02bb1932f96",
+    "text": "Show/Hide Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "179066b194133171",
+    "text": "In the path list, click the icon to switch between displaying/hiding the selected tool path. You can also right-click the specified tool path name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e40b39ed71b446d3",
+    "text": "in the pop-up menu that appears to toggle between showing / hiding the selected tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "26c9bb557ff30d3b",
+    "text": "To show or hide all tool paths, click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "47c215b5f70eb9c9",
+    "text": "eye",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c2d4b446a44ce54f",
+    "text": "icon",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

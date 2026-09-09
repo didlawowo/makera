@@ -1,0 +1,104 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Adjusting Rotational Z Offset</title><h1>Adjusting Rotational Z Offset</h1><article><div><h1 id="resolving-incorrect-diameter-cutting-on-the-4th-axis-relief" class="toc-header"><a class="toc-anchor" href="#resolving-incorrect-diameter-cutting-on-the-4th-axis-relief">¶</a> <strong>Resolving Incorrect Diameter Cutting on the 4th Axis Relief</strong></h1>
+<h2 id="issue-summary" class="toc-header"><a class="toc-anchor" href="#issue-summary">¶</a> <strong>Issue Summary</strong></h2>
+<p>If the 4th axis relief does not cut the part to the correct diameter, follow these steps to ensure the stock is properly secured and the <strong>Rotational Z Offset</strong> is calibrated correctly.</p>
+<hr>
+<h2 id="step-1-securing-the-stock-in-the-4th-axis-chuck" class="toc-header"><a class="toc-anchor" href="#step-1-securing-the-stock-in-the-4th-axis-chuck">¶</a> <strong>Step 1: Securing the Stock in the 4th Axis Chuck</strong></h2>
+<p><strong>Verify that the stock material is straight and cut square on both ends.</strong></p>
+<p><strong>Find the center of the stock material:</strong></p>
+<p>Draw a cross on one end by connecting opposite corners (Figure 1).</p>
+<figure class="image image_resized" style="width:26.03%;"><img src="https://wiki.makera.com/rotational_z_offset/fig1.png">
+  <figcaption>Figure 1</figcaption>
+</figure>
+<p>This marks the center point for proper alignment.</p>
+<p><strong>Insert the stock into the chuck:</strong></p>
+<p>Place the <strong>non-marked</strong> end into the chuck.</p>
+<p>Ensure it sits flush against the flat inside of the chuck jaws.</p>
+<figure class="image image_resized" style="width:46.9%;"><img src="https://wiki.makera.com/rotational_z_offset/fig2.png">
+  <figcaption>Figure 2</figcaption>
+</figure>
+<p><strong>Secure the chuck jaws:</strong></p>
+<p>Tighten the jaws by hand by rotating the black ring <strong>clockwise </strong>(Figure 2).</p>
+<hr>
+<h2 id="step-2-securing-the-tailstock" class="toc-header"><a class="toc-anchor" href="#step-2-securing-the-tailstock">¶</a> <strong>Step 2: Securing the Tailstock</strong></h2>
+<p><strong>Unscrew the live center of the tailstock completely.</strong></p>
+<p><strong>Align the tailstock with the stock material (Figure 3):</strong></p>
+<figure class="image image_resized" style="width:31.69%;"><img src="https://wiki.makera.com/rotational_z_offset/fig3.png">
+  <figcaption>Figure 3</figcaption>
+</figure>
+<p>Slide the tailstock forward until the live center just <strong>touches</strong> the center mark (Figure 4).</p>
+<figure class="image image_resized" style="width:33.53%;"><img src="https://wiki.makera.com/rotational_z_offset/fig4.png">
+  <figcaption>Figure 4</figcaption>
+</figure>
+<p><strong>Secure the tailstock:</strong></p>
+<p>Tighten the tailstock to the <strong>4th axis base</strong> to prevent movement.</p>
+<p><strong>Align and fasten the live center:</strong></p>
+<p>Adjust the <strong>live center screw</strong> in as far as possible.</p>
+<p>Lock it in place by tightening the side <strong>lock screw</strong> on the tailstock (Figure 5)</p>
+<figure class="image image_resized" style="width:32.4%;"><img src="https://wiki.makera.com/rotational_z_offset/fig5.png"></figure>
+<p><strong>Final security check:</strong></p>
+<p>Fasten the chuck securely using the <strong>chuck fastening pins</strong>.</p>
+<p>Ensure that the <strong>chuck, tailstock, and stock material</strong> are completely secure before proceeding (Figure 6).</p>
+<figure class="image image_resized" style="width:45.72%;"><img src="https://wiki.makera.com/rotational_z_offset/fig6.png">
+  <figcaption>Figure 6</figcaption>
+</figure>
+<p> </p>
+<hr>
+<h2 id="step-3-adjusting-the-rotational-z-offset" class="toc-header"><a class="toc-anchor" href="#step-3-adjusting-the-rotational-z-offset">¶</a> <strong>Step 3: Adjusting the Rotational Z Offset</strong></h2>
+<p>If the stock is <strong>secure</strong> but the cut diameter is incorrect, adjust the <strong>Rotational Z Offset</strong> as follows:</p>
+<p><strong>Create a test toolpath</strong></p>
+<p>Design a <strong>circular disk</strong> of a <strong>known diameter</strong> (e.g., <strong>20mm</strong>).</p>
+<p>This will serve as the reference for adjustments.</p>
+<p><strong>Upload and run the toolpath</strong></p>
+<p>Let the machine complete the disk cut.</p>
+<p><strong>Measure the cut diameter (figure 7)</strong></p>
+<figure class="image image_resized" style="width:46.57%;"><img src="https://wiki.makera.com/rotational_z_offset/fig7.jpg">
+  <figcaption>Figure 7</figcaption>
+</figure>
+<p>Use a <strong>micrometer</strong> or <strong>vernier caliper</strong> to check the actual machined diameter.</p>
+<p><strong>Adjust the Rotational Z Offset in the Makera Controller App</strong></p>
+<p>Open the <strong>Makera Controller App</strong>.</p>
+<p>Click the <strong>Tools</strong> menu (top right corner)(Figure8).</p>
+<figure class="image image_resized" style="width:44.39%;"><img src="https://wiki.makera.com/rotational_z_offset/fig8.png">
+  <figcaption>Figure 8</figcaption>
+</figure>
+<p>Select <strong>Settings</strong> (gear icon, last item)(Figure 9).</p>
+<figure class="image image_resized" style="width:37.31%;"><img src="https://wiki.makera.com/rotational_z_offset/fig9.png">
+  <figcaption>Figure 9</figcaption>
+</figure>
+<p>Click <strong>Advanced Settings</strong> and search for <strong>Rotational Z Offset </strong>(Figure 10).</p>
+<figure class="image image_resized" style="width:39.14%;"><img src="https://wiki.makera.com/rotational_z_offset/fig_10.png">
+  <figcaption>Figure 10</figcaption>
+</figure>
+<p><strong>Modify the Offset Value</strong></p>
+<p>The <strong>default offset is 23</strong>.</p>
+<p>Adjust the value by <strong>half the deviation</strong> between the cut and intended diameter.</p>
+<p><strong>Example:</strong></p>
+<p>If the drawing specifies <strong>20mm</strong>, but the machined part is <strong>19.5mm</strong>, adjust the offset by <strong>-0.25</strong>, changing the value to <strong>22.75</strong>.</p>
+<p><strong>Increasing</strong> the value makes the part <strong>smaller</strong>.</p>
+<p><strong>Decreasing</strong> the value makes the part <strong>larger (Figure 11)</strong></p>
+<figure class="image image_resized" style="width:40.64%;"><img src="https://wiki.makera.com/rotational_z_offset/fig11.png">
+  <figcaption>Figure 11</figcaption>
+</figure>
+<p><strong>Apply Changes &amp; Restart</strong></p>
+<p>Click <strong>Apply</strong>.</p>
+<p>A pop-up will prompt you to <strong>restart the machine</strong>.</p>
+<p>Restart the machine for the changes to take effect (Figure 12).</p>
+<figure class="image image_resized" style="width:44.36%;"><img src="https://wiki.makera.com/rotational_z_offset/fig12.png">
+  <figcaption>Figure 12</figcaption>
+</figure>
+<p><strong>Verify the Settings</strong></p>
+<p>Once restarted, go back to <strong>Settings</strong> and confirm the updated <strong>Rotational Z Offset</strong> value.</p>
+<p><strong>Re-run the G-code on a New Stock Section</strong></p>
+<p><strong>Probe</strong> the material before each new test run.</p>
+<p>Run the same toolpath and check the new cut diameter.</p>
+<p><strong>Compare Results &amp; Fine-Tune if Necessary</strong></p>
+<p>Measure the final cut diameter and compare it to the original design (Figure 13).</p>
+<figure class="image image_resized" style="width:40.53%;"><img src="https://wiki.makera.com/rotational_z_offset/fig13.png">
+  <figcaption>Figure 13</figcaption>
+</figure>
+<p>Repeat the <strong>adjustment process</strong> until the machined diameter matches the intended size.</p>
+<hr>
+<h2 id="final-confirmation" class="toc-header"><a class="toc-anchor" href="#final-confirmation">¶</a> <strong>Final Confirmation</strong></h2>
+<p>Once the diameter is correctly calibrated:<br>✅ The <strong>stock is securely fastened</strong>.<br>✅ The <strong>tailstock and chuck are tightened</strong>.<br>✅ The <strong>Rotational Z Offset</strong> is accurately set.<br>✅ The <strong>finished part matches the design dimensions</strong>.</p>
+<p>The machine is now properly configured for accurate <strong>4th axis relief cutting</strong>.</p>
+</div></article></html>

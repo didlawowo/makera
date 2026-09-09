@@ -1,0 +1,182 @@
+[
+  {
+    "id": "3ba5c8ef1144e47e",
+    "text": "Carvera Air How To's",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "2c02cf69b0ee8e6a",
+    "text": "Are you new to CNC's? If so, we recommend you check out our",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "f83a74e5f71e0a53",
+    "text": "Getting Started with CNC Machines",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "9feb83c5f4de132a",
+    "text": "tutorials before diving into your first project.",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "41f3508d4f300322",
+    "text": "Learn how to use the Carvera Air",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "b33cd34ccf862550",
+    "text": "This page provides a collection of How-To videos and guides to support users as they learn to use the Carvera Air Desktop CNC. For each guide and feature, a short video has also been created to provide further support and clarity to our users. Greater detail and topics can be found in the",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "fbd13bec1aaa2205",
+    "text": "Carvera Air Manual",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "676ada12d2446ad1",
+    "text": ", and additional Videos are also available on the official",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "7e0d9d643f1dd57d",
+    "text": "Makera YouTube Channel",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "57f67c1aaac218a1",
+    "text": "And for start to finish projects and tutorials for the Carvera, we recommend you check our our",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "fee770e0742473da",
+    "text": "Knowledge Sharing",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "ceb6c78213b5bcd1",
+    "text": "page for additional tutorials, guides, design files, and lesson plans.",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "885837bff49bc043",
+    "text": "How to Unbox and Setup your Carvera Air",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "8e2ae55b37f61130",
+    "text": "In this video, we’ll take you step by step through the unboxing process, showcasing everything that comes in the box: the CNC machine itself, accessories, assembly tools, and a materials. We’ll highlight the sleek design, robust build quality, and key features that make the Cavera Air stand out in the world of CNC machines. Whether you’re a professional or a hobbyist, this machine promises to elevate your projects to the next level.",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "d922e25283e6c88d",
+    "text": "How to Connect",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "7c17096d88e1c406",
+    "text": "In this video, we are guided through connecting to the Carvera Air Desktop CNC by Makera! Using the Carvera Controller App installed on a windows, mac, or tablet device, users can connect to the Air via USB or wifi. After connecting to our CNC, we can upload a Gcode file and begin to manufacturer our projects!",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "103075a5ee6f8f79",
+    "text": "How to Upload a File",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "5fc88b35beefb64c",
+    "text": "In this video, we are guided through uploading a GCode file to Carvera Air Desktop CNC by Makera! After designing a part and preparing it in CAM software, you will need to upload the exported GCode file to the Carvera Air to begin manufacturing. This is done through the Carvera Controller app, as all files are stored on the Carvera Air's internal memory as shown in this tutorial.",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "2424aba58cacf87c",
+    "text": "How to Change the Tool",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "0c3e9528bf988489",
+    "text": "In this video, we are guided through using the Quick Tool Change System on the Carvera Air Desktop CNC by Makera! The Air is equipped with a unique tool change system which allows for users to connect an easily swap the bit (also known as a cutting tool) on their CNC.",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "e6429b5115f84e09",
+    "text": "How to use the Wired Z Probe",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "b9122ca9a85ea7e3",
+    "text": "In this video, we are guided through using the Wired Z Probe on the Carvera Air Desktop CNC by Makera! The Air is equipped with a wired Z probe which allows for users to measure and calibrate the height of the stock automatically. This not only makes setting up your projects easy, but also increases your machining precision too!",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "216004771617e8eb",
+    "text": "What is Auto Leveling?",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "61a4adb47234470a",
+    "text": "In this video, we demonstrate what the Auto Z Leveling feature can be used for on the Carvera Air Desktop CNC by Makera! The Air is equipped with a wired Z probe which allows for users to measure and calibrate the height of the stock automatically. But this wired probe can also measure multiple points on our stock, then adjust the machining depth based on the points recorded automatically!",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "63a498dd81991373",
+    "text": "How to use Dust Collection",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "ed3319b467247148",
+    "text": "In this video, we are guided through using the Dust Collection System on the Carvera Air Desktop CNC by Makera! The Air is equipped with a dust shoe and vacuum port which allows for users to connect an external vacuum to their CNC. This not only keeps the work area clean, but also creates a safer and more effective CNC environment.",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "4a4f31d13553924c",
+    "text": "How to Use the Air Assist",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "93b415489f9c0a40",
+    "text": "In this video, we are guided through using the Air Assist System on the Carvera Air Desktop CNC by Makera! The Air is equipped with an Air Assist system which allows for users to connect an external air compressor to their CNC. This can be used for chip evacuation and cooling when machining metals, or to reduce scorching when using the laser module.",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "62f5913139429fc7",
+    "text": "4th Axis Installation and Configuration",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "bd49641ff164566a",
+    "text": "In this video, we demonstrate how to unbox, install, and configure the optional 4th Axis Module for the Carvera Air Desktop CNC by Makera! The 4th Axis with harmonic drive can be purchased as an accessory in the Makera Store, and this module can be installed on any Carvera Air. With the 4th axis, a wider range of designs and geometrically challenging parts can be manufactured in a wide range of materials. You can find the 4th axis for the Carvera Air in our store",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "fcec91509759ad99",
+    "text": "here",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "946dab7076f8c082",
+    "text": "How to Use the Laser Module",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "69ee5e627d8a09cb",
+    "text": "In this video, we look at how to use the optional Laser Engraver Module with the Carvera Air Desktop CNC by Makera. The Laser Engraving Module adds a diode laser to the Carvera Air, opening up a wide range of projects and manufacturing processes on your desktop CNC. You can use this to cut and engrave a range of materials, like papers and fabrics, as well as for combined operations with the milling spindle like creating unique engravings or silkscreen layers on milled PCBs. And as shown in this tutorial, the laser engraving module can be installed quickly using the quick tool changer on the Air, just like any other bit!",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "9a1f3a0df4baca4d",
+    "text": "How to use the Manual XYZ Probe",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "243e7c2b302f7f03",
+    "text": "In this video, we are guided through using the Manual XYZ Probe on the Carvera Air Desktop CNC by Makera! While the wired z probe is more commonly used, the Air is shipped with a manual XYZ probe that allows for users to measure and calibrate the height and position of the stock for a range of unique projects and circumstances. You would typically use the XYZ probe when mounting your stock in a fixture, or for aligning stock when machining multiple sides.",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "17af886fea12829d",
+    "text": "How to Connect a Tablet",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  }
+]

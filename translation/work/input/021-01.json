@@ -1,0 +1,247 @@
+[
+  {
+    "id": "73fa7b19ae3a3a3e",
+    "text": "The Retract Height sets a safe position for the tool to retract to during machining operations, and must be greater than or equal to the width and height of the stock in order to avoid potential collisions.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1b7b2aad37605172",
+    "text": "When working with the 4th axis, a safe clearance height is typically ½ the stock diameter + 3 mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2164a49cba21f21d",
+    "text": "The depth to which the tool cuts each time it descends through the material. This feature can be safely disabled only when creating finishing passes if material was cleared out in a previous tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9597dbdb852079b9",
+    "text": "Direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0f44cee4fb454546",
+    "text": "Horizontal:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c65c7990e3ec5c12",
+    "text": "The part will be machined from side to side while gradually cutting deeper each pass. This is ideal for roughing passes or when clearing out a large amount of material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "161864c687c09791",
+    "text": "Vertical:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0f834cf6749f6cbe",
+    "text": "The areas in the part are machined vertically based on the step down parameter before moving horizontally to continue to machine the part. This is ideal for finishing passes or when following along complex geometries within a model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "aea232d109e47f3c",
+    "text": "Tailstock:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "65930de865452cfe",
+    "text": "The part that holds the stock within the 4th axis opposite to the chuck is called the Tailstock.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c1e4d6b5443cbbd6",
+    "text": "Enabled Tailstock (checked):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d42b80648312959c",
+    "text": "tool paths will be contained entirely by the selected model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dee0aec388fb9ae3",
+    "text": "Disable Tailstock (unchecked):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cfa19af069c1a039",
+    "text": "tool paths will be contained by the length (Y) of the stock.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e9d1c81fa1d7fef4",
+    "text": "Rotation Relief Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7adf6e2b1ad53c40",
+    "text": "are used to create concave and convex machining operations around the geometric features of an imported 3D mesh file (.STL) using the 4th axis module, as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "25c0641223921aa0",
+    "text": "To create Rotation Relief Tool Paths, first import a 3D Model and transform it to fit within the stock. Then create tabs as described in the section above or in the attached tutorial. Once your model has been prepared, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2ccba43f23a5587f",
+    "text": "With this option checked, the relief will machine to a specified depth rather than to the surface of the model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3f5989d74d3071b6",
+    "text": "Set Clearance Height and Retract Height",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2d8b9f0feb77a22b",
+    "text": "Rotation Relief supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 3D model. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6ab3c509ecb9b7b9",
+    "text": "Note: We typically create two separate tool paths for roughing and finishing passes.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "120992635290d1cb",
+    "text": "This is because a large quantity of chips are created during a roughing pass for rotation tool paths, and these chips should be cleared before starting a finishing pass.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "48bbba22fb5489d3",
+    "text": "As discussed previously, this parameter determines the depth of cut per pass. With Rotation Relief and multi-material clearing, you can set unique step down values per tool, and disable it for finishing pass purposes after material has been cleared previously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d6e3c219327aff45",
+    "text": "Set Direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "750e1c79f16b05f5",
+    "text": "Horizontal or Vertical",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ec27ecb33d839381",
+    "text": "Enable Tailstock",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "70652fc0c6cfe265",
+    "text": "Makera CAM can be used to prepare PCB files using typical 3-Axis machining configurations. You can use the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bef793c65a476a1c",
+    "text": "Import PCB",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "424683bed7efd6e6",
+    "text": "feature to import components from a Gerber file after it has been unzipped. You can also import SVG and DXF 2D design files for 2D tool path creation with the intention of creating PCBs. For more information on how to work with PCBs in Makera CAM, see this",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "98609c1401a23ad4",
+    "text": "Preparing PCB Files for Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "560ef2f887f8dd87",
+    "text": "Prior to exporting your PCB file, there are a few settings and parameters which should be adjusted to optimize the result in Makera CAM:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "68afa92486f3588e",
+    "text": "For sizing lines and features in your PCB file, recommended minimums are:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "77a76c96f2a7f07e",
+    "text": "Line width > 0.2mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "11bb5816ce128f52",
+    "text": "Line spacing > 0.2mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e90c9fdef877ffa1",
+    "text": "Via diameter >= 0.4mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1689e88c804cfa63",
+    "text": "Silk screen line width > 0.25mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4829b5b3d13b235b",
+    "text": "Drill unit to metric mm 3.3 format",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8963487ab69615f1",
+    "text": "And the smallest flat bottom tip tools that can be used are 0.1mm\\60° or 0.2mm\\30°",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c4838c8da61b8363",
+    "text": "Additional settings for exporting a PCB file to use with Makera CAM:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b5ff07d67b624560",
+    "text": "Export line widths when exporting Gerber files which facilitates Makera CAM's tool path generation based on automatic nesting",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a00e250097229c1f",
+    "text": "Makera CAM will automatically recognize the solder mask information in the Gerber pad and split it into an independent layer. but if the solder mask layer differs from the actual pad shape on the PCB design layer, a separate solder mask file needs to be exported",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e7a207d3fa9d0a9b",
+    "text": "And if the Top or Bottom layer does not contain an outline, a separate outline file needs to be exported to create a contour tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "022270b310666074",
+    "text": "Importing and Preparing PCB Files with Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b3512e26eba3d991",
+    "text": "When importing your PCB files, it is recommended to import all files needed before making any adjustments to your design (move, rotate, scale, mirror, etc). This will allow for automatic alignment in Makera CAM, as the file was when created.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8db49f9b9ab7f974",
+    "text": "To align PCB files after transformations have been made, or when working with separate WCS, the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9a07ce7145195fc9",
+    "text": "tool can be used for easy alignment. Selecting circular holes as the reference and target objects typically works best as alignment for concentric shapes is universal. To select parts of your PCB, you can easily select all graphics across one or several layers using the 2D Layers list within the Functions Panel:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e345f214cbc00d16",
+    "text": "If line widths are exported, it is likely that the outline of your PCB will be imported as two nested lines:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5497c51ec778f8c0",
+    "text": "The outer most line is typically used for creating contour paths, while the inner line should be selected and used when creating pocket tool paths for the traces. It is recommended that you move the outer most line to its own layer for easier selection and tool path generation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "75a2d6ad58b519a1",
+    "text": "And for two sided PCBs, you can create a second WCS with the origin set to the bottom right corner, relative to the default WCS, to horizontally flip your PCB for two sided manufacturing:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

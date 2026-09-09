@@ -1,0 +1,327 @@
+[
+  {
+    "id": "c5f8e616ebbe6b85",
+    "text": "You can connect to and control the machine via USB, the built-in Wi-Fi hotspot (AP mode), or a local Wi-Fi network. We recommend connecting the machine to your local Wi-Fi network.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "009e1bef5f64a1af",
+    "text": "This allows your computer or mobile device to stay connected to the internet while remotely operating the machine.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "ec39bf2bec554bd6",
+    "text": "Set Up via Bluetooth",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "e13a006b4736e427",
+    "text": "1. Turn on Bluetooth on your computer or mobile device.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "abebd9bbfcb70f3d",
+    "text": "Makera Studio",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "189291c9734fda34",
+    "text": "Makera App",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "4d5f38311d6b3375",
+    "text": "2. Open the ‘Control’ tab in Makera Studio (desktop), or the ‘Device’ page in the Makera App (mobile), then tap Add Device",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2c52a97ab879ad5b",
+    "text": "3. Select ‘Setup via Bluetooth’, and choose your Makera Z1 Machine from the list.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "fa878e5f2a2bee85",
+    "text": "4. Select the Wi-Fi network you want to connect to, enter the password, and confirm.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2bc0f8b550a5ebcb",
+    "text": "5. Once setup is complete, Makera Studio or the App will automatically connect to the machine and add it to the My Devices list.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "0cb54613d2ca4264",
+    "text": "After connecting to the machine, you can add or update its Wi-Fi network settings at any time.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "9298bfb131ebe541",
+    "text": "For detailed software instructions, please visit wiki.makera.com.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "3368b37b9e6366cd",
+    "text": "Machine Connection",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "48f358841abc79b6",
+    "text": "You can connect to the machine in the following three ways:",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "402fc56046ff4fd3",
+    "text": "• Using a USB cable • Connecting to the machine’s built-in Wi-Fi hotspot (SSID prefix: Makera Z1)",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "104cabca567c2aab",
+    "text": "• Connecting both your device and the machine to the same local Wi-Fi network",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7818953fbfec0e85",
+    "text": "Connection Steps",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "895b3b43282eb21c",
+    "text": "1. Open the Control tab in Makera Studio, or the Device page in the Makera App. If the device has already been added, or is connected via USB, you can connect directly from the device list",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2f74560bb4c7b8a6",
+    "text": "2. If the device has not been added yet, tap ‘Add Device’",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "9cf8ed52dc416247",
+    "text": "Makera",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "f54e5e850ed87ce5",
+    "text": "3. Select ‘Connect via Wi-Fi’, then choose your Makera Z1 device from the list",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "803540b92f5281df",
+    "text": "4. Once connected, Makera Studio or the App will automatically connect to the machine and add it to the Devices list",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "88456cf3db409070",
+    "text": "For detailed software instructions, please visit wiki.makera.com",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "88a1fe13a715221f",
+    "text": "Your Makera Z1 is ready to go! Let's start with your first machining project.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "6929ab59ff13aae5",
+    "text": "A toolpath for the Aluminum Top Clamp is preloaded on the machine. This example will guide you through the basic Z1 workflow.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "640a187b313fc9c3",
+    "text": "1. Secure the Material: Use four M5×20 screws and two top clamps to firmly secure the included 100 × 100 × 5 mm aluminum plate at the position shown.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2ab71c9ee595552e",
+    "text": "2. Open the Project: Open Makera Studio or the Makera App and connect to your Z1. Go to File Storage and select: Examples → TopClamp.nc",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "854a51d8eb55ed15",
+    "text": "Makera APP",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "04cbde9d360335ea",
+    "text": "If you can’t find the file, download the NC file first, then upload it to your machine here:",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "4d3b86f28e1f6d2d",
+    "text": "TopClamp.nc",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "05a466a4e0f3a5a4",
+    "text": "3. Start the Job:",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "81f7002485a43360",
+    "text": "Click ‘Start’",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "055c66da52d5f882",
+    "text": "Enable ‘Auto Vacuum’ to automatically start the Makera Dust Collector or Dust Collector Lite",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "a79b0bff938ad6f1",
+    "text": "Enable ‘Auto Blow’ to activate spindle air blowing",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "240aacb4de5dc57d",
+    "text": "Enable ‘Auto Bed Clean’ to automatically clean the work area after machining",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "be8f905c7053c670",
+    "text": "Set Work Origin relative to Anchor 1, with X Offset = 0 and Y Offset = 0",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2bfef9244d090b57",
+    "text": "Enable ‘Scan Margin’ to verify the machining area and check for possible interference.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "215c982118446789",
+    "text": "Enable ‘Auto Leveling’ and set: X Probe Points: 3, Y Probe Points: 3, Probe Height: 2 mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "5fde724a9cfaf6b2",
+    "text": "Click ‘Run’",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "4a12791a46b8513f",
+    "text": "4. Quick Tool Change: When prompted, install the wired probe or the required tool, then click Confirm in the software or press the machine's front button to continue. This project uses Tool #1 — 3.175 × 12 mm Single-Flute Spiral Bit for Metal.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "4b4a608febd88c4c",
+    "text": "5. Post-Processing: After machining, use the included multi-function screwdriver to remove the tabs and smooth the edges with the file. Congratulations! Your first practical DIY project is now complete.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "55ad116a2506d6c0",
+    "text": "Scan the QR code below or visit",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "61393adccf04b905",
+    "text": "makerables.com/OfficialTutorials",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "024edfcea7d949d2",
+    "text": "Browse more official projects and follow the instructions to create your own.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "759f4c0213571add",
+    "text": "Next Steps",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "0ad39ac7e4c51d02",
+    "text": "For detailed instructions on operation, software, maintenance, and troubleshooting, please visit our official Wiki and select Makera Z1（Z1&Z1 Pro）.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "6e83a19dc0320816",
+    "text": "wiki.makera.com",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "64f20effe26312c0",
+    "text": "The latest this guide is available on our website. If you encounter any issues, feel free to contact us.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "eac62845431a6a85",
+    "text": "You can purchase accessories, tools, and materials from our official store as needed.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "4c30bea536f6708c",
+    "text": "Join our community to exchange ideas, share your projects, and get inspired by others around the world.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d7f2fb34dffd1b83",
+    "text": "Makera Z1 Maintenance",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "e46b4d285bd7c00e",
+    "text": "The Makera Z1 CNC machine is a complex electromechanical device full of sensors, electronics, and mechanical parts.",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "10e653392c821e12",
+    "text": "Z1 Maintenance Guide",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "2fda436b2a04c671",
+    "text": "1.1 Noise / Dust-Proofing / Cleaning",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "cc730db02714872c",
+    "text": "Z1 Maintenance - Z-Axis Cleaning Procedure",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "50437c1dedd151ae",
+    "text": "Z1 Maintenance - Y-Axis Cleaning Procedure",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "1a0bade31678593b",
+    "text": "Z1 Maintenance - X-Axis Cleaning Procedure",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "3eca8a3ae56505c7",
+    "text": "Z1 Maintenance - X-Axis Dust Cover Replacement",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "b739576ee347854f",
+    "text": "Z1 Maintenance - How to Replace the Spindle",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "cfa9e33c61685831",
+    "text": "Z1 Maintenance - Dust Bin Cleaning Procedures",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "47a9ae0bb01fe8b1",
+    "text": "1.2 Enclosure Self-Replacement",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "fbbc4ee896110d36",
+    "text": "Z1 Maintenance - How to Replace the Front Cover",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "73ab4d7e1a05b2db",
+    "text": "1.3 Motion Module Replacement (X, Y, Z Axis Related)",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "3f0d4c2dcbb5e18f",
+    "text": "1.4 Electronic Components Self-Maintenance & Replacement",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  },
+  {
+    "id": "bc00d6b19af5f6b3",
+    "text": "1.5 Others",
+    "page": "https://wiki.makera.com/en/Z1/new-page/Maintenance"
+  }
+]

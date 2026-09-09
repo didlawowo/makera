@@ -1,0 +1,327 @@
+[
+  {
+    "id": "469baa511b0da92e",
+    "text": "clockwise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "9ef4edad9f80ba5e",
+    "text": "Step 2: Securing the Tailstock",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "2b27ce650321ecee",
+    "text": "Unscrew the live center of the tailstock completely.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "07c6ab5ca091563e",
+    "text": "Align the tailstock with the stock material (Figure 3):",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "a580e6c7290ced0c",
+    "text": "Slide the tailstock forward until the live center just",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f74947164f055bb2",
+    "text": "touches",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "402a9bad8aee6e67",
+    "text": "the center mark (Figure 4).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "b45a784b6fe5436e",
+    "text": "Secure the tailstock:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "ba259896e05437d7",
+    "text": "Tighten the tailstock to the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e49dd1661a4b5a6e",
+    "text": "4th axis base",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e8fc87fac623aa1f",
+    "text": "to prevent movement.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "69a35b28800ee542",
+    "text": "Align and fasten the live center:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "d56f27393efcae31",
+    "text": "Adjust the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "a8aa78e036dc320c",
+    "text": "live center screw",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e5d0ac2811c1e3b0",
+    "text": "in as far as possible.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "57e3e14e87c433ec",
+    "text": "Lock it in place by tightening the side",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "93e2360a57e75dea",
+    "text": "lock screw",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "abcef71c9d192a48",
+    "text": "on the tailstock (Figure 5)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f9a7ba13ff79d7b1",
+    "text": "Final security check:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "01ae0a7d73d89c03",
+    "text": "Fasten the chuck securely using the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "74abe00cbed6d961",
+    "text": "chuck fastening pins",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f02b5c2095d4d997",
+    "text": "chuck, tailstock, and stock material",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e7da9656b74e78fc",
+    "text": "are completely secure before proceeding (Figure 6).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f77abefc82d9e194",
+    "text": "Step 3: Adjusting the Rotational Z Offset",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "2b684a367ae11d86",
+    "text": "If the stock is",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "6a934b45144e3758",
+    "text": "secure",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "de3061de88c16205",
+    "text": "but the cut diameter is incorrect, adjust the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "6eb5c4111b089bf3",
+    "text": "as follows:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "b2fc5c88a771aca4",
+    "text": "Create a test toolpath",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e397a9f8eb4ce58c",
+    "text": "Design a",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "b0830042687ff4ed",
+    "text": "circular disk",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "44625108b765cba6",
+    "text": "of a",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "41c279fb1469bbee",
+    "text": "known diameter",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "8e45ab1ebbda9f96",
+    "text": "This will serve as the reference for adjustments.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "0911bb8a7e52aacc",
+    "text": "Upload and run the toolpath",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "aa62fb8cee7598c6",
+    "text": "Let the machine complete the disk cut.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "8a38d2543fa42abe",
+    "text": "Measure the cut diameter (figure 7)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e6b4a2d01195c478",
+    "text": "micrometer",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "2a8acf25498e6eb6",
+    "text": "vernier caliper",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "588d94e3bfb0179a",
+    "text": "to check the actual machined diameter.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "3ed59c3b15d0ecae",
+    "text": "Adjust the Rotational Z Offset in the Makera Controller App",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e0827859b9f87588",
+    "text": "Makera Controller App",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "c96b4f3364d1870e",
+    "text": "Click the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "ea93d6a262ecb87a",
+    "text": "Tools",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "a894f5c6dca6dea3",
+    "text": "menu (top right corner)(Figure8).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "2a78025de6aae5e7",
+    "text": "Select",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "74a883a037bc227f",
+    "text": "Settings",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "7213db99db9ff75b",
+    "text": "(gear icon, last item)(Figure 9).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "b725d483349cfa0e",
+    "text": "Figure 9",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "22d4f6088b718aa4",
+    "text": "Advanced Settings",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "d1edbc8828188dda",
+    "text": "and search for",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "4862274df33b33b9",
+    "text": "(Figure 10).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "7b97e9ec34fc0960",
+    "text": "Figure 10",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "ed54b569bf6d6080",
+    "text": "Modify the Offset Value",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "b344d80e24a36799",
+    "text": "The",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "dbc91ca8408046f6",
+    "text": "default offset is 23",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f484d031096537b5",
+    "text": "Adjust the value by",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f64cf277b57efa18",
+    "text": "half the deviation",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "d8f98609c103d14c",
+    "text": "between the cut and intended diameter.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "872887e563e75957",
+    "text": "Example:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f208b52721e87ce3",
+    "text": "If the drawing specifies",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "a308641075241fbe",
+    "text": ", but the machined part is",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "84c5067a782f5f7e",
+    "text": ", adjust the offset by",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "8350fab12691fa6b",
+    "text": ", changing the value to",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "2c6340899a763250",
+    "text": "Increasing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  }
+]

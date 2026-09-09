@@ -1,0 +1,312 @@
+[
+  {
+    "id": "71e7a9396a034c97",
+    "text": "11. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.（Please refer to Item 7 of “",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "1f208117b5fca440",
+    "text": "12. Use a vacuum to clean the table, take out the ABS board and use the handsaw in the accessory kit to carefully remove the tabs.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "bd5e2942ecfd9859",
+    "text": "Display board",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "ccdf7018d459ccda",
+    "text": "1. Cut the 2mm MDF board with a size of 150*180mm as the wasteboard.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "a707a602a003f6a8",
+    "text": "1、Remove the protective film on the top. Fix the acrylic board and the wasteboard to the table, as shown in the figure. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "f88a328b5cf749f2",
+    "text": "5. Open Root->Examples->LED in the remote directory. Select the “ACRYLIC-XXXX.nc” file. Here we",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "c3d30de47fb0919f",
+    "text": "provided 5 pictures for you. You can choose the one of your preference.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "c5a54e3036c74b25",
+    "text": "6. Open the task configuration and operation dialog box.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "46818c7066167d69",
+    "text": "7. Set working coordinate to X offset 15, and Y offset 25 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "7961e69500b272a5",
+    "text": "9. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 5, and the detection height to 2.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "4ebcee34ab4e3a68",
+    "text": "12. Use a vacuum to clean the worktop and remove the acrylic board.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "f7d4dfc43bdce9ac",
+    "text": "13. Break the acrylic board by aligning the V-groove with an edge of a table.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "92222d51cfe39c4b",
+    "text": "Touch switch",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "b1ec74200946197e",
+    "text": "1. Fix the aluminium alloy board and the wasteboard to the table, as shown in the figure. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "b161a61c937cf0fa",
+    "text": "2. Make sure the used milling bits are ready. No.4-3.175*12 single flute spiral bit for metal.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "68fb79964e4dbc0a",
+    "text": "5. Open Root->Examples->LED in the remote directory. Select the “ALUMINUM-Button.nc” file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "31c666cf1fb561c8",
+    "text": "7. Set working coordinate to X offset 10, and Y offset 10relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "5979fcd28c7a7381",
+    "text": "9. Check the “Auto Leveling” option, set the number of X detection points to 3, Y to 3, and the detection height to 2.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "46544964fda88d93",
+    "text": "12. Use a vacuum to clean the worktop, remove the board and use the handsaw in the accessory kit to carefully remove the tabs.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "156c0d64958cae25",
+    "text": "LED lamp assembly",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "f1747d8dfa490d10",
+    "text": "Solder PCB（Optional）",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "4085e52562e02864",
+    "text": "We provide a soldered PCB for your direct use. If you want to make your own, please refer to our soldered PCB board for components choosing and placement.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "44e7d4b248469d73",
+    "text": "Assembly",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "7f316cc6270b1f8c",
+    "text": "1. Glue the aluminium alloy touch button to the side of the base.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "e9c50f0b8a161d91",
+    "text": "2. Fix the PCB board to the bottom of the base with 4 screws.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "272aaf6699db7890",
+    "text": "3. Insert the acrylic display board into base.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "a3df85710b2cb384",
+    "text": "4. Plug Type-C USB cable and the assembly is finished.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "b098254d757f3dc2",
+    "text": "5. You can adjust the brightness and turn on/off the light by touching the aluminum button.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "47f6b0b2c50a6e49",
+    "text": "Air Laser engraving",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "4687b9a9d675ac11",
+    "text": "Laser engraving is a auxiliary function in Carvera Air. We chose a 5W laser for mainly engraving the material, not for cutting. This case shows how to use the laser function to engrave pictures as black and white photos.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "66b20b539a0d6c9d",
+    "text": "Note: Refer to the relevant sections in the instruction manual for guidance on how to install the laser module.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "6e262d866596ceb5",
+    "text": "Note: Before engraving, ensure you are wearing proper eye protection and in a well ventilated space.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "8a58ae892d29b938",
+    "text": "1. Secure the 150x150x2mm MDF to the bed, aligning it with the L-bracket at anchor point 1, as shown in the illustration below.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "907c3ca31c8fc422",
+    "text": "2. Turn on the power and wait for the automatic homing to complete.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "2f6b5f24a0268806",
+    "text": "3. Open the control software and connect to Carvera Air (please read Carvera Air instruction manual",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "605fd28d950b8780",
+    "text": "for detailed steps)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "cde626d8d0c331f0",
+    "text": "4. Open Root->Examples->Laser in the remote directory. Select the“AudreyHepburn.nc” file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "2643a9a6aad9abc3",
+    "text": "5. Open the task configuration and operation dialog box",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "679c64ec0640402e",
+    "text": "6. Set working coordinate to X offset 30, and Y offset 25 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "92c977deb7e349d9",
+    "text": "7. Check the “Scan Margin” option.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "c5065ffb924778c2",
+    "text": "8. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "00bde4a1806a47ce",
+    "text": "9. Uncheck the “Auto Leveling” option(Because laser engraving has a high tolerance for flatness, no need for leveling).",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Laser-engraving"
+  },
+  {
+    "id": "5cd2ce6c4e41fedc",
+    "text": "Air Three-axis relief",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "6b7e17274658de63",
+    "text": "This case demonstrates how to use Carvera Air to perform roughing and finishing steps for machining a relief, offering a straightforward approach to creating intricate craftwork.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "d426f9be0736536e",
+    "text": "1. Fix the Epoxy Tooling Board and the wasteboard to the table as shown in the figure. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "b15bea431b4eac38",
+    "text": "5. Open Root->Examples->Relief in the remote directory. Select the “PirateShip.nc” file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "41074c08a7117a54",
+    "text": "7. Set working coordinate to X offset 3, and Y offset 3 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "b9d17797c2a9ad80",
+    "text": "9. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "153662e6110efe08",
+    "text": "10. Uncheck “Auto Leveling”.（ Because the material’s surface will be milled to a certain height, no need for automatic levelling detection）",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "6f885bc807957db9",
+    "text": "11. Check the configuration according to the figure above and click Run, change the tools according to the controller software's prompt.（Please refer to Item 6 of “",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "bb9b73fb6c4b69b5",
+    "text": "12. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.（Please refer to Item 7 of “",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "e0599d257837c628",
+    "text": "13. Remove the epoxy tooling board and use the handsaw in the accessory kit to take out your work.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-Three-axis-relief"
+  },
+  {
+    "id": "24b59a75c45e9b29",
+    "text": "Air-software",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "5f1ee0670e143eee",
+    "text": "1. Status Toolbar",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "c307400fd80a3d85",
+    "text": "The status toolbar is on top of the interface. It shows the real-time data of key indicators and can be used to control these indicators.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "a356eedd7e4068e8",
+    "text": "2. Task Toolbar",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "83f61c71a6613df6",
+    "text": "Task toolbar is at the bottom of the interface. In the task toolbar, you can manage G-Code files, configure, track and control machining process.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "1931f439387ed5c1",
+    "text": "3. G-Code & MDI",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "18aacd1a9efcad8d",
+    "text": "By default, this interface displays the G-Code of the currently opened file. It can be switched to the command information sent/received by the machine.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "ada632309ac209cb",
+    "text": "4. G-Code Preview",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "97b538adf8891ebe",
+    "text": "The G-Code preview graphically displays the currently opened file G-Code.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "839ef380f5d77578",
+    "text": "5. Manual Operation",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  }
+]

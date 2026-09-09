@@ -1,0 +1,327 @@
+[
+  {
+    "id": "8512366252030ef8",
+    "text": "In this video, we are guided through connecting a Tablet Device to the Carvera Air Desktop CNC by Makera! The Air is equipped with universal phone and tablet mount that allows for users to connect an tablet device to their CNC. After installing the Carvera Controller App onto the tablet, this device can then be used to control the Carvera Air CNC!",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "60487a5866fb21f6",
+    "text": "How to Change the Spindle Collet",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "82a430ba9cc4d225",
+    "text": "In this video, we are guided through changing the Spindle Collect on the Carvera Air Desktop CNC by Makera! Spindle Collet is the part of a CNC Spindle which that holds the bit. By changing the collet, you can change the diameter bit used for your CNC projects with the Carvera Air!",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "104d194f1aec2f13",
+    "text": "How to Update the Firmware",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "d957c0cc9ba217b4",
+    "text": "In this video, we are guided through updating the firmware for the Carvera Air Desktop CNC by Makera! Using the Carvera Controller App, we can check for firmware updates and update our CNC machines as updates become available. Firmware files can be downloaded for free from the software page on",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "37fd54c7384891d7",
+    "text": "Makera.com",
+    "page": "https://wiki.makera.com/en/Air/How-Tos"
+  },
+  {
+    "id": "9a86bf96e23ac15a",
+    "text": "Carvera Air Maintenance",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "a6c48ecad731069b",
+    "text": "The Carvera Air Desktop CNC machine is a complex electromechanical device full of sensors, electronics, and mechanical parts.",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "36cf2bd95dd75e40",
+    "text": "Parts do wear and faults are unavoidable during its long service.",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "f04df2438bf1f5e9",
+    "text": "Regular maintenance will reduce the wear and increase the life of the CNC machine.",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "149ec96962384456",
+    "text": "Before starting any maintenance procedures ensure the machine is turned off and unplugged.",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "cf779f9fbf3bb5e2",
+    "text": "Vacuum or compressed air can be used for cleaning.",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "c3e03ee11ea38754",
+    "text": "Technical Guides",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "d0f23651bcc448e3",
+    "text": "Swapping 4th-axis jaws",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "39aad739db10a9e2",
+    "text": "Usage of External Control",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "a7da7d1eb8f876c9",
+    "text": "Turn the ‘beep’ ON/OFF",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "2f511357f107baa6",
+    "text": "Replacing the indicator light",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "fb38186a5ebd7cb7",
+    "text": "Replacing the Top Poly-carbonate Cover of the Carvera Air",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "57f60a751073053e",
+    "text": "How to replace the mainboard",
+    "page": "https://wiki.makera.com/en/Air/Maintenance"
+  },
+  {
+    "id": "2ad6210c7dbb868d",
+    "text": "Replacing the Mainboard of the makera Air",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "9df025f1b467b1da",
+    "text": "Technical Manual – Carvera Air Mainboard Replacement & Breakdown",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "fe87610ccaa9ad5c",
+    "text": "1. Tools & Safety Precautions",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "8a6a31d8b1b88898",
+    "text": "Tools Required:",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "079e2b89c27682a8",
+    "text": "3mm Allen key",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "872705707a77512d",
+    "text": "2mm Allen key",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "323667489c579e8c",
+    "text": "#2 Pozi screwdriver",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "3a54bb85783549db",
+    "text": "Safety Precautions:",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "e18ee72ea43fa6fb",
+    "text": "✔ Ensure the",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "3d9476af89ccd7c1",
+    "text": "machine is powered off",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "5921a2630534e588",
+    "text": "before proceeding.",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "2e0714e5b834ffe8",
+    "text": "Unplug all cables",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "84af94a53a4cae5d",
+    "text": "before beginning the disassembly.",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "0d8b7dfce6d93139",
+    "text": "2. Removing the Existing Mainboard",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "20289a1a85244ab0",
+    "text": "2.1 Removing the Rear Cover",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "b0c7c98b4dac1bb8",
+    "text": "Using a screwdriver,",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "fd49cb780b25649f",
+    "text": "unscrew and remove the top rear cover",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "0565fceba715022c",
+    "text": "Figure 1",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "96b995f32d224bac",
+    "text": "2.2 Unscrewing the Socket Cluster",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "4b029a2b0f28a8bc",
+    "text": "(Optional, for better access)",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "470cfdd8b7d0c5b8",
+    "text": "Remove the",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "088fd5ad36715a74",
+    "text": "four screws",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "59ed572252310ab7",
+    "text": "securing the socket cluster.",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "c02e8f1179a2e2b5",
+    "text": "This step is",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "0f48d0d4b91bc1d8",
+    "text": "not mandatory",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "1914b4b9a88a92b0",
+    "text": "but provides",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "9db81e5a883c9677",
+    "text": "better access to the mainboard",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "ced12e39ce5dab46",
+    "text": "(Figure 2).",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "720f29c31ca2031c",
+    "text": "Figure 2",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "c159e45d80fb984b",
+    "text": "2.3 Disconnecting Cables & Wi-Fi Antenna",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "33ea95ea6837073b",
+    "text": "Unplug the USB cables first",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "682e390efbd50c18",
+    "text": "Carefully remove the",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "28c7b782d629cf4c",
+    "text": "Wi-Fi antenna",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "a24e10fde71a121a",
+    "text": "using",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "f492860b3cdcaadf",
+    "text": "bent tweezers",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "f060cf72e5ca515f",
+    "text": "Figure 3",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "0073ffe688b6c512",
+    "text": "Work around the mainboard",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "d414a183bb8dc0de",
+    "text": ", unplugging all connectors:",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "4ef67112e3a4508d",
+    "text": "Each connector has",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "52558c17530ce7c9",
+    "text": "security clips",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "329ed2a7c4a4e4d6",
+    "text": "on the sides that must be",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "6d047fad1bd2f63f",
+    "text": "pressed before unplugging",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "0fb418bc6b224cad",
+    "text": "Figure 4",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "806f9e1ef2552c5a",
+    "text": "2.4 Removing the Mainboard Screws",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "14943af4bebf846e",
+    "text": "The mainboard is secured by",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  },
+  {
+    "id": "c5756fbe1de546bd",
+    "text": "(one at each corner).",
+    "page": "https://wiki.makera.com/en/Air/Maintenance/Mainboard_replacement"
+  }
+]

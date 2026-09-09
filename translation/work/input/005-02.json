@@ -1,0 +1,327 @@
+[
+  {
+    "id": "79eac48dc7e2a6a7",
+    "text": "If a problem is not found under the troubleshooting content, please contact support (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "f4d0777948e8afdc",
+    "text": "support@makera.com",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "eb09d08200dad3f0",
+    "text": "Spindle troubleshooting",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "e076410f3318bea9",
+    "text": "Fixing a Loose Collet Lever",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "bfeb9883b2713ecf",
+    "text": "Problematic X Y and Z movement",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "5501e14c9feff8e8",
+    "text": "Linear guide adjustment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "487128ac49effb91",
+    "text": "Ball screw adjustment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "c256d4d04719e399",
+    "text": "Replace X axis Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "7aaf6a5889b01c79",
+    "text": "Wi-Fi connection",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "4e2fb45a6bd35eb6",
+    "text": "Resolving Network Conflict with eero",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "4b160181363e8224",
+    "text": "4th Axis",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "0b00f7de40e21325",
+    "text": "Rotational Z Offset",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "320d6900e05b17c8",
+    "text": "eero Wi-Fi connection error",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "fe4a66566c989faa",
+    "text": "Issue Summary",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "cd2fc3509ac1f1ce",
+    "text": "The default network segment for e",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "89672feebddaf95c",
+    "text": "ero",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "fa51fd49abf67705",
+    "text": "is",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "aa15cbc8fe7fcc98",
+    "text": ", which conflicts with the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "61fc88e5b1f1ea72",
+    "text": "AP network segment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "e0db96a21aba6b8f",
+    "text": "of the machine, causing connectivity issues.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "cd76b83adc00bd0d",
+    "text": "Solution Options",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "edc4789d70c02c87",
+    "text": "To resolve this conflict, choose one of the following methods:",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "db060f26b4672e98",
+    "text": "Method 1: Disable the Machine’s AP Network",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "4b51b940ceab66db",
+    "text": "Access the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "892ec847b0c08b25",
+    "text": "MDI (Machine Diagnostic Interface)",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "1bfd0000f5dfaa00",
+    "text": "Enter the following command:  ap disable",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "9ed1273e9b5a5579",
+    "text": "Press",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "dc8659db6d416dc3",
+    "text": "Enter",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "039283fe2620748b",
+    "text": "to execute the command.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "065bfc3e5047b712",
+    "text": "Verify that the machine’s AP network is disabled.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "5d75480b03922149",
+    "text": "Method 2: Modify the Eero Network Segment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "15559fde5c14ccf3",
+    "text": "Eero app",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "53ab743cc3c3e1aa",
+    "text": "on a connected mobile device.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "5060552031a7d1da",
+    "text": "Navigate to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "a47d5574d1b5c0c6",
+    "text": "Network Settings",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "011f7e4eae188870",
+    "text": "Locate the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "ca1bdb6924c9eb23",
+    "text": "IP Addressing",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "7175517a370b5cd2",
+    "text": "or",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "c722d48f88b93719",
+    "text": "Subnet Settings",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "50f6f281c7bac853",
+    "text": "option.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "6f428e75e7aa701e",
+    "text": "Change the default",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "c9a1827182d09c25",
+    "text": "network segment to a different subnet (e.g.,",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "1e40836b25c3af1e",
+    "text": "Save the changes and allow the Eero network to restart.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "454638943fdc62c0",
+    "text": "After applying either solution, verify that the network conflict is resolved by testing connectivity between devices.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "a18c3fff99b5400d",
+    "text": "Replace broken coupling on the x axis ball screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "7c38a3419392a477",
+    "text": "Technical Manual – Replacing the X-Axis Ball Screw Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2682f314cb19776a",
+    "text": "1. Tools & Preparation",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "55084680a9df07a4",
+    "text": "Preparation:",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "f3fe0b9dc9a8f9bb",
+    "text": "unplugged",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "acc0e84b4a3aebc1",
+    "text": "before beginning.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "10c2b3631d4f77da",
+    "text": "✔ Follow the disassembly instructions for",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "a91e64a27944cce8",
+    "text": "removing the X-axis ball screw covers",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "1c8936ef11b9df9d",
+    "text": "as outlined in the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "ac87864bce5ce10b",
+    "text": "XYZ Motor Error Troubleshooting Guide",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2cd01f58905deb11",
+    "text": "2. Removing the Existing Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "8d2d976e18258140",
+    "text": "2.1 Accessing the Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "49db11dc6b5a5e95",
+    "text": "Once the covers have been removed, locate the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "5fd795abab3727a2",
+    "text": "ball screw coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3265cce9ce4e0947",
+    "text": ". It is positioned on the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d3d40da34e3b7892",
+    "text": "left-hand side",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d6e3c63ab4d60e81",
+    "text": ", connecting the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "8f2a2199a6820b11",
+    "text": "motor shaft to the ball screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "12e66ef26221f11d",
+    "text": "Figure 1 – Location of the ball screw coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2eed001a078d44e4",
+    "text": "2.2 Loosening the Grub Screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "629506cb905a5e4a",
+    "text": "The coupling is secured by",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  }
+]

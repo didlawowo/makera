@@ -1,0 +1,242 @@
+[
+  {
+    "id": "e7ce5978bffa9c46",
+    "text": "select the tool information file to be restored and confirm the import. The tool group information will be restored and imported into the currently selected tool group node, and the accompanying material library information will be restored at the same time. If the current material library information already contains the material in the tool file, no processing will be done. If some material information is missing, the corresponding material information will be automatically added to the material library.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d5765207b2952110",
+    "text": "Tool Management",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0cdd42ed7e459e32",
+    "text": "Tool management allows for preset tool configuration information and supports creating, editing, copying, pasting, duplicating and deleting tool configurations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "70dd138383103da4",
+    "text": "And from the tool management section of the Tool Library, we can choose to add, copy, duplicate or delete tools within our Tool Groups.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3ebef25d06e7b725",
+    "text": "Adding Tools:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b7ed3dfdf84a46f6",
+    "text": "After choosing a tool group, press",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8f9cb4ad12b717c6",
+    "text": "[Add Tool]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "be2d2aa548075344",
+    "text": "to create a new tool. Set the tool name and type, and refer to the tool shape graphic shown to set any physical parameters specific to the tool type.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3ada235353eb4d96",
+    "text": "Set the tool number. The tool number corresponds to the tool number used tool paths created. On a CNC with an automatic tool changer like the Carvera, the tool number corresponds to the position of the tools loaded in the automatic tool changer (1-6). For CNCs like the Carvera Air, different tool number assignments will prompt pausing and manual tool change operations. Note: the tool number can also be manually reassigned when creating the machining tool path settings.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "47d2add58faf0615",
+    "text": "Under tool properties, the machining parameters for specific materials can be set. In the material list on the left, select the material name for which processing parameters need to be set, then set the processing parameters used for this material in the parameters on the right, and check the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "14b67c246b4d2b00",
+    "text": "[Enable]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "090ffb1f3b6c8281",
+    "text": "option to allow the use of these material parameters for the selected tool. After completing the setting, click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3afed63192811f4f",
+    "text": "to confirm the parameters. The material identifier for which processing parameters have been set will be displayed in green. To add or change the materials shown, refer to the Material Library.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a45f7b51898ede63",
+    "text": "Editing Tools:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d0134a3eb89b2f3e",
+    "text": "Select a tool and click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "87377125e426bb1c",
+    "text": "[Edit Tool]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7d782819e0193212",
+    "text": "to modify and update the current tool configuration information.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0e147d2751d4063f",
+    "text": "When changing the tool parameter configuration information corresponding to materials, you need to click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "858794aa2b9eab8f",
+    "text": "to confirm changes made.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a3487f231d432fa3",
+    "text": "Copying tools between Tool Groups:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9faf8e6314941d66",
+    "text": "Select a tool to be copied, click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bb44eb825a2b7b38",
+    "text": "[Copy Tool]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f2a46f9ce91ebbfe",
+    "text": ". Switch to the tool group you want to add the copied tool to, then click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1e237ae65c18397e",
+    "text": "[Paste Tool]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a6a3b361c5c6864a",
+    "text": ". The previously copied tool configuration information will be pasted in the selected tool group.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bb145543de3b3fad",
+    "text": "Duplicating Tools:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a0bf7ad17dba0f9f",
+    "text": "Select a tool to be duplicated, then click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "de8921ede230a187",
+    "text": "[Duplicate Tool].",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "94e4b9940ace83d9",
+    "text": "A copy of the selected tool will be added within the current tool group.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f7d939b8db55e17d",
+    "text": "Delete Tools:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "31ae628a50a86fa4",
+    "text": "Select a tool to be deleted, then click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d3f0d3dd71a1f5f1",
+    "text": "[Delete Tool]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0f6d0ac952cc57eb",
+    "text": "to delete the selected tool configuration.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d90b0bb47e89d261",
+    "text": "The ability to adjust graphic objects and imported design files allows for an easier and more efficient workflow from CAD to CAM processes within Makera CAM's primary user interface. For more information on how transform 2D designs, images, and 3D models, see",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bfc8715431c80aef",
+    "text": "Object transformation supports four operations: moving objects, rotating objects, scaling objects, and mirroring objects. After selecting an object, you can enter the transformation mode through the top menu bar, main toolbar, right-click menu, or by pressing the shortcut keys M - Move / R- Rotate / S- Scale. This will open the Transform tools in the Extended Properties Panel:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "58a60aaebee3d9b4",
+    "text": "For each Transformation, you can choose the anchor point you want to base the transformation off of in relation to the selected object at the top of the Extended Properties Panel. These options will change based on the selected transformation, and whether a 2D or 3D object has been selected. You can then select the desired transformation to display additional preferences unique to the specific operation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0050b40264e51045",
+    "text": "Move:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a8b4a7104f8d7c83",
+    "text": "Select the object to be moved and enter the move transformation mode.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "53c74369fe8884ea",
+    "text": "There are 5 moving reference anchor points at the top of the transformation parameter settings in the Extended Properties Panel. By selecting different anchor point positions, the object coordinates will be displayed based on the selected anchor point, and specific coordinates can be entered to adjust the position of the object.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e744a5336d058812",
+    "text": "[Quick Align Stock]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0e4134517b072af2",
+    "text": "will automatically center the selected object within the Stock boundaries.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "39d409b9432a499d",
+    "text": "Within the Extended Properties Panel, you can enter specific positions to move an object to a specific location in the X, Y, and Z planes, as well as view the current location of selected objects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a3e9a88666c963e5",
+    "text": "You can also left-click and drag the mouse to select the coordinate axis mark in the center area of the selected object to manually move objects in the direction of the coordinate axis selected. To free-move selected objects, you can left-click and drag the square icon in the center of the coordinate axis mark to reposition objects freely on the X and Y planes in the Design Area.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1c746fc13bbb2ab2",
+    "text": "[Center to Center]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cc363ef9f8ca0b03",
+    "text": "allows you to automatically center two selected objects, as described in the following section.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5f65e8905b6cc84f",
+    "text": "Rotate:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1d8f230e81d567b9",
+    "text": "Select the object to be rotated and enter the rotation transformation mode.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "83bd9f7fd0474a9a",
+    "text": "In rotation mode, only the center of the object is used as the anchor point for rotation transformation operations. During rotation, the rotation angle will be displayed and set with the center of the object as the anchor point.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "411a240e07ce319e",
+    "text": "— it is positioned on the right-hand side inside the enclosure (see image for reference).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "3fbb8f5931cb7311",
+    "text": "Find the plug corresponding to the affected axis.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6a35fb75cd8cadb6",
+    "text": "Gently remove the plug and inspect the connector. Make sure all wires are seated securely in the plug.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "44019ead3b3d9ead",
+    "text": "Reseat the plug firmly back into the controller board.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "3a76095b65e93798",
+    "text": "Step 3: Inspect the Motor Connection",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "82106bdeebee4c54",
+    "text": "Next, check the connection on the opposite end of the same wire — the motor itself.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "bc571803b47819a6",
+    "text": "X-axis motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "fe750efd0aa16c28",
+    "text": ": Accessible from the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "81cafd6979642af4",
+    "text": "Y-axis motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "d1453ecb0c5bbebe",
+    "text": ": Accessible from",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "797120484928bb29",
+    "text": "under the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "b3724f9dc8561b4c",
+    "text": "Z-axis motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "4c9dc9edba63e095",
+    "text": "front of the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6aeb01828a514612",
+    "text": ", behind the gantry.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "e86d372e38329371",
+    "text": "Inspect the plug for looseness or damage, and ensure the connector is fully seated.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "b3cdf514279fadf2",
+    "text": "Step 4: Test the Machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "2d756e0b0af006eb",
+    "text": "After checking and reseating all plugs:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "9dc7cc96dc7d093c",
+    "text": "Power on the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "20a6b5019f2a3286",
+    "text": "Run a short test job or jog the affected axis manually.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "1a4c77f45bda4efd",
+    "text": "Observe if the issue has been resolved.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "f67daeadc9076c32",
+    "text": "If the problem persists, continue to the next step.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6ec34143f27f5231",
+    "text": "Step 5: Check Cable Continuity",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "6d4f2c2432949ec8",
+    "text": "Using a multimeter, test the continuity of the cable between the controller board and the motor.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "bce6a02e6f74fdb8",
+    "text": "If you detect a break or inconsistent signal, the cable may need replacement.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "c5cb93a5abb404b3",
+    "text": "Ensure there are no visible signs of wear, fraying, or pin damage on the connectors.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "b6c49a7eac60ea66",
+    "text": "Step 6: Contact Support",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "7f28398a0d74499f",
+    "text": "If you have verified the connections and continuity but the issue continues, please contact",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "dbc00d2ab5174f6b",
+    "text": "Makera Support",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "812acc75b09992f1",
+    "text": "for further assistance.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "17507dcf845793fa",
+    "text": "Email:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "fe51105531ac5cf9",
+    "text": "Include the following in your email:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "ed6a54f559b93e67",
+    "text": "Description of the problem",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "d70935129485e5b8",
+    "text": "Axis affected (X, Y, or Z)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "ca6ca2e3cb29767f",
+    "text": "A photo of your setup and any visible damage",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "56f08ab4318d48a4",
+    "text": "Your machine’s serial number (if available)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "8e76a94ac8320d51",
+    "text": "Summary",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "c65ffb27b7ec4172",
+    "text": "Most cases of lost steps or incorrect movement are caused by loose or poor electrical connections between the controller and the motor. Carefully checking both ends of the wiring often resolves the issue. If not, the problem may lie in the cable or the motor itself, in which case Makera Support can assist with replacement or further diagnosis.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/XYZ"
+  },
+  {
+    "id": "c6152d66b6a94bda",
+    "text": "brass nut issue",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "313d56f5cf75fba3",
+    "text": "My brass nut is stuck",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "9d4d738986f42055",
+    "text": "This guide explains how to resolve a common issue affecting the automatic tool changer (ATC), where the machine produces a grinding noise or fails during the homing process.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "fa5eff36285524b6",
+    "text": "This issue is typically caused by an",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "5a394121cde6bdda",
+    "text": "over-tightened brass coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "c8bb8a408343b69c",
+    "text": "inside the spindle assembly.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "98d6c66abf9f0083",
+    "text": "Symptoms",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "127830f17149e034",
+    "text": "You may be experiencing this issue if your machine shows one or more of the following:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "859d20b8d374e380",
+    "text": "“ATC home fail” error",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "82bac16a44551bdb",
+    "text": "Loud grinding or slipping noise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "e742fad044aa4193",
+    "text": "Tool changer not engaging or releasing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "ee8f80b8b713909a",
+    "text": "Motor spins, but no mechanical movement occurs",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "f1f8ee998b756e1c",
+    "text": "Tool changer appears stuck",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "8a81ead633065bc7",
+    "text": "Root Cause",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "4ffd32991340844b",
+    "text": "Inside the tool changer assembly, there is a",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "dfbe86b74a68d517",
+    "text": "brass threaded coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "01edaf2b5f4caa05",
+    "text": "connected to a motor-driven shaft.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "a297f15792eb9772",
+    "text": "If this brass piece becomes",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "ae723e4241e687a9",
+    "text": "over-tightened",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "fcbd4a0859e6c858",
+    "text": ", or there is some debris buildup, the motor cannot generate enough torque to loosen it. As a result:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "56c75616a5f4f50e",
+    "text": "The motor spins",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "d4d6a039bd65fad9",
+    "text": "The gearbox slips",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "88af5d4a88384312",
+    "text": "A grinding noise is produced",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "f7f0f4c4c4429ef9",
+    "text": "The tool changer fails to operate correctly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "83093de27a5f17fb",
+    "text": "Allen keys / hex set",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1a2f850525580361",
+    "text": "Screwdrivers",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "b7a442c1fc7bced8",
+    "text": "Pliers (optional)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1e99737e09a52842",
+    "text": "Rubber grip or cloth",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  }
+]

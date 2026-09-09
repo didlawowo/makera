@@ -1,0 +1,327 @@
+[
+  {
+    "id": "387f6a95b721a9f5",
+    "text": "For Spring and Easter of 2025, we shared how Makera CAM could be used to create a few different example projects. This includes a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f5fe2e9e39618d63",
+    "text": "wooden phone stand",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "585e5da9d5d63692",
+    "text": "brass 3D relief",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d3e5bedfc0271592",
+    "text": ", and a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "40c18121095396a4",
+    "text": "rotation relief",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d9ac22fd0fe416b7",
+    "text": "made with the 4th axis.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b1c1318092ee710a",
+    "text": "rabbitphoneholder.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ec6525e732c0d469",
+    "text": "rabbitphoneholder_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6405349c4ea5ee49",
+    "text": "oval_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "691a59a644afe73c",
+    "text": "rabbit-brassrelief.stl.zip",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "31a987d4c11f538e",
+    "text": "rabbitbrassrelief_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "746208a5d67d706d",
+    "text": "egg.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "5a31bd5d328162dc",
+    "text": "eggrotationrelief_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "baddb7497ce72ef9",
+    "text": "Bottle Opener Example Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e4bc68d164b5e896",
+    "text": ".DXF",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "7e46472403284aa3",
+    "text": ".STP",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "26cc7eeeac8a3e8f",
+    "text": ", we demonstrate how a custom bottle opener can be designed and created using Makera CAM and the Carvera desktop CNC. This project as also featured in our memorial day promotions, and during a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "897236c37fadc70c",
+    "text": "livestream",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d7c5f01091170e70",
+    "text": "in May '25.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "83f72c3abbdae5b3",
+    "text": "bottle_opener_handle_2d_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f4009cd765a725cd",
+    "text": "bottle_opener_cap.stp",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6d441a3243a01cf3",
+    "text": "bottle_opener_handle.stp",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "27ca16cb4b30f8ef",
+    "text": "cap_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e5b3cde648a4a63c",
+    "text": "handle_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e51a1a1119b0b737",
+    "text": "handle_demo_2d.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "3e2a6cc585083dd1",
+    "text": "Table Top Game Example Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "768c3fb96d5fbeb7",
+    "text": ", we demonstrate how a pong-inspired tabletop game can be manufactured using Makera CAM and the Carvera desktop CNC. This project as also featured in our memorial day promotions, and during a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "bb05fc212b115d0f",
+    "text": "table_toss_game_-_bottom_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f7cb20ec8ea3ae01",
+    "text": "table_toss_game_-_top_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "c5f97bda2a86c633",
+    "text": "table_toss_game_-_engraving_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "25f288c11fe3f0e4",
+    "text": "table_toss_game_-_launcher_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "9a2363e443d72ca9",
+    "text": "tabletosstutorial_board.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "dfdaffb3c02e907b",
+    "text": "tabletosstutorial_launchers.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d8104a00173c44e9",
+    "text": "Push Card Fidget Toy",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "a335f3e0910ed7bb",
+    "text": ".STL",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "1733fd2e18c2d79f",
+    "text": ", we learn how to prepare and manufacture a push card style fidget toy using Makera CAM, the Carvera, and the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "38e605f6ab5410b0",
+    "text": "Fidget Toy Toolkit",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "10677d1a41de812d",
+    "text": "pushcard_2dfiles.zip",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "edeea7eeea0dc887",
+    "text": "pushcard_3dexample.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "24e3a6c177b67938",
+    "text": "pushcard_example.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "102ad2bab75e5f89",
+    "text": "Multi-Part Metal Fidget Spinner",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "1f089357e5762386",
+    "text": ", we learn how to prepare and manufacture a multi-part fidget spinner using Makera CAM, the Carvera, and the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "19a142e726bb051f",
+    "text": "spinner-top.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "0de25e49cc46bf37",
+    "text": "spinner-bottom.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b1a2f07113ddd2ab",
+    "text": "spinner_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "7506b99be7681e9e",
+    "text": "spinner_post.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "8eef5bc6ebf91bbb",
+    "text": "45mm Makera Keychain",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "7ff3e482ac5ee69f",
+    "text": ".STEP",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "730182a60f06c3a3",
+    "text": ", we look at how to use setup and use Fusion 360 with the Carvera Desktop CNC to create an example keychain out of aluminum.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "de16a65eed6bf4da",
+    "text": "Makera45mmKeychain.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "39a242b9806142aa",
+    "text": "Makera45mmKeychain.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e3b07656f9e6ccc3",
+    "text": "Makera45mmKeychain.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "325a1947d241c077",
+    "text": "Maze Game Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "78e75a25d80993a5",
+    "text": "STEP",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d4acb3d8911ceab6",
+    "text": ", we look at how to create a mini maze game using Fusion 360 and the Carvera Desktop CNC as part of the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "22efd7f7ddb1b052",
+    "text": "Machining Puzzles and Games",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6e350f67131c8f82",
+    "text": "lesson plan series.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ff801c4e58210c74",
+    "text": "MakeraMazeBoard.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d2bfe5e14d9b8493",
+    "text": "MakeraMazeCover.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "0ed5459e96ea84dd",
+    "text": "MakeraMazeBoard.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "269540d873666aad",
+    "text": "MakeraMazeCover.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f4cc786207dedfeb",
+    "text": "Tic Tac Toe Game Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "70db70603692494e",
+    "text": "10 mm Board",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "50b7bb716c0cb5c9",
+    "text": "25 mm Board",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "a92b80b771d18aa0",
+    "text": "30 mm Board",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": "48ba700af99dd598",
+    "text": "By joining our discussion group on",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "d41f5b4977ee05c6",
+    "text": "Facebook",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "053bc65874ad6098",
+    "text": "Discord",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "8ec18376790939d8",
+    "text": ", you can meet thousands of Carvera owners and fans and get help and inspiration from each other.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "f5f52d7fa46fa376",
+    "text": "Here is a useful",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "bb7578c9a4cb0d26",
+    "text": "CNC Beginner Playlist",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4c9d4e14d59d90f8",
+    "text": "organized by our community member Craig Trader.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "e13e39772efe6206",
+    "text": "I have CNC experience, what should I know before using the Carvera?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "8512596583c19cd8",
+    "text": "Just go through the instruction manual and follow the step-by-step example guide to finishing the initial projects, you could learn how to use the Carvera quite easily.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "7975300f01bc46f8",
+    "text": "Hardware",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "59ec47c396584a08",
+    "text": "Can Carvera handle Steel?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "274d2eea38df8828",
+    "text": "If you machine steel occasionally and don't care too much about the time, then the answer is Yes! With a relatively low speed, you can get carbon steel and stainless steel milled with a clean finish.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "2c375edcb3d5dd2c",
+    "text": "Here is a test video on YouTube, check it out:",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4c4877e701b47975",
+    "text": "What kind of milling bits can Carvera accept?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "3e306957459ed038",
+    "text": "The Carvera comes with a 1/8-inch collet and a bunch of free 1/8-inch milling bits. In our experience, 1/8-inch milling bits are the most common bits used for small desktop CNCs, and can handle almost all jobs.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "df8d8f4249b69dc1",
+    "text": "But in case you are rough milling soft materials such as wood, foam, epoxy, etc, you can absolutely use bigger shaft diameter ones. We offer optional ¼in, 6mm, and 4mm spindle collets for your to purchase.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "a4f03e8c2a6eeb9a",
+    "text": "Note that to adapt our auto tool changer mechanism, you can not use bits with a head diameter bigger than ¼in. And the total length of the bits should be less than 3in/76mm.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "a2190c0daa744792",
+    "text": "Do I need to prepare my own milling bits in advance?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4d193ffeb3eeb1e5",
+    "text": "If you are a seasoned CNC user and know exactly what kind of milling bits you need for your projects, then you can prepare your own. But if you are new to CNC, we suggest using the milling bits we provide for the example projects and other initial projects. Then get new ones based on your later needs.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "446d61463ecb26f2",
+    "text": "What is the connection type, recommended flow rate, and psi requirement for the air assist pump on the Carvera?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "f87f8372a51d44c4",
+    "text": "The connector is a Pneumatic Straight Push-In Fitting, model PC 08, designed for an 8mm outer diameter tube.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "2bb7e1d4c8d13dca",
+    "text": "Suggested pressure > 50 psi",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "f775b09d9c833886",
+    "text": "What CAM software to use with Carvera?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "b84fface893c085a",
+    "text": "Carvera supports mainstream CAM Software, and we are continuously adding new CAM software profiles based on our customers' needs. Here are some ones that we think are suitable for the Carvera machine and are easy to learn and use for different types of milling jobs.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "2458c74e4dc81d82",
+    "text": ": A powerful yet easy-to-use CAM software that supports 2DPCB and Laser paths. (3D/Rotary paths coming in the next phase)",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "32116dbb232eaf66",
+    "text": "Fusion 360: A cloud-based CAD/3D modeling, CAM, CAE, and PCB software platform for both product design and manufacturing. Compare to other industrial software, Fusion 360 is relatively easy to learn and is an all-in-one solution. If you are new to CAD and CAM, and you are interested in making mechanical/electronic/robot/drone parts or something like them, fusion 360 is a good option. It's free for students or startups with full functions, the personal version is free too but has some limitations.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "275ff462673f62f2",
+    "text": "VCarve Desktop: Gives you the power to produce complex 2D patterns with profile, pocket, drill, and inlay toolpaths, plus gives you the ability to create 3D and rotary relief by importing 3d model files. It can also do laser engraving with an add-on module. VCarve Desktop is suitable for woodworking, jewelry making, art making, etc.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4c1688a9b950eb31",
+    "text": "Kiri:Moto: Free, open-source, browser-based application that bridges 3D design to fabrication with tools for CAM, 3D Printing, and Laser output. There is no software to install, and all data and processing happen privately and locally to the browser window. Import STL, OBJ, and 3MF files and output GCode or SVG. 3 and 4-axis CAM operations include: roughing, pocketing, contouring, tracing, and more. Preview and animate your jobs ahead of time to see what you will get before the milling begins.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "4c6f95b3b12d00c9",
+    "text": "You can get our official tutorials for the software on our",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "6c3384a18c2c36d0",
+    "text": "What CAM software to use for making PCBs?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "9b69dfd0c5283f5c",
+    "text": "We recommend",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "e3c518f8849a3e31",
+    "text": ", FlatCAM (free and open-source), or CopperCAM for PCB milling. Check the",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "247328c48f4915d7",
+    "text": "tutorial video here.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "3a78695388b38b5c",
+    "text": "Home",
+    "page": "https://wiki.makera.com/en/home"
+  },
+  {
+    "id": "30e4478b0e7064c5",
+    "text": "If you would like to be a contributor to the Wiki content, to share your experience with others, contact our education team",
+    "page": "https://wiki.makera.com/en/home"
+  },
+  {
+    "id": "7c11166f4e232bc0",
+    "text": "Official Makera Educator Community",
+    "page": "https://wiki.makera.com/en/home"
+  },
+  {
+    "id": "0e98b239d7405796",
+    "text": "group allows for educators within our community to collaborate on Facebook.",
+    "page": "https://wiki.makera.com/en/home"
+  },
+  {
+    "id": "3d34c4c74f234358",
+    "text": "Project Sharing",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "47419e7e509fd4df",
+    "text": "This section of the Knowledge Sharing page is dedicated to sharing projects and tutorials on how to use the Carvera, Carvera Air, and subtractive manufacturing methods to create various projects effectively from across the Makera Community. Are you interested in developing and sharing a project on this page? If so,",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e3acaa06ccbfc7d4",
+    "text": "email us",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "0c21b0f366f577c0",
+    "text": "to learn how to support!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "8bc1d53cc57c24b7",
+    "text": "In",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "bf222c1c7634011f",
+    "text": "this tutorial",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "a18513254b2146ed",
+    "text": ", we demonstrate how to complete the LED light example project included with the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e2a732695e8987bd",
+    "text": "CNC! You can also find a step by step guide to this example",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "13407131c147781c",
+    "text": ", we demonstrate how to complete the laser example project included with the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "4823abb1b5d56b4f",
+    "text": ", we demonstrate how to complete the three axis example project included with the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "38bcb259b61f1d37",
+    "text": ", we demonstrate how to complete the 4th axis example project included with the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "22dbead932d1f9a2",
+    "text": ", we look how to get started with Makera CAM as we create a simple aluminum project from a 2D vector file.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ea66a5b6d3cedf59",
+    "text": ", we look at the first public beta release of Makera CAM as we show how to create a complex PCB project.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "4b6fde05f950390e",
+    "text": ", we learn how simple one-sided PCBs can be prepared in Makera CAM, then see how they can be manufactured using a desktop CNC.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "21dd63cd70bbceaa",
+    "text": ", we look at how",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6b3e5b94a7050368",
+    "text": "bi-color",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "eed9954079359b05",
+    "text": "stock can be machined to make signs, tags, and other products using Makera CAM!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d31a55951db246dd",
+    "text": ", we look at how to prepare and manufacture a push card style fidget toy using the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "117e29e7c6d493d2",
+    "text": "EDC Fidget Toy toolkit",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "fc653858c851be78",
+    "text": ", the Carvera, and Makera CAM!",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  }
+]

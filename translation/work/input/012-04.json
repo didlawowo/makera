@@ -1,0 +1,327 @@
+[
+  {
+    "id": "36604026bd1aa8ef",
+    "text": "the value makes the part",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e823da61abfbd317",
+    "text": "smaller",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "956368371c118e0a",
+    "text": "Decreasing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f60f10e9532ef421",
+    "text": "larger (Figure 11)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "d4d2b54478acf57c",
+    "text": "Figure 11",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "6a35110548f599fd",
+    "text": "Apply Changes & Restart",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "31e392d1c0378bec",
+    "text": "Apply",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "098d44b63a129403",
+    "text": "A pop-up will prompt you to",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "a32aaab31665e191",
+    "text": "restart the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "413a4aa0810cff9e",
+    "text": "Restart the machine for the changes to take effect (Figure 12).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "130179b3c3c3ecad",
+    "text": "Figure 12",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "b7b5135f52f007a6",
+    "text": "Verify the Settings",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "7054e94d3dcc72a1",
+    "text": "Once restarted, go back to",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "04906ed338bd76f5",
+    "text": "and confirm the updated",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "0352209d4bcd7583",
+    "text": "value.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "6962833cf8bcfd87",
+    "text": "Re-run the G-code on a New Stock Section",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "f474a2eef2a8ac4f",
+    "text": "the material before each new test run.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "5a9e3afe2154ae14",
+    "text": "Run the same toolpath and check the new cut diameter.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "a5a83f13e671d2e4",
+    "text": "Compare Results & Fine-Tune if Necessary",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "ffec2fcddbd4cf0c",
+    "text": "Measure the final cut diameter and compare it to the original design (Figure 13).",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "edf6c0987f3f6fcc",
+    "text": "Figure 13",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "91ca531c1bed8fe8",
+    "text": "Repeat the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "9fbe278daf3d9ae0",
+    "text": "adjustment process",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "8011fd15c7d720af",
+    "text": "until the machined diameter matches the intended size.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "5aeabba2da533cd9",
+    "text": "Final Confirmation",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "0bb498526c274923",
+    "text": "Once the diameter is correctly calibrated:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "db9da3776b46c354",
+    "text": "✅ The",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "07dfeae2a53817d9",
+    "text": "stock is securely fastened",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "23d5908b1722631a",
+    "text": "tailstock and chuck are tightened",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "e0746550fc33be1b",
+    "text": "is accurately set.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "3989d9f72fb813f0",
+    "text": "finished part matches the design dimensions",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "25534e7f261adc04",
+    "text": "The machine is now properly configured for accurate",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "5e310777c164a89f",
+    "text": "4th axis relief cutting",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/4th-axis/Rotational_z_offset"
+  },
+  {
+    "id": "77cc23f06f1d4fb2",
+    "text": "Picking or dropping any tool or WP gives an error.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "69052186278e832e",
+    "text": "This error can be caused by a few things, below are a few scenarios.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4ffa1a64efc8912f",
+    "text": "Scenarios:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "a469259034915329",
+    "text": "- There is no tool to pick up.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "ab5d3ada4d99f442",
+    "text": "- Incorrect collet is being used.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "c6ee71685de9b79d",
+    "text": "Smaller collet will result in the bit being pushed into the tool holder.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "1f977258246156d7",
+    "text": "A larger collet will not pick up the bit at all.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "45748ffd317edee2",
+    "text": "- The tool was pulled out of the holder slightly or pushed the tool into the tool holder. (See \"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "2f2d692e5250aae4",
+    "text": "\" topic)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "9e73a65bf5764757",
+    "text": "- After doing the tool detection operation an error occurs (See \"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "3333c770cf6590f7",
+    "text": "tool detection sensor problem",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "26badb490d1c4d32",
+    "text": "- The tool stays in the collet after doing the drop command (See \"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "e175fb0578bb2513",
+    "text": "Tool stays in the collet after releasing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "c8f99410ec611ea1",
+    "text": "- The tool position is occupied.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "2b4fd42214f67690",
+    "text": "ATC Misalignment",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4d0bd9e1a60dd62d",
+    "text": "ATC misalignment is when you can see that there is an offset from where the bit drops to the holder.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4cbf6c74c9a3b8ef",
+    "text": "Tool rack misalignment example",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "6d43d1f2fc1121fa",
+    "text": "ATC misalignment can cause a few different scenarios.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "a178407cda0ab3b4",
+    "text": "the bit lifts out of the holder slightly after dropping the tool.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4b9d3495bff06b11",
+    "text": "crushes the bit into the bit holder when dropping.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "5c8caff1aa039601",
+    "text": "The bit stays in the collet after dropping",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "25a8d45469d1048c",
+    "text": "Step 1",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "c6fd15dd1de2d24b",
+    "text": "Check for backlash on all axis (see \"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4d121ce77d569aba",
+    "text": "If there is any backlash in any of the axis, follow the instructions and move on to step 2.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "77e6c9bb48fbcb0a",
+    "text": "Check if any of the limit switches are loose.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "f47bfe6c0b4746eb",
+    "text": "If any of the limit switches are loose, retighten and move on to step 2.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "649474af418cac5d",
+    "text": "Step 2",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "58e6c6fb547c1ad9",
+    "text": "Do a manual XYZ probe in anchor point 1 and readjust the value in the settings menu.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "8c6b144dc1bdf06a",
+    "text": "Move the spindle head over anchor point 1",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "5a5959e40363cf48",
+    "text": "Plug in the manual probe at the side of the machine bed. and attach the magnet to the side of the collet holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "dabca1d95ec16604",
+    "text": "Use a square guide material to keep the probe in position. and do the XYZ probe",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "7726b0c615f7f293",
+    "text": "Take note of the X and Y coordinates in the top toolbar.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  }
+]

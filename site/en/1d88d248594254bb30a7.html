@@ -1,0 +1,1882 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Makera CAM User Guide · Makera en français</title><meta name="description" content="Documentation Makera en français : CNC Carvera, Carvera Air, Z1 et Makera CAM.">
+<link rel="stylesheet" href="../assets/style.css"><script defer src="../assets/search-data.js"></script><script defer src="../assets/app.js"></script></head>
+<body data-prefix="../"><a class="skip-link" href="#main">Aller au contenu</a>
+<aside class="sidebar" id="sidebar"><a class="brand" href="../index.html"><span class="brand-mark">M<span>↗</span></span><span>MAKERA<small>LE WIKI EN FRANÇAIS</small></span></a>
+<a class="home-link" href="../index.html">⌂ &nbsp; Accueil</a><p class="nav-label">EXPLORER LA DOCUMENTATION</p><nav aria-label="Documentation"><details><summary>Bien démarrer <span>7</span></summary><a href="../fr/5b30e2965e9ea8bbe394.html">Premiers pas avec les machines CNC</a><a href="../fr/e2a258e52ee550b30a5e.html">Sécurité</a><a href="../fr/bab1ab871a1f3d957ece.html">À propos de nous</a><a href="../fr/0010707deb67777fa3c5.html">FAQ</a><a href="../fr/7e9aad55819cd607d71b.html">Accueil</a><a href="../fr/9fb11dbb9a0bcf3ea73b.html">Vitesses et avances</a><a href="../fr/fbdb6fda64213c962b3e.html">Supported Codes</a></details><details><summary>Carvera <span>34</span></summary><a href="../fr/c3afbfdbb26c407311cc.html">Carvera</a><a href="../fr/e0706643e984251da68d.html">Guides pratiques</a><a href="../fr/45513f330120814e69b7.html">Maintenance</a><a href="../fr/4b4aa27e1d4db5dd1c93.html">Lubrification de la Carvera</a><a href="../fr/65fff56f76700054b21f.html">Nettoyage de la Carvera</a><a href="../fr/978b3813e8e61abb9ba0.html">Nettoyage en profondeur de la Carvera</a><a href="../fr/8a396a7bc6e05c468059.html">Utilisation de la commande externe</a><a href="../fr/251ee48c4a911646d82d.html">Remplacer les mors du quatrième axe</a><a href="../fr/9906a58b6507aedd30a7.html">Mettre à niveau le logiciel</a><a href="../fr/ff23b4b38c8a231c1695.html">Manuel</a><a href="../fr/d657ee9ab5297671dcd0.html">Relief sur quatre axes</a><a href="../fr/35c2e7635e4f48c21e8e.html">Guide d&#x27;exemples</a><a href="../fr/49956cbcf969f9f48261.html">Gravure laser</a><a href="../fr/62491bce3fb321fae88a.html">Lumière LED</a><a href="../fr/06ff1b5ccda9f4b3c907.html">Autre</a><a href="../fr/035ce4752d4ee1f254a1.html">Logiciel</a><a href="../fr/f2898aaf898443bf4285.html">Installation du logiciel</a><a href="../fr/ed4b577e0157ee8fb8ce.html">Relief sur trois axes</a><a href="../fr/5fec8e934d095f9f19ad.html">Kit d&#x27;outils</a><a href="../fr/3296a89e8768dd2703aa.html">Déballage</a><a href="../fr/ebdc9cb9f304a82d491c.html">Dépannage</a><a href="../fr/cd59e817c3df1d4e8cdb.html">Quatrième axe</a><a href="../fr/62ee514c36976118f71d.html">Régler le décalage Z de rotation</a><a href="../fr/f766a41577e5fef4cff5.html">ATC</a><a href="../fr/89bfd366b980cf641140.html">Porte-outil desserré</a><a href="../fr/cb9539fefd4b092f7a31.html">Dépannage de la précision</a><a href="../fr/8f346779932e1377f750.html">Collecte des poussières</a><a href="../fr/235fc9f0be404964e043.html">Laser</a><a href="../fr/3e6185181261d6b1d7df.html">Erreurs de fins de course</a><a href="../fr/bde576f34a6396eee3fc.html">Broche</a><a href="../fr/4adb4f7b07b9e46f934c.html">Démarrage</a><a href="../fr/cec1ce515dddd6a64b7c.html">Palpeur sans fil</a><a href="../fr/3a984f7be3b9e9ef6c54.html">Mouvement XYZ problématique</a><a href="../fr/3f2a10ff1741096a33cf.html">problème d&#x27;écrou en laiton</a></details><details><summary>Carvera Air <span>20</span></summary><a href="../fr/b378c7c1e454898120e6.html">Guides pratiques de la Carvera Air</a><a href="../fr/1c56ea10f4f7e318c832.html">Maintenance de la Carvera Air</a><a href="../fr/797ead0eafd6e426b0b6.html">Remplacement de la carte mère de la Makera Air</a><a href="../fr/49216e1bc7ba4557debf.html">Activer ou désactiver le buzzer</a><a href="../fr/38c782ee9bfd2e047d5c.html">Remplacer le capot supérieur en polycarbonate de la Carvera Air</a><a href="../fr/2d0bb6151fff15874180.html">manuel de la Carvera Air</a><a href="../fr/4aaa4db4ef9127f83194.html">Relief sur quatre axes de l&#x27;Air</a><a href="../fr/3860b4e94d77e080b45e.html">Lampe LED Air</a><a href="../fr/9618cf78c890d3a16d58.html">Gravure laser Air</a><a href="../fr/11d6a6dd73b6eaea7412.html">Relief sur trois axes de l&#x27;Air</a><a href="../fr/8a239c2d06b786e5d561.html">Logiciel Air</a><a href="../fr/c0f908fd1b8e8c7e9fa7.html">Préparation de l&#x27;Air</a><a href="../fr/ce702f9adcc599ca2d1d.html">Déballage</a><a href="../fr/5586780cd1593bebf83d.html">Kit d&#x27;outils Air</a><a href="../fr/88f78c8d251065fac6de.html">Carvera Air Troubleshooting</a><a href="../fr/c11152b4cd58b7923ecf.html">eero Wi-Fi connection error</a><a href="../fr/2cd5d59dc9c85bd0463c.html">Replace broken coupling on the x axis ball screw</a><a href="../fr/54c8a9879764506c69e3.html">Collet Lever</a><a href="../fr/82190cb92c64c297180c.html">Adjusting the Z-Axis Rails</a><a href="../fr/ca0405337f434e1f102c.html">Machine is halted X, Y, Z Axis Motor Error, reset needed</a></details><details><summary>Makera Z1 <span>8</span></summary><a href="../fr/0d74447904774ec092a1.html">Makera Z1 – Accessoires</a><a href="../fr/74060629bd65ed304917.html">Démarrage rapide du quatrième axe Makera Z1</a><a href="../fr/8136777c981a8477718c.html">Démarrage rapide du module ioniseur Makera Z1</a><a href="../fr/6a5db9cf6a815f28e3cc.html">Démarrage rapide de l’étau surbaissé Makera Z1</a><a href="../fr/a8c6ecac0a896e07d496.html">Démarrage rapide du plateau aspirant Makera Z1</a><a href="../fr/58aad18200dc6379fe3c.html">Manuel Makera Z1</a><a href="../fr/41393d351b0e5d59ff5e.html">Démarrage rapide de la Makera Z1</a><a href="../fr/7ac136dfbdb669c8dfcf.html">Maintenance de la Makera Z1</a></details><details open><summary>Logiciels &amp; FAO <span>13</span></summary><a href="../fr/8821cb3e72bfac8f7903.html">Logiciel</a><a href="../fr/139e5aa8de434f35a56c.html">Carveco</a><a href="../fr/2b716af19357b8d3c119.html">GibbsCAM</a><a href="../fr/410f2b6ce07362b533cd.html">LightBurn</a><a href="../fr/e1e4c1eab2159d5dbe5a.html">Introduction à Makera CAM</a><a href="../fr/ee07b8d5455c2d90b2c9.html">Tutoriels Makera CAM</a><a href="../fr/1d88d248594254bb30a7.html" aria-current="page">Guide utilisateur Makera CAM</a><a href="../fr/e78e9b1852028ff6fdf3.html">MasterCAM</a><a href="../fr/01ea546747d76f487ef8.html">SiemensNX</a><a href="../fr/48bf2e560fffb8a958fa.html">SolidCAM</a><a href="../fr/48914873ce95a1bf14ba.html">SolidworksCAM</a><a href="../fr/3064b9a85f08edc0fb9f.html">Fusion360</a><a href="../fr/b19fcc38c19ca219575b.html">VCarve Desktop</a></details><details><summary>Collecteur Cyclone <span>5</span></summary><a href="../fr/ca69b07fa17a44febcf5.html">Cyclone Dust Collector Maintenance</a><a href="../fr/4434d82581ae695a116b.html">Cyclone Manual</a><a href="../fr/9a96264ebe37ebdadb44.html">Cyclone Dust Collector Troubleshooting</a><a href="../fr/a4a057d670ac8fc10a8f.html">Cyclone Dust Collector Tutorials</a><a href="../fr/a1b2beb43419640b745c.html">Usage of External Control for the Cyclone Dust Collector</a></details><details><summary>Accessoires <span>2</span></summary><a href="../fr/a41c205266d0f2ea2de2.html">Guide de démarrage rapide du module de gravure Makera</a><a href="../fr/2a88a0d9723237da8a1c.html">Palpeur 3D Makera</a></details><details><summary>Communauté <span>2</span></summary><a href="../fr/2b1fbe0d4f4f65f289a7.html">Partage de connaissances</a><a href="../fr/53c8eebf4aa59e3fca8a.html">Bride alternative</a></details></nav>
+<div class="sidebar-foot"><span class="status-dot"></span> Votre bibliothèque locale<a href="../unavailable.html">État de la copie & sources</a></div></aside>
+<div class="workspace"><header class="topbar"><button class="menu-button" id="menu-toggle" aria-controls="sidebar" aria-expanded="false" aria-label="Ouvrir le menu">☰</button>
+<span class="top-label">L’ATELIER / DOCUMENTATION</span><div class="search-wrap"><label class="sr-only" for="search">Rechercher dans les 91 pages</label><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Chercher un outil, un réglage, une procédure…" autocomplete="off"><kbd>/</kbd></div><span class="language-badge">FR</span></header>
+<section class="search-results" id="search-results" hidden aria-label="Résultats de recherche"><div class="search-heading"><h2 id="search-status" aria-live="polite">Résultats</h2><button id="search-close">Fermer ×</button></div><div id="search-items"></div></section>
+<main id="main" class="main"><div class="breadcrumbs"><a href="../index.html">Accueil</a><span>/</span>Logiciels &amp; FAO</div><div class="article-head"><span class="eyebrow">Logiciels &amp; FAO</span><h1>Makera CAM User Guide</h1><div class="article-meta"><span>Version originale</span><span>·</span><a href="https://wiki.makera.com/en/software/MakeraCAM_userguide" target="_blank" rel="noopener noreferrer">Voir sur le wiki Makera ↗</a><div class="language-switch"><a href="../fr/1d88d248594254bb30a7.html">Français</a><span aria-current="true">English</span></div></div></div><div class="article-body"><article><div><blockquote>
+  <p>For additional information and support as you learn how to use Makera CAM for your CNC projects, check out our <a href="ee07b8d5455c2d90b2c9.html" class="is-internal-link is-valid-page">video tutorials for Makera CAM</a>. Are you new to CNC's? If so, we recommend you check out our <a href="5b30e2965e9ea8bbe394.html" class="is-internal-link is-valid-page">Getting Started with CNC Machines</a> tutorials before diving into your first project. </p>
+</blockquote>
+<h1 id="overview" class="toc-header"> <span class="text-big">Overview</span></h1>
+<p>Makera CAM is a tool path design software tailored for the Carvera and Carvera Air desktop CNC machines. This manual contains necessary operating instructions and resources to help you find success as you prepare designs for production using subtractive manufacturing techniques. <a href="https://www.makera.com/pages/makera-cam" class="is-external-link" target="_blank" rel="noopener noreferrer">Visit our website</a> for more information about Makera CAM, and find Makera CAM Tutorial Videos <a href="ee07b8d5455c2d90b2c9.html" class="is-internal-link is-valid-page">here</a>. </p>
+<p>The Makera CAM main interface includes the menu bar, main functions on the tool bar, stock parameters, functions panel, Design Area, extended properties panel, and lower status bar.</p>
+<figure class="image"><img src="../assets/media/2c5d920e5fda8d127156b5bb.jpg" loading="lazy" decoding="async"></figure>
+<h2 id="version-features" class="toc-header"> <span class="text-big">Version Features</span></h2>
+<p>This guide has been most recently revised for <strong>Makera CAM Version 0.2.0 (Beta)</strong>. For downloads, version features, and release notes, visit the <a href="https://github.com/MakeraInc/MakeraCAM/releases" class="is-external-link" target="_blank" rel="noopener noreferrer">GitHub page for Makera CAM</a>.</p>
+<h2 id="typical-operation-workflow" class="toc-header"> <span class="text-big">Typical Operation Workflow</span></h2>
+<p>Creating a manufacturable file using Makera CAM can be done through the following steps:</p>
+<figure class="image image_resized"><img src="../assets/media/92eda524020260fe058afb5c.jpg" loading="lazy" decoding="async"></figure>
+<h2 id="navigational-techniques" class="toc-header"> <span class="text-big">Navigational Techniques</span></h2>
+<p>You can navigate in Makera CAM through different operations using the mouse and keyboard shortcuts as shown in <a href="https://www.youtube.com/watch?v=ErhW7N11iOo&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=2&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. Basic navigational techniques are as follows:</p>
+<ul>
+  <li><strong>Left Mouse Button:</strong>
+    <ul>
+      <li>Click the left mouse button to select a single image or vector graphic object under the cursor. Generated tool paths cannot be selected.</li>
+      <li>Hold and drag the left button <strong>to the right</strong> to create a selection box to select multiple graphic objects. <strong>The graphic objects <u>completely selected</u> by the selection box </strong>will be marked as selected.</li>
+      <li>Hold and drag the left button <strong>to the left</strong> to create a selection box to select multiple graphic objects. <strong>All graphic objects <u>touched</u> by the selection box </strong>will be marked as selected.</li>
+      <li>Press and hold the Shift key while clicking with the left mouse button or dragging a selection box to select multiple graphic objects.</li>
+      <li>When working in the Functions Panel on the left side of the main interface:<ul>
+          <li>Click the left mouse button to select a single layer / path entry.</li>
+          <li>Press and hold the Shift key and click the left mouse button to select multiple continuous layers / path entries.</li>
+          <li>Press and hold the Ctrl key and click with the left mouse button to select multiple non-continuous layers / path entries</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Middle Mouse Button (Scroll Wheel):</strong>
+    <ul>
+      <li>Press and hold the middle button and drag to pan across the Design Area in the current viewing angle.</li>
+      <li>Press and hold the Shift key while also holding and dragging the middle mouse button to rotate within the Design Area to change the current viewing angle.<ul>
+          <li>When no graphic object is selected in the Design Area, the rotation origin of the screen is the center of the stock</li>
+          <li>When a graphic object is selected in the Design Area, the rotation origin is the center of the selected graphic combination.</li>
+        </ul>
+      </li>
+      <li>Double-click the middle button to restore the current perspective back to the TOP perspective, the Design Area zoom will also be restored.</li>
+    </ul>
+  </li>
+  <li><strong>Right Mouse Button:</strong>
+    <ul>
+      <li>The right mouse button will open a menu in the Design Area that includes editing functions (copy, cut, paste, delete), layer functions, tool path functions, graphic transformations, and library operations. For specific functions, please refer to the subsequent chapters.</li>
+    </ul>
+  </li>
+</ul>
+<p>When attempting to adjust graphic objects and design files in Makera CAM, you must first enter the transformation mode by opening the <strong>Transform</strong> menu in the extended properties panel. In transformation mode, you can move, rotate, and scale the design files. You can enter the transformation mode in the menu opened when right-clicking, or by opening the Transform properties in the <strong>Edit</strong> menu items, or you can select the graphic and use keyboard shortcut keys to enter the corresponding modes: (M – move / R- rotate / S - scale). This is discussed in greater detail later in the <strong>Adjusting Objects</strong> section of this guide. </p>
+<h2 id="selecting-objects" class="toc-header"> <span class="text-big">Selecting Objects</span></h2>
+<p>For 2D design files, imported images, and graphic objects to be edited or manipulated in Makera CAM, they first must be selected as mentioned in the previous section. When 2D vector files (SVG, DXG) are selected, the lines in the design become <strong>dotted</strong> to show that they are selected, as show in this <a href="https://www.youtube.com/watch?v=EfYG2cncA8E&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=4&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">tutorial</a> and below. The lines of the 2D object match the color set for the layer which the design file has been placed, as discussed later in the Layers section of this guide.</p>
+<figure class="image image_resized"><img src="../assets/media/be29a1629a4def24c792198d.png" loading="lazy" decoding="async"></figure>
+<p>When working with image files, the <strong>border</strong> around the image will be highlighted to show that the image has been selected as shown in this <a href="https://www.youtube.com/watch?v=mJxVdOGcZ8g&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=5&amp;t=90s&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">tutorial</a> and below. The highlighted selection lines match the color set for the layer which the design file has been placed, as discussed later in the Layers section of this guide.</p>
+<figure class="image image_resized"><img src="../assets/media/2a30707e7d7cc61a3d0e25ed.png" loading="lazy" decoding="async"></figure>
+<p>When working with 3D models (STEP, STL), the model will be highlighted in <strong>blue with a yellow perimeter</strong> when selected as shown in this <a href="https://www.youtube.com/watch?v=6B6cvxA_uyY&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=3&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">tutorial</a> and below. When the 3D model is not selected, it will be displayed in the color of the layer which the model has been placed, as discussed later in the Layers section of this guide.</p>
+<figure class="image image_resized"><img src="../assets/media/3a034dfddc3c7ec92425df65.png" loading="lazy" decoding="async"></figure>
+<p>If a design, image, or model has not been selected, options to manipulate it (transform, mirror, trace, or generating tool paths) will not be available for selection. </p>
+<h1 id="main-functions" class="toc-header"> <span class="text-big">Main Functions</span></h1>
+<p>The following sections outline the main functions of Makera CAM's primary user interface. </p>
+<h2 id="launching-makera-cam" class="toc-header"> <span class="text-big">Launching Makera CAM</span></h2>
+<p>Starting with the public Beta release of Makera CAM v0.2.0, users are greeted with a project selection window upon launch:</p>
+<figure class="image image_resized"><img src="../assets/media/71e4a951d6a5f644e16479d1.png" loading="lazy" decoding="async"></figure>
+<ul>
+  <li><strong>3 AXIS</strong> - Creates a <strong>new project</strong> for 3-axis machining. This will preset the STOCK and WCS to match the standard 3-axis configuration for the Carvera and Carvera Air, suitable for typical CNC milling or laser operations.</li>
+  <li><strong>4 AXIS - </strong>Creates a <strong>new project </strong>for 4-axis machining. This will preset the STOCK and WCS to suit the needs of the Carvera and Carvera Air when the optional 4th Axis rotary module has been configured.</li>
+  <li><strong>Open Project - </strong>Allows for you to select and open a saved Makera CAM (.mkc) file from your computer for either 3-axis or 4-axis configurations.</li>
+  <li><strong>Open Recent - </strong>Allows for you to quickly browse through up to 10 recently opened Makera CAM (.mkc) files from your computer for either 3-axis or 4-axis configurations.</li>
+</ul>
+<p>From within a Makera CAM project, creating a New (Ctrl+N) project will reopen the project selection window.</p>
+<h2 id="menu-bar-introduction" class="toc-header"> <span class="text-big">Menu Bar Introduction</span></h2>
+<figure class="image"><img src="../assets/media/0f834abbbc0577571c3fd7cb.png" loading="lazy" decoding="async"></figure>
+<h3 id="file" class="toc-header"> <span class="text-big">File</span></h3>
+<figure class="image image_resized"><img src="../assets/media/051855b7c7c76259a1e669d9.png" loading="lazy" decoding="async"></figure>
+<p>The options in the file menu perform the following actions:</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>New</strong></td>
+        <td>New Project, opens project selection window</td>
+      </tr>
+      <tr>
+        <td><strong>Open...</strong></td>
+        <td>Open a saved project</td>
+      </tr>
+      <tr>
+        <td><strong>Open Recent...</strong></td>
+        <td>Choose from the 10 most recently opened projects</td>
+      </tr>
+      <tr>
+        <td><strong>Save</strong></td>
+        <td>Save Project</td>
+      </tr>
+      <tr>
+        <td><strong>Save As...</strong></td>
+        <td>Save Project as a copy or with a new project name</td>
+      </tr>
+      <tr>
+        <td><strong>Import Image...</strong></td>
+        <td>Import image files in JPG/PNG/BMP and other formats</td>
+      </tr>
+      <tr>
+        <td><strong>Import 2D Model...</strong></td>
+        <td>Import DXF / SVG vector design files</td>
+      </tr>
+      <tr>
+        <td><strong>Import 3D Model...</strong></td>
+        <td>Import STL / STEP 3D model files</td>
+      </tr>
+      <tr>
+        <td><strong>Import PCB...</strong></td>
+        <td>Import components of a PCB Gerber Design File</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p> </p>
+<h3 id="edit" class="toc-header"> <span class="text-big">Edit</span></h3>
+<figure class="image image_resized"><img src="../assets/media/4749169fa42e447c1b1ac511.png" loading="lazy" decoding="async"></figure>
+<p>The options in the edit menu perform the following actions:</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Undo</strong></td>
+        <td>Undo the last transformation operation</td>
+      </tr>
+      <tr>
+        <td><strong>Redo</strong></td>
+        <td>Redo an undone transformation operation</td>
+      </tr>
+      <tr>
+        <td><strong>Cut</strong></td>
+        <td>Cut the selected object</td>
+      </tr>
+      <tr>
+        <td><strong>Copy</strong></td>
+        <td>Copy the selected object</td>
+      </tr>
+      <tr>
+        <td><strong>Paste</strong></td>
+        <td>Paste the copied/cut object to the active layer</td>
+      </tr>
+      <tr>
+        <td><strong>Delete</strong></td>
+        <td>Delete the selected object</td>
+      </tr>
+      <tr>
+        <td><strong>Transform</strong></td>
+        <td>Options to open transform tools within the Extended Properties Panel (move, rotate, scale, mirror)</td>
+      </tr>
+      <tr>
+        <td><strong>Create</strong></td>
+        <td>Create simple dimensioned 2D or 3D shapes on the current layer in the Extended Properties Panel.</td>
+      </tr>
+      <tr>
+        <td><strong>Trace</strong></td>
+        <td>Image tracing function can convert the selected raster image into an approximate vector graphics, or be used to create contour paths around the edges of a 3D model.</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p> </p>
+<h3 id="path" class="toc-header"> <span class="text-big">Path</span></h3>
+<figure class="image image_resized"><img src="../assets/media/0ec8b07f5e6d610a16afb474.png" loading="lazy" decoding="async"></figure>
+<p>The options in the path menu perform the following actions:</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>2D Path</strong></td>
+        <td>Create 2D machining tool paths based on the features of an imported 2D Design file - Includes 2D Contour, 2D Pocket, 2D Drilling, 2D Thread Milling, and 2D Chamfer operations.</td>
+      </tr>
+      <tr>
+        <td><strong>3D Path</strong></td>
+        <td>Create 3D machining tool paths based on the features of an imported 3D Design file - Includes 3D Relief, 3D Contour, 3D Pocket, 3D Drilling, 3D Thread Milling, and 3D Chamfer operations.</td>
+      </tr>
+      <tr>
+        <td><strong>Rotation Path</strong></td>
+        <td>Creating 4-axis rotary machining tool paths when in a 4-axis project configuration around an imported 3D Design file - Includes Rotation Relief.</td>
+      </tr>
+      <tr>
+        <td><strong>Laser Path</strong></td>
+        <td>Creating Laser Processing Paths - Includes Laser Vector and Laser Image.</td>
+      </tr>
+      <tr>
+        <td><strong>Export</strong></td>
+        <td>Export tool path G-Code files for production</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p> </p>
+<h3 id="view" class="toc-header"> <span class="text-big">View</span></h3>
+<figure class="image image_resized"><img src="../assets/media/cf9920c70cace8341026acbb.png" loading="lazy" decoding="async"></figure>
+<p>The options in the view menu perform the following actions:</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Show Tab Bar</strong></td>
+        <td>Toggle show / hide of the Tab bar above the Tool Bar </td>
+      </tr>
+      <tr>
+        <td><strong>Show All Tabs</strong></td>
+        <td>Open and display all open Tabs (when applicable) </td>
+      </tr>
+      <tr>
+        <td><strong>Tool Bar</strong></td>
+        <td>Toggle show / hide of the Tool bar above the Design Area</td>
+      </tr>
+      <tr>
+        <td><strong>Status bar</strong></td>
+        <td>Toggle show / hide of the Status bar below the Design Area</td>
+      </tr>
+      <tr>
+        <td><strong>Project</strong></td>
+        <td>Toggle show / hide of the Stock and Functions Panel on the left side of the Design Area</td>
+      </tr>
+      <tr>
+        <td><strong>Camera</strong></td>
+        <td>Switch the Design Area display perspective</td>
+      </tr>
+      <tr>
+        <td><strong>Zoom</strong></td>
+        <td>Zoom in/out or fit all features within the Design Area</td>
+      </tr>
+      <tr>
+        <td><strong>Left Button</strong></td>
+        <td>Set the function of clicking the left mouse button. You can switch between Select / Pan / Zoom (Click: Zoom in / Alt+Click: Zoom Out) / Rotate</td>
+      </tr>
+      <tr>
+        <td><strong>Enter Full Screen</strong></td>
+        <td>Fits the application window to full screen (when applicable) </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p> </p>
+<h3 id="setting" class="toc-header"> <span class="text-big">Setting</span></h3>
+<figure class="image"><img src="../assets/media/637f568c0dfeff4749ecdc00.png" loading="lazy" decoding="async"></figure>
+<p>The options in the setting menu perform the following actions:</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Material Library</strong></td>
+        <td>Set Material Library to add or change the material name and parameters of the stock material</td>
+      </tr>
+      <tr>
+        <td><strong>Tool Library</strong></td>
+        <td>Set up the Tool Library, adjust the tool type and basic parameters, manage tool configurations by group, and set initial parameters related to tools that match different materials</td>
+      </tr>
+      <tr>
+        <td><strong>Language</strong></td>
+        <td>Switch the display language of Makera CAM</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2 id="tool-bar-introduction" class="toc-header"> <span class="text-big">Tool Bar Introduction</span></h2>
+<figure class="image image_resized"><img src="../assets/media/09b6d80891ac2e86ae5684cc.png" loading="lazy" decoding="async"></figure>
+<figure class="image image_resized"><img src="../assets/media/24f35e593c8a4fa4fc6d5985.jpg" loading="lazy" decoding="async"></figure>
+<h2 id="stock-introduction" class="toc-header"> <span class="text-big">Stock Introduction</span></h2>
+<figure class="image image_resized"><img src="../assets/media/c2ae42b048111f4b089eaf51.png" loading="lazy" decoding="async"></figure>
+<p>Use this area of the interface to set the type and size of the blank stock material. An outlining perimeter corresponding to the set stock size will be displayed in the Design Area. The stock material types can be changed through <strong>[Setting - Material Library] </strong>as shown in <a href="https://www.youtube.com/watch?v=jndTJzbf3Ro&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=4&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. The parameters for the Stock will also change depending on whether you're working in a 3-axis project or 4-axis project as 4-axis projects also allow for you to set the stock shape. </p>
+<h2 id="functions-panel-introduction" class="toc-header"> <span class="text-big">Functions Panel Introduction</span></h2>
+<figure class="image image_resized"><img src="../assets/media/23591b059b90a71418caa2e8.png" loading="lazy" decoding="async"></figure>
+<p>The Functions Panel mainly includes four parts: work coordinate system (WCS) tabs, 3D models, 2D layers, and Tool Paths.</p>
+<p>Work Coordinate System partitioning supports the creation of multiple coordinate systems with different origin settings. By creating and switching between different work coordinate system tabs, you can quickly switch between different groups that include independent coordinate systems, layers, and tool paths within a single project document. The default work coordinate system (WCS 1) is set for the top of the stock.</p>
+<h3 id="work-coordinate-systems-wcs" class="toc-header"> <span class="text-big">Work Coordinate Systems (WCS)</span></h3>
+<ul>
+  <li><strong>Creating a new WCS</strong></li>
+</ul>
+<figure class="image image_resized"><img src="../assets/media/29428ea4d73738094fe91dfc.png" loading="lazy" decoding="async"></figure>
+<p>The <strong>[+]</strong> button on the left side of the Functions Panel allows you to make a new WCS. You can also right-click the Work Coordinate System tab bar and select<strong> [New Coordinate] </strong>in the pop-up menu .</p>
+<figure class="image image_resized"><img src="../assets/media/41c2033c7f47cb15ab588b3f.png" loading="lazy" decoding="async"></figure>
+<p>When creating a new work coordinate system, a name setting menu will be displayed in the Extended Properties Panel. Set the name of the new work coordinate system and select between10 coordinate origin control points in the TOP and BOTTOM planes within the stock outline in the Design Area to choose in the coordinate origin points of the new work coordinate system. Once set, click the Ok button in the Extended Properties Panel to complete the creation of the new work coordinate system.</p>
+<ul>
+  <li><strong>Modify the WCS</strong></li>
+</ul>
+<p>After right-clicking the WCS tab bar at the top of the Functions Panel, choose <strong>[Edit Coordinate]</strong> in the pop-up menu that appears. The current work coordinate system name setting interface will be displayed in the Extended Properties Panel allowing for the current work coordinate system name to be changed. The coordinate origin position of the current work coordinate system setting will be displayed in the Design Area. You can reselect 10 coordinate origin control points in the TOP and BOTTOM planes within the stock perimeter to modify the setting of the coordinate origin of the current work coordinate system. After completing various settings, click the Ok button to complete the modification of the work coordinate system.</p>
+<p>If there is already a graphic object in the current coordinate system, the graphic object will adjust to changes of the coordinate origin and automatically match the new work coordinate system settings.</p>
+<ul>
+  <li><strong>Deleting a Work Coordinate System</strong></li>
+</ul>
+<p>Right-click the WCS tab that needs to be modified, and select<strong> [Delete]</strong> in the pop-up menu . The system will pop up a prompt to delete the selected WCS. Click <strong>[Yes]</strong> to complete the deletion of the current coordinate system. When deleting a work coordinate system, the layer list and tool path list data under the coordinate system will be deleted at the same time. <strong>Please confirm that all the data under the work coordinate system can be deleted before proceeding.</strong></p>
+<h3 id="h-3d-models" class="toc-header"> <span class="text-big"><strong>3D Models</strong></span></h3>
+<p>Within a Makera CAM Project, the functions panel will display a section for any 3D model that has been imported or created in the project. See <a href="https://www.youtube.com/watch?v=6B6cvxA_uyY&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=3&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a> for more examples on how to work with 3D models.</p>
+<figure class="image image_resized"><img src="../assets/media/6b6c8c7651f46992d4b35feb.png" loading="lazy" decoding="async"></figure>
+<p>Each time a new 3D model is imported or created, it will be listed in this section of the Functions Panel. The color selection next to the name of the model will change the appearance of the model when it is not selected. When a 3D model is selected, it will be highlighted in blue with a yellow perimeter as described in the <strong>Selecting Objects</strong> section of this guide earlier. If an item in this section of the Functions Panel is right-clicked, the following options appear:</p>
+<ul>
+  <li><strong>Import 3D Model…</strong></li>
+</ul>
+<p>This allows you to select a 3D model in STL / STEP file formats from your computer and import it into your Makera CAM project.</p>
+<ul>
+  <li><strong>Create 3D Model</strong></li>
+</ul>
+<p>This opens the extended properties panel to allow for you to create a dimensioned 3D model within Makera CAM - including a cube, cylinder, or cone shape as discussed later in the <strong>Creating Objects</strong> section of this guide. </p>
+<ul>
+  <li><strong>Clone Model</strong></li>
+</ul>
+<p>This will make a duplicate of the selected 3D model and list it as a new object within the Functions Panel. </p>
+<ul>
+  <li><strong>Hide All Models / Show All Models</strong></li>
+</ul>
+<p>To show/hide all 3D Models, you can also click the <i>eye icon</i> in front of the 3D Models functions a the top of the 3D models list to toggle visibility of all 3D Model objects. You can also right-click on the 3D Models function and select <strong>[Show All Layers] </strong>/ <strong>[Hide All Layers]</strong> to toggle the visibility of all 3D Models.</p>
+<h3 id="h-2d-layers" class="toc-header"> <span class="text-big">2D Layers</span></h3>
+<p>The Layers function within the Functions Panel contains a list of all 2D layers in the current work coordinate system. See <a href="https://www.youtube.com/watch?v=15aNcTuel8Y&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=5&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a> for more examples on how to work with layers. </p>
+<figure class="image image_resized"><img src="../assets/media/4e10642a0f02e5ae6181ac9d.png" loading="lazy" decoding="async"></figure>
+<p>Each time a new Makera CAM project is created, a single layer will be made and selected as the active layer. When a 2D design is imported, it will be created as a new layer and listed within the 2D Layers section of the Functions Panel. When a 2D design or image is imported and selected, it will be displayed and highlighted in the color selection for the layer as described in the <strong>Selecting Objects</strong> section of this guide earlier. If an item in this section of the Functions Panel is right-clicked, the following options appear:</p>
+<ul>
+  <li><strong>Import Graphic</strong></li>
+</ul>
+<p>Choose between importing an <strong>Image</strong> (JPG / PNG / BMP), importing a <strong>2D Model </strong>(SVG / DXF), or importing the components of a <strong>PCB </strong>gerber file.</p>
+<ul>
+  <li><strong>New Layer</strong></li>
+</ul>
+<p>In the layer list, click the position where you want to insert a new layer, right-click, and select <strong>[Insert layer]</strong> in the pop-up menu that appears. A new layer will be inserted <strong>above</strong> the selected layer position. The new layer name is “New Layer” by default. The newly created layer will be activated as the current layer by default. To insert a new layer at the bottom of the layers list, right-click on the Layer Function at the top of the list and select <strong>[New Layer]</strong> from the pop-up menu to insert a new layer at the bottom of the layer list.</p>
+<ul>
+  <li><strong>Delete a layer</strong></li>
+</ul>
+<p>In the layer list, left-click the layer you want to delete to select it. To delete multiple layers at a time, you can use Ctrl+left-click to select non-contiguous layers, or use Shift+left-click to select the beginning and end areas of contiguous layers in the list. After selecting the layer(s) you want to delete, right-click the selected layer(s) and select <strong>[Delete]</strong> in the pop-up menu to complete the deletion of the selected layer(s).</p>
+<p>Deleting a layer will delete all objects in the selected layer. If the graphics have generated corresponding tool path information, deleting the layer will <strong>not</strong> delete the tool path information associated with the graphics. NOTE: An active layer cannot be deleted. You must first switch to another layer before attempting to delete the layer that is currently active. </p>
+<ul>
+  <li><strong>Rename a layer</strong></li>
+</ul>
+<p>In the layer list, left-click the layer to be renamed, then left-click the selected layer name again, or right-click the selected layer name and select<strong> [Rename]</strong> in the pop-up menu that is displayed to rename the selected layer. After modifying the layer name, press Enter on the keyboard or left-click anywhere else in the Functions Panel system window to complete the renaming operation.</p>
+<ul>
+  <li><strong>Show/Hide Layers</strong></li>
+</ul>
+<p>In the 2D Layer list, click the <i>eye icon</i> in front of each layer to switch between showing/hiding the contents of the selected layer. You can also right-click on a layer and select <strong>[Show]</strong> in the pop-up menu that is displayed, or<strong> [Hide]</strong> to toggle between showing and hiding the contents of the selected layer.</p>
+<p>To show/hide all layers, click the <i>eye icon</i> in front of the 2D Layers functions a the top of the layers list to toggle visibility of all layers. You can also right-click on the 2D Layers function and select <strong>[Show All Layers] </strong>/ <strong>[Hide All Layers]</strong> to toggle the visibility of all 2D Layers.</p>
+<ul>
+  <li><strong>Activate current layer</strong></li>
+</ul>
+<figure class="image image_resized"><img src="../assets/media/2e3a340d47fb31847014d612.png" loading="lazy" decoding="async"></figure>
+<p>In the 2D Layers list, there is an activated current layer by default. When creating a new graphic or pasting a graphic, it will be placed on the active layer by default. To activate a layer, right-click the name of the layer you want to make active and choose <strong>[Active]</strong> in the pop-up menu that appears to set this as the active layer. After the layer is set to be the default active layer, the layer name will be highlighted in the Functions Panel.</p>
+<ul>
+  <li><strong>Select all graphics in the layer</strong></li>
+</ul>
+<p>In the 2D Layers list, select the name of the layer for which you want to select all graphics, right-click the layer name, and select <strong>[Select Graphics]</strong> in the pop-up menu that appears to select all graphics in the current layer. You can also double-click the layer name to quickly select all graphics in the layer.</p>
+<ul>
+  <li><strong>Move the layer order</strong></li>
+</ul>
+<p>In the 2D Layers list, select the layer you want to move, right-click the layer name, and select <strong>[Move Up]</strong> / <strong>[Move Down]</strong> in the pop-up menu that appears to move the order of the selected layer(s) up or down in the layer list. You can also adjust the layer order by dragging the layer with the left mouse button.</p>
+<ul>
+  <li><strong>Change layer display color</strong></li>
+</ul>
+<p>Click the color rectangular area to the right of the layer name to change the display color of the specified layer. Once the rectangle has been selected, a pop-up color selection interface will appear to change the display color of the selected layer.</p>
+<h3 id="paths" class="toc-header"> <span class="text-big">Paths</span></h3>
+<p>The Path function contains a list of all tool paths set in the current work coordinate system. Note that the ‘T’ numbers shown before the type of path created refers to the tool or tools used in that path. See <a href="https://www.youtube.com/watch?v=B05wtxYRvRk&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=6&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a> for examples on how to work with paths. </p>
+<figure class="image"><img src="../assets/media/2b780281ff7ddb6bcc61ee7c.png" loading="lazy" decoding="async"></figure>
+<ul>
+  <li><strong>Create Tool path</strong></li>
+</ul>
+<p>Right-click the Path function and select <strong>[New Tool Path] </strong>in the pop-up menu that appears to create the following types of machining tool paths:</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>2D Path</strong></td>
+        <td>Create 2D machining tool paths for 2D designs and vector graphic objects, including 2D Contour / 2D Pocket / 2D Drilling / 2D Thread Milling / 2D Chamfer</td>
+      </tr>
+      <tr>
+        <td><strong>3D Path</strong></td>
+        <td>Create 3D machining tool paths for 3D models, including 3D Relief / 3D Contour / 3D Pocket / 3D Drilling / 3D Thread Milling / 3D Chamfer</td>
+      </tr>
+      <tr>
+        <td><strong>Rotation Path</strong></td>
+        <td>Creating 4-axis rotary machining tool paths for imported 3D models including Rotation Relief</td>
+      </tr>
+      <tr>
+        <td><strong>Laser Path</strong></td>
+        <td>Creating Laser Processing Paths for imported images or 2D models, including Laser Vector / Laser Image</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<ul>
+  <li><strong>Edit Tool path</strong></li>
+</ul>
+<p>Double-click the tool path name, or right-click the tool path name to be edited and select <strong>[Edit]</strong> in the pop-up menu that appears. The current tool path parameter setting interface will be displayed in the Extended Properties Panel. If the object associated with the tool path in the Design Area are visible, the associated graphic elements will be automatically selected when editing the tool path. After completing the adjustment of various tool path parameters, click <strong>[Calculate]</strong> at the bottom of the Extended Properties Panel to complete the tool path recalculation.</p>
+<p>When recalculating the tool path, you must ensure that there is at least one selected object in the Design Area, and the selected object must meet the calculation requirements of the current tool path parameters, otherwise the specified tool path cannot be regenerated and an error message will appear. When editing a tool path, you can reselect the associated object. When recalculating, the tool path will be generated based on the most recently selected graphic object. The newly generated tool path will replace the original tool path information and will be bound to the most recently selected graphic in the Design Area.</p>
+<p>If an object is transformed or adjusted after a tool path has been created, the tool path will not update automatically. You will need to select <strong>[Edit] </strong>to open the parameters for that tool path and click <strong>[Calculate]</strong> at the bottom of the Extended Properties Panel to complete the tool path recalculation.</p>
+<ul>
+  <li><strong>Delete Tool path</strong></li>
+</ul>
+<p>In the path list, left-click the tool path to be deleted. You can use Ctrl+left mouse button to select non-contiguous tool paths, or use Shift+left mouse button to select the beginning and end area of contiguous tool paths. After completing the tool path range selection, right-click the selected tool path name and select <strong>[Delete] </strong>in the pop-up menu that appears to complete the deletion of the selected tool path.</p>
+<ul>
+  <li><strong>Rename Tool path</strong></li>
+</ul>
+<p>In the path list, left-click the tool path to be renamed, then left-click the selected tool path name again, or right-click the selected tool path name and select <strong>[Rename]</strong> in the pop-up menu that appears to rename the selected tool path. After adjusting the name as desired, press the Enter key on the keyboard or left-click anywhere else in the Functions Panel to complete the renaming operation.</p>
+<ul>
+  <li><strong>Duplicate Tool path</strong></li>
+</ul>
+<p>In the path list, left-click the tool path to be cloned, right-click the selected tool path name, and select <strong>[Duplicate]</strong> in the pop-up menu that appears to duplicate and generate a copy of the selected tool path at the bottom of the tool path list.</p>
+<ul>
+  <li><strong>Show/Hide Tool path</strong></li>
+</ul>
+<p>In the path list, click the icon to switch between displaying/hiding the selected tool path. You can also right-click the specified tool path name and select <strong>[Show]</strong> / <strong>[Hide] </strong>in the pop-up menu that appears to toggle between showing / hiding the selected tool path.</p>
+<p>To show or hide all tool paths, click the <i>eye</i> <i>icon</i> in front of the Path function at the top of the paths list. You can also right-click on the Path function and select <strong>[Show All Paths]</strong> / <strong>[Hide All Paths] </strong>in the pop-up menu that appears to toggle between showing / hiding all tool paths.</p>
+<ul>
+  <li><strong>Show/Hide Quick Move</strong></li>
+</ul>
+<p>In the path list, right-click the specified tool path name and select <strong>[Show Fast Move]</strong> / <strong>[Hide Fast Move]</strong> in the pop-up menu to switch the display of the fast move icon information in the tool path preview.</p>
+<ul>
+  <li><strong>Move tool path</strong></li>
+</ul>
+<p>In the path list, select the tool path which you want to move, right-click the tool path name, and select <strong>[Move Up]</strong> /<strong> [Move Down]</strong> in the pop-up menu that appears to move the selected tool path up or down in the path list. You can also adjust the tool path order by dragging a tool path with the left mouse button in the path list.</p>
+<ul>
+  <li><strong>Export G-Code tool path file</strong></li>
+</ul>
+<p>To export a G-Code tool path file, you can right-click on the Path function at the top of the path list and select <strong>[Save All Paths]</strong> in the pop-up menu to export all tool paths. You can also select a specific tool path name to be exported with the left mouse button, right-click on the tool path name, and select <strong>[Export]</strong> in the pop- up menu that appears. In the pop-up interface, confirm that the tool path(s) to be exported is checked, and click the<strong> [Export] </strong>button to export only the selected tool paths. In the save path dialog box that then appears, set the file location and file name of the G-Code tool path file that is to be exported, then click the<strong> [Save] </strong>button to complete the saving of the tool path file to your computer.</p>
+<h2 id="material-library" class="toc-header"> <span class="text-big">Material Library</span></h2>
+<p>The material library is used to create and maintain stock material types and material previews as shown in <a href="https://www.youtube.com/watch?v=jndTJzbf3Ro&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=4&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. Material information is mainly used for stock material previews in the Stock panel within the main interface, and for tool parameter settings in the associated materials in the Tool Library.</p>
+<figure class="image image_resized"><img src="../assets/media/977532205cf3d5feddcf65a0.png" loading="lazy" decoding="async"></figure>
+<ul>
+  <li><strong>To Create a New Material:</strong>
+    <ul>
+      <li>Click the <strong>[Add]</strong> button, enter the material name and press <strong>[Import Image]</strong> to import an image for the material preview, then click <strong>[Apply]</strong> to complete the creation of the new material.</li>
+    </ul>
+  </li>
+  <li><strong>To Edit Existing Materials:</strong>
+    <ul>
+      <li>Select the material name to be edited in the list on the left with the left mouse button. The selected material will appear in the right side of the materials library window. Press <strong>[Edit]</strong> to allow for changes to be made to the name and preview image. Then click <strong>[Apply]</strong> to complete the changes made to the selected material.</li>
+    </ul>
+  </li>
+  <li><strong>To Duplicate a Material:</strong>
+    <ul>
+      <li>Select the material name to be cloned in the list on the left with the left mouse button, click <strong>[Duplicate]</strong> to complete the material duplication. The new material will be added at the bottom of the material list.</li>
+    </ul>
+  </li>
+  <li><strong>To Delete a Material:</strong>
+    <ul>
+      <li>Select the material name to be deleted in the list on the left with the left mouse button, then click <strong>[Delete]</strong> to complete the deletion of the material.<ul>
+          <li><strong>Note: </strong>When deleting material, if a tool references the current material information, the tool processing parameters for the current material in the tool configuration information will also be deleted when the corresponding material is deleted.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<h2 id="tool-library" class="toc-header"> <span class="text-big">Tool Library</span></h2>
+<p>The tool library is used to maintain the tool information used in tool path design as shown in <a href="https://www.youtube.com/watch?v=8QN9zZ_hmG8&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=3&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. The tool parameters include tool type and basic appearance, processing parameters of the tool set for associated materials, etc. The tools can be grouped and managed in lists, and the backup and recovery of tool information is supported.</p>
+<figure class="image image_resized"><img src="../assets/media/757c34cd2c47c288d501efbd.png" loading="lazy" decoding="async"></figure>
+<h3 id="tool-group-management" class="toc-header"> <span class="text-big">Tool Group Management</span></h3>
+<p>Tool groups can be used to organize and manage tools in groups, and support the creation, renaming, duplication, deletion, importing, and exporting of tools as a group.</p>
+<figure class="image image_resized"><img src="../assets/media/b8428c6bb077822b0b991bc3.png" loading="lazy" decoding="async"></figure>
+<ul>
+  <li><strong>To Create a New Tool Group:</strong>
+    <ul>
+      <li>Select the parent node of the group to be created, click <strong>[New Tool Group]</strong>, and a new tool group node will be created under the selected tool group node.</li>
+    </ul>
+  </li>
+  <li><strong>To Rename a Tool Group:</strong>
+    <ul>
+      <li>Right-click the tool group name and select the <strong>[Rename]</strong> in the menu that appears to rename the group name.</li>
+    </ul>
+  </li>
+  <li><strong>To Copy a Tool Group:</strong>
+    <ul>
+      <li>Right-click the tool group you want to copy, click <strong>[Duplicate]</strong>, and a duplicated record of the selected tool group will be created at the end of the tool group list within the current level.</li>
+    </ul>
+  </li>
+  <li><strong>To Delete a Tool Group:</strong>
+    <ul>
+      <li>Select the tool group to be deleted and click <strong>[Delete]</strong> to delete the current tool group and all tool information stored within that tool group.</li>
+    </ul>
+  </li>
+  <li><strong>Export / Import Tool Group Information:</strong>
+    <ul>
+      <li><strong>Export: </strong>Select the tool group to be exported, then click <strong>[Export]</strong> to save the selected tool group, the contained tool information, and the material information referenced in the exported tool information to your computer.</li>
+      <li><strong>Import: </strong>Select the parent tool group node you wish to import a tool group to. Click <strong>[Import] </strong>and<strong> </strong>select the tool information file to be restored and confirm the import. The tool group information will be restored and imported into the currently selected tool group node, and the accompanying material library information will be restored at the same time. If the current material library information already contains the material in the tool file, no processing will be done. If some material information is missing, the corresponding material information will be automatically added to the material library.</li>
+    </ul>
+  </li>
+</ul>
+<h3 id="tool-management" class="toc-header"> <span class="text-big">Tool Management</span></h3>
+<p>Tool management allows for preset tool configuration information and supports creating, editing, copying, pasting, duplicating and deleting tool configurations.</p>
+<figure class="image image_resized"><img src="../assets/media/60652434ae7ec70de2465cda.png" loading="lazy" decoding="async"></figure>
+<p>And from the tool management section of the Tool Library, we can choose to add, copy, duplicate or delete tools within our Tool Groups. </p>
+<figure class="image image_resized"><img src="../assets/media/65cb87cc02be2a39e5915ea4.png" loading="lazy" decoding="async"></figure>
+<ul>
+  <li><strong>Adding Tools:</strong>
+    <ul>
+      <li>After choosing a tool group, press <strong>[Add Tool]</strong> to create a new tool. Set the tool name and type, and refer to the tool shape graphic shown to set any physical parameters specific to the tool type.</li>
+      <li>Set the tool number. The tool number corresponds to the tool number used tool paths created. On a CNC with an automatic tool changer like the Carvera, the tool number corresponds to the position of the tools loaded in the automatic tool changer (1-6). For CNCs like the Carvera Air, different tool number assignments will prompt pausing and manual tool change operations. Note: the tool number can also be manually reassigned when creating the machining tool path settings.</li>
+      <li>Under tool properties, the machining parameters for specific materials can be set. In the material list on the left, select the material name for which processing parameters need to be set, then set the processing parameters used for this material in the parameters on the right, and check the <strong>[Enable]</strong> option to allow the use of these material parameters for the selected tool. After completing the setting, click<strong> [Apply]</strong> to confirm the parameters. The material identifier for which processing parameters have been set will be displayed in green. To add or change the materials shown, refer to the Material Library.</li>
+    </ul>
+  </li>
+  <li><strong>Editing Tools:</strong>
+    <ul>
+      <li>Select a tool and click <strong>[Edit Tool]</strong> to modify and update the current tool configuration information.</li>
+      <li>When changing the tool parameter configuration information corresponding to materials, you need to click <strong>[Apply]</strong> to confirm changes made.</li>
+    </ul>
+  </li>
+  <li><strong>Copying tools between Tool Groups:</strong>
+    <ul>
+      <li>Select a tool to be copied, click <strong>[Copy Tool]</strong>. Switch to the tool group you want to add the copied tool to, then click <strong>[Paste Tool]</strong>. The previously copied tool configuration information will be pasted in the selected tool group.</li>
+    </ul>
+  </li>
+  <li><strong>Duplicating Tools:</strong>
+    <ul>
+      <li>Select a tool to be duplicated, then click <strong>[Duplicate Tool]. </strong>A copy of the selected tool will be added within the current tool group.</li>
+    </ul>
+  </li>
+  <li><strong>Delete Tools:</strong>
+    <ul>
+      <li>Select a tool to be deleted, then click <strong>[Delete Tool]</strong> to delete the selected tool configuration.</li>
+    </ul>
+  </li>
+</ul>
+<h2 id="transform-tools" class="toc-header"> <span class="text-big">Transform Tools</span></h2>
+<p>The ability to adjust graphic objects and imported design files allows for an easier and more efficient workflow from CAD to CAM processes within Makera CAM's primary user interface. For more information on how transform 2D designs, images, and 3D models, see <a href="https://www.youtube.com/watch?v=dL88eMENUzg&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=17&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>.  </p>
+<p>Object transformation supports four operations: moving objects, rotating objects, scaling objects, and mirroring objects. After selecting an object, you can enter the transformation mode through the top menu bar, main toolbar, right-click menu, or by pressing the shortcut keys M - Move / R- Rotate / S- Scale. This will open the Transform tools in the Extended Properties Panel:</p>
+<figure class="image"><img src="../assets/media/79128dd68b126618dd0ac17d.png" loading="lazy" decoding="async"></figure>
+<p>For each Transformation, you can choose the anchor point you want to base the transformation off of in relation to the selected object at the top of the Extended Properties Panel. These options will change based on the selected transformation, and whether a 2D or 3D object has been selected. You can then select the desired transformation to display additional preferences unique to the specific operation.  </p>
+<p><span class="text-big"><strong>Move:</strong></span></p>
+<figure class="image"><img src="../assets/media/054e489197b0fc8e4e08d015.png" loading="lazy" decoding="async"></figure>
+<ul>
+  <li>Select the object to be moved and enter the move transformation mode.</li>
+  <li>There are 5 moving reference anchor points at the top of the transformation parameter settings in the Extended Properties Panel. By selecting different anchor point positions, the object coordinates will be displayed based on the selected anchor point, and specific coordinates can be entered to adjust the position of the object.</li>
+  <li><strong>[Quick Align Stock] </strong>will automatically center the selected object within the Stock boundaries.</li>
+  <li>Within the Extended Properties Panel, you can enter specific positions to move an object to a specific location in the X, Y, and Z planes, as well as view the current location of selected objects.</li>
+  <li>You can also left-click and drag the mouse to select the coordinate axis mark in the center area of the selected object to manually move objects in the direction of the coordinate axis selected. To free-move selected objects, you can left-click and drag the square icon in the center of the coordinate axis mark to reposition objects freely on the X and Y planes in the Design Area.</li>
+  <li><strong>[Center to Center]</strong> allows you to automatically center two selected objects, as described in the following section.</li>
+</ul>
+<p><span class="text-big"><strong>Rotate:</strong></span></p>
+<figure class="image"><img src="../assets/media/5536d3b1b73318000b98c66b.png" loading="lazy" decoding="async"></figure>
+<ul>
+  <li>Select the object to be rotated and enter the rotation transformation mode.</li>
+  <li>In rotation mode, only the center of the object is used as the anchor point for rotation transformation operations. During rotation, the rotation angle will be displayed and set with the center of the object as the anchor point.</li>
+  <li>Within the Extended Properties Panel, you can enter specific angles to rotate the selected object to along the XY, XZ, or YZ planes, as well as view the current angle of selected objects.</li>
+  <li>Next to the manual angle parameters, you can use the quick rotation buttons to rotate +90 or -90 degrees along the XY, XZ, or YZ planes.</li>
+  <li>You can also drag the mouse to select the circular mark in the center of the selected object, then left-click and drag and rotate it freely.</li>
+</ul>
+<p><span class="text-big"><strong>Scale:</strong></span></p>
+<figure class="image"><img src="../assets/media/43eea6f89dad39810a109c2a.png" loading="lazy" decoding="async"></figure>
+<ul>
+  <li>Select the object to be scaled and enter the scaling transformation mode.</li>
+  <li>There are 5 moving reference anchor points at the top of the transformation parameter settings on the right. By selecting different anchor point positions, the position of the selected object corresponding to the anchor point will be used as the origin when scaling.</li>
+  <li>Within the Extended Properties Panel, you can enter specific measurements to scale the selected object in the Length(X), Width(Y), or Height(Z) dimensions, as well as view the current size of selected objects.</li>
+  <li>You can also drag the mouse in the Design Area to select the coordinate axis mark in the center area of the selected object and scale it in the direction of the coordinate axis.</li>
+  <li>With <strong>LinkXYZ </strong>checked, the proportions of the selected object will be maintained during scaling transformations.</li>
+</ul>
+<p><span class="text-big"><strong>Mirror:</strong></span></p>
+<figure class="image"><img src="../assets/media/c0ad643ea67046a4303ccfc7.png" loading="lazy" decoding="async"></figure>
+<p>The mirroring transformation supports horizontal flipping and vertical flipping. If the <strong>Create Copy</strong> option is checked, the original object will be retained during mirroring and a copy of the object after the mirroring operation will be created. To mirror selected objects:</p>
+<ol>
+  <li>Select the object to be mirrored and enter the mirroring operation through the transform tools in the Extended Properties Panel.</li>
+  <li>Within the Mirror transformation parameters, select the desired axis to mirror around (<strong>Horizontal</strong> or <strong>Vertical</strong>)</li>
+  <li>Select the center origin for the mirroring operation (Object <strong>Center</strong> or <strong>Stock Center</strong>)</li>
+  <li>Check the <strong>Create Copy</strong> option if desired.</li>
+  <li>Click the<strong> [Generate</strong> <strong>Mirror]</strong> button to complete the mirroring operation.</li>
+</ol>
+<h3 id="center-to-center" class="toc-header"> <span class="text-big">Center To Center</span></h3>
+<p>The center-to-center movement mode can align and move selected objects in relation to the location of target objects across work coordinate systems as shown in <a href="https://www.youtube.com/watch?v=C78icdjm2Xk&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=10&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>.</p>
+<figure class="image image_resized"><img src="../assets/media/8ec972da063e59a6184c9d8e.png" loading="lazy" decoding="async"></figure>
+<p>To align two objects from Center to Center:</p>
+<ol>
+  <li>Select the object(s) you want to align (2D or 3D).</li>
+  <li>Enter the center-to-center mode through the Move parameters in the transform tools shown in the Extended Properties Panel as described in the previous section.</li>
+  <li>According to the prompt information shown in the Extended Properties Panel, select the reference object that needs to be moved and aligned in the object combination subset. The next step will use the center of this object as the alignment reference.</li>
+  <li>Following the prompts, select the target object to be aligned. After the operation is successful, the original object will be moved using the center of the reference object set in the previous step to align to the center of the target object selected.</li>
+</ol>
+<h2 id="create-tools" class="toc-header"> <span class="text-big">Create Tools</span></h2>
+<p>The Create functions can create 2D or 3D objects within the Design Area according to the dimensions set during creation as shown in <a href="https://www.youtube.com/watch?v=JYsUQexZtSo&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=16&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>.</p>
+<p><span class="text-big"><strong>Creating 2D Models:</strong></span></p>
+<figure class="image image_resized"><img src="../assets/media/8133e11698a1b948cfc875b8.png" loading="lazy" decoding="async"></figure>
+<p>Enter the Create 2D model operation through the top menu bar, main toolbar, and right-click menu.</p>
+<ol>
+  <li>In the Extended Properties Panel, select the type of shape you want to create (circle or rectangle).</li>
+  <li>Set the size of the shape. For a circle, this is set by the diameter of the shape. For a rectangle, this is set by the length and width of the shape.</li>
+  <li>Move the cursor to the area you want to create the shape within the Design Area of the current work coordinate system, click the left mouse button to generate the shape based on the parameters entered at the location of the mouse cursor. This will create 2D design objects on the Active Layer selected in the 2D Layers list within the Functions Panel.</li>
+</ol>
+<p><span class="text-big"><strong>Creating 3D Models:</strong></span></p>
+<figure class="image image_resized"><img src="../assets/media/3d319ddb65a8e45fc2a6e269.png" loading="lazy" decoding="async"></figure>
+<p>Enter the Create 3D model operation through the top menu bar, main toolbar, and right-click menu.</p>
+<ol>
+  <li>In the Extended Properties Panel, select the type of shape you want to create (cube, cylinder, Cone Frustum).</li>
+  <li>Set the size of the shape. For a Cube, this is set by Length, Width, and Height. For a Cylinder or Cone, this is set by Diameter(s) and Height.</li>
+  <li>Move the cursor to the area you want to create the shape within the Design Area of the current work coordinate system, click the left mouse button to generate the shape based on the parameters entered at the location of the mouse cursor. This will create a new list item in the 3D Models group within the Functions Panel.</li>
+</ol>
+<h2 id="trace-tools" class="toc-header"> <span class="text-big">Trace Tools</span></h2>
+<p>Makera CAM v0.2.0 and later offers the ability to trace the features and geometries detected within two different types of imported objects: Images and 3D Models.</p>
+<p><span class="text-big"><strong>Trace Image:</strong></span></p>
+<p>Trace Image function can convert the high-contrast information of raster image file type (JPG/PNG/BMP) into a vector contour graphic as shown in <a href="https://www.youtube.com/watch?v=mJxVdOGcZ8g&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=8&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>.</p>
+<figure class="image image_resized"><img src="../assets/media/551df7806278699d90007fcf.png" loading="lazy" decoding="async"></figure>
+<p>The converted vector graphics can be used directly for vector tool path operations. Simple high-contrast images work best for optimal tracing results. </p>
+<p><span class="text-big"><strong>Trace 3D Contour:</strong></span></p>
+<p>The Trace 3D Contour function can generate 2D contour paths around detected geometries for 3D STL / STEP design files.</p>
+<figure class="image image_resized"><img src="../assets/media/d960095eb6d1757d63cac4e6.png" loading="lazy" decoding="async"></figure>
+<p>Contours will be generated automatically based on the geometric features detected in the model. These 2D paths will be created on a new layer in the 2D Layers section of the Functions Panel, and the can be selected for 2D Tool Path or Laser Tool Path operations. You can also generate Contour Paths within 3D Tool Path operations, as discussed later in this guide. </p>
+<h1 id="h-3-axis-tool-paths" class="toc-header"> <span class="text-big">3-Axis Tool Paths</span></h1>
+<p>When working in a 3-Axis Project, a wide range of Tool Paths can be made based on selected objects for manufacturing processes to be created. Through 2D operations, 3D operations, and laser operations, various manufacturing processes can be created for both 3-axis machining. </p>
+<h2 id="general-3-axis-techniques" class="toc-header"> <span class="text-big">General 3-Axis Techniques</span></h2>
+<p>Before moving into strategies for setting up specific types of tool paths, we will cover general settings that are universal across various tool path creation techniques for 3-Axis machining operations.</p>
+<h3 id="common-machining-parameters" class="toc-header"> <span class="text-big">Common Machining Parameters</span></h3>
+<p>In tool path creation, some parameters are common across various types of tool paths. These common parameters include:</p>
+<ul>
+  <li><strong>Tool path Name:</strong>
+    <ul>
+      <li>The name of the current tool path.</li>
+    </ul>
+  </li>
+  <li><strong>Cutting Depth:</strong>
+    <ul>
+      <li><strong>Start Depth:</strong>
+        <ul>
+          <li>The Z-axis 0 coordinate is used as a reference. This is typically detected by the probe at the point which the tool contacts the top of the stock material for cutting. A positive value indicates a downward offset of the Z-axis 0 coordinate, and a negative value indicates an upward offset of the Z-axis 0 coordinate.</li>
+        </ul>
+      </li>
+      <li><strong>End Depth:</strong>
+        <ul>
+          <li>The Z-axis 0 coordinate detected by the probe is used as the reference, and the end depth value at which the tool ends cutting. A positive value indicates a downward offset of the Z-axis 0 coordinate, and a negative value indicates an upward offset of the Z-axis 0 coordinate.</li>
+        </ul>
+      </li>
+      <li><strong>Last Pass Depth:</strong>
+        <ul>
+          <li>The cutting depth of the last layer. When this parameter is enabled, the tool will set the cutting depth of the last layer according to this parameter.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Safe locations:</strong>
+    <ul>
+      <li><strong>Safe height Z:</strong>
+        <ul>
+          <li>The Z-axis 0 coordinate detected by the probe is used as the reference for the safe Z-axis height of the tool. When the tool executes the G0 command for rapid movement, the tool will first be lifted to the safe height, then move horizontally rapidly.</li>
+        </ul>
+      </li>
+      <li><strong>Initial processing coordinates Position:</strong>
+        <ul>
+          <li>The tool will first move to the X / Y coordinate of the initial processing coordinate at the safety height, and then descend to the Z coordinate height of the initial processing coordinate before machining.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Choose Tool (Add Tool)</strong>
+    <ul>
+      <li>This will open the Tool Library to allow you to select the tool information you want to use for the Tool Path operation. Select the corresponding preset material processing parameters below the tool list, and click <strong>Choose</strong> to complete the tool selection confirmation.</li>
+      <li>If the tool is configured with the same material preset processing parameters as the current stock setting, the Makera CAM will automatically select the corresponding material processing parameters based on the current blank setting. For example: if the current stock setting is aluminum alloy, and if the aluminum alloy processing parameters are enabled in the selected tool, the aluminum alloy processing parameters entry will be automatically selected.</li>
+    </ul>
+  </li>
+  <li><strong>Tool Parameters: </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended Parameters.<ul>
+      <li><strong>Step Down:</strong>
+        <ul>
+          <li>The depth to which the tool cuts each time it descends through the material.</li>
+        </ul>
+      </li>
+      <li><strong>Feed Rate:</strong>
+        <ul>
+          <li>The horizontal movement speed of the tool when cutting the material.</li>
+        </ul>
+      </li>
+      <li><strong>Plunge Rate:</strong>
+        <ul>
+          <li>The downward cutting speed of the tool in the Z-axis direction when cutting the material.</li>
+        </ul>
+      </li>
+      <li><strong>Spindle Speed:</strong>
+        <ul>
+          <li>The speed at which the tool rotates as it cuts through the material.</li>
+        </ul>
+      </li>
+      <li><strong>Tool Number:</strong>
+        <ul>
+          <li>The number of the tool used in the current tool path. When multiple designed tool paths use the same tool number, the device will not trigger the tool change action. Therefore, when designing tool paths, be sure to confirm that different tools use different tool numbers.<ul>
+              <li>When using the Carvera Desktop CNC machine with an automatic tool changer, the tool number corresponds to the tool holder number where the tool is actually inserted into the automatic tool changer (1-6).</li>
+              <li>When using a device with manual tool change function such as the Carvera Air Desktop CNC machine, the tool number corresponds to the tool number prompted by the device for automatic pauses and manual tool changes.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Strategy:</strong>
+    <ul>
+      <li><strong>Offset (machining offset):</strong>
+        <ul>
+          <li>Based on the graphic contour, the contour is offset according to the specified distance. A positive value is offset toward the positive side of the graphic contour processing, and a negative value is offset toward the negative side of the graphic contour processing.</li>
+        </ul>
+      </li>
+      <li><strong>Cutting Direction:</strong>
+        <ul>
+          <li>Can be set to process in either down milling or up milling mode</li>
+        </ul>
+      </li>
+      <li><strong>Cutting Order:</strong>
+        <ul>
+          <li><strong>Auto:</strong>
+            <ul>
+              <li>The processing sequence is automatically planned by the program, and is planned according to the principle of proximity to the starting point and nearest processing.</li>
+            </ul>
+          </li>
+          <li><strong>Selection:</strong>
+            <ul>
+              <li>Processing is performed in the order in which the graphic objects are manually selected by the user.</li>
+            </ul>
+          </li>
+          <li><strong>Inside Out:</strong>
+            <ul>
+              <li>Process according to the order of graphic object combination from inside to outside</li>
+            </ul>
+          </li>
+          <li><strong>Outside In:</strong>
+            <ul>
+              <li>Process according to the order of graphic object combination from outside to inside</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Ramping Strategy:</strong>
+    <ul>
+      <li>The bevel setting allows for a smoother start to material contact when machining hard materials. This helps to improve machining quality and reduce the risk of tool damage.<ul>
+          <li><strong>Ramping Distance:</strong>
+            <ul>
+              <li>This sets the moving distance of the bevel cut. The tool moves smoothly along the graphics processing contour at a specified distance and at a fixed angle. When the set distance is reached, if the cutting depth is still not reached, it will return to the starting point and continue to move the tool at a fixed angle until the cutting depth is reached, and then move horizontally for cutting.</li>
+            </ul>
+          </li>
+          <li><strong>Ramping Angle:</strong>
+            <ul>
+              <li><strong>Fixed Angle:</strong>
+                <ul>
+                  <li>Use a fixed angle to cut diagonally</li>
+                </ul>
+              </li>
+              <li><strong>Auto Angle:</strong>
+                <ul>
+                  <li>Automatically sets the angle based on the Ramping Distance</li>
+                </ul>
+              </li>
+              <li><strong>Start Z Height:</strong>
+                <ul>
+                  <li>When the first layer of the bevel cutting tool path is cut, the height is offset upward based on the set starting height.</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<h3 id="nested-strategies" class="toc-header"> <span class="text-big">Nested Strategies</span></h3>
+<p>If you select multiple nested graphics without contour intersection when setting tool path parameters, the program will automatically generate tool paths based on the nesting rules.</p>
+<ul>
+  <li><strong>When working with<u> Contour </u>tool paths:</strong>
+    <ul>
+      <li>If the processing strategy is <strong>Outside:</strong>
+        <ul>
+          <li>The selected outline is from outside to inside, the odd-numbered layers are Outside and the even-numbered layers are Inside.</li>
+        </ul>
+      </li>
+      <li>If the processing strategy is <strong>Inside:</strong>
+        <ul>
+          <li>The selected outline of the object is from inside to outside, the odd-numbered layers are Inside and the even-numbered layers are Outside.</li>
+        </ul>
+      </li>
+      <li>If the processing strategy is <strong>On Vector:</strong>
+        <ul>
+          <li>All selected outlines are On Vector paths</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>When working with <u>Pocket</u> tool paths:</strong>
+    <ul>
+      <li>The selected object is nested from outside to inside, and the ring area generated is cleared of the odd-numbered area material and the even-numbered area material is retained.</li>
+    </ul>
+  </li>
+  <li><strong>When working with <u>Laser Vector</u> tool paths:</strong>
+    <ul>
+      <li>Processing strategy is <strong>Line</strong>
+        <ul>
+          <li><strong>Indent Distance = 0</strong>
+            <ul>
+              <li>Laser processing along the contour of the graphic</li>
+            </ul>
+          </li>
+          <li><strong>Indent Distance &gt; 0</strong>
+            <ul>
+              <li>The graphic outline is from outside to inside, the odd-numbered layers are Outside and the even-numbered layers are Inside.</li>
+            </ul>
+          </li>
+          <li><strong>Indent Distance &lt; 0</strong>
+            <ul>
+              <li>The outline of the graphic is from outside to inside, the odd-numbered layers are Inside and the even-numbered layers are Outside</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Processing strategy is <strong>Fill / Offset Fill</strong>
+        <ul>
+          <li>The graphic outline is nested from the outside to the inside, and the ring area generated is cleared of the odd-numbered area material and the even-numbered area material is retained.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<h2 id="h-2d-pocket-tool-paths" class="toc-header"> <span class="text-big">2D Pocket Tool Paths</span></h2>
+<p>2D Pocket Tool Paths <i>(formerly referred to as Vector Pocket) </i>are used to clear the material in selected 2D designs as shown in <a href="https://www.youtube.com/watch?v=NvrFs3Y_DHs&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=21&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>.</p>
+<figure class="image"><img src="../assets/media/47cbe0e7f5b4f5354b7c0859.png" loading="lazy" decoding="async"></figure>
+<p>To create 2D Pocket Tool Paths, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set machining depth parameters</strong></li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select tool and modify/confirm tool processing parameters: </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.<ul>
+      <li>2D Pocket supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 2D design. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.</li>
+      <li>According to the rules for multi-tool clearing, it is recommended that the tool combination be set from top to bottom in order from large to small tool tip diameters. This allows for large-diameter tools to be used first to quickly clear most of the material. Then for the areas in the pocket that large-diameter tools cannot enter, subsequent small-diameter tools will continue to clear the material until the material fully meets the clearing requirements of the selected 2D design.<ul>
+          <li><strong>Note: When setting up multi-tool clearing, it is recommended to combine tools with the same shank diameter to avoid the need to replace the spindle tool chuck. </strong>Also ensure tool numbers vary across different tools as discussed previously.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Path Strategy:</strong>
+    <ul>
+      <li><strong>Offset:</strong>
+        <ul>
+          <li>Material removal using closed nested paths<ul>
+              <li><strong>Outside In:</strong>
+                <ul>
+                  <li>The machining path is processed from the outer contour to the center of the selected 2D design</li>
+                </ul>
+              </li>
+              <li><strong>Inside Out:</strong>
+                <ul>
+                  <li>Processing tool path from the center of the selected 2D design to the outer contour processing</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>Parallel:</strong>
+        <ul>
+          <li>Material removal using a reciprocating line operation<ul>
+              <li><strong>Front To Back:</strong>
+                <ul>
+                  <li>The machining path is processed from the starting point to the end point</li>
+                </ul>
+              </li>
+              <li><strong>Back To Front:</strong>
+                <ul>
+                  <li>The machining path is processed from the end point to the starting point</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Cutting Direction: </strong>Conventional or Climb</li>
+  <li><strong>Set Cutting Order: </strong>Auto, Selection, Inside Out, Outside In</li>
+  <li><strong>Set the Ramping Strategy </strong>(optional)</li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of the created tool path.</li>
+</ul>
+<h2 id="h-2d-contour-tool-paths" class="toc-header"> <span class="text-big">2D Contour Tool Paths</span></h2>
+<p>2D Contour Tool Paths <i>(formerly referred to as Vector Contour)</i> can be used to create cuts along the edges or outlines of 2D Design files as shown in <a href="https://www.youtube.com/watch?v=EDyE1_03etM&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=21&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. </p>
+<figure class="image"><img src="../assets/media/d5329620ca9529b7a2163568.png" loading="lazy" decoding="async"></figure>
+<p>To create 2D Contour Tool Paths, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set machining depth parameters</strong></li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select tool and modify/confirm tool processing parameters. </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Set the Processing Strategy:</strong>
+    <ul>
+      <li><strong>Inside:</strong>
+        <ul>
+          <li>The outer contour created by the tool is processed along the inner side of the selected 2D path. If the selected selected 2D paths intersect, this mode will not generate a tool path.</li>
+        </ul>
+      </li>
+      <li><strong>Outside:</strong>
+        <ul>
+          <li>The inner contour created by the tool cutting is processed along the outer side of the selected 2D path. If the selected 2D paths intersect, this mode will not generate a tool path.</li>
+        </ul>
+      </li>
+      <li><strong>On Vector:</strong>
+        <ul>
+          <li>The tool axis is processed along the contour line of the selected 2D path.</li>
+        </ul>
+      </li>
+      <li><strong>Offset:</strong>
+        <ul>
+          <li>Allows for you to adjust the position of the cutting tool relative to the selected path strategy</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set the cutting direction: </strong>Conventional or Climb</li>
+  <li><strong>Set the cutting order: </strong>Auto, Selection, Inside Out, Outside In</li>
+  <li><strong>Set Ramping parameters </strong>(optional)</li>
+  <li><strong>Consider enabling Tab Supports:</strong>
+    <ul>
+      <li>Tabs can be enabled and added along the edges of the contour cut to hold the material so that it does not break off the stock during machining. Tabs are retained and can be cut manually after machining processes are finished. Tabs are not enabled by default, select <strong>Custom</strong> to enable tab supports.<ul>
+          <li><strong>Setting tab parameters:</strong>
+            <ul>
+              <li><strong>Select support shape:</strong> triangle or rectangle</li>
+              <li><strong>Set support width:</strong> Sets the horizontal width of the tab created that will not be cut off.</li>
+              <li><strong>Set the support thickness:</strong> End Depth is used as the reference, and the height of the uncut area is retained along the Z axis.<ul>
+                  <li>Click <strong>[Add]</strong> to enter the manual tab addition mode:<ul>
+                      <li>Click the left mouse button where you want a tab to be created along the outline of your selected 2D path. After the tab is successfully added, the tab position will be marked on the graphic outline. Multiple supports can be added to the selected 2D path continuously.</li>
+                      <li>In the <strong>Add</strong> mode, click the center of the generated tab mark with the left mouse button to delete the corresponding tab support.</li>
+                      <li>When you are finished, click <strong>[Exit]</strong>.</li>
+                    </ul>
+                  </li>
+                  <li>Click <strong>[Clear]</strong> to clear all tab supports in the current tool path at once.</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to display a preview of the generated tool path.</li>
+</ul>
+<h2 id="h-2d-drilling-tool-paths" class="toc-header"> <span class="text-big">2D Drilling Tool Paths</span></h2>
+<p>2D Drilling Tool Paths <i>(formerly referred to as Vector Drilling)</i> allows for drilling operations according to the selected 2D object center as shown in <a href="https://www.youtube.com/watch?v=fMOiTGTK_4k&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=22&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. </p>
+<figure class="image"><img src="../assets/media/f6df792334700d8dc5db8031.png" loading="lazy" decoding="async"></figure>
+<p>The created drilling diameter is related to the selected tool diameter and has nothing to do with the selected 2D path boundary size. To create 2D Drilling Tool Paths, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set Cutting Depth Parameters</strong></li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select tool (drill) and modify/confirm tool processing parameters. </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Select a Retract Strategy:</strong>
+    <ul>
+      <li><strong>None:</strong>
+        <ul>
+          <li>No special processing strategy, the tool directly drills to the end depth according to the set processing parameters</li>
+        </ul>
+      </li>
+      <li><strong>Fixed Z Height:</strong>
+        <ul>
+          <li>Using the Start Depth as the reference, the tool drills down a lower cutting depth according to the set processing parameters, and retracts to a fixed height above the starting depth according to the set retraction height.</li>
+        </ul>
+      </li>
+      <li><strong>Relative Retract:</strong>
+        <ul>
+          <li>Each time the tool drills a lower cutting depth according to the set processing parameters, it retreats upward by a relative height displacement of the set distance relative to the current position.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of this tool path.</li>
+</ul>
+<h2 id="h-2d-thread-milling-tool-paths" class="toc-header"> <span class="text-big">2D Thread Milling Tool Paths</span></h2>
+<p>2D Thread Milling Tool Paths allows for Thread Milling operations according to the selected 2D objects which have been drilled as shown in <a href="https://www.youtube.com/watch?v=aHayyhLsyP0&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=23&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. </p>
+<figure class="image"><img src="../assets/media/4df3919734422e9b5b355dda.png" loading="lazy" decoding="async"></figure>
+<p>The created Thread size is relative to the selected cutting tool and the diameter of the hole created in a previous Drilling Tool Path, it has nothing to do with the selected 2D path boundary size. It is important that a selected 2D object has already had a 2D Drilling Operation created prior to attempting to create a 2D Thread Milling Tool path.</p>
+<p>To create 2D Thread Milling Tool Paths, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set machining depth parameters</strong></li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select Thread Type:</strong>
+    <ul>
+      <li><strong>Internal:</strong>
+        <ul>
+          <li>This will create threads along the internal boundaries of a cylindrical hole.</li>
+        </ul>
+      </li>
+      <li><strong>External:</strong>
+        <ul>
+          <li>This will create threads along the external boundaries of a cylindrical object.</li>
+        </ul>
+      </li>
+      <li><strong>Left-Handed / Right-Handed:</strong>
+        <ul>
+          <li>Choose the thread direction</li>
+        </ul>
+      </li>
+      <li><strong>Repeat:</strong>
+        <ul>
+          <li>Will repeat the thread milling operation using the selected parameters</li>
+        </ul>
+      </li>
+      <li><strong>Multilayer:</strong>
+        <ul>
+          <li>Creates multiple thread passes based on set parameter. The default is 1.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Select tool (thread milling bit) and modify/confirm tool processing parameters. </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of this tool path.</li>
+</ul>
+<h2 id="h-2d-chamfer-tool-paths" class="toc-header"> <span class="text-big">2D Chamfer Tool Paths</span></h2>
+<p>2D Chamfer Tool Paths can be used to chamfered cuts along the edges or outlines of 2D Design files as shown in <a href="https://www.youtube.com/watch?v=49_5PGL-BnM&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=24&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. </p>
+<figure class="image"><img src="../assets/media/be2b573d8b666cbe26d6e82e.png" loading="lazy" decoding="async"></figure>
+<p>In previous versions of Makera CAM, 2D Chamfer operations were created using a 2D Contour Tool Path, which is still possible. But for greater ease use the 2D Contour Tool Path operation, and consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set Start depth parameters</strong></li>
+  <li><strong>Set Chamfer Depth:</strong>
+    <ul>
+      <li>This determines how deep the chamfer will be cut, creating the overall height of the chamfered edge.</li>
+    </ul>
+  </li>
+  <li><strong>Set Tip Depth Offset:</strong>
+    <ul>
+      <li>This offsets the tip of the chamfer bit from the selected 2D path.</li>
+    </ul>
+  </li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select a Chamfer tool and modify/confirm tool processing parameters. </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Set the Processing Strategy:</strong>
+    <ul>
+      <li><strong>Inside:</strong>
+        <ul>
+          <li>The chamfer contour created by the tool is processed along the inner side of the selected 2D path. If the selected selected 2D paths intersect, this mode will not generate a tool path.</li>
+        </ul>
+      </li>
+      <li><strong>Outside:</strong>
+        <ul>
+          <li>The chamfer contour created by the tool cutting is processed along the outer side of the selected 2D path. If the selected 2D paths intersect, this mode will not generate a tool path.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set the cutting direction: </strong>Conventional or Climb</li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to display a preview of the generated tool path.</li>
+</ul>
+<h2 id="h-3d-relief-tool-paths" class="toc-header"> <span class="text-big">3D Relief Tool Paths</span></h2>
+<p>3D Relief Tool Paths<i> </i>are used to create concave and convex machining operations around the geometric features of an imported 3D mesh file (.STL) as shown in <a href="https://www.youtube.com/watch?v=fXgzWkj8nzM&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=18&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>.</p>
+<figure class="image"><img src="../assets/media/edacfea7988749e8c787c45e.png" loading="lazy" decoding="async"></figure>
+<p>To create 3D Relief Tool Paths, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set Start Depth</strong></li>
+  <li><strong>Max Depth:</strong>
+    <ul>
+      <li>With this option checked, the relief will machine to a specified depth rather than to the bottom of the model.</li>
+    </ul>
+  </li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select tool and modify/confirm tool processing parameters: </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.<ul>
+      <li>3D Relief supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 3D model. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.</li>
+      <li>According to the rules for multi-tool clearing, it is recommended that the tool combination be set from top to bottom in order from large to small tool tip diameters. This allows for large-diameter tools to be used first to quickly clear most of the material. Then for the areas in the pocket that large-diameter tools cannot enter, subsequent small-diameter tools will continue to clear the material until the material fully meets the clearing requirements of the selected 3D model.<ul>
+          <li><strong>Note: When setting up multi-tool clearing, it is recommended to combine tools with the same shank diameter to avoid the need to replace the spindle tool chuck. </strong>Also ensure tool numbers vary across different tools as discussed previously.</li>
+        </ul>
+      </li>
+      <li><strong>Step Down:</strong>
+        <ul>
+          <li>As discussed previously, this parameter determines the depth of cut per pass. With 3D Relief and multi-material clearing, you can set unique step down values per tool, and disable it for finishing pass purposes after material has been cleared previously.</li>
+        </ul>
+      </li>
+      <li><strong>Depth Allowance:</strong>
+        <ul>
+          <li>This will adjust the amount of stock left during machining. The default is 0 mm, which would machine to the specified depth.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Processing Limit Boundary:</strong>
+    <ul>
+      <li><strong>Model Boundary:</strong>
+        <ul>
+          <li>The relief will be created within the boundaries of the selected 3D Model</li>
+        </ul>
+      </li>
+      <li><strong>Material Boundary:</strong>
+        <ul>
+          <li>The relief will be created within the boundaries of the stock</li>
+        </ul>
+      </li>
+      <li><strong>Selected Vector(s):</strong>
+        <ul>
+          <li>The relief will be created within any 2D vector paths selected as boundaries.</li>
+        </ul>
+      </li>
+      <li><strong>Boundary Offset:</strong>
+        <ul>
+          <li>Adjust the cleared area based on selected Processing Limit Boundary options.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Path Strategy:</strong>
+    <ul>
+      <li><strong>Offset</strong>
+        <ul>
+          <li>Material removal using closed nested paths<ul>
+              <li><strong>Outside In:</strong>
+                <ul>
+                  <li>The machining path is processed from the outer contour to the center of the selected 3D Model</li>
+                </ul>
+              </li>
+              <li><strong>Inside Out:</strong>
+                <ul>
+                  <li>Processing tool path from the center of the selected 3D Model to the outer contour processing</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>Parallel:</strong>
+        <ul>
+          <li>Material removal using a reciprocating line operation<ul>
+              <li><strong>Front To Back:</strong>
+                <ul>
+                  <li>The machining path is processed from the starting point to the end point</li>
+                </ul>
+              </li>
+              <li><strong>Back To Front:</strong>
+                <ul>
+                  <li>The machining path is processed from the end point to the starting point</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set the Ramping Strategy </strong>(optional)</li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of the created tool path.</li>
+</ul>
+<h2 id="h-3d-pocket-tool-paths" class="toc-header"> <span class="text-big">3D Pocket Tool Paths</span></h2>
+<p>3D Pocket Tool Paths<i> </i>are used to clear the material in selected 3D Models in STEP file formats as shown in <a href="https://www.youtube.com/watch?v=Na_kjXLjaWo&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=25&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>.</p>
+<figure class="image"><img src="../assets/media/d043b8e851ff497787744cfa.png" loading="lazy" decoding="async"></figure>
+<p>To create 3D Pocket Tool Paths, first select the faces you wish to clear in on your 3D Model, and you may select more than one face at a time. Then consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set machining Start Depth, </strong>note that the end depth is determined by the selected faces of the 3D model.</li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select tool and modify/confirm tool processing parameters: </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.<ul>
+      <li>3D Pocket supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 3D Model. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.</li>
+      <li>According to the rules for multi-tool clearing, it is recommended that the tool combination be set from top to bottom in order from large to small tool tip diameters. This allows for large-diameter tools to be used first to quickly clear most of the material. Then for the areas in the pocket that large-diameter tools cannot enter, subsequent small-diameter tools will continue to clear the material until the material fully meets the clearing requirements of the selected 3D Model.<ul>
+          <li><strong>Note: When setting up multi-tool clearing, it is recommended to combine tools with the same shank diameter to avoid the need to replace the spindle tool chuck. </strong>Also ensure tool numbers vary across different tools as discussed previously.</li>
+        </ul>
+      </li>
+      <li><strong>Step Down:</strong>
+        <ul>
+          <li>As discussed previously, this parameter determines the depth of cut per pass. With 3D Pocket and multi-material clearing, you can set unique step down values per tool, and disable it for finishing pass purposes after material has been cleared previously.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Path Strategy:</strong>
+    <ul>
+      <li><strong>Offset</strong>
+        <ul>
+          <li>Material removal using closed nested paths<ul>
+              <li><strong>Outside In:</strong>
+                <ul>
+                  <li>The machining path is processed from the outer contour to the center of the selected 3D Model</li>
+                </ul>
+              </li>
+              <li><strong>Inside Out:</strong>
+                <ul>
+                  <li>Processing tool path from the center of the selected 3D Model to the outer contour processing</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>Parallel:</strong>
+        <ul>
+          <li>Material removal using a reciprocating line operation<ul>
+              <li><strong>Front To Back:</strong>
+                <ul>
+                  <li>The machining path is processed from the starting point to the end point</li>
+                </ul>
+              </li>
+              <li><strong>Back To Front:</strong>
+                <ul>
+                  <li>The machining path is processed from the end point to the starting point</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Cutting Direction: </strong>Conventional or Climb</li>
+  <li><strong>Set Cutting Order: </strong>Auto, Selection, Inside Out, Outside In</li>
+  <li><strong>Set Tool Containment:</strong>
+    <ul>
+      <li><strong>Inside Boundary:</strong>
+        <ul>
+          <li>The cutting tool is not permitted to machine outside of the selected 3D model during clearing operations</li>
+        </ul>
+      </li>
+      <li><strong>Outside Boundary:</strong>
+        <ul>
+          <li>The cutting tool may machine beyond the outside boundary of the selected 3D model during clearing operations</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set the Ramping Strategy </strong>(optional)</li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of the created tool path.</li>
+</ul>
+<h2 id="h-3d-contour-tool-paths" class="toc-header"> <span class="text-big">3D Contour Tool Paths</span></h2>
+<p>3D Contour Tool Paths can be used to create cuts along generated contour paths based on 3D models (STL / STEP) as shown in <a href="https://www.youtube.com/watch?v=guxwusH-Z2M&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=27&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. </p>
+<figure class="image"><img src="../assets/media/4beaca8c1d364a7d5d14ca2b.png" loading="lazy" decoding="async"></figure>
+<p>To create 3D Contour Tool Paths, we must first generate 2D contour paths that can be selected for this type of operation. As discussed earlier in the <strong>Trace</strong> section of this guide, you can perform this task using the <strong>Trace 3D Contour</strong> function from within the edit and transform menus. You can also perform this operation from within the 3D Contour Tool Path menu in the Extended Properties Panel:</p>
+<ul>
+  <li><strong>Select Mode:</strong>
+    <ul>
+      <li><strong>Object:</strong>
+        <ul>
+          <li>When this option is chosen, you may select a 3D model to generate contour paths around. This is suitable for generating the outer perimeter around the bottom edge of a STEP or STL file that has been imported.</li>
+        </ul>
+      </li>
+      <li><strong>Face:</strong>
+        <ul>
+          <li>When this option is chosen, you may select face(s) on an imported STEP file to generate contours paths around. This is suitable for selecting inner profiles, pockets, holes, or edges you wish to machine using contour tool path operations.</li>
+        </ul>
+      </li>
+      <li>After choosing a mode and making your selection, press <strong>[Generate Contours] </strong>to automatically generate the contour paths around your 3D model. After contour paths have been generated, you may press <strong>[Clear Contours]</strong> to delete any generated contours and make a new selection.</li>
+    </ul>
+  </li>
+</ul>
+<p>Once contour paths have been generated, consider and adjust the following parameters to create 3D Contour Tool Paths:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set Start Depth</strong></li>
+  <li><strong>Set End Depth:</strong>
+    <ul>
+      <li><strong>End Depth: </strong>
+        <ul>
+          <li>Automatically be determined based on the selected contour generated from the selected 3D Model.</li>
+        </ul>
+      </li>
+      <li><strong>End Depth Offset:</strong>
+        <ul>
+          <li>This parameter allows you to machine above or below the End Depth atomically set by the selected contour path.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Last Pass Depth </strong>(optional)</li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select tool and modify/confirm tool processing parameters. </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Set the position processing strategy:</strong>
+    <ul>
+      <li><strong>Inside:</strong>
+        <ul>
+          <li>The outer contour created by the tool is processed along the inner side of the selected contour path. If multiple paths are selected and selected paths intersect, this mode will not generate a tool path.</li>
+        </ul>
+      </li>
+      <li><strong>Outside:</strong>
+        <ul>
+          <li>The inner contour created by the tool cutting is processed along the outer side of the selected contour path. If multiple paths are selected and selected paths intersect, this mode will not generate a tool path.</li>
+        </ul>
+      </li>
+      <li><strong>On Vector:</strong>
+        <ul>
+          <li>The tool axis is processed along the contour line of the selected contour path.</li>
+        </ul>
+      </li>
+      <li><strong>Offset:</strong>
+        <ul>
+          <li>Allows for you to adjust the position of the cutting tool relative to the selected path strategy</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set the cutting direction: </strong>Conventional or Climb</li>
+  <li><strong>Set the cutting order: </strong>Auto, Selection, Inside Out, Outside In</li>
+  <li><strong>Set Ramping parameters </strong>(optional)</li>
+  <li><strong>Consider enabling Tab Supports:</strong>
+    <ul>
+      <li>Tabs can be enabled and added along the edges of the contour cut to hold the material so that it does not break off the stock during machining. Tabs are retained and can be cut manually after machining processes are finished. Tabs are not enabled by default, select <strong>Custom</strong> to enable tab supports.<ul>
+          <li><strong>Setting tab parameters:</strong>
+            <ul>
+              <li><strong>Select support shape:</strong> triangle or rectangle</li>
+              <li><strong>Set support width:</strong> Sets the horizontal width of the tab created that will not be cut off.</li>
+              <li><strong>Set the support thickness:</strong> End Depth is used as the reference, and the height of the uncut area is retained along the Z axis.<ul>
+                  <li>Click <strong>[Add]</strong> to enter the manual tab addition mode:<ul>
+                      <li>Click the left mouse button where you want a tab to be created along the outline of your selected contour path. After the tab is successfully added, the tab position will be marked on the graphic outline. Multiple supports can be added to the selected contour path continuously.</li>
+                      <li>In the <strong>Add</strong> mode, click the center of the generated tab mark with the left mouse button to delete the corresponding tab support.</li>
+                      <li>When you are finished, click <strong>[Exit]</strong>.</li>
+                    </ul>
+                  </li>
+                  <li>Click <strong>[Clear]</strong> to clear all tab supports in the current tool path at once.</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to display a preview of the generated tool path.</li>
+</ul>
+<h2 id="h-3d-drilling-tool-paths" class="toc-header"> <span class="text-big">3D Drilling Tool Paths</span></h2>
+<p>3D Drilling Tool Paths allows for drilling operations to be created based on selected faces on a 3D Model imported in the STEP file format, as shown in <a href="https://www.youtube.com/watch?v=Tmz0UtBYCJM&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=26&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. </p>
+<figure class="image"><img src="../assets/media/3b76ebab239da30d56f7b719.png" loading="lazy" decoding="async"></figure>
+<p>You can create 3D Drilling Tool Paths based on the center of selected faces, and you may select either the flat circular bottom face of a hole or the cylindrical walls of a hole the selected 3D model. You may also select more than one face at a time if you want to make multiple holes with the same parameters. The created drilling diameter is related to the selected tool diameter and has nothing to do with the selected 3D face size. To create 3D Drilling Tool Paths, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set machining depth parameters</strong>
+    <ul>
+      <li><strong>Drill Tip End Depth </strong>
+        <ul>
+          <li>Determined automatically based on the selected faces within the 3D Model</li>
+        </ul>
+      </li>
+      <li><strong>Depth Offset:</strong>
+        <ul>
+          <li>Allows you to drill above or below the Drill Tip End Depth which is determined automatically.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select tool (drill) and modify/confirm tool processing parameters. </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Setting machining strategy:</strong>
+    <ul>
+      <li><strong>None:</strong>
+        <ul>
+          <li>No special processing strategy, the tool directly drills to the end depth according to the set processing parameters</li>
+        </ul>
+      </li>
+      <li><strong>Fixed Z Height:</strong>
+        <ul>
+          <li>Using the Start Depth as the reference, the tool drills down a lower cutting depth according to the set processing parameters, and retracts to a fixed height above the starting depth according to the set retraction height.</li>
+        </ul>
+      </li>
+      <li><strong>Relative Retract:</strong>
+        <ul>
+          <li>Each time the tool drills a lower cutting depth according to the set processing parameters, it retreats upward by a relative height displacement of the set distance relative to the current position.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of this tool path.</li>
+</ul>
+<h2 id="h-3d-thread-milling-tool-paths" class="toc-header"> <span class="text-big">3D Thread Milling Tool Paths</span></h2>
+<p>3D Thread Milling Tool Paths allows for Thread Milling operations according to the selected drilled faces on a 3D Model imported in the STEP file format, as shown in <a href="https://www.youtube.com/watch?v=RIjdWSy70B4&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=28&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. </p>
+<figure class="image"><img src="../assets/media/5332488f36ce4b482b9be527.png" loading="lazy" decoding="async"></figure>
+<p>The created Thread size is relative to the selected cutting tool and the diameter of the hole created in a previous Drilling Tool Path for the selected faces within the 3D model. You must select the cylindrical faces of a hole within a model, and may select more than one face at a time if you wish to create multiple Thread Milling operations with the same parameters. It is important that a selected 3D face has already had a 3D Drilling Operation created prior to attempting to create a 3D Thread Milling Tool path.</p>
+<p>To create 3D Thread Milling Tool Paths, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set machining depth parameters</strong>
+    <ul>
+      <li><strong>End Depth </strong>
+        <ul>
+          <li>Determined automatically based on the selected faces within the 3D Model</li>
+        </ul>
+      </li>
+      <li><strong>Depth Offset:</strong>
+        <ul>
+          <li>Allows you to mill above or below the End Depth which is determined automatically.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select Thread Type:</strong>
+    <ul>
+      <li><strong>Internal:</strong>
+        <ul>
+          <li>This will create threads along the internal boundaries of a cylindrical hole.</li>
+        </ul>
+      </li>
+      <li><strong>External:</strong>
+        <ul>
+          <li>This will create threads along the external boundaries of a cylindrical object.</li>
+        </ul>
+      </li>
+      <li><strong>Left-Handed / Right-Handed:</strong>
+        <ul>
+          <li>Choose the thread direction</li>
+        </ul>
+      </li>
+      <li><strong>Repeat:</strong>
+        <ul>
+          <li>Will repeat the thread milling operation using the selected parameters</li>
+        </ul>
+      </li>
+      <li><strong>Multilayer:</strong>
+        <ul>
+          <li>Creates multiple thread passes based on set parameter. The default is 1.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Select tool (thread milling bit) and modify/confirm tool processing parameters. </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of this tool path.</li>
+</ul>
+<h2 id="h-3d-chamfer-tool-paths" class="toc-header"> <span class="text-big">3D Chamfer Tool Paths</span></h2>
+<p>3D Chamfer Tool Paths can be used to chamfered cuts along the edges or outlines of 3D Models as shown in <a href="https://www.youtube.com/watch?v=aKkgcRQHVOY&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=29&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>. </p>
+<figure class="image"><img src="../assets/media/f551616e59403e37c8bfd752.png" loading="lazy" decoding="async"></figure>
+<p>To create 3D Chamfer Tool Paths, we must first generate 2D contour paths that can be selected for this type of operation. As discussed earlier in the <strong>Trace</strong> section of this guide, you can perform this task using the <strong>Trace 3D Contour</strong> function from within the edit and transform menus. You can also perform this operation from within the 3D Chamfer Tool Path menu in the Extended Properties Panel:</p>
+<ul>
+  <li><strong>Select Mode:</strong>
+    <ul>
+      <li><strong>Object:</strong>
+        <ul>
+          <li>When this option is chosen, you may select a 3D model to generate contour paths around. This is suitable for generating the outer perimeter around the bottom edge of a STEP or STL file that has been imported, such as when making a 3D Contour Tool Path to cut out a part.</li>
+        </ul>
+      </li>
+      <li><strong>Face:</strong>
+        <ul>
+          <li>When this option is chosen, you may select face(s) on an imported STEP file to generate contours paths around. This is suitable for selecting inner profiles, pockets, holes, or edges you wish to machine, such as when creating a 3D Chamfer tool path operation.</li>
+        </ul>
+      </li>
+      <li>After choosing a mode and making your selection, press <strong>[Generate Contours] </strong>to automatically generate the contour paths around your 3D model. After contour paths have been generated, you may press <strong>[Clear Contours]</strong> to delete any generated contours and make a new selection.</li>
+    </ul>
+  </li>
+</ul>
+<p>Once contour paths have been generated, select the contour paths you wish to chamfer and then consider and adjust the following parameters to create 3D Chamfer Tool Paths:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set Start depth parameters</strong></li>
+  <li><strong>Set Chamfer Depth:</strong>
+    <ul>
+      <li>This determines how deep the chamfer will be cut, creating the overall height of the chamfered edge.</li>
+    </ul>
+  </li>
+  <li><strong>Set Tip Depth Offset:</strong>
+    <ul>
+      <li>This offsets the tip of the chamfer bit from the selected contour path.</li>
+    </ul>
+  </li>
+  <li><strong>Set safe height and starting position</strong></li>
+  <li><strong>Select a Chamfer tool and modify/confirm tool processing parameters. </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Set the position processing strategy:</strong>
+    <ul>
+      <li><strong>Inside:</strong>
+        <ul>
+          <li>The chamfer contour created by the tool is processed along the inner side of the selected 2D path. If the selected selected 2D paths intersect, this mode will not generate a tool path.</li>
+        </ul>
+      </li>
+      <li><strong>Outside:</strong>
+        <ul>
+          <li>The chamfer contour created by the tool cutting is processed along the outer side of the selected 2D path. If the selected 2D paths intersect, this mode will not generate a tool path.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set the cutting direction: </strong>Conventional or Climb</li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to display a preview of the generated tool path.</li>
+</ul>
+<h2 id="laser-vector-tool-paths" class="toc-header"> <span class="text-big">Laser Vector Tool Paths</span></h2>
+<p>Laser Vector tool path operations use laser engraving modules to stroke or fill selected vector graphics.</p>
+<figure class="image"><img src="../assets/media/05a6f9cd096bc90e983690d7.jpg" loading="lazy" decoding="async"></figure>
+<p>To create Laser Vector Tool Path operations, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Speed:</strong>
+    <ul>
+      <li>Adjust the Laser processing moving speed, see the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and parameters based on compatible materials.</li>
+    </ul>
+  </li>
+  <li><strong>Power:</strong>
+    <ul>
+      <li>Adjust the Laser processing output power, see the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and parameters based on compatible materials.</li>
+    </ul>
+  </li>
+  <li><strong>Mode:</strong>
+    <ul>
+      <li><strong>Line:</strong>
+        <ul>
+          <li>Engrave along the outline of a vector graphics (stroke)</li>
+        </ul>
+      </li>
+      <li><strong>Fill:</strong>
+        <ul>
+          <li>Use parallel lines to fill the interior of the vector graphics</li>
+        </ul>
+      </li>
+      <li><strong>Offset Fill:</strong>
+        <ul>
+          <li>Refer to the outline of the vector graphic and shift it inward to fill the inside of the vector graphic based on the set parameter</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Indent Distance:</strong>
+    <ul>
+      <li>This sets the Processing offset distance. It is recommended to only perform offset processing inside the graphics</li>
+    </ul>
+  </li>
+  <li><strong>Bi-directional Fill:</strong>
+    <ul>
+      <li>Enable bidirectional filling mode to provide a more efficient processing technique</li>
+    </ul>
+  </li>
+  <li><strong>Line Interval / Line Per Inch:</strong>
+    <ul>
+      <li>Set the scanning interval of the laser tool path to adjust the engraving resolution</li>
+    </ul>
+  </li>
+  <li><strong>Scan Angle:</strong>
+    <ul>
+      <li>When this mode is set to Fill, you can set the scanning movement angle of parallel lines</li>
+    </ul>
+  </li>
+  <li><strong>Z Offset:</strong>
+    <ul>
+      <li>Set the Z-axis offset</li>
+    </ul>
+  </li>
+  <li><strong>Number of Passes:</strong>
+    <ul>
+      <li>Set the number of processing repetitions for this tool path</li>
+    </ul>
+  </li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of this tool path.</li>
+</ul>
+<h2 id="laser-image-tool-paths" class="toc-header"> <span class="text-big">Laser Image Tool Paths</span></h2>
+<p>Laser Image tool path operations use laser engraving modules to engrave selected raster or vector graphics through a dot matrix engraving technique.</p>
+<figure class="image"><img src="../assets/media/51c5569438d1851a90c5851f.png" loading="lazy" decoding="async"></figure>
+<p>To create Laser Image Tool Path operations, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Adjust Image:</strong>
+    <ul>
+      <li>Use simple adjustment parameters to change the brightness, Contrast, and Gamma of a photograph in order to create optimal engraving results.</li>
+    </ul>
+  </li>
+  <li><strong>Speed:</strong>
+    <ul>
+      <li>Adjust the Laser processing moving speed, see the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and parameters based on compatible materials.</li>
+    </ul>
+  </li>
+  <li><strong>Power:</strong>
+    <ul>
+      <li>Adjust the Laser processing output power, see the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and parameters based on compatible materials.</li>
+    </ul>
+  </li>
+  <li><strong>Forward / Reverse:</strong>
+    <ul>
+      <li>Set the Laser processing direction</li>
+    </ul>
+  </li>
+  <li><strong>Bi-directional Scan:</strong>
+    <ul>
+      <li>Enable bidirectional scanning mode to provide a more efficient processing technique</li>
+    </ul>
+  </li>
+  <li><strong>Line Interval:</strong>
+    <ul>
+      <li>Set the scanning interval of the laser path to adjust the engraving resolution</li>
+    </ul>
+  </li>
+  <li><strong>Scan Angle:</strong>
+    <ul>
+      <li>Set the scanning movement angle</li>
+    </ul>
+  </li>
+  <li><strong>Z Offset:</strong>
+    <ul>
+      <li>Set the Z-axis offset</li>
+    </ul>
+  </li>
+  <li><strong>Number of Passes:</strong>
+    <ul>
+      <li>Set the number of processing repetitions for this tool path</li>
+    </ul>
+  </li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of this tool path.</li>
+</ul>
+<h1 id="h-4-axis-tool-paths" class="toc-header"> <span class="text-big">4-Axis Tool Paths</span></h1>
+<p>When working in a 4-Axis Project, you may use Makera CAM to prepare imported 3D models for rotation machining operations when the Carvera and Carvera Air are configured with the optional 4th Axis Module. </p>
+<h2 id="general-4-axis-techniques" class="toc-header"> <span class="text-big">General 4-Axis Techniques</span></h2>
+<p>Before moving into strategies for setting up specific types of rotation tool paths, we will cover general settings that are universal across various tool path creation techniques for 4-Axis machining operations. </p>
+<h3 id="adjusting-the-stock" class="toc-header"> <span class="text-big">Adjusting the Stock</span></h3>
+<p>As discussed earlier in the <strong>Stock Introduction</strong> section of this guide, the parameters for setting up the stock in a 4-axis project differs slightly from the parameters shown in a 3-axis project:</p>
+<figure class="image image_resized"><img src="../assets/media/406f0a6315b680a1793662dd.png" loading="lazy" decoding="async"></figure>
+<p>In addition to being able to set the Material, Length (X), Width (Y), and Height (Z), parameters to change the <strong>Shape</strong> of the stock are available when working in a 4-Axis Project. You may use this parameter to switch between <strong>Square</strong> or <strong>Round</strong> stock shapes. </p>
+<h3 id="creating-tabs" class="toc-header"> <span class="text-big">Creating Tabs</span></h3>
+<p>Unlike when creating 2D or 3D Contour Tool Paths with parameters for generating tabs around the selected contour, tabs must be created manually when creating rotation tool paths. You may import a model that already has tabs generated, or you may utilize Makera CAM's <strong>Create</strong> tools:</p>
+<figure class="image image_resized"><img src="../assets/media/6b52b8674a32764579bbe9bb.png" loading="lazy" decoding="async"></figure>
+<p>As discussed earlier in the <strong>Create Tools</strong> section of this guide, Makera CAM offers tools to generate dimensioned 3D models in cube, cylinder, or cone frustum shapes. When modeling tabs for a 4th axis project, we typically recommend creating cylinder or cone shapes as shown in <a href="https://www.youtube.com/watch?v=dL88eMENUzg&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=17" class="is-external-link" target="_blank" rel="noopener noreferrer">this tutorial</a>. </p>
+<h3 id="common-machining-parameters-1" class="toc-header"> <span class="text-big">Common Machining Parameters</span></h3>
+<p>As with 3-Axis tool paths, there are some common parameters that may be adjusted across a range of rotation tool paths for 4-axis machining. These common parameters include:</p>
+<ul>
+  <li><strong>Tool path Name:</strong>
+    <ul>
+      <li>The name of the current tool path.</li>
+    </ul>
+  </li>
+  <li><strong>Cutting Depth:</strong>
+    <ul>
+      <li><strong>Max Depth:</strong>
+        <ul>
+          <li>The End Depth will be determined by the selected 3D model when creating a rotation tool path, and by default this will be to the lowest face within the model. Enabling Max Depth allows for you to offset or change the maximum cutting depth around the geometries of the selected model.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Safe locations:</strong>
+    <ul>
+      <li><strong>Clearance Height:</strong>
+        <ul>
+          <li>The Z-axis 0 coordinate detected by the probe is used as the reference for the safe Z-axis height of the tool at a fixed position for the 4th axis module. When the tool executes the G0 command for rapid movement, the tool will first be lifted to the clearance height, then move horizontally rapidly.</li>
+          <li>When working with the 4th axis, a safe clearance height is typically ½ the stock diameter + 3 mm.</li>
+        </ul>
+      </li>
+      <li><strong>Retract Height:</strong>
+        <ul>
+          <li>The Retract Height sets a safe position for the tool to retract to during machining operations, and must be greater than or equal to the width and height of the stock in order to avoid potential collisions.</li>
+          <li>When working with the 4th axis, a safe clearance height is typically ½ the stock diameter + 3 mm</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Choose Tool (Add Tool)</strong>
+    <ul>
+      <li>This will open the Tool Library to allow you to select the tool information you want to use for the Tool Path operation. Select the corresponding preset material processing parameters below the tool list, and click <strong>Choose</strong> to complete the tool selection confirmation.</li>
+      <li>If the tool is configured with the same material preset processing parameters as the current stock setting, the Makera CAM will automatically select the corresponding material processing parameters based on the current blank setting. For example: if the current stock setting is aluminum alloy, and if the aluminum alloy processing parameters are enabled in the selected tool, the aluminum alloy processing parameters entry will be automatically selected.</li>
+    </ul>
+  </li>
+  <li><strong>Tool Parameters: </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended Parameters.<ul>
+      <li><strong>Step Down:</strong>
+        <ul>
+          <li>The depth to which the tool cuts each time it descends through the material. This feature can be safely disabled only when creating finishing passes if material was cleared out in a previous tool path.</li>
+        </ul>
+      </li>
+      <li><strong>Feed Rate:</strong>
+        <ul>
+          <li>The horizontal movement speed of the tool when cutting the material.</li>
+        </ul>
+      </li>
+      <li><strong>Plunge Rate:</strong>
+        <ul>
+          <li>The downward cutting speed of the tool in the Z-axis direction when cutting the material.</li>
+        </ul>
+      </li>
+      <li><strong>Spindle Speed:</strong>
+        <ul>
+          <li>The speed at which the tool rotates as it cuts through the material.</li>
+        </ul>
+      </li>
+      <li><strong>Tool Number:</strong>
+        <ul>
+          <li>The number of the tool used in the current tool path. When multiple designed tool paths use the same tool number, the device will not trigger the tool change action. Therefore, when designing tool paths, be sure to confirm that different tools use different tool numbers.<ul>
+              <li>When using the Carvera Desktop CNC machine with an automatic tool changer, the tool number corresponds to the tool holder number where the tool is actually inserted into the automatic tool changer (1-6).</li>
+              <li>When using a device with manual tool change function such as the Carvera Air Desktop CNC machine, the tool number corresponds to the tool number prompted by the device for automatic pauses and manual tool changes.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Direction:</strong>
+    <ul>
+      <li><strong>Horizontal:</strong>
+        <ul>
+          <li>The part will be machined from side to side while gradually cutting deeper each pass. This is ideal for roughing passes or when clearing out a large amount of material.</li>
+        </ul>
+      </li>
+      <li><strong>Vertical:</strong>
+        <ul>
+          <li>The areas in the part are machined vertically based on the step down parameter before moving horizontally to continue to machine the part. This is ideal for finishing passes or when following along complex geometries within a model.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Tailstock:</strong>
+    <ul>
+      <li>The part that holds the stock within the 4th axis opposite to the chuck is called the Tailstock.<ul>
+          <li><strong>Enabled Tailstock (checked): </strong>tool paths will be contained entirely by the selected model</li>
+          <li><strong>Disable Tailstock (unchecked): </strong>tool paths will be contained by the length (Y) of the stock.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<h2 id="rotation-relief-tool-paths" class="toc-header"> <span class="text-big">Rotation Relief Tool Paths</span></h2>
+<p>Rotation Relief Tool Paths<i> </i>are used to create concave and convex machining operations around the geometric features of an imported 3D mesh file (.STL) using the 4th axis module, as shown in <a href="https://www.youtube.com/watch?v=5pGxDd2LJrs" class="is-external-link" target="_blank" rel="noopener noreferrer">this video</a>.</p>
+<figure class="image"><img src="../assets/media/d6521526d1f4d20388d6032b.png" loading="lazy" decoding="async"></figure>
+<p>To create Rotation Relief Tool Paths, first import a 3D Model and transform it to fit within the stock. Then create tabs as described in the section above or in the attached tutorial. Once your model has been prepared, consider and adjust the following parameters:</p>
+<ul>
+  <li><strong>Set tool path name</strong></li>
+  <li><strong>Set Start Depth</strong></li>
+  <li><strong>Max Depth:</strong>
+    <ul>
+      <li>With this option checked, the relief will machine to a specified depth rather than to the surface of the model.</li>
+    </ul>
+  </li>
+  <li><strong>Set Clearance Height and Retract Height</strong></li>
+  <li><strong>Select tool and modify/confirm tool processing parameters: </strong>See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.<ul>
+      <li>Rotation Relief supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 3D model. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.</li>
+      <li>According to the rules for multi-tool clearing, it is recommended that the tool combination be set from top to bottom in order from large to small tool tip diameters. This allows for large-diameter tools to be used first to quickly clear most of the material. Then for the areas in the pocket that large-diameter tools cannot enter, subsequent small-diameter tools will continue to clear the material until the material fully meets the clearing requirements of the selected 3D model.<ul>
+          <li><strong>Note: When setting up multi-tool clearing, it is recommended to combine tools with the same shank diameter to avoid the need to replace the spindle tool chuck. </strong>Also ensure tool numbers vary across different tools as discussed previously.</li>
+          <li><strong>Note: We typically create two separate tool paths for roughing and finishing passes. </strong>This is because a large quantity of chips are created during a roughing pass for rotation tool paths, and these chips should be cleared before starting a finishing pass.</li>
+        </ul>
+      </li>
+      <li><strong>Step Down:</strong>
+        <ul>
+          <li>As discussed previously, this parameter determines the depth of cut per pass. With Rotation Relief and multi-material clearing, you can set unique step down values per tool, and disable it for finishing pass purposes after material has been cleared previously.</li>
+        </ul>
+      </li>
+      <li><strong>Depth Allowance:</strong>
+        <ul>
+          <li>This will adjust the amount of stock left during machining. The default is 0 mm, which would machine to the specified depth.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Direction: </strong>Horizontal or Vertical</li>
+  <li><strong>Enable Tailstock </strong>(optional)</li>
+  <li>Click <strong>[Calculate]</strong> to complete the tool path calculation and to generate a preview of the created tool path.</li>
+</ul>
+<h1 id="working-with-pcbs" class="toc-header"> <span class="text-big">Working with PCBs</span></h1>
+<p>Makera CAM can be used to prepare PCB files using typical 3-Axis machining configurations. You can use the <strong>Import PCB</strong> feature to import components from a Gerber file after it has been unzipped. You can also import SVG and DXF 2D design files for 2D tool path creation with the intention of creating PCBs. For more information on how to work with PCBs in Makera CAM, see this <a href="https://www.youtube.com/watch?v=6H3ZRSDFoAc&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=15&amp;t=1s&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">tutorial</a>. </p>
+<figure class="image image_resized"><img src="../assets/media/4a0818215126dc667da0e048.png" loading="lazy" decoding="async"></figure>
+<h2 id="preparing-pcb-files-for-makera-cam" class="toc-header"> <span class="text-big">Preparing PCB Files for Makera CAM</span></h2>
+<p>Prior to exporting your PCB file, there are a few settings and parameters which should be adjusted to optimize the result in Makera CAM:</p>
+<p>For sizing lines and features in your PCB file, recommended minimums are:</p>
+<ul>
+  <li>Line width &gt; 0.2mm</li>
+  <li>Line spacing &gt; 0.2mm</li>
+  <li>Via diameter &gt;= 0.4mm</li>
+  <li>Silk screen line width &gt; 0.25mm</li>
+  <li>Drill unit to metric mm 3.3 format</li>
+</ul>
+<p>And the smallest flat bottom tip tools that can be used are 0.1mm\60° or 0.2mm\30°</p>
+<p>Additional settings for exporting a PCB file to use with Makera CAM:</p>
+<ul>
+  <li>Export line widths when exporting Gerber files which facilitates Makera CAM's tool path generation based on automatic nesting</li>
+  <li>Makera CAM will automatically recognize the solder mask information in the Gerber pad and split it into an independent layer. but if the solder mask layer differs from the actual pad shape on the PCB design layer, a separate solder mask file needs to be exported</li>
+  <li>And if the Top or Bottom layer does not contain an outline, a separate outline file needs to be exported to create a contour tool path.</li>
+</ul>
+<h2 id="importing-and-preparing-pcb-files-with-makera-cam" class="toc-header"> <span class="text-big">Importing and Preparing PCB Files with Makera CAM</span></h2>
+<p>When importing your PCB files, it is recommended to import all files needed before making any adjustments to your design (move, rotate, scale, mirror, etc). This will allow for automatic alignment in Makera CAM, as the file was when created. </p>
+<figure class="image"><img src="../assets/media/50a7f5fabc64f164bfe42f99.png" loading="lazy" decoding="async"></figure>
+<p>To align PCB files after transformations have been made, or when working with separate WCS, the <strong>Center to Center </strong>tool can be used for easy alignment. Selecting circular holes as the reference and target objects typically works best as alignment for concentric shapes is universal. To select parts of your PCB, you can easily select all graphics across one or several layers using the 2D Layers list within the Functions Panel:</p>
+<figure class="image"><img src="../assets/media/cff4b049a47a3aacc949dd20.png" loading="lazy" decoding="async"></figure>
+<p>If line widths are exported, it is likely that the outline of your PCB will be imported as two nested lines:</p>
+<figure class="image image_resized"><img src="../assets/media/c55eb6e2309d50845792be5e.png" loading="lazy" decoding="async"></figure>
+<p>The outer most line is typically used for creating contour paths, while the inner line should be selected and used when creating pocket tool paths for the traces. It is recommended that you move the outer most line to its own layer for easier selection and tool path generation. </p>
+<p>And for two sided PCBs, you can create a second WCS with the origin set to the bottom right corner, relative to the default WCS, to horizontally flip your PCB for two sided manufacturing:</p>
+<figure class="image image_resized"><img src="../assets/media/d4b2ffd07ad5fe87c4fa29c0.png" loading="lazy" decoding="async"></figure>
+<p>2D Layers and Paths will be unique per WCS, though you can preview aspects of the design. <strong>Center to Center</strong> can be used with objects across different WCS for easy alignment with two-sided PCB projects. You can also use the <strong>Transform</strong> tools to set specific positions, or move and rotate your design manually. To create alignment pin holes, use the <strong>Create</strong> tool to create a hole. You can then use the <strong>Mirror</strong> tool to mirror the hole across the <strong>Stock Center </strong>for easy alignment during the stock flip. </p>
+<h2 id="creating-pcb-tool-paths" class="toc-header"> <span class="text-big">Creating PCB Tool Paths</span></h2>
+<p>Many of the general Tool Path creation strategies discussed in earlier sections can be applied when making PCBs as well. Makera CAM's nesting features will allow for easy tool path generation, when line widths are exported as discussed previously.  </p>
+<h3 id="traces" class="toc-header"> <span class="text-big">Traces</span></h3>
+<p>Traces can be created using 2D Pocket Tool Paths <i>(formerly referred to as Vector Pocket Tool Paths)</i>:</p>
+<figure class="image"><img src="../assets/media/ca57264c0361d2b87a225828.png" loading="lazy" decoding="async"></figure>
+<p>For creating traces, the following settings are typically recommended:</p>
+<ul>
+  <li><strong>End Depth: </strong>0.05 mm</li>
+  <li><strong>Tool(s):</strong>
+    <ul>
+      <li>Engraving bit for metal, 0.2 / 30 degree or 0.1 / 60 degree</li>
+      <li>Corn Bit, 0.6 mm, 0.8 mm, 1 mm</li>
+      <li>One or more tools can be combined in the 2D Pocket Operation from biggest tool to smallest in tip diameter</li>
+    </ul>
+  </li>
+  <li><strong>Cutting Parameters</strong> set to PCB parameter defaults. See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Path Strategy: </strong>Parallel<strong> </strong></li>
+  <li><strong>Ramping: </strong>Optional</li>
+</ul>
+<h3 id="holes-and-vias" class="toc-header"> <span class="text-big">Holes and Vias</span></h3>
+<p>Holes and Vias can be created using 2D Pocket Tool Paths <i>(formerly referred to as Vector Pocket) </i>or 2D Drilling Tool Paths <i>(formerly referred to as Vector Drilling)</i>:</p>
+<figure class="image"><img src="../assets/media/5df1704834906960b890ee10.png" loading="lazy" decoding="async"></figure>
+<p>For creating holes, the following settings are typically recommended:</p>
+<ul>
+  <li><strong>End Depth: </strong>+0.3 mm past PCB thickness</li>
+  <li><strong>Tool(s):</strong>
+    <ul>
+      <li>Drills for 2D Drilling operations</li>
+      <li>Corn bits for 2D Pocket operations</li>
+    </ul>
+  </li>
+  <li><strong>Cutting Parameters</strong> set to PCB parameter defaults. See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Path Strategy: </strong>Parallel (2D Pocket)</li>
+  <li><strong>Ramping: </strong>Optional (2D Pocket)</li>
+  <li><strong>Retract: </strong>Enabled (2D Drilling)</li>
+</ul>
+<h3 id="perimeters" class="toc-header"> <span class="text-big">Perimeters</span></h3>
+<p>The outer perimeter of your PCB can be machined using a 2D Contour Tool Path <i>(formerly referred to as Vector Contour)</i>:</p>
+<figure class="image"><img src="../assets/media/0c15577e9580b7b9c7e2c1a5.png" loading="lazy" decoding="async"></figure>
+<p>For creating 2D contour cuts, the following settings are typically recommended:</p>
+<ul>
+  <li><strong>End Depth: </strong>+0.3 mm past PCB thickness</li>
+  <li><strong>Tool(s):</strong>
+    <ul>
+      <li>Corn Bits</li>
+    </ul>
+  </li>
+  <li><strong>Cutting Parameters</strong> set to PCB parameter defaults. See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Path Strategy: </strong>Outside</li>
+  <li><strong>Ramping:</strong> Optional</li>
+  <li><strong>Tabs:</strong> Optional, if no tabs are used ensure the PCB is secured using double-sided tape</li>
+</ul>
+<h3 id="pads-for-solder-masked-pcbs" class="toc-header"> <span class="text-big">Pads (for solder-masked PCBs)</span></h3>
+<p>When making solder-masked PCBs, the pads can be machined using 2D Pocket Tool Path <i>(formerly referred to as Vector Pocket)</i>:</p>
+<figure class="image"><img src="../assets/media/51f08ac728aa97eab278fbc9.png" loading="lazy" decoding="async"></figure>
+<p>For creating pads, the following settings are typically recommended:</p>
+<ul>
+  <li><strong>End Depth: </strong>0.2 mm</li>
+  <li><strong>Tool(s):</strong>
+    <ul>
+      <li>Solder Mask Removal Tool</li>
+    </ul>
+  </li>
+  <li><strong>Cutting Parameters</strong> set to PCB parameter defaults. See the <a href="9fb11dbb9a0bcf3ea73b.html" class="is-internal-link is-valid-page">Speeds &amp; Feeds page</a> of our Wiki for recommended and default cutting parameters.</li>
+  <li><strong>Path Strategy:</strong> Parallel</li>
+</ul>
+<h3 id="silk-screen-layer-for-solder-masked-pcbs" class="toc-header"> <span class="text-big">Silk Screen Layer (for solder-masked PCBs)</span></h3>
+<p>When making solder-masked PCBs, a silk screen layer can be engraved using the laser module and a Laser Vector Tool Path:</p>
+<figure class="image"><img src="../assets/media/b2878a34faef99158e6aae4e.png" loading="lazy" decoding="async"></figure>
+<p>For engraving a silk screen layer, we can use the following settings with a Laser Vector operation:</p>
+<ul>
+  <li><strong>Speed: </strong>100</li>
+  <li><strong>Power:</strong>
+    <ul>
+      <li>20% for light solder-mask</li>
+      <li>30% for dark solder-mask</li>
+    </ul>
+  </li>
+  <li><strong>Mode:</strong> Fill</li>
+</ul>
+<h2 id="exporting-and-manufacturing-pcbs" class="toc-header"> <span class="text-big">Exporting and Manufacturing PCBs</span></h2>
+<p>When exporting your PCB tool paths, different techniques can be used based on how you plan to create your PCB.</p>
+<p>For unmasked copper PCBs, you would typically manufacture your PCB in a <strong>single job</strong>, and in the following order:</p>
+<ul>
+  <li><strong>Job 1/1:</strong>
+    <ul>
+      <li>2D Pocket - Traces</li>
+      <li>2D Pocket and or 2D Drilling - Holes / Vias</li>
+      <li>2D Contour - Outline</li>
+    </ul>
+  </li>
+</ul>
+<p>When creating solder-masked PCBs, you would typically manufacture your PCB in <strong>two jobs</strong>, and in the following order:</p>
+<ul>
+  <li><strong>Job 1/2:</strong>
+    <ul>
+      <li>2D Pocket - Traces</li>
+    </ul>
+  </li>
+  <li>Apply solder-mask &amp; cure solder-mask with a UV curing lamp, then run <strong>Job 2/2:</strong>
+    <ul>
+      <li>2D Pocket - Pads w/ Solder Mask Removal Tool</li>
+      <li>2D Pocket and or 2D Drilling - Holes / Vias</li>
+      <li>2D Contour - Outline</li>
+    </ul>
+  </li>
+</ul>
+<p>When creating solder-masked PCBs with a laser engraved silk screen, you would typically manufacture your PCB in <strong>three jobs</strong>, and in the following order:</p>
+<ul>
+  <li><strong>Job 1/3:</strong>
+    <ul>
+      <li>2D Pocket - Traces</li>
+    </ul>
+  </li>
+  <li>Apply solder-mask &amp; cure solder-mask with a UV curing lamp, then run <strong>Job 2/3:</strong>
+    <ul>
+      <li>2D Pocket - Pads w/ Solder Mask Removal Tool</li>
+      <li>2D Pocket and or 2D Drilling - Holes / Vias</li>
+      <li>2D Contour - Outline</li>
+    </ul>
+  </li>
+  <li>Apply solder-mask but do not cure it, then run <strong>Job 3/3:</strong>
+    <ul>
+      <li>Laser Vector - Curing the silk screen layer</li>
+      <li>Wipe away excess solder-mask with alcohol wipes to complete the silkscreen layer</li>
+    </ul>
+  </li>
+</ul>
+<p>When configuring your PCB files for manufacturing, it is recommended to use <strong>Auto Leveling</strong> to measure any deviations in across your stock so the machine can then compensate for deviations automatically based on the probing result. And when creating PCBs with multiple jobs, you typically do not need to measure Z-height or auto leveling after the first job, as long as the machine is not reset between jobs (when apply solder-mask, etc).</p>
+<p>For more information and a step by step guide on how to machine simple PCBs using Makera CAM, see this <a href="https://www.youtube.com/watch?v=mKUvIJkz0NU&amp;list=PL7zu0ucQCuYQCDNnkkt_-5m-sFaEaTg-5&amp;index=32&amp;t=2s&amp;pp=iAQB" class="is-external-link" target="_blank" rel="noopener noreferrer">tutorial video</a>. </p>
+<p> </p>
+</div></article></div><a class="back-top" href="#main">↑ Revenir en haut</a></main><footer class="footer">Traduction française par Luna · Copie personnelle du wiki Makera.<br>Le texte des captures reste dans sa langue d’origine. Les vidéos et documents externes s’ouvrent en ligne.</footer></div><aside class="toc"><p>Sur cette page</p><a class="h1" href="#overview">Overview</a><a class="h2" href="#version-features">Version Features</a><a class="h2" href="#typical-operation-workflow">Typical Operation Workflow</a><a class="h2" href="#navigational-techniques">Navigational Techniques</a><a class="h2" href="#selecting-objects">Selecting Objects</a><a class="h1" href="#main-functions">Main Functions</a><a class="h2" href="#launching-makera-cam">Launching Makera CAM</a><a class="h2" href="#menu-bar-introduction">Menu Bar Introduction</a><a class="h3" href="#file">File</a><a class="h3" href="#edit">Edit</a><a class="h3" href="#path">Path</a><a class="h3" href="#view">View</a><a class="h3" href="#setting">Setting</a><a class="h2" href="#tool-bar-introduction">Tool Bar Introduction</a><a class="h2" href="#stock-introduction">Stock Introduction</a><a class="h2" href="#functions-panel-introduction">Functions Panel Introduction</a><a class="h3" href="#work-coordinate-systems-wcs">Work Coordinate Systems (WCS)</a><a class="h3" href="#h-3d-models">3D Models</a><a class="h3" href="#h-2d-layers">2D Layers</a><a class="h3" href="#paths">Paths</a><a class="h2" href="#material-library">Material Library</a><a class="h2" href="#tool-library">Tool Library</a><a class="h3" href="#tool-group-management">Tool Group Management</a><a class="h3" href="#tool-management">Tool Management</a><a class="h2" href="#transform-tools">Transform Tools</a><a class="h3" href="#center-to-center">Center To Center</a><a class="h2" href="#create-tools">Create Tools</a><a class="h2" href="#trace-tools">Trace Tools</a><a class="h1" href="#h-3-axis-tool-paths">3-Axis Tool Paths</a><a class="h2" href="#general-3-axis-techniques">General 3-Axis Techniques</a><a class="h3" href="#common-machining-parameters">Common Machining Parameters</a><a class="h3" href="#nested-strategies">Nested Strategies</a><a class="h2" href="#h-2d-pocket-tool-paths">2D Pocket Tool Paths</a><a class="h2" href="#h-2d-contour-tool-paths">2D Contour Tool Paths</a><a class="h2" href="#h-2d-drilling-tool-paths">2D Drilling Tool Paths</a><a class="h2" href="#h-2d-thread-milling-tool-paths">2D Thread Milling Tool Paths</a><a class="h2" href="#h-2d-chamfer-tool-paths">2D Chamfer Tool Paths</a><a class="h2" href="#h-3d-relief-tool-paths">3D Relief Tool Paths</a><a class="h2" href="#h-3d-pocket-tool-paths">3D Pocket Tool Paths</a><a class="h2" href="#h-3d-contour-tool-paths">3D Contour Tool Paths</a><a class="h2" href="#h-3d-drilling-tool-paths">3D Drilling Tool Paths</a><a class="h2" href="#h-3d-thread-milling-tool-paths">3D Thread Milling Tool Paths</a><a class="h2" href="#h-3d-chamfer-tool-paths">3D Chamfer Tool Paths</a><a class="h2" href="#laser-vector-tool-paths">Laser Vector Tool Paths</a><a class="h2" href="#laser-image-tool-paths">Laser Image Tool Paths</a><a class="h1" href="#h-4-axis-tool-paths">4-Axis Tool Paths</a><a class="h2" href="#general-4-axis-techniques">General 4-Axis Techniques</a><a class="h3" href="#adjusting-the-stock">Adjusting the Stock</a><a class="h3" href="#creating-tabs">Creating Tabs</a><a class="h3" href="#common-machining-parameters-1">Common Machining Parameters</a><a class="h2" href="#rotation-relief-tool-paths">Rotation Relief Tool Paths</a><a class="h1" href="#working-with-pcbs">Working with PCBs</a><a class="h2" href="#preparing-pcb-files-for-makera-cam">Preparing PCB Files for Makera CAM</a><a class="h2" href="#importing-and-preparing-pcb-files-with-makera-cam">Importing and Preparing PCB Files with Makera CAM</a><a class="h2" href="#creating-pcb-tool-paths">Creating PCB Tool Paths</a><a class="h3" href="#traces">Traces</a><a class="h3" href="#holes-and-vias">Holes and Vias</a><a class="h3" href="#perimeters">Perimeters</a><a class="h3" href="#pads-for-solder-masked-pcbs">Pads (for solder-masked PCBs)</a><a class="h3" href="#silk-screen-layer-for-solder-masked-pcbs">Silk Screen Layer (for solder-masked PCBs)</a><a class="h2" href="#exporting-and-manufacturing-pcbs">Exporting and Manufacturing PCBs</a></aside></body></html>

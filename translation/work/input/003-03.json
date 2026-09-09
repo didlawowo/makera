@@ -1,0 +1,167 @@
+[
+  {
+    "id": "889c91703a676576",
+    "text": "Different from the cumbersome operation process of general CNC, Carvera Air greatly simplifies the machining process. The general operation steps are as follows:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "87e82e1d8cbe4cc5",
+    "text": "1. Turn on the Carvera Air device and wait for the homing to end.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "c35cb223319d0173",
+    "text": "2. Fix the workpiece to the anchor point.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "2e5d7e5c5c5ab76c",
+    "text": "3. Open the control software and connect to the device.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "e16c64d876751bec",
+    "text": "4. Upload and open the G-Code file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d3c0ba75966cfd9c",
+    "text": "5. Open the task setting box, and set the working zero point and automatic detection rules.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d9ea8ca929384055",
+    "text": "6. Start the job, and change tools when a tool change command is triggered and the machine prompts.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "49a5d7d57e4c6555",
+    "text": "7. Wait until the machining process ends.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "88da6cb024f08b82",
+    "text": "Air-Preparation",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "b605350bc0020952",
+    "text": "Introduction",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "b975800b245dd8a9",
+    "text": "Practice is the most direct and effective learning method. We provide a series of machining samples, materials and tools to make you familiar with the functions and procedures of using Carvera Air to do delicate works.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "f4828fbf86b18b10",
+    "text": "With streamlined capabilities, Carvera Air greatly simplifies the machining process. However, we still recommend reading the Carvera Air instruction manual carefully before start using it. This will ensure that you get a quick knowledge of Carvera Air and avoid basic misoperations.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "c0851a53ba2fdfa7",
+    "text": "For specifications and more information, please visit our official website: www.makera.com",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "04cb468193189703",
+    "text": "If you have any problems with Carvera Air, please contact us directly: support@makera.com",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "37ad2fbbe8edf2b7",
+    "text": "Also, join in the Facebook group to discuss and share your experience with other Carvera Air users: www.facebook.com/groups/carveraair",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "037613817d9b1d6b",
+    "text": "We will keep updating video tutorials and sample making cases on the YouTube channel, do not forget to subscribe!",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "2c22d15729769790",
+    "text": "To protect the matching bed MDF board from being cut, we provide you with a thin Spoil Board, featuring the same hole positions as the desktop density board, to facilitate the fixing of workpieces. You can secure it to the desktop before machining.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "21334c488bcf9685",
+    "text": "The tools used in this Example Guide can all be found in the Tool kits box. See the corresponding tool name and number as follows.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Preparation"
+  },
+  {
+    "id": "129c678fce59acee",
+    "text": "Disclaimer",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "04bb376ea506553a",
+    "text": "Please read this manual carefully before using the Carvera Air. Failure to read the manual may lead to personal injury, inferior results, or damage to the Carvera Air machine.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "3cda50d83d3d5353",
+    "text": "This manual is provided for reference purposes only. We reserve the right to modify or revise this manual, users can download the most up-to-date version of this manual on our website.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "fe28aa0a486b8155",
+    "text": "You should always monitor machines when in use. Milling cutters revolving in high-speed, unstable components or laser module in operation are dangerous to people without protection. Please carefully read the safety instructions below to avoid unnecessary harm.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "82a59b8890d43a15",
+    "text": "Safety Instructions",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "de382ba77981cc01",
+    "text": "1. Always wear safety goggles when operating the machine, especially when the protective cover is open.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "5c68dd694dd2e2c4",
+    "text": "2. Always wear laser protection goggles when using the laser module.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "fa17e6cad1ebabff",
+    "text": "3. Please wear hearing protection when Carvera Air is machining on the hard materials.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "7e1abdd843de697f",
+    "text": "4. Do not leave your machine unattended while it is machining.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "78f0f7e8c2daf138",
+    "text": "5. Please be aware of the sharpness of the milling bits during installation, dust collection, and other operations.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "9d77e2c2d998bfe3",
+    "text": "6. Milling will generate heat. Inappropriate parameters will cause fire hazards. Make sure an extinguisher is in your vicinity.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "f21ade0b06115dcb",
+    "text": "7. Some materials are harmful to people when machining, such as carbon fiber. Please wear a face mask and connect a vacuum for dust collection.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "d646eee79b0297ec",
+    "text": "8. Do not expose this machine to rain or wet conditions.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "fec26119078708be",
+    "text": "9. Keep children and bystanders away while operating this machine. It requires supervision and the assistance of an adult when children use this machine.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  },
+  {
+    "id": "a968b6367f3bec44",
+    "text": "If an emergency occurred in machining, such as the workpiece being loose from holding, components damaging, unusual light or sound coming from the machine, etc. Press the main button or E-Stop button, all ongoing procedures will stop immediately, or cut off the power to shut it down.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Unpack"
+  }
+]

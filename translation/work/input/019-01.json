@@ -1,0 +1,282 @@
+[
+  {
+    "id": "b08e006332165ebd",
+    "text": "Makera CAM v0.2.0 and later offers the ability to trace the features and geometries detected within two different types of imported objects: Images and 3D Models.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2f6f5144c231b493",
+    "text": "Trace Image:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7d57fd0642a5736a",
+    "text": "Trace Image function can convert the high-contrast information of raster image file type (JPG/PNG/BMP) into a vector contour graphic as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dff0fd6f7de5d4f1",
+    "text": "The converted vector graphics can be used directly for vector tool path operations. Simple high-contrast images work best for optimal tracing results.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2764b9864ab57010",
+    "text": "Trace 3D Contour:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "29c85c86b32e0ca5",
+    "text": "The Trace 3D Contour function can generate 2D contour paths around detected geometries for 3D STL / STEP design files.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6496c30c53428ba5",
+    "text": "Contours will be generated automatically based on the geometric features detected in the model. These 2D paths will be created on a new layer in the 2D Layers section of the Functions Panel, and the can be selected for 2D Tool Path or Laser Tool Path operations. You can also generate Contour Paths within 3D Tool Path operations, as discussed later in this guide.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9000a3335c6c02e4",
+    "text": "3-Axis Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "78d8ad661512484f",
+    "text": "When working in a 3-Axis Project, a wide range of Tool Paths can be made based on selected objects for manufacturing processes to be created. Through 2D operations, 3D operations, and laser operations, various manufacturing processes can be created for both 3-axis machining.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7e9b9563d4961d4f",
+    "text": "General 3-Axis Techniques",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e90f19051f70f4da",
+    "text": "Before moving into strategies for setting up specific types of tool paths, we will cover general settings that are universal across various tool path creation techniques for 3-Axis machining operations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "263d3214d320c3eb",
+    "text": "Common Machining Parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c886b0448e7eed01",
+    "text": "In tool path creation, some parameters are common across various types of tool paths. These common parameters include:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a857a8c791a181a",
+    "text": "Tool path Name:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5da99110b7e12f1e",
+    "text": "The name of the current tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7bd5e39230cac898",
+    "text": "Cutting Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "104d1d3d56a400c8",
+    "text": "Start Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ce0b88bbf5274e76",
+    "text": "The Z-axis 0 coordinate is used as a reference. This is typically detected by the probe at the point which the tool contacts the top of the stock material for cutting. A positive value indicates a downward offset of the Z-axis 0 coordinate, and a negative value indicates an upward offset of the Z-axis 0 coordinate.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "560d91e617c2b0ef",
+    "text": "End Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bed03cd1499233c9",
+    "text": "The Z-axis 0 coordinate detected by the probe is used as the reference, and the end depth value at which the tool ends cutting. A positive value indicates a downward offset of the Z-axis 0 coordinate, and a negative value indicates an upward offset of the Z-axis 0 coordinate.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ee08822a4869671f",
+    "text": "Last Pass Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "538b3c8bf7661ba3",
+    "text": "The cutting depth of the last layer. When this parameter is enabled, the tool will set the cutting depth of the last layer according to this parameter.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b40257da3e7d542a",
+    "text": "Safe locations:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c490b3f3f044e436",
+    "text": "Safe height Z:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cf5d6daf9da6a819",
+    "text": "The Z-axis 0 coordinate detected by the probe is used as the reference for the safe Z-axis height of the tool. When the tool executes the G0 command for rapid movement, the tool will first be lifted to the safe height, then move horizontally rapidly.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9d76c9fdc25da155",
+    "text": "Initial processing coordinates Position:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "29bf4790767b5741",
+    "text": "The tool will first move to the X / Y coordinate of the initial processing coordinate at the safety height, and then descend to the Z coordinate height of the initial processing coordinate before machining.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "df79506b98870849",
+    "text": "Choose Tool (Add Tool)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1fcff99d66939afb",
+    "text": "This will open the Tool Library to allow you to select the tool information you want to use for the Tool Path operation. Select the corresponding preset material processing parameters below the tool list, and click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c7f937836f5d82d5",
+    "text": "Choose",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "666ddf3df9d61786",
+    "text": "to complete the tool selection confirmation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a0ec977712874f82",
+    "text": "If the tool is configured with the same material preset processing parameters as the current stock setting, the Makera CAM will automatically select the corresponding material processing parameters based on the current blank setting. For example: if the current stock setting is aluminum alloy, and if the aluminum alloy processing parameters are enabled in the selected tool, the aluminum alloy processing parameters entry will be automatically selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a75cb97587b29b22",
+    "text": "Tool Parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "23c70433345d24b0",
+    "text": "See the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c171134a41658f7b",
+    "text": "of our Wiki for recommended Parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "92625d6a6017b431",
+    "text": "Step Down:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1a95eb14d15272e0",
+    "text": "The depth to which the tool cuts each time it descends through the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2a9ea44262d60a8a",
+    "text": "Feed Rate:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "56147b5486ee4d2b",
+    "text": "The horizontal movement speed of the tool when cutting the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9a4ecd45b063b610",
+    "text": "Plunge Rate:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ff1e65dcf4d3e4d5",
+    "text": "The downward cutting speed of the tool in the Z-axis direction when cutting the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6b11441650ad32e4",
+    "text": "Spindle Speed:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c9fa0bcfdc739ce0",
+    "text": "The speed at which the tool rotates as it cuts through the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a58aea022b6b77c8",
+    "text": "Tool Number:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "700a10a77efb74a9",
+    "text": "The number of the tool used in the current tool path. When multiple designed tool paths use the same tool number, the device will not trigger the tool change action. Therefore, when designing tool paths, be sure to confirm that different tools use different tool numbers.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "41cb5751de873f60",
+    "text": "When using the Carvera Desktop CNC machine with an automatic tool changer, the tool number corresponds to the tool holder number where the tool is actually inserted into the automatic tool changer (1-6).",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "17d0c19ef7502158",
+    "text": "When using a device with manual tool change function such as the Carvera Air Desktop CNC machine, the tool number corresponds to the tool number prompted by the device for automatic pauses and manual tool changes.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8132ec6be3946f2e",
+    "text": "Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "20f68d2cdcbe7ca8",
+    "text": "Offset (machining offset):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f7e595beef208aeb",
+    "text": "Based on the graphic contour, the contour is offset according to the specified distance. A positive value is offset toward the positive side of the graphic contour processing, and a negative value is offset toward the negative side of the graphic contour processing.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c375b460ce62895c",
+    "text": "Cutting Direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9df5ff5951bdd467",
+    "text": "Can be set to process in either down milling or up milling mode",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "79a7ca37a6484521",
+    "text": "Cutting Order:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4fe816d5940fec9b",
+    "text": "Auto:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "84103efbcd3e1fab",
+    "text": "The processing sequence is automatically planned by the program, and is planned according to the principle of proximity to the starting point and nearest processing.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d24d1f150c404094",
+    "text": "Selection:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

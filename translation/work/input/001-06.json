@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a830d4490e334264",
+    "text": "Machining process",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "f250ebb2ab668cf4",
+    "text": "1. Plug in the cable and Install the rotary axis. （Please read the Carvera Air instruction manual for using the rotary axis）If your Carvera Air is on, please power off the machine first before installation.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "f63df017d613a18e",
+    "text": "2. Fix the Epoxy Tooling Board to the rotary axis, let the corner direction up and down.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "4d5f3603104c8790",
+    "text": "3. Make sure the used milling bits are ready . No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "9f57b6bc2f36e583",
+    "text": "4. Turn on the power and wait for the automatic homing to complete.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "b3e2452baaf2fae9",
+    "text": "5. Open the control software and connect to Carvera Air (please read Carvera Air instruction manual for detailed steps)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "535d33a6eb1df14b",
+    "text": "6. Open Root->Examples->Rotation in the remote directory.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "15f8053bdc37c9ad",
+    "text": "Roughing process",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "993321a10cd6a954",
+    "text": "1. Select “NefertitiRough.nc” roughing file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "8f9e11a75b61bb7e",
+    "text": "2. Open the task configuration and operation dialog box.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "be9c82b440a0fc57",
+    "text": "3.  Set working coordinate to X offset 50 (relative to the right edge of the 4th axis headstock), and Y offset 0.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "b3f17f08f46cadb5",
+    "text": "4. Check the “Scan Margin” option.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "df55db55cafe68c7",
+    "text": "5. Check the “Auto Z Probe” option(4-axis z probe at fixed position, no configuration required).",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  }
+]

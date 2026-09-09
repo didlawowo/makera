@@ -1,0 +1,257 @@
+[
+  {
+    "id": "eb533dff2424a431",
+    "text": "2D Chamfer Tool Paths can be used to chamfered cuts along the edges or outlines of 2D Design files as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e2829c9724ac72ad",
+    "text": "In previous versions of Makera CAM, 2D Chamfer operations were created using a 2D Contour Tool Path, which is still possible. But for greater ease use the 2D Contour Tool Path operation, and consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2d46870cf018a361",
+    "text": "Set Start depth parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "68ac2f58271aefdb",
+    "text": "Set Chamfer Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bc2fd3eb2ab91175",
+    "text": "This determines how deep the chamfer will be cut, creating the overall height of the chamfered edge.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5f5d2a553142d7fc",
+    "text": "Set Tip Depth Offset:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7a41726f850184e6",
+    "text": "This offsets the tip of the chamfer bit from the selected 2D path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d35280b82f7c285b",
+    "text": "Select a Chamfer tool and modify/confirm tool processing parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "33d6c4fb887ec822",
+    "text": "The chamfer contour created by the tool is processed along the inner side of the selected 2D path. If the selected selected 2D paths intersect, this mode will not generate a tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7af1e32ec4f4a95a",
+    "text": "The chamfer contour created by the tool cutting is processed along the outer side of the selected 2D path. If the selected 2D paths intersect, this mode will not generate a tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a667aa34c9a7737c",
+    "text": "are used to create concave and convex machining operations around the geometric features of an imported 3D mesh file (.STL) as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9f375e2428fad150",
+    "text": "To create 3D Relief Tool Paths, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a27649f036b8960",
+    "text": "Set Start Depth",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "99bf46b0d218200c",
+    "text": "Max Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "deb960e341854484",
+    "text": "With this option checked, the relief will machine to a specified depth rather than to the bottom of the model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e9d41c591099317a",
+    "text": "3D Relief supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 3D model. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ee1ec1b241ae6939",
+    "text": "According to the rules for multi-tool clearing, it is recommended that the tool combination be set from top to bottom in order from large to small tool tip diameters. This allows for large-diameter tools to be used first to quickly clear most of the material. Then for the areas in the pocket that large-diameter tools cannot enter, subsequent small-diameter tools will continue to clear the material until the material fully meets the clearing requirements of the selected 3D model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e98526501d1aae71",
+    "text": "As discussed previously, this parameter determines the depth of cut per pass. With 3D Relief and multi-material clearing, you can set unique step down values per tool, and disable it for finishing pass purposes after material has been cleared previously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f39982f381ca6bd9",
+    "text": "Depth Allowance:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4cf2b0b438bf037b",
+    "text": "This will adjust the amount of stock left during machining. The default is 0 mm, which would machine to the specified depth.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2a18f2c352ba66f8",
+    "text": "Set Processing Limit Boundary:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4754ce3b84226691",
+    "text": "Model Boundary:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dee7a19416558053",
+    "text": "The relief will be created within the boundaries of the selected 3D Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b553676b3a030ea7",
+    "text": "Material Boundary:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e72212ebaed8199c",
+    "text": "The relief will be created within the boundaries of the stock",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cb5c20c4005e53da",
+    "text": "Selected Vector(s):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a14fc9e0201e71e9",
+    "text": "The relief will be created within any 2D vector paths selected as boundaries.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "490036f372d01b83",
+    "text": "Boundary Offset:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "253e1cf904dd36b6",
+    "text": "Adjust the cleared area based on selected Processing Limit Boundary options.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b1a1e8e3cf7c522e",
+    "text": "Offset",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a21c1c297281d97b",
+    "text": "The machining path is processed from the outer contour to the center of the selected 3D Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bf717ea5d83830d0",
+    "text": "Processing tool path from the center of the selected 3D Model to the outer contour processing",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2d1a4a79f122e48b",
+    "text": "are used to clear the material in selected 3D Models in STEP file formats as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7b44e9212b55dfea",
+    "text": "To create 3D Pocket Tool Paths, first select the faces you wish to clear in on your 3D Model, and you may select more than one face at a time. Then consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c48b0628abb9c052",
+    "text": "Set machining Start Depth,",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "69426d52a76f19cd",
+    "text": "note that the end depth is determined by the selected faces of the 3D model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "73320cdbdb8f8102",
+    "text": "3D Pocket supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 3D Model. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5a0a8f0c733586bf",
+    "text": "According to the rules for multi-tool clearing, it is recommended that the tool combination be set from top to bottom in order from large to small tool tip diameters. This allows for large-diameter tools to be used first to quickly clear most of the material. Then for the areas in the pocket that large-diameter tools cannot enter, subsequent small-diameter tools will continue to clear the material until the material fully meets the clearing requirements of the selected 3D Model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e3c02f1fabfe1024",
+    "text": "As discussed previously, this parameter determines the depth of cut per pass. With 3D Pocket and multi-material clearing, you can set unique step down values per tool, and disable it for finishing pass purposes after material has been cleared previously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9228c05364b43231",
+    "text": "Set Tool Containment:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "812743d6fe7a0853",
+    "text": "Inside Boundary:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "60e17762e4583b3c",
+    "text": "The cutting tool is not permitted to machine outside of the selected 3D model during clearing operations",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e9ed17c9a033aea0",
+    "text": "Outside Boundary:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0f946ab6a2915cfd",
+    "text": "The cutting tool may machine beyond the outside boundary of the selected 3D model during clearing operations",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6c77b362266e1a88",
+    "text": "3D Contour Tool Paths can be used to create cuts along generated contour paths based on 3D models (STL / STEP) as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "09f8522a44209fcd",
+    "text": "To create 3D Contour Tool Paths, we must first generate 2D contour paths that can be selected for this type of operation. As discussed earlier in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bbf677c01494b811",
+    "text": "section of this guide, you can perform this task using the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0ba8dc3eb3636dc7",
+    "text": "Trace 3D Contour",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "50f837a07cbaa2bf",
+    "text": "function from within the edit and transform menus. You can also perform this operation from within the 3D Contour Tool Path menu in the Extended Properties Panel:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5694d4aaea2529bd",
+    "text": "Select Mode:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "599fda4972261292",
+    "text": "Object:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

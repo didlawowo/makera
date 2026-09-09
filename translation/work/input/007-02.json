@@ -1,0 +1,327 @@
+[
+  {
+    "id": "c7ed48f280ba6456",
+    "text": "2.3 Remove the MDF wasteboard",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "09be650a2e272465",
+    "text": "2.4 Insert two 4×11 mm locating pins into the table as shown",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "ab1a66e55028d873",
+    "text": "2.5 Position the 4th-axis module using the locating pins and secure it with 3 M5×10 screws",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "6567e3f19980436c",
+    "text": "2.6 Route the cable as shown, bending it from the left side through the lower-left opening of the frame, and connect it to the 4th-axis port at the rear-left inside the machine",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "ca05d914027f6a07",
+    "text": "3. Workpiece Clamping:",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "76f7ec600e1596c7",
+    "text": "3.1 Rotate the chuck by hand to set an appropriate opening",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "93ae19671d5207c1",
+    "text": "3.2 Insert the workpiece and lightly clamp it",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "f9e8ab6bc60f28d4",
+    "text": "3.3 Loosen the tailstock screws, adjust it to support the workpiece, then tighten",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "ddfc149ee61520dd",
+    "text": "3.4 Use the adjustment knob to secure the workpiece (do not overtighten; drilling a center hole at the end is recommended)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "9e65be33f8d4078c",
+    "text": "3.5 Tighten the chuck using the chuck key",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "544c9b8f840b7407",
+    "text": "1. Do not plug or unplug the 4th-axis cable while the machine is powered on",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "4ec18d94c5db7003",
+    "text": "2. The 4th-axis zero point is preset in the software at the center of the right edge of the spindle",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "30ad4fa58caaf2c6",
+    "text": "3. The chuck uses reverse jaws by default for larger workpieces. For smaller parts, switch to standard jaws. See wiki.makera.com for details",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "4e1b5d8b3e2766e1",
+    "text": "Makera Z1 Ionizer Module Quick Start",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "689d1b48a891e33a",
+    "text": "The anti-static Ionizer module effectively eliminates static generated during non-metal machining (such as wood, plastic, and resin), preventing chips from sticking to the inner surfaces of the machine and making cleanup easier.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "de8fdc4322f76f53",
+    "text": "Installation & Use",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "17a7b80bdf50e803",
+    "text": "1. Use the control software to move the spindle to the center of the X-axis.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "e7899c9cb503783d",
+    "text": "2. Remove the two M3 placeholder screws on the right side of the spindle housing.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "63715c5afaeb3c02",
+    "text": "3. Secure the module to the right side of the spindle using two M3×8 screws.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "91bcefeb2d44e2bc",
+    "text": "4. Connect the module cable to the 3-pin port on the right side of the spindle.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "ff309d8fbfcd9a12",
+    "text": "5. Enable the anti-static function in the control software; the module will operate automatically during machining.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "df1f5da5f5efdd18",
+    "text": "Makera Z1 Low-Profile Vise Quick Start",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "afc912a22809b6f7",
+    "text": "1. Installation:",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "135065c94ab43d4d",
+    "text": "1.1 Home the machine in the control software, then power it off (spindle at the far right, table at the front)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "6cd8f24f46aba23a",
+    "text": "1.2 Remove any tool from the spindle",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "e2695f78a9c8ea6c",
+    "text": "1.3 Remove the MDF wasteboard",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "cfa2c178b93962ed",
+    "text": "1.4 Insert two 4×11 mm locating pins",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "ba0ffcd14824f7af",
+    "text": "1.5 Position the low-profile vise on the locating pins and remove the left fixed jaw using the included hex key",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "47c5178ffb91660d",
+    "text": "1.6 Secure the vise with six M5×20 screws, then reinstall the fixed jaw (ensure the locating key is properly seated)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "3b0b787138d99160",
+    "text": "2. Workpiece Clamping:",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "bcf9cae0aea82b07",
+    "text": "2.1 Loosen the screw at position 3 on the movable jaw",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "f00656b9c0d56090",
+    "text": "2.2 Adjust the screw at position 2 to bring the movable jaw closer to the jaw carrier",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "a0ca18de898e1cf0",
+    "text": "2.3 Loosen the screw at position 1 on the jaw carrier",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "f7d7abfe2cfeeabf",
+    "text": "2.4 Open the jaws and insert the workpiece",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "726e016b603981c6",
+    "text": "2.5 Tighten the screw at position 1",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "60bbf1f1f31aeb6e",
+    "text": "2.6 Adjust the screw at position 2 to clamp the workpiece",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "7c1dd673de139d8d",
+    "text": "2.7 Tighten the screw at position 3",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "877d47439767c514",
+    "text": "The vise is equipped with slotted soft jaws by default, suitable for thin workpieces. For taller parts, clamp directly against the bottom of the jaws for better stability.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "0517f538756f0ae9",
+    "text": "Makera Z1 Vacuum Bed Quick Start",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "d2118f326177bc86",
+    "text": "Makera Z1 Vacuum Bed Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "65598efe1bfd69c8",
+    "text": "1. Preparation: Connect the two suction tubes to the air inlets on both sides of the vacuum table as shown.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "5d32d2c717df1357",
+    "text": "2.4 Insert two 4×11 mm locating pins as shown",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "829689fb639dca14",
+    "text": "2.5 Position the vacuum table using the locating pins, secure it with four M5×20 screws, and install the dedicated MDF board",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "fa8db97828775617",
+    "text": "2.6 Route the suction tubes from both sides through the openings under the machine, and connect them to the rear air ports",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "5abdc714f2dc0ca3",
+    "text": "2.7 Remove the air tubes from the internal rear air inlets and replace them with the suction tubes (fix removed tubes with the provided plugs)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "adbb8d3563d624d3",
+    "text": "2.8 Insert the suction hose of the Makera dust collector into the upper rear air port",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "a116479c45567b34",
+    "text": "1. The vacuum table is suitable for thin, flat materials such as paper, bicolor sheet, and PCBs. Do not use it for thick or metal workpieces。",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "a79f96bcc7721eaf",
+    "text": "2. Due to the permeability of the MDF board, suction may be insufficient for small workpieces. Cover unused areas with paper or plastic film to improve suction.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "353813e1c9e0fbb8",
+    "text": "Makera Z1 Manual",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "610a98177cc3352b",
+    "text": "The content of this page is a structured version of the Makera Z1 Instruction Manual and Example Guide.",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "034f25615c58ba6d",
+    "text": "Instruction Manual of Makera Z1",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "d2dfd316f0093abf",
+    "text": "Unboxing",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "8376fe06c9292866",
+    "text": "Machine Overview",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "83b0f82dbc47b03f",
+    "text": "What's Included",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "caeb198b2ccf8e11",
+    "text": "Accessories & Materials",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "9ea1a71f3a209ac7",
+    "text": "Tool Kits",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "8dd8e73167bc4345",
+    "text": "Basic Operations & Tools",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "9d7f776d63a8de64",
+    "text": "Tool Change",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "a24ce170df7481ce",
+    "text": "Workholding & Positioning",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "d2774972c080110f",
+    "text": "Dust Collection",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "a2a47c0244ee7da1",
+    "text": "Spindle Collet Change",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "d39edbd7210dcfed",
+    "text": "4-in-1 Screwdriver",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "d4e4ad6901ec5eba",
+    "text": "3D  Probe Rod",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "c8c763cee96d9a68",
+    "text": "Status Indication",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "923255b3490977ac",
+    "text": "Setting Up the Machine",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  }
+]

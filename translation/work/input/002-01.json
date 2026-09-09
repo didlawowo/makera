@@ -1,0 +1,297 @@
+[
+  {
+    "id": "d0f6c476d4d53fb9",
+    "text": "6. Check the configuration according to the figure above and click Run, change the tools according to the controller software's prompt.（Please refer to Item 6 of “",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "482f02c8e955353c",
+    "text": "No UV solder mask",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "11f28c853061aceb",
+    "text": "7. This step can produce lots of dust, please use a vacuum to clean before next step.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "8e892fe9dc5f8e61",
+    "text": "Finishing process",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "3e5b86b286c75e35",
+    "text": "1. Select “NefertitiFinish.nc” finishing file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "7f4fb752abde70e9",
+    "text": "2. Open the task configuration and operation dialog box (the automatic detection has been completed in step 1, no need to redo it here).",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "a46c09e3a7a827b8",
+    "text": "3. Uncheck the “Scan Margin” option.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "b6a81b43a540c4bb",
+    "text": "4. Uncheck the “Auto Z Probe” option.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "603947c86e1f2223",
+    "text": "5. Check the configuration according to the figure above and click Run, change the tools according to the controller software's prompt.（Please refer to Item 6 of “",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "9b93b88993e5daaf",
+    "text": "6. Use a vacuum to clean up the dust and take out the epoxy tooling board.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-4th-axis-relief"
+  },
+  {
+    "id": "73564241860746bb",
+    "text": "Air LED light",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "26a1aa0d88d093d7",
+    "text": "The LED light in this example consists of four parts: the circuit, the base, the display light board, and the touch switch, which shows the comprehensive capabilities of the Carvera Air.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "2243aa9be7227cc6",
+    "text": "With Carvera Air, you can significantly accelerate the process from design to prototype, and even to commercial products.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "90ac06e3f57ac694",
+    "text": "Circuit",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "7959a6fb4e238c37",
+    "text": "1. Fix the PCB and the wasteboard to the table, as shown in the figure. Place it close to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "f4660f5d69970632",
+    "text": "Note：Use the edge of the top clamps to fix the PCB and leaves sufficient space for dust collection and milling.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "bc92496d980b480e",
+    "text": "Note：The PCB board may deform after being stored for a long time. It is recommended to flatten the PCB before machining to increase accuracy.Better use some double-sided tape between the wasteboard and the bed / PCB for further consistency.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "c795f9be915f335c",
+    "text": "2. Make sure the used milling bits are ready: No.2-30°0.2mm V-bit，No.3-0.8mm corn bit， No.5-UV solder mask removal bit (Optional, when making a UV-soldermasked PCB only.)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "2c32630b34009b8f",
+    "text": "3. Turn on the power and wait for the automatic homing to complete.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "ff10f09f826dac8b",
+    "text": "4. Open the control software and connect to Carvera Air (please read Carvera Air instruction manual for detailed steps.)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "3bb0ae9dd772fca4",
+    "text": "5. Open the Root->Examples->LED folder under the Remote directory and select the machining file. If you bought the PCB pack and want to use the UV solder mask, please turn to the Use UV solder mask section; otherwise, continue the No UV solder mask section.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "9e9e948554b058a6",
+    "text": "1. Select the “PCB-NO-UV-MASK.nc” files to automatically run the tasks of PCB isolation, area cleaning, drilling and cutting contours.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "022162f07a73f789",
+    "text": "3. Set working coordinate to X offset 15, and Y offset 10 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "77c070ba77263f4e",
+    "text": "5. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 5, and the detection height to 2.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "c22a0904d9263c25",
+    "text": "6. Check the configuration and click Run, change the tools according to the controller software's prompt.The tools that need to be replaced for this task are: the wired probe, Tool #2, and Tool #3.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "8219073dbd1c6edb",
+    "text": "7. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "f02d7caeca98d032",
+    "text": "8. Take out the PCB board and cut off the tabs with the handsaw in the accessory kit.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "55c5583af9ce48e9",
+    "text": "Use UV solder mask（If you bought the PCB pack）",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "a8ea399d9a2dd02c",
+    "text": "Machining step 1:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "ca0631610c9a23cd",
+    "text": "PCB isolation and area cleaning",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "747ba48ba1e6b72f",
+    "text": "1. Select the “PCB-UV-MASK (PART1).nc” file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "0d35d10b0bfdc9cc",
+    "text": "2. Open the task configuration and operation dialog box.(The figure is the same as the first step of not using the UV solder mask)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "70a2e9a042aff54c",
+    "text": "7. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.（Please refer to Item 7 of “",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "48e7e5dbf6b60854",
+    "text": "Machining step 2:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "078fec627319fbe7",
+    "text": "Apply UV solder mask",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "9468a5c377a9edaf",
+    "text": "1. Use the sanding block in the accessory kit to polish the PCB surface.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "a4eea271f6390ee2",
+    "text": "2. Use the roller to apply a thin layer of UV solder mask evenly.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "e65ac81c8d999db2",
+    "text": "3. Put the UV lamp above the PCB and wait for the UV layer solid.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "47931bdd51419d5e",
+    "text": "4. Clean extra solder mask on the roller and other parts using alcohol wipes.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "0fff10c21b1724ec",
+    "text": "Note: Apply less UV solder mask first, increase later, its hard to clean up if apply too much. The curing time will varies with different UV solder mask and different UV lights. Please wait until the solder mask is completely solid.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "13c08a87357caa56",
+    "text": "Machining step 3:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "7420137d1660bd18",
+    "text": "Remove UV solder mask, drilling and cutting contours",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "c4db83166193f078",
+    "text": "1. Select the “PCB-UV-MASK (PART2).nc” file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "58dd1ed2774396b5",
+    "text": "2. Open the task configuration and operation dialog box (the automatic detection has been completed in step 1, no need to redo here)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "c017793def2c6591",
+    "text": "3. Uncheck“Scan Margin” option.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "94633cf37bce47cb",
+    "text": "4. Uncheck “Auto Z Probe” option.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "cd5771b5573d5bef",
+    "text": "5. Uncheck “Auto Leveling” option.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "132e0ab1bdd5b866",
+    "text": "7. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.（Please refer to Item 6 of “",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "e8ca1132d12151a5",
+    "text": "8. Take out the PCB board and cut off the remaining tabs with the handsaw in the accessory kit. Flatten the edges using the sanding block.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "7b47361aad19bb48",
+    "text": "Base",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "348c1d41b4348047",
+    "text": "1. Fix the ABS plastic board and the wasteboard to the table as shown in the figure. Align it to the L-bracket at anchor point 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "3ffe5423fe8be51e",
+    "text": "2. Make sure the used milling bits are ready. No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "d5a057ab9542294c",
+    "text": "4. Open the control software and connect to Carvera Air (please read Carvera Air instruction manual for detailed steps)",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "eb5b2f419f0e423d",
+    "text": "5. Open Root->Examples->LED in the remote directory. Select“ABS-Base.nc” machining file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "82e0b854685accaf",
+    "text": "6. Open the task configuration and operation dialog box",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "f5eccb3f85851bc3",
+    "text": "7. Set working coordinate to X offset 15, and Y offset 20 relative to anchor 1.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "cac0e251839d07ef",
+    "text": "8. Check the “Scan Margin” option.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "4eb0f759d0f64d92",
+    "text": "9. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 3, and the detection height to 2.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  },
+  {
+    "id": "e5ea793c344ab13b",
+    "text": "10. Check the configuration according to the figure above and click Run, change the tools according to the controller software's prompt.（Please refer to Item 6 of “",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-LED-Light"
+  }
+]

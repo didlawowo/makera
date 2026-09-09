@@ -1,0 +1,232 @@
+[
+  {
+    "id": "1d9305e064befdb3",
+    "text": "Indent Distance:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "130162559a46d588",
+    "text": "This sets the Processing offset distance. It is recommended to only perform offset processing inside the graphics",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c9b6ba090008b7ac",
+    "text": "Bi-directional Fill:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1d8c6e08555d5373",
+    "text": "Enable bidirectional filling mode to provide a more efficient processing technique",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eed2d103b25f1e15",
+    "text": "Line Interval / Line Per Inch:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9917a9ef23edbf7f",
+    "text": "Set the scanning interval of the laser tool path to adjust the engraving resolution",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "36bde5134a2124a4",
+    "text": "Scan Angle:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dd4de23c4d1e6d25",
+    "text": "When this mode is set to Fill, you can set the scanning movement angle of parallel lines",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "690407412c3c2d72",
+    "text": "Z Offset:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "95060239117294f6",
+    "text": "Set the Z-axis offset",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4ed609fec271c040",
+    "text": "Number of Passes:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a6fa082a3007a5a5",
+    "text": "Set the number of processing repetitions for this tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f6a14f221618a322",
+    "text": "Laser Image tool path operations use laser engraving modules to engrave selected raster or vector graphics through a dot matrix engraving technique.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2b734338d89b5500",
+    "text": "To create Laser Image Tool Path operations, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "99b21906ad8d9d60",
+    "text": "Adjust Image:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2edcda31e1f7e525",
+    "text": "Use simple adjustment parameters to change the brightness, Contrast, and Gamma of a photograph in order to create optimal engraving results.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d1032c2d3b94f84b",
+    "text": "Forward / Reverse:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "43a54139d6529798",
+    "text": "Set the Laser processing direction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a69b9b278deb6920",
+    "text": "Bi-directional Scan:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6ba3427322aa2788",
+    "text": "Enable bidirectional scanning mode to provide a more efficient processing technique",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "83fa44f1f540faca",
+    "text": "Line Interval:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "15ca5707670ecb9a",
+    "text": "Set the scanning interval of the laser path to adjust the engraving resolution",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "be8dc0e32f304115",
+    "text": "Set the scanning movement angle",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "11a72ea48d59fef2",
+    "text": "4-Axis Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7f4666581f78bbdb",
+    "text": "When working in a 4-Axis Project, you may use Makera CAM to prepare imported 3D models for rotation machining operations when the Carvera and Carvera Air are configured with the optional 4th Axis Module.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bab92660a49a6a15",
+    "text": "General 4-Axis Techniques",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fbab4fa86312bde0",
+    "text": "Before moving into strategies for setting up specific types of rotation tool paths, we will cover general settings that are universal across various tool path creation techniques for 4-Axis machining operations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d9242e0fe09a6f6f",
+    "text": "Adjusting the Stock",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f9c8998eead504be",
+    "text": "As discussed earlier in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eeb7ce98f593826a",
+    "text": "section of this guide, the parameters for setting up the stock in a 4-axis project differs slightly from the parameters shown in a 3-axis project:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d61bd978ab422e00",
+    "text": "In addition to being able to set the Material, Length (X), Width (Y), and Height (Z), parameters to change the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e0e492707f85ff1f",
+    "text": "Shape",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "46f315c155a9faa4",
+    "text": "of the stock are available when working in a 4-Axis Project. You may use this parameter to switch between",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c11092bc0861591e",
+    "text": "Square",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cd9558acfc386bd3",
+    "text": "Round",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "abe6e8d9d5b57eab",
+    "text": "stock shapes.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d24e286b35cb1ca2",
+    "text": "Creating Tabs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f5dc6ed30d12613e",
+    "text": "Unlike when creating 2D or 3D Contour Tool Paths with parameters for generating tabs around the selected contour, tabs must be created manually when creating rotation tool paths. You may import a model that already has tabs generated, or you may utilize Makera CAM's",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bad1e2fcfc71618e",
+    "text": "tools:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d2fc3a4aea09741a",
+    "text": "section of this guide, Makera CAM offers tools to generate dimensioned 3D models in cube, cylinder, or cone frustum shapes. When modeling tabs for a 4th axis project, we typically recommend creating cylinder or cone shapes as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "45bb0c48784be233",
+    "text": "As with 3-Axis tool paths, there are some common parameters that may be adjusted across a range of rotation tool paths for 4-axis machining. These common parameters include:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a2b20f8ef8627a07",
+    "text": "The End Depth will be determined by the selected 3D model when creating a rotation tool path, and by default this will be to the lowest face within the model. Enabling Max Depth allows for you to offset or change the maximum cutting depth around the geometries of the selected model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "de89d10f850d76b2",
+    "text": "Clearance Height:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6bc5f61c443f3d65",
+    "text": "The Z-axis 0 coordinate detected by the probe is used as the reference for the safe Z-axis height of the tool at a fixed position for the 4th axis module. When the tool executes the G0 command for rapid movement, the tool will first be lifted to the clearance height, then move horizontally rapidly.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fabc3d1edb97141c",
+    "text": "When working with the 4th axis, a safe clearance height is typically ½ the stock diameter + 3 mm.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2a37f8f25129afe5",
+    "text": "Retract Height:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

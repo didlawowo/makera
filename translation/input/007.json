@@ -1,0 +1,892 @@
+[
+  {
+    "id": "ad255d359009e12e",
+    "text": "When you're ready, its time to get hands on with your desktop CNC machine so that you may begin to manufacture incredible things! Visit the Knowledge Sharing page of our Wiki site for fun projects and tutorials. You can also find more resources on the official",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "0108d7b22fd1097e",
+    "text": ", and step by step how to's on the official",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "d29b39379fdeb20e",
+    "text": "Makera Instructables",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "53bb4301088fe731",
+    "text": "page. For machine-specific resources to get started, see below:",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "1e9e87dc27d34450",
+    "text": "Getting Started with the Carvera",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "69abda0d986e07b1",
+    "text": "Getting Started with the Carvera Air",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "8ff583341798a45f",
+    "text": "Carvera Manual and Examples Projects",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "57b46b4fe9631ee0",
+    "text": "Carvera How To's and Guides",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "c0ada523908e5853",
+    "text": "Carvera Official Facebook Group",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "51f68f9df4bca7a5",
+    "text": "Official Makera Discord Channel",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "ca41575ce320187c",
+    "text": "Carvera Air Manual and Examples Projects",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "6e0f215442c8acf6",
+    "text": "Carvera Air How To's and Guides",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "66a221fccacaf049",
+    "text": "Carvera Air Official Facebook Group",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "af35c80a399aea90",
+    "text": "Makera Engraving Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "75d51d6887f05c82",
+    "text": "Installation：",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "1ee3f3dd45aff877",
+    "text": "1. Install the engraving module into the spindle collet as you would a standard tool. Ensure the orientation matches the illustration (label facing outward).",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "78475f56e0dd0905",
+    "text": "2. Connect the laser module cable to the",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "6715d4c50a7c3650",
+    "text": "port on the right side of the spindle housing.",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "17ced91884404bc4",
+    "text": "3-pin",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "dfaa7954f553e581",
+    "text": "3. Use the included silicone tube to connect the air inlet of the engraving module to the machine’s air outlet to enable air assist (Optional, Carvera Air only).",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "913b4990dfd109ac",
+    "text": "1. After installation, ensure the engraving module is securely tightened and cannot rotate",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "3e0ed0c0b2efff30",
+    "text": "2. Make sure the workpiece surface is flat and free of interference",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "73c4b813c1e89c51",
+    "text": "3. Always wear laser safety goggles during operation",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "ae87e3255cb0ee83",
+    "text": "Makera 3D Probe",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "a47c364023b535e1",
+    "text": "Makera 3D Probe Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "999aa4d816093ac4",
+    "text": "The 3D probe enables automatic X / Y / Z probing on both conductive and non-conductive materials. It is ideal for edge finding and center finding on regular shapes (such as square or round workpieces), especially when using custom fixtures like vises.",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "204c7b2a7911489b",
+    "text": "Operation:",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "fa879a399e2c7769",
+    "text": "1. Follow the on-screen instructions to switch to the 3D probe",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "93368e7f1beeb2ea",
+    "text": "2. Remove the current tool and install the 3D probe",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "62fda7b5f6d020cc",
+    "text": "3. Unplug the wired probe connector and connect the 3D probe cable",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "0c8272816c5293e3",
+    "text": "4. Tap ‘Continue’ or press the main button to start automatic calibration",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "e0ae17f0e021afe9",
+    "text": "5. Follow the on-screen guidance to perform probing process",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "648bc27b43e62a9a",
+    "text": "1. After changing the spindle collet, use the appropriate adapter sleeve",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "64edf15d524f4738",
+    "text": "2. The probe is factory-calibrated. Recalibration is required after collisions or when changing the probe holder (see wiki.makera.com)",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "4eed103d12adf77b",
+    "text": "Please read this manual carefully before using the Carvera. Failure to read the manual may lead to personal injury, inferior results, or damage to the Carvera products.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "1b58bb4936cebc21",
+    "text": "Carvera is equipped with multiple sensors (Motor stall sensor, Spindle abnormal sensor, etc.). However, you should always pay attention in operation that milling cutters revolving in high-speed, unstable components or laser in operation are dangerous to people without protection. Please carefully read the safety instructions below to avoid unnecessary casualties.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "46927792cdb25d4f",
+    "text": "1. Always wear safety goggles when operating Carvera, especially when the protective cover is open.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "826d2ea6694e19b4",
+    "text": "2. Always wear laser protection goggles when using laser function.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "18be7f447f49f9ad",
+    "text": "3. Please wear hearing protection when Carvera is machining on the hard materials.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "bff70614f7ee1af3",
+    "text": "4. Do not put your hands close to the spindle or machining area. Keep the protective cover closed when operating Carvera.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "ef1e3545038b70a6",
+    "text": "5. Do not leave your Carvera unattended while it is machining.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "b43357896d94a18d",
+    "text": "6. Please be aware of the sharpness of the milling bits during installation, dust collection, and other operations.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "a2a31a27a0429a23",
+    "text": "7. Milling and laser carving will generate heat. Inappropriate parameters will cause fire hazards. Make sure an extinguisher is in your vicinity.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "842ac97f1ce9ac1b",
+    "text": "8. Some materials are harmful to people when machining or laser craving, such as carbon fiber and epoxy resin. Please wear a face mask and turn on the automatic dust collection.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "3a7e829556ba7066",
+    "text": "9.  Do not expose this machine to rain or wet conditions.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "f5c2f085134186fe",
+    "text": "10. Keep children and bystanders away while operating this machine. It requires supervision and the assistance of an adult when children use this machine.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "8a66b177ccb83d1b",
+    "text": "If an emergency occurred in machining, such as the workpiece being loose from holding, components damaging, unusual light or sound coming from the machine, etc. Press the main button or E-Stop button, all ongoing procedures will stop immediately, or cut off the power to shut it down. Carvera is built by closed-loop servo motors, and it saves the coordinates and status at each step. Therefore, no need to recalibrate after reboot, just restart the job.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "40dc08b4605243ff",
+    "text": "Carvera has a safety option that allows the machine to automatically stop working when opening the cover, which is useful for schools or work environments where children may reach.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "fcab6354e414c217",
+    "text": "Makera Z1 - Accessories",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "ed1d272ecf8ed83c",
+    "text": "Makera Z1-Accessories",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "bf8099316bf54979",
+    "text": "Accessories of the Makera Z1: the Makera Z1 4th Axis Module, Makera Z1 Vacuum Bed and Makera Z1 Low-Profile Vise.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "02e142e92d8ed872",
+    "text": "Makera Z1 4Axis Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "e5227c2187ccd220",
+    "text": "/en/Z1/Accessories/4Axis",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "392a36f0c268e394",
+    "text": "Makera Z1 Vacuum Bed Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "7f3093fba09f860b",
+    "text": "/en/Z1/Accessories/VacuumBed",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "de6030058fb10717",
+    "text": "Makera Z1 Low-Profile Vise Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "8f04a8bdbcd04d9d",
+    "text": "/en/Z1/Accessories/Low-Profile-Vise",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "a90d99210f939650",
+    "text": "Makera Z1 Ionizer Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "e06cb12f578cc280",
+    "text": "/en/Z1/Accessories/Ionizer",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "b0ac4d0ab473bbe9",
+    "text": "Makera Z1 4Axis Quick Start",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "44e3788b16c28bc5",
+    "text": "Makera Z1 4th Axis Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "198b268f33d176a5",
+    "text": "1. Preparation:",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "10dfd30f8655a9f5",
+    "text": "For shipping, the 4th-axis headstock is positioned to the right. It must be adjusted before use: Refer to the illustration, loosen the 4 mounting screws, slide the headstock to the left until aligned with the base, then retighten.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "765d321e65d32e37",
+    "text": "2.1 Home the machine in the control software, then power it off (spindle at the far right, machine bed at the front)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "36d9f021f28e6de1",
+    "text": "2.2 Remove any tool from the spindle to avoid injury",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "c7ed48f280ba6456",
+    "text": "2.3 Remove the MDF wasteboard",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "09be650a2e272465",
+    "text": "2.4 Insert two 4×11 mm locating pins into the table as shown",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "ab1a66e55028d873",
+    "text": "2.5 Position the 4th-axis module using the locating pins and secure it with 3 M5×10 screws",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "6567e3f19980436c",
+    "text": "2.6 Route the cable as shown, bending it from the left side through the lower-left opening of the frame, and connect it to the 4th-axis port at the rear-left inside the machine",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "ca05d914027f6a07",
+    "text": "3. Workpiece Clamping:",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "76f7ec600e1596c7",
+    "text": "3.1 Rotate the chuck by hand to set an appropriate opening",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "93ae19671d5207c1",
+    "text": "3.2 Insert the workpiece and lightly clamp it",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "f9e8ab6bc60f28d4",
+    "text": "3.3 Loosen the tailstock screws, adjust it to support the workpiece, then tighten",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "ddfc149ee61520dd",
+    "text": "3.4 Use the adjustment knob to secure the workpiece (do not overtighten; drilling a center hole at the end is recommended)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "9e65be33f8d4078c",
+    "text": "3.5 Tighten the chuck using the chuck key",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "544c9b8f840b7407",
+    "text": "1. Do not plug or unplug the 4th-axis cable while the machine is powered on",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "4ec18d94c5db7003",
+    "text": "2. The 4th-axis zero point is preset in the software at the center of the right edge of the spindle",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "30ad4fa58caaf2c6",
+    "text": "3. The chuck uses reverse jaws by default for larger workpieces. For smaller parts, switch to standard jaws. See wiki.makera.com for details",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "4e1b5d8b3e2766e1",
+    "text": "Makera Z1 Ionizer Module Quick Start",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "689d1b48a891e33a",
+    "text": "The anti-static Ionizer module effectively eliminates static generated during non-metal machining (such as wood, plastic, and resin), preventing chips from sticking to the inner surfaces of the machine and making cleanup easier.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "de8fdc4322f76f53",
+    "text": "Installation & Use",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "17a7b80bdf50e803",
+    "text": "1. Use the control software to move the spindle to the center of the X-axis.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "e7899c9cb503783d",
+    "text": "2. Remove the two M3 placeholder screws on the right side of the spindle housing.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "63715c5afaeb3c02",
+    "text": "3. Secure the module to the right side of the spindle using two M3×8 screws.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "91bcefeb2d44e2bc",
+    "text": "4. Connect the module cable to the 3-pin port on the right side of the spindle.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "ff309d8fbfcd9a12",
+    "text": "5. Enable the anti-static function in the control software; the module will operate automatically during machining.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Ionizer"
+  },
+  {
+    "id": "df1f5da5f5efdd18",
+    "text": "Makera Z1 Low-Profile Vise Quick Start",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "afc912a22809b6f7",
+    "text": "1. Installation:",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "135065c94ab43d4d",
+    "text": "1.1 Home the machine in the control software, then power it off (spindle at the far right, table at the front)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "6cd8f24f46aba23a",
+    "text": "1.2 Remove any tool from the spindle",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "e2695f78a9c8ea6c",
+    "text": "1.3 Remove the MDF wasteboard",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "cfa2c178b93962ed",
+    "text": "1.4 Insert two 4×11 mm locating pins",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "ba0ffcd14824f7af",
+    "text": "1.5 Position the low-profile vise on the locating pins and remove the left fixed jaw using the included hex key",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "47c5178ffb91660d",
+    "text": "1.6 Secure the vise with six M5×20 screws, then reinstall the fixed jaw (ensure the locating key is properly seated)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "3b0b787138d99160",
+    "text": "2. Workpiece Clamping:",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "bcf9cae0aea82b07",
+    "text": "2.1 Loosen the screw at position 3 on the movable jaw",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "f00656b9c0d56090",
+    "text": "2.2 Adjust the screw at position 2 to bring the movable jaw closer to the jaw carrier",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "a0ca18de898e1cf0",
+    "text": "2.3 Loosen the screw at position 1 on the jaw carrier",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "f7d7abfe2cfeeabf",
+    "text": "2.4 Open the jaws and insert the workpiece",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "726e016b603981c6",
+    "text": "2.5 Tighten the screw at position 1",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "60bbf1f1f31aeb6e",
+    "text": "2.6 Adjust the screw at position 2 to clamp the workpiece",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "7c1dd673de139d8d",
+    "text": "2.7 Tighten the screw at position 3",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "877d47439767c514",
+    "text": "The vise is equipped with slotted soft jaws by default, suitable for thin workpieces. For taller parts, clamp directly against the bottom of the jaws for better stability.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/Low-Profile-Vise"
+  },
+  {
+    "id": "0517f538756f0ae9",
+    "text": "Makera Z1 Vacuum Bed Quick Start",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "d2118f326177bc86",
+    "text": "Makera Z1 Vacuum Bed Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "65598efe1bfd69c8",
+    "text": "1. Preparation: Connect the two suction tubes to the air inlets on both sides of the vacuum table as shown.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "5d32d2c717df1357",
+    "text": "2.4 Insert two 4×11 mm locating pins as shown",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "829689fb639dca14",
+    "text": "2.5 Position the vacuum table using the locating pins, secure it with four M5×20 screws, and install the dedicated MDF board",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "fa8db97828775617",
+    "text": "2.6 Route the suction tubes from both sides through the openings under the machine, and connect them to the rear air ports",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "5abdc714f2dc0ca3",
+    "text": "2.7 Remove the air tubes from the internal rear air inlets and replace them with the suction tubes (fix removed tubes with the provided plugs)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "adbb8d3563d624d3",
+    "text": "2.8 Insert the suction hose of the Makera dust collector into the upper rear air port",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "a116479c45567b34",
+    "text": "1. The vacuum table is suitable for thin, flat materials such as paper, bicolor sheet, and PCBs. Do not use it for thick or metal workpieces。",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "a79f96bcc7721eaf",
+    "text": "2. Due to the permeability of the MDF board, suction may be insufficient for small workpieces. Cover unused areas with paper or plastic film to improve suction.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/VacuumBed"
+  },
+  {
+    "id": "353813e1c9e0fbb8",
+    "text": "Makera Z1 Manual",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "610a98177cc3352b",
+    "text": "The content of this page is a structured version of the Makera Z1 Instruction Manual and Example Guide.",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "034f25615c58ba6d",
+    "text": "Instruction Manual of Makera Z1",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "d2dfd316f0093abf",
+    "text": "Unboxing",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "8376fe06c9292866",
+    "text": "Machine Overview",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "83b0f82dbc47b03f",
+    "text": "What's Included",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "caeb198b2ccf8e11",
+    "text": "Accessories & Materials",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "9ea1a71f3a209ac7",
+    "text": "Tool Kits",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "8dd8e73167bc4345",
+    "text": "Basic Operations & Tools",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "9d7f776d63a8de64",
+    "text": "Tool Change",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "a24ce170df7481ce",
+    "text": "Workholding & Positioning",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "d2774972c080110f",
+    "text": "Dust Collection",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "a2a47c0244ee7da1",
+    "text": "Spindle Collet Change",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "d39edbd7210dcfed",
+    "text": "4-in-1 Screwdriver",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "d4e4ad6901ec5eba",
+    "text": "3D  Probe Rod",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "c8c763cee96d9a68",
+    "text": "Status Indication",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "923255b3490977ac",
+    "text": "Setting Up the Machine",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "2379030cf4e4ce0c",
+    "text": "Install Software",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "615780a6232b8e58",
+    "text": "Wi-Fi Setup and Machine Connection",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "28b963a5e70616d2",
+    "text": "Your First Job",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "0d1550dac495ca10",
+    "text": "Makera Z1 Quick start",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "8c73d91688335b48",
+    "text": "Please read this manual carefully before using the Makera Z1（Z1&Z1Pro）. Failure to read the manual may lead to personal injury, inferior results, or damage to the Makera Z1（Z1&Z1Pro） machine.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "e1f390166011074e",
+    "text": "3. Please wear hearing protection when Makera Z1（Z1&Z1Pro） is machining on the hard materials.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "68373cea8999d8d6",
+    "text": "9. It is not allowed for children to operate this product. Only skilled personnel are permitted to use this product.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b5c2587f28b08621",
+    "text": "Makera Z1（Z1&Z1Pro） has a safety option that allows the machine to automatically stop working when opening the cover, which is useful for schools or work environments where children may reach.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c9b654cd69c9f502",
+    "text": "Desktop CNC Safety",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "099b273442d0c182",
+    "text": "- If an emergency occurred in machining, such as the workpiece being loose from holding, components damaging, unusual light or sound coming from the machine, etc. Press the main button or E-Stop button, all ongoing procedures will stop immediately, or cut off the power to shut it down.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "83fb6c299eeb43c9",
+    "text": "- Makera Z1& Makera Z1 Pro has a safety option that allows the machine to automatically stop working when opening the cover, which is useful for schools or work environments where children may reach.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "53e5e7e22a905a76",
+    "text": "- The use of materials not supplied or specified for Makera's desktop CNC equipment may require additional protective and safety measures. Always review the Safety Data Sheet (SDS) provided by the material supplier for detailed safety instructions before use.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "4a109cc49467be33",
+    "text": "Compliance",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d58b258e988c2080",
+    "text": "The mass of the box weighs more than 30Kg/ 60lb. The net weight of the Makera Z1（Z1&Z1Pro）desktop milling machine is around 20Kg/40lb. We suggest moving this machine by at least two people (with gloves) to ensure both personal and machine’s safety. Please make sure your desk is sturdy enough and has no less than 60 x 60 cm space to place this machine.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "377764cd849063aa",
+    "text": "After opening the package, remove the protective materials from the top and sides. With assistance, carefully lift the machine out using the bottom handles and place it on a stable, level surface.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2c6e23a94a5e726f",
+    "text": "Follow the illustration to open the machine cover and remove the internal protective foam and accessories",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "6e19c45dfa1c406e",
+    "text": "1.Due damping mechanism, the cover must be opened to a near-vertical position to stay in place. Do not force it beyond this angle, as it may cause damage.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b4f526280616af11",
+    "text": "2. Keep the packaging materials for future use. Keep plastic bags away from children to prevent suffocation.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "dc11d520ed0a3045",
+    "text": "What‘s Included",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "f78a1f4edc0c9ed0",
+    "text": "Material Dimension Information",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "3f1000360409aa25",
+    "text": "Epoxy Tooling board：100mm*100mm*10mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7a2ae7782b79ac71",
+    "text": "Aluminum plate：100mm*100mm*5mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "bb7ca0c81251601d",
+    "text": "MDF Board：100mm*100mm*2mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "e69b8cbc9860874d",
+    "text": "Bicolor Stock：100mm*100mm*1.3mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c2296fb7e7dbdee8",
+    "text": "Note：",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b705dee309bdcbbf",
+    "text": "- Due to certain tolerances in material cutting, please use a caliper (or other measuring tools) to verify dimensions before machining.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2ad2c6efdfe5afbd",
+    "text": "- CNC machining is a subtractive manufacturing process. We recommend developing the habit of confirming material dimensions before machining, as this will help improve your machining results.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "68c16f37a3298db5",
+    "text": "Quick Tool Change is a key feature of Makera Z1(Z1 & Z1Pro), allowing you to replace tools in just a few seconds and significantly improve workflow efficiency.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "af36241011f3fd10",
+    "text": "Operation Steps",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "ca4fa2f4ccf7af49",
+    "text": "1. Hold the tool collar just below the spindle collet with your right hand. (We recommend using tools with a collar to help position the shank length and reduce the risk of finger injury.)",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b2f85a2acc1ac2a8",
+    "text": "2. Press down the lever with your left hand to release the tool.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d0d9b4dad64b2c7b",
+    "text": "3. Gently remove the tool with your right hand",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "a4e7ee702f760877",
+    "text": "Do not pull it out forcefully to avoid injuring your fingers",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "1cdaabb3f3d5b286",
+    "text": "4. Insert the new tool into the spindle collet.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "e2b5584c8f6604fc",
+    "text": "5. Release the lever with your left hand to let it return automatically, then release your right hand.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "97bd41bac1720367",
+    "text": "1. A 3.175 mm protective rod is pre-installed in the collet at the factory.Please replace it with an actual tool before use.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "a8c48f21ba7f1201",
+    "text": "2. CNC tools are sharp. Handle with care to avoid injury.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c965dd38568bd48e",
+    "text": "Makera Z1 (Z1 & Z1Pro) simplifies workholding and XYZ positioning with its anchor-based system and automatic Z-axis probing. Simply place and secure the workpiece at the anchor position as shown, and the system will automatically detect the lower-left corner as the machining origin (commonly used zero point).",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "aa3f2514ba8ee1af",
+    "text": "1. Install the L-Bracket",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "55b2e13df174dd73",
+    "text": "Secure the L-bracket at the anchor position using two 4 mm dowel pins and three M5×20 screws (Use longer screws for the thick bracket)",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d0e04eced5bae24b",
+    "text": "Place the workpiece against the inner side of the bracket for initial positioning",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7d04ea8d2fa7e0d0",
+    "text": "2. Secure the Workpiece",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d360c7be6e8164bd",
+    "text": "Insert two M5 screws into the semi-circular openings of the bracket to fix the lower-left corner",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7470ad05a276a0a6",
+    "text": "Use top clamps to secure the upper-right corner and complete the setup.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "0d557e8b3e13b3d4",
+    "text": "1. Do not overtighten the top clamps to avoid damaging the clamps or the workpiece",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "fd256c25017895e9",
+    "text": "2. Use screws of appropriate length based on the workpiece thickness to prevent scratching the base plate",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "6984b456c7edada1",
+    "text": "Makera Z1 (Z1 & Z1Pro) features an innovative dust collection system. The spindle fan directs chips below the work surface, where external airflow and machine vibrations guide them into the bottom dust tray. An external dust collector then removes the debris, keeping the workspace clean.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "49d748ac34043e53",
+    "text": "Operation Steps:",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  }
+]

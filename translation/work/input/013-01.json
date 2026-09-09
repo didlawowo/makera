@@ -1,0 +1,327 @@
+[
+  {
+    "id": "323e90a72fdccce9",
+    "text": "To manually adjust the detection distance of the laser, you will need to open the back of the machine (see \"Maintenance\" topic)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "cd6b0568fd3a58ef",
+    "text": "Locate the sensor controller in the top LHS corner at the back of the machine.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "ad597c2e0c9cfcac",
+    "text": "A green light on the module should turn on when the sensor is triggered.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "36b6a2b5373431de",
+    "text": "With a small screwdriver, you can adjust the detection distance and check distance by looking at the trigger light on the controller Use a white piece of paper to check if the green sensor is triggered in the menu.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "f87effd904da7760",
+    "text": "Hold the piece of paper about 100mm away from the sensor.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "d6c05516087098ee",
+    "text": "After the adjustment is completed try another tool change.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "5f5f3563890690cb",
+    "text": "If there is still an error (contact support)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "84190c150cbfe53b",
+    "text": "The tool stays in the collet after releasing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "133d93ad2c5a1e6a",
+    "text": "This could be caused by 2 things:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "08ca1c3f0668d748",
+    "text": "1. ATC misalignment (see \"",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "dfaa5a153ae143b6",
+    "text": "ATC misalignmen",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4b09ee41b6f0ba4f",
+    "text": "t\" topic)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "d5c9a8f529342f34",
+    "text": "2. The release action is not enough to release the bit in the bit holder.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "e7d9d7a5967dbaec",
+    "text": "To adjust this go to the \"Action distance\" in the ATC section of the advanced settings",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "3988d8b788a3feaa",
+    "text": "Increase this value by 0.1mm increments until the tool easily drops. (Don't adjust this too much, max 0.3mm)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "395024013fa37d0c",
+    "text": "(contact support if the above still does not rectify the problem)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "d4b704a33ff5448d",
+    "text": "A grinding noise is coming from the ATC on tool change.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "d81dda28cb45f344",
+    "text": "When a grinding noise is coming from the ATC mechanism when doing a tool change a few things can cause this:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "9b229ef0513c4f57",
+    "text": "The ATC mechanism (brass nut) might be stuck",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "1fe55cf4752dcd13",
+    "text": "The limit switch might not be working",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "4a4c6145e83d066b",
+    "text": "Action distance is too much",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "276a8cf16d6ae946",
+    "text": "The first step to rectify this is to check at the top of the ATC mechanism for a slotted pin which you can use to release the mechanism.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "c1584c9b770e34ff",
+    "text": "(Older machines do not have this slot available)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "839c3219818929e0",
+    "text": "(REF PIC of slot)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "e597cfdb4a5f2f3b",
+    "text": "Turn the slot with a screwdriver to try and release the inner nut.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "13644eb46d077bc1",
+    "text": "Clockwise direction to move up the brass nut, and counterclockwise to move down the nut.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "1e0adeadcc400deb",
+    "text": "If this still does not rectify the problem and the slot can be turned easily then you need to further investigate.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "c65b9ff0437bafc3",
+    "text": "If your machine does not have this slot, please contact support (support@makera.com)or continue to the below instructions.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "8e872dbbf7aba7b3",
+    "text": "Remove the cover from the spindle",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "e051af103373fb6e",
+    "text": "REF PIC cover removal",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "00cef2aff2beb61d",
+    "text": "and look at the movement of the limit switch trigger pin.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "eb963d45aeb6396c",
+    "text": "REF PIC trigger area",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "55892e5e3afafd92",
+    "text": "The ATC neutral position is when the mechanism pin is upwards and the collet is engaged.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "7da92243c8f7c489",
+    "text": "The brass nut pushes onto the collet to release the bit.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "af8fa668a5da2327",
+    "text": "The limit switch triggers the stop point for the clamp and returns slightly and this is called the retract distance.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "38bca16a795778aa",
+    "text": "If the limit switch is not triggering the return of the pin downwards, then the limit switch needs to be checked.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "7649fd01111a71c9",
+    "text": "If there is still a problem after the above procedure please contact support@makera.com",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC"
+  },
+  {
+    "id": "2c7ac8865554580f",
+    "text": "Loose tool holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "beac747064ae4f93",
+    "text": "Tool holder repair",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "10575af78313f23f",
+    "text": "Small clamp or bench vise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "a1188f4054be28fd",
+    "text": "Suitable nut or fixture with a hole (to compress the tool holder assembly)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "f73edd9b6bebf8b1",
+    "text": "2mm Allen key (for grub screw removal/installation)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "28e2a3164cd4f1f9",
+    "text": "✔ Ensure the machine is powered off.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "aaf48dc17ba5f046",
+    "text": "✔ Place the tool holder tray on a clean and stable work surface.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "f6db72874d57dd5e",
+    "text": "2. Disassembly of the Tool Holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "1fc8436cc81ccced",
+    "text": "2.1 Remove the Tool Holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "fde58db753041ef1",
+    "text": ", loosen and remove the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "1ff904ffaa5eb52c",
+    "text": "grub screw",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "e1f1beb0507f36e4",
+    "text": "located on the side of the tool holder (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "d61f3d76b128a5af",
+    "text": "Carefully",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "5372e99f2dcc1985",
+    "text": "slide the tool holder out of the tray",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "722009ca2cf5dda2",
+    "text": "2.2 Remove Internal Components",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "622a494d3ea8c7ba",
+    "text": "spring",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "cafe5b55eec652a4",
+    "text": "rear washer",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "ae33297a23d0ab50",
+    "text": "from inside the tool holder (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "567401ecfce9404e",
+    "text": "Figure 3 & 4",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "5cc1088e8b4fa575",
+    "text": "3. Reassembly of the Tool Holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "a20c33414ac23181",
+    "text": "3.1 Insert the Spring and Washer",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "2d28fe79c0a470c0",
+    "text": "Insert the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "73090a01fe46ea9b",
+    "text": "into the tool holder body.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "490504cde28c98a6",
+    "text": "washer",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "1a6b72b8ee1da59a",
+    "text": "over the opening so that it rests against the spring (",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "3a862f2d53e7cc8f",
+    "text": "3.2 Compressing the Assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "e6b273afbf8cf5c3",
+    "text": "silver shaft of the tool holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "c1dcaf41fb1d976d",
+    "text": "through a large nut or fixture with a hole.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  }
+]

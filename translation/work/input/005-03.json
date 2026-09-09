@@ -1,0 +1,327 @@
+[
+  {
+    "id": "10d778ddd5170e62",
+    "text": "four grub screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "32100d2161b276fe",
+    "text": "—two on the motor shaft side and two on the ball screw side.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "de1fa6052feb0b7a",
+    "text": "to loosen all four grub screws (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "1b34ba99151db938",
+    "text": "Figure 2 – Loosening grub screws on the ball screw coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "f6c599bb00d5798e",
+    "text": "2.3 Removing the Stepper Motor",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "50f01aa95cc5c4d7",
+    "text": "to remove the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "5bd47b9824862262",
+    "text": "holding the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d375fb3b974bab27",
+    "text": "X-axis stepper motor",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "28f281cc55c1bc71",
+    "text": "in place (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "8610ee7f198a945e",
+    "text": "Figure 3 – Removing the stepper motor mounting screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "aa23c948bd1428a9",
+    "text": "2.4 Loosening the Ball Nut Screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2ca63860b24b5634",
+    "text": "Slightly loosen the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "cab867c33e42a99a",
+    "text": "ball nut screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2731e929553fa662",
+    "text": "located on the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "386abdffee62cbef",
+    "text": "right-hand side behind the spindle assembly",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "8cb8209aa6c02aa1",
+    "text": ". Do not fully remove them—just enough to allow slight movement (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "c259a1056c7ebdd0",
+    "text": "Figure 4 – Loosening the ball nut screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "a11386a1c9d862cc",
+    "text": "3. Removing the Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "f4676dbf3562a659",
+    "text": "3.1 Creating Space to Remove Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "c3572cf7b61a0d21",
+    "text": "Slide the coupling to the far left",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "0855a56c10140ce0",
+    "text": "as shown in",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "c3c50b6e1cd48b31",
+    "text": "Apply moderate force to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3a40b425f2f955f3",
+    "text": "gently flex the ball screw backwards",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "6956222f8022134d",
+    "text": "to create a gap.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3233b2c3e99002a4",
+    "text": "Once there's enough clearance,",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "34c6ffaf4c5dfec8",
+    "text": "slide the coupling out towards the right",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "7817f424799e1c3c",
+    "text": "Figure 5 – Sliding the coupling to the left",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "ca41cf5367e8c092",
+    "text": "Figure 6 – Flexing the ball screw to remove the coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "1036a690d1942894",
+    "text": "4. Installing the New Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "7298885c8bf56612",
+    "text": "4.1 Positioning the New Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3c269165fd37f74d",
+    "text": "With the ball screw still gently flexed,",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "7bfb6e17dbc13b20",
+    "text": "slide the new coupling into position",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "bd50bbd8f2ed97f3",
+    "text": "flat sections",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "51baf1bef5d301e2",
+    "text": "on the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "02f185afc42fa757",
+    "text": "ball screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "53f3d103247cfa48",
+    "text": "motor shaft",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "1cf41fe966ccc6c9",
+    "text": "with the respective grub screw holes (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "ab9c5278cff11fbf",
+    "text": "Figure 7 and 8",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "a7d0bff342fbee92",
+    "text": "Tighten the grub screws using the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "9e358f8d38ad09b1",
+    "text": "Figure 7 – Aligning and fastening grub screw on the ball screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "aa17abc9f2fbcb23",
+    "text": "Figure 8 – Aligning and fastening grub screw on the motor shaft",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "cb9009c9b9708dd0",
+    "text": "5. Final Assembly",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d6725f00c1d8bd5c",
+    "text": "5.1 Securing Components",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3e244dabfbe27830",
+    "text": "Tighten all four grub screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "10a37db376e315b0",
+    "text": "on the ball screw coupling securely.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "b22eb4f48d1100fd",
+    "text": "Reinstall and fasten the stepper motor",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "278b86b5926f2c73",
+    "text": "using the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "c78825efa1d369b0",
+    "text": "Re tighten the ball nut screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "426a9827dc4fdfed",
+    "text": "—be careful not to over-tighten.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "ec3360c33a6223ae",
+    "text": "5.2 Reattaching Covers",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "27335208d88788d8",
+    "text": "Replace all previously removed covers to restore full machine enclosure.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "994603cd63d0c8ff",
+    "text": "Completion Checklist",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "b87f9a74f0804391",
+    "text": "Coupling installed and secured with all grub screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "90ad43e04e4f3291",
+    "text": "Stepper motor securely fastened",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "9cb02b6e43a80850",
+    "text": "Ball nut screws tightened (not over tightened)",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "12469b275260dc96",
+    "text": "Covers replaced",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2c445ceb8e11e9c9",
+    "text": "Machine safe and ready for power-up",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "a1df3b28e39d1971",
+    "text": "You have now successfully replaced the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "b9071635835996c6",
+    "text": "X-axis ball screw coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "69f6e9452248e436",
+    "text": "Carvera Air",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d0009aa7eb3c4bd3",
+    "text": "Collet Lever",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "b1f5d1ab4d28157f",
+    "text": "1.5mm Allen key",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "d115e373addb51f6",
+    "text": "2.5mm Allen key",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "9c280284ef2669a2",
+    "text": "Procedure",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "5650bb5c1c4e9069",
+    "text": "Step 1: Remove the Grub Screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  }
+]

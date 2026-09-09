@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "387f6a95b721a9f5",
+    "text": "For Spring and Easter of 2025, we shared how Makera CAM could be used to create a few different example projects. This includes a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f5fe2e9e39618d63",
+    "text": "wooden phone stand",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "585e5da9d5d63692",
+    "text": "brass 3D relief",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d3e5bedfc0271592",
+    "text": ", and a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "40c18121095396a4",
+    "text": "rotation relief",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d9ac22fd0fe416b7",
+    "text": "made with the 4th axis.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b1c1318092ee710a",
+    "text": "rabbitphoneholder.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ec6525e732c0d469",
+    "text": "rabbitphoneholder_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6405349c4ea5ee49",
+    "text": "oval_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "691a59a644afe73c",
+    "text": "rabbit-brassrelief.stl.zip",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "31a987d4c11f538e",
+    "text": "rabbitbrassrelief_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "746208a5d67d706d",
+    "text": "egg.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "5a31bd5d328162dc",
+    "text": "eggrotationrelief_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "baddb7497ce72ef9",
+    "text": "Bottle Opener Example Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e4bc68d164b5e896",
+    "text": ".DXF",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "7e46472403284aa3",
+    "text": ".STP",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "26cc7eeeac8a3e8f",
+    "text": ", we demonstrate how a custom bottle opener can be designed and created using Makera CAM and the Carvera desktop CNC. This project as also featured in our memorial day promotions, and during a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "897236c37fadc70c",
+    "text": "livestream",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d7c5f01091170e70",
+    "text": "in May '25.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "83f72c3abbdae5b3",
+    "text": "bottle_opener_handle_2d_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f4009cd765a725cd",
+    "text": "bottle_opener_cap.stp",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6d441a3243a01cf3",
+    "text": "bottle_opener_handle.stp",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "27ca16cb4b30f8ef",
+    "text": "cap_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e5b3cde648a4a63c",
+    "text": "handle_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e51a1a1119b0b737",
+    "text": "handle_demo_2d.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "3e2a6cc585083dd1",
+    "text": "Table Top Game Example Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "768c3fb96d5fbeb7",
+    "text": ", we demonstrate how a pong-inspired tabletop game can be manufactured using Makera CAM and the Carvera desktop CNC. This project as also featured in our memorial day promotions, and during a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "bb05fc212b115d0f",
+    "text": "table_toss_game_-_bottom_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f7cb20ec8ea3ae01",
+    "text": "table_toss_game_-_top_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "c5f97bda2a86c633",
+    "text": "table_toss_game_-_engraving_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "25f288c11fe3f0e4",
+    "text": "table_toss_game_-_launcher_profile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "9a2363e443d72ca9",
+    "text": "tabletosstutorial_board.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "dfdaffb3c02e907b",
+    "text": "tabletosstutorial_launchers.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d8104a00173c44e9",
+    "text": "Push Card Fidget Toy",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "a335f3e0910ed7bb",
+    "text": ".STL",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "1733fd2e18c2d79f",
+    "text": ", we learn how to prepare and manufacture a push card style fidget toy using Makera CAM, the Carvera, and the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "38e605f6ab5410b0",
+    "text": "Fidget Toy Toolkit",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "10677d1a41de812d",
+    "text": "pushcard_2dfiles.zip",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "edeea7eeea0dc887",
+    "text": "pushcard_3dexample.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "24e3a6c177b67938",
+    "text": "pushcard_example.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "102ad2bab75e5f89",
+    "text": "Multi-Part Metal Fidget Spinner",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "1f089357e5762386",
+    "text": ", we learn how to prepare and manufacture a multi-part fidget spinner using Makera CAM, the Carvera, and the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "19a142e726bb051f",
+    "text": "spinner-top.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "0de25e49cc46bf37",
+    "text": "spinner-bottom.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b1a2f07113ddd2ab",
+    "text": "spinner_demo.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "7506b99be7681e9e",
+    "text": "spinner_post.mkc",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "8eef5bc6ebf91bbb",
+    "text": "45mm Makera Keychain",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "7ff3e482ac5ee69f",
+    "text": ".STEP",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "730182a60f06c3a3",
+    "text": ", we look at how to use setup and use Fusion 360 with the Carvera Desktop CNC to create an example keychain out of aluminum.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "de16a65eed6bf4da",
+    "text": "Makera45mmKeychain.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "39a242b9806142aa",
+    "text": "Makera45mmKeychain.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e3b07656f9e6ccc3",
+    "text": "Makera45mmKeychain.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "325a1947d241c077",
+    "text": "Maze Game Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "78e75a25d80993a5",
+    "text": "STEP",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d4acb3d8911ceab6",
+    "text": ", we look at how to create a mini maze game using Fusion 360 and the Carvera Desktop CNC as part of the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "22efd7f7ddb1b052",
+    "text": "Machining Puzzles and Games",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6e350f67131c8f82",
+    "text": "lesson plan series.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ff801c4e58210c74",
+    "text": "MakeraMazeBoard.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d2bfe5e14d9b8493",
+    "text": "MakeraMazeCover.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "0ed5459e96ea84dd",
+    "text": "MakeraMazeBoard.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "269540d873666aad",
+    "text": "MakeraMazeCover.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f4cc786207dedfeb",
+    "text": "Tic Tac Toe Game Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "70db70603692494e",
+    "text": "10 mm Board",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "50b7bb716c0cb5c9",
+    "text": "25 mm Board",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "a92b80b771d18aa0",
+    "text": "30 mm Board",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "fbfd61c2cf8bcb63",
+    "text": ", we look at how to create a tic tac toe board game using Fusion 360 and the Carvera Desktop CNC as part of the",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "53bd334b47f0eb41",
+    "text": "10mmBoard.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b0cf88a1697286aa",
+    "text": "25mmBoard.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "1274c461213e0833",
+    "text": "25mmLid.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "d915750bb414d244",
+    "text": "25mmTopProfile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "afc170e721636e2e",
+    "text": "30mmBoard.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e904e797b5927d10",
+    "text": "30mmLid.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "4f7fc140ab2bb12d",
+    "text": "30mmTopProfile.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "2a640e83740fc33b",
+    "text": "3D Knot Puzzle Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "da4ce6b76fc25459",
+    "text": "knot_puzzle_6mm.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ecb53a6f4ffe8cdd",
+    "text": "knot_puzzle_6mm.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "50021c847e30790b",
+    "text": "knot_puzzle_6mm.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "c158f837721e6d97",
+    "text": "Jewelry Box Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "541a14493d867d89",
+    "text": ", we create a multi-part jewelry box using the Carvera Desktop CNC and kiri:moto CAM program.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "eb0fe06a97f5a041",
+    "text": "jewelrybox_model.stp",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f24ae2eda19025d8",
+    "text": "Custom Drone Project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "dc99fdcb80c72593",
+    "text": "Machined Parts",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "22cb804a00080bbc",
+    "text": "3D Printed Parts",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "1ee47860ab70eb6f",
+    "text": "Electronic Components",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "11453073e0025b41",
+    "text": "this project",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e906777fbb12f19d",
+    "text": ", we design and fabricate a custom racing drone using the Carvera Desktop CNC, a 3D printer, and VCarve.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f2698e02a4ab97db",
+    "text": "carbon_2d_profile_rev01.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "993c395323cbf574",
+    "text": "top_cover_rev01.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "895b716b77499dd4",
+    "text": "prop_cover_rev01.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "8e2ddcd7379cec0b",
+    "text": "bom_rev01.txt",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "b00ed706100d7dc7",
+    "text": "Getting Started with Solidworks CAM",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ac59ac613fe6a64f",
+    "text": ".SLDPRT",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "cd8ae9a17fde8c7e",
+    "text": "Generic 3D Files",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "6f21cf59107ede39",
+    "text": "In this video series, we look at how to get started in using Solidworks CAM with the Carvera Desktop CNC.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "9286e3030002dfa5",
+    "text": "looks how how to configure the technology database for the Carvera, while",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "5d683fb1f0145dfb",
+    "text": "looks at how to prepare this sample part file.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "f6a1a72d3ad7157a",
+    "text": "solidworks_demopart.sldprt",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ff72475f30f02c76",
+    "text": "solidworks_demopart.step",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e9220f8a412eb1b0",
+    "text": "solidworks_demopart.stl",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "71bebb882fe28d45",
+    "text": "solidworks_demopart.dxf",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "54b3d6fdc945abe7",
+    "text": "Lesson Sharing",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "81367c63780640bb",
+    "text": "This section of the Knowledge Sharing page is dedicated to sharing lesson plans and instructional resources for educators using the Carvera and subtractive manufacturing techniques in their classrooms. Every Makera Lesson Plan utilizes an engineering design process to organize activities and foster creative thinking, problem-solving, and industry connections for students through an engaging real-world design challenge.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "ab65e247d8563f2b",
+    "text": "Machining Puzzles and Games Design Challenge Video (on YouTube)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "967aa972a4b110bb",
+    "text": "Machining Puzzles and Games Lesson Plan (PDF)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "5016f62c59c1c998",
+    "text": "Machining Puzzles and Games Student Planning Doc (PDF)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "e22a71de15dffc4b",
+    "text": "Example Assessment Rubric (PDF)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "4e03629e74e84933",
+    "text": "Evolutionary Ellipsographs Design Challenge Video (on YouTube)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "84b73d00d6dd464d",
+    "text": "Evolutionary Ellipsographs Lesson Plan (PDF)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "04fa2bf35f3c1fb1",
+    "text": "Evolutionary Ellipsographs Student Planning Doc (PDF)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing"
+  },
+  {
+    "id": "99d1fc0c6e8dd241",
+    "text": "Altenative clamp",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "5736598167f192ea",
+    "text": "Additional, alternative clamp",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "337b98cb4a2db7df",
+    "text": "Clamp is designed to fit position above the bracket at the top/most left position, but can be used anywhere. Design is inspired by clamps supplied with CARVERA, slots are of the same depth.",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "9f9f332e45f48800",
+    "text": "You can use:",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "366e6fdc41a0c7b8",
+    "text": "source FreeCAD file",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "0c573b39f944d42c",
+    "text": "step file",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "cb05ba568ba19bbe",
+    "text": "gcode (considers single flute 1/8\" end mill and 40x5mm Al flat profile)",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "6d3e977dfc22fe92",
+    "text": "This work is licensed under a",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "cfa90e94c44b904b",
+    "text": "GNU General Public License v2.0",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "947fb095255f616f",
+    "text": "You can use other (3D printed) CARVERA accessories designs, published at",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "f4fd0bee298307f3",
+    "text": "PaSe@Printables",
+    "page": "https://wiki.makera.com/en/knowledge-sharing/PavelSedivy"
+  },
+  {
+    "id": "79c4427112a86048",
+    "text": "General Information",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "39a05504a55ec419",
+    "text": "Carvera Controller",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "5b163d05f74ae96a",
+    "text": "A powerful machine needs powerful software. The Controller software fully supports the Carvera and Carvera Air desktop CNC machines and can run across Windows, Mac, Android, and iOS (coming soon), either wired or remotely.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "5c341d714ddd594e",
+    "text": "A user friendly and capable CAM program for the Carvera and Carvera Air. With the initial public Beta released in July 2024, existing Makera users can begin to create incredible things easier than ever before on both Windows and Mac devices.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "a3c76ef3a33146c3",
+    "text": "Please download the software from our official website:",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "1a1767b0ced1199e",
+    "text": "Double-Sided PCB Milling | 2D Vector Milling | Laser Engraving | Image Importing and Converting | Hassle-Free Parameter Setting",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "deb00c7640084a4f",
+    "text": "Introducing Makera CAM Beta: Amazingly Simple CAM Software",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "a28a1be93412e7f2",
+    "text": "Unlock the full potential of your Carvera and Carvera Air with our comprehensive CAM software, supporting 2D, 3D, PCB, Laser, and Rotation Tool Path generation!",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "36575d819a4c6ced",
+    "text": "Email Verification",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "e09e8aab2dedb55a",
+    "text": "The first time you use the software, you will need to verify your email. We have enrolled all customer emails in the system.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "259c27d62f1184ab",
+    "text": "For Customers",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "0f830a32cc916562",
+    "text": "If you've purchased Carvera or participated in the Carvera Air crowdfunding, verify and log in using your purchase email.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "6577b07aaee17db6",
+    "text": "If you encounter issues with email authentication, please contact us at",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "f95913c520db0ab1",
+    "text": "info@makera.com",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "c58f91030bd1a9f0",
+    "text": "For a FREE trial:",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "a458cc5d4c95bbf5",
+    "text": "If you're not a current customer but would like to try Makera CAM, we offer a 15-day trial period for users to explore the software’s features before committing to a purchase. After downloading Makera CAM, enter your email to begin the 15-day trial period, and contact us at",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "47fa09d48f9cba7f",
+    "text": "for questions and support.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "98e38cd6c5f88330",
+    "text": "Important Links",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "993411952292d3f4",
+    "text": "Download Makera CAM Beta",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "0a2b1e87a29ce371",
+    "text": "Download Now",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "2538ca85938db1cd",
+    "text": "Feedback and Support",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "62d97f7509105f04",
+    "text": "Join Discord",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "995a3da94af5d00d",
+    "text": "Report Issues on GitHub",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "67f977dcddbf91bc",
+    "text": "MakeraCAM User Guide:",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "d131ef7f9b5e2b45",
+    "text": "User Guide",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "8d9f66992dd4373c",
+    "text": "Tutorials",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "3091e06a01fb9da3",
+    "text": "Learn how to Use Makera CAM",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "11dae3a1cc16e6ad",
+    "text": "Carvera Controller Software",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "3d7ffc002568a3fa",
+    "text": "Software Installation and Use",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "a948609ba88b3082",
+    "text": "Software Update",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "b4b340ddca2fe372",
+    "text": "Software Video Tutorial",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "8f154d72491c202e",
+    "text": "Compatible CAM software",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "ed10b3c2932a1bef",
+    "text": "We continually expand our collection of CAM software profiles to cater to our customers' requirements. Here are some that we have already developed.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "999fa9a551e35d90",
+    "text": "Software_Name",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "bacaabe15a584f21",
+    "text": "Profile Download",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "097398d873027b00",
+    "text": "Install Guide",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "75b5cc26f5558511",
+    "text": "Video Guide",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "1cee74ae96196d3a",
+    "text": "Fusion 360",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "4fe2dc9f60ea2b31",
+    "text": "Fusion 360 is a cloud-based CAD/3D modeling, CAM, CAE, and PCB software platform for both product design and manufacturing.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "a2dc0e9fe3af8323",
+    "text": "Compare to other industrial software, Fusion 360 is relatively easy to learn and is an all-in-one solution. If you are new to CAD and CAM, and you are interested in making mechanical/electronic/robot/drone parts or something like them, fusion 360 is a good option.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "8437cabe04c7a17a",
+    "text": "Download Profile",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "166f898717e2df2a",
+    "text": "VCarve Desktop",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "924659418e7dc0fd",
+    "text": "VCarve Desktop gives you the power to produce complex 2D patterns with profile, pocket, drill, and inlay toolpaths, plus gives you the ability to create 3D and rotary relief by importing 3d model files. It can also do laser engraving with an add-on module.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "44055f18ec7b5540",
+    "text": "VCarve Desktop is suitable for woodworking, jewelry making, art making, etc.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "2aff1fca21c87929",
+    "text": "Kiri: Moto",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "f22fba6487d4f04b",
+    "text": "Kiri:Moto is free, open-source, browser-based application that bridges 3D design to fabrication with tools for CAM, 3D Printing, and Laser output. There is no software to install, and all data and processing happen privately and locally in the browser window. Import STL, OBJ, and 3MF files and output GCode or SVG. 3 and 4-axis CAM operations include: roughing, pocketing, contouring, tracing, and more. Preview and animate your jobs ahead of time to see what you will get before the milling begins.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "89f47a8d4bad61c2",
+    "text": "Built-in Profile",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "1510583bee35f1cb",
+    "text": "Launch Kiri:Moto",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "f666722cb5719a8d",
+    "text": "LightBurn",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "929ce1bdfc3e45d5",
+    "text": "LightBurn is a layout, editing, and control software for your laser cutter. With LightBurn you can:",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "7e642a839cb690a6",
+    "text": "- Import artwork in a variety of common vector graphic and image formats.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "a7ca45ec53fb5969",
+    "text": "- Arrange, edit, and even create new vector shapes within the editor.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "d2aa6c32088ba827",
+    "text": "- Apply settings like power, speed, number of passes, cut order, brightness & contrast, dithering mode, and much more.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "fe44db9bde480676",
+    "text": "SolidWorksCAM",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "0dc211c5993f94b2",
+    "text": "SolidWorks CAM is a fully integrated, knowledge-based technology for automating design and manufacturing processes within the SolidWorks environment.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "9ee971021f4987a6",
+    "text": "SolidCAM",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "261a05d7695a35d9",
+    "text": "SolidCAM is an integrated CAM software for CNC applications, offering advanced milling and turning tools while seamlessly integrating with SolidWorks.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "08a92547d4aecff1",
+    "text": "Download Profile for 4Axis",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "4abd2c81df44cd78",
+    "text": "MasterCAM",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "fc14aae17fdcdc88",
+    "text": "MasterCAM is a versatile CAM software solution, offering advanced 2D and 3D design tools, precision machining, and efficient programming capabilities.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "611fc4ce7e43f2d0",
+    "text": "SiemensNX",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "db00eec360dc7896",
+    "text": "Siemens NX is a comprehensive, integrated solution for computer-aided design, manufacturing, and engineering (CAD/CAM/CAE), promoting innovation and productivity.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "9b974562893a2222",
+    "text": "GibbsCAM",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "17868b1eb01befa0",
+    "text": "GibbsCAM is a full-featured CAM system that provides powerful CNC programming capabilities for milling, turning, multi-task machining, and wire-EDM.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "e1303b2de0ded467",
+    "text": "Carveco",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "718e9c18edca6f55",
+    "text": "offer a range of creative design & manufacturing software to help you make fantastic, artistic products on your CNC.",
+    "page": "https://wiki.makera.com/en/software"
+  },
+  {
+    "id": "db032f1aef978501",
+    "text": "Install PostProcessor",
+    "page": "https://wiki.makera.com/en/software/Carveco"
+  },
+  {
+    "id": "bfef543e603058f9",
+    "text": "1. Copy ‘Carvera-3Axis.con’ and ‘Carvera-4Axis.con’ to the ‘C:\\Program Files\\Carveco\\postp’ directory.",
+    "page": "https://wiki.makera.com/en/software/Carveco"
+  },
+  {
+    "id": "f373248a57b52efc",
+    "text": "Generate the G-code file.",
+    "page": "https://wiki.makera.com/en/software/Carveco"
+  },
+  {
+    "id": "fa680c6844a94f62",
+    "text": "1. For 3-axis machining, please select the ‘Carvera-3Axis.con’ post-processing. For 4-axis machining, please select the ‘Carvera-4Axis.con’ post-processing.",
+    "page": "https://wiki.makera.com/en/software/Carveco"
+  },
+  {
+    "id": "e9018ef3aef00938",
+    "text": "1. Copy the file \"Carvera(all canned cycles longhand).pM3\" to the directory \"C:\\ProgramData\\3D Systems\\GibbsCAM\\12.0.24\\PostHASTE\\Library\".",
+    "page": "https://wiki.makera.com/en/software/GibbsCAM"
+  },
+  {
+    "id": "cba2a10f2a4a652d",
+    "text": "1. Once you have completed your project, before generating G-code, click on \"Plug-ins\" and select \"PostHASTE\".",
+    "page": "https://wiki.makera.com/en/software/GibbsCAM"
+  },
+  {
+    "id": "6691098c3fa6e0ca",
+    "text": "2. Browse and choose the previously stored file \"Carvera(all canned cycles longhand).pM3\" from the directory \"C:\\ProgramData\\3D Systems\\GibbsCAM\\12.0.24\\PostHASTE\\Library\". Click on \"Process\" to generate the code.",
+    "page": "https://wiki.makera.com/en/software/GibbsCAM"
+  },
+  {
+    "id": "0bf0fa1debd8d975",
+    "text": "3. After clicking on \"Process\", the following dialog box will appear.",
+    "page": "https://wiki.makera.com/en/software/GibbsCAM"
+  },
+  {
+    "id": "4ef7039161654d17",
+    "text": "You can click on \"Post Again\" to generate the code again. You can also click on \"Edit Format Template\" to edit the post-processing file \"Carvera(all canned cycles longhand).pM3,\" but it is not recommended unless you have thoroughly read the instructions and are familiar with the PostHASTE program.",
+    "page": "https://wiki.makera.com/en/software/GibbsCAM"
+  },
+  {
+    "id": "cbb2564988abd10e",
+    "text": "Setup Device",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "64c41111ca7205ea",
+    "text": "1. Start LightBurn.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "dd8ec1bb5dbd75e6",
+    "text": "2. Click the \"Device\" button.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "5ca3ff4d1c4f180d",
+    "text": "3. Click the \"Import\" button in the popup dialog.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "0f0e024e60320ec6",
+    "text": "4. Select the \"LightBurn.lbdev\" file and finish importing the Makera Carvera device.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "b9da1969185aa73b",
+    "text": "Using LightBurn Profiles",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "99324039d7f460e2",
+    "text": "When saving GCode, select \"Makera\" as the current device.",
+    "page": "https://wiki.makera.com/en/software/LightBurn"
+  },
+  {
+    "id": "3fe85d1d862668ed",
+    "text": "Makera CAM Intro",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "d4ca16cfaecd87e7",
+    "text": "Introducing Makera CAM Beta: Powerful and Easy-to-Use",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "b24a5b498f9ae0c1",
+    "text": "Unlock the full potential of your Carvera with our comprehensive CAM software, supporting 2D/PCB and Laser paths. 3D and Rotary path support coming soon!",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "e0079735e61d7713",
+    "text": "Please feel free to contact us at",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "4e9caa9d93a7a7b8",
+    "text": "to apply for a trial.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "cf3e83b69201e33f",
+    "text": "Introductory Video",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "24ee5aefd2dd766f",
+    "text": "PCB processing Tutorial",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_Intro"
+  },
+  {
+    "id": "4964fce926376ae9",
+    "text": "Makera CAM Tutorials",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "a95487e4f934a361",
+    "text": "For additional information and support as you learn how to use Makera CAM for your CNC projects, check out the official",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "19db1dc374ae2f75",
+    "text": "Makera CAM user guid",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "2096aec940ffe388",
+    "text": "e. And are you new to CNC's? If so, we recommend you check out our",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8c43346932b9070f",
+    "text": "Learn how to use Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "97836bfd07961282",
+    "text": "This page provides a collection of How-To videos and guides to support users as they learn to use Makera CAM software to prepare designs for manufacturing with their CNC machines. For each step by step guide, a short video has also been created to provide further support and clarity to our users. Greater detail and topics can be found in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "e57e201d8f6fe154",
+    "text": "Makera CAM User Guide",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "0b19d4df515a7ec8",
+    "text": ", and additional videos are also available on the official",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "364355ceebd38433",
+    "text": ". You can also find project tutorials and sample files for Makera CAM on the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "42b9dd8a364451dd",
+    "text": "page of our wiki.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8702cd29d3069434",
+    "text": "Makera CAM Overview",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "b05452c6ae13a45c",
+    "text": "In this video, we overview the most recent release of the public beta version of Makera CAM as we learn how to use the different tools and features within the program. We overview how to import different types of design files, as well as how to adjust our tools and materials to create tool paths for manufacturing.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "7ac32a4199255050",
+    "text": "How to Navigate and Select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "58ee8bfe13b5fd4b",
+    "text": "In this video, we cover the basic navigation tools to select objects, pan, rotate, and zoom within the design window. We also cover view options to customize the workspace, as well as look at how to select different types of graphic objects within our designs.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "ea70a8a53b6d283e",
+    "text": "The Tool Library",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "ef483636d90ca9fe",
+    "text": "In this video, we look at how to use and adjust the tool library. The tool library should correspond to the tools you have available for machining, as well as the stock you plan to use. In the tool library, we can edit and create tools, groups, and adjust default speed and feed parameters for our projects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "7fab066d964336d0",
+    "text": "Materials and Stock",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8d23e5bc9f023f8c",
+    "text": "In this video, we look at how the materials listed in the materials library can be edited and created, and how these materials impact the use of the stock parameters and default speeds and feeds for our tools when making tool paths.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "b1fb94a8ae47bc64",
+    "text": "Work Coordinate Systems",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "58b482da28d21e03",
+    "text": "In this video, we look at how to edit and create work coordinate systems for our multi-sided projects. Work Coordinate Systems, or WCS, allows you to choose the origin points for your stock, as well as setup multiple origins for separate jobs in a single project.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "329e5138aed801b1",
+    "text": "Working with Layers",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "8b190e624da5bab4",
+    "text": "In this video, we look at what layers are, and how they can be created and edited in our projects. Layers allow for us to easily separate parts of our design, as well as work to support importing different types of design files.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "49ca7396a6a00cf4",
+    "text": "Working with Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "d57616e4acc57c23",
+    "text": "In this video, we look at how paths can be edited and exported in our projects. As shown in other videos, tool paths are an important part of CAM software as they are what guide our CNC machines to manufacture our projects. This video shows how to edit paths, as well as export them for manufacturing as a GCode file.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "941cdc964b2c6339",
+    "text": "Working with 2D Designs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "015f3afefc5b753c",
+    "text": "In this video, we look at how 2D files (formerly referred to as Vector Graphics), such as SVGs and DXFs, can be imported into Makera CAM. 2D design files are the ideal file type for creating 2D tool paths for subtractive manufacturing. This video shows how 2D files can be edited and used for our projects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "5611a9d870c31e3c",
+    "text": "Working with 3D Designs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "300be664d05c2150",
+    "text": "In this video, we look at how 3D files, such as STEPs and STLs, can be imported into Makera CAM. 3D design files are the ideal file type for creating 3D tool paths for subtractive manufacturing in both 3-axis and 4-axis configurations. This video shows how 3D files can be edited and used for our projects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  },
+  {
+    "id": "e6b923ab6f388f5e",
+    "text": "Working with Image Files",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_tutorials"
+  }
+]

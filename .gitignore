@@ -1,0 +1,13 @@
+# Sauvegardes brutes de l'aspiration : utiles localement, inutiles pour Netlify
+/html/
+/sources/
+/source-cache/
+/markdown/
+/pages/
+
+# Rapports générés localement
+/assets-report.json
+/report.json
+/site-check.json
+/site-report.json
+/index-originals.html

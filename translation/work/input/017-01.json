@@ -1,0 +1,327 @@
+[
+  {
+    "id": "b6086cd697dc590b",
+    "text": "Create 3D machining tool paths based on the features of an imported 3D Design file - Includes 3D Relief, 3D Contour, 3D Pocket, 3D Drilling, 3D Thread Milling, and 3D Chamfer operations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3849186c5612646f",
+    "text": "Rotation Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3f14d8a3d2873b74",
+    "text": "Creating 4-axis rotary machining tool paths when in a 4-axis project configuration around an imported 3D Design file - Includes Rotation Relief.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "74b7ee9a9b02e743",
+    "text": "Laser Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "924792609befc981",
+    "text": "Creating Laser Processing Paths - Includes Laser Vector and Laser Image.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3664895579f0a7e6",
+    "text": "Export",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "36b793494660b31d",
+    "text": "Export tool path G-Code files for production",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dcc839a4015c4b7d",
+    "text": "View",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "18961a06612dd46e",
+    "text": "The options in the view menu perform the following actions:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "35c1705fbb27eb36",
+    "text": "Show Tab Bar",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "739267c39d42a6dc",
+    "text": "Toggle show / hide of the Tab bar above the Tool Bar",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "45ba8865e4b42098",
+    "text": "Show All Tabs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "935cccdb0f283f72",
+    "text": "Open and display all open Tabs (when applicable)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "782788e3dc80456b",
+    "text": "Tool Bar",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2810375347a47dc7",
+    "text": "Toggle show / hide of the Tool bar above the Design Area",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0bc4c2af5c39ad1f",
+    "text": "Status bar",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "99f91e505d79d738",
+    "text": "Toggle show / hide of the Status bar below the Design Area",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9859597853197476",
+    "text": "Project",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "949079ffe0577a8b",
+    "text": "Toggle show / hide of the Stock and Functions Panel on the left side of the Design Area",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "03494b0d1f803522",
+    "text": "Camera",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eacc87fc447e24c1",
+    "text": "Switch the Design Area display perspective",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "509c517ede79fef0",
+    "text": "Zoom",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9cadfbe356ffb2e1",
+    "text": "Zoom in/out or fit all features within the Design Area",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "30085995c1508f6b",
+    "text": "Left Button",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ed91f87307624a9f",
+    "text": "Set the function of clicking the left mouse button. You can switch between Select / Pan / Zoom (Click: Zoom in / Alt+Click: Zoom Out) / Rotate",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "534ab6506ea1e384",
+    "text": "Enter Full Screen",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e5ed3cdbd9a43ef8",
+    "text": "Fits the application window to full screen (when applicable)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "818cd8d91aea3a16",
+    "text": "Setting",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9bb76690a574a85b",
+    "text": "The options in the setting menu perform the following actions:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "29e49590acd5c1a4",
+    "text": "Material Library",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9ae3810567431abc",
+    "text": "Set Material Library to add or change the material name and parameters of the stock material",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bf0fa14449e53aab",
+    "text": "Tool Library",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "96591102298ab859",
+    "text": "Set up the Tool Library, adjust the tool type and basic parameters, manage tool configurations by group, and set initial parameters related to tools that match different materials",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a4fe65264ef7dbb3",
+    "text": "Language",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ed14e31544e0ab29",
+    "text": "Switch the display language of Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "84f72e71429e5cc0",
+    "text": "Tool Bar Introduction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "820779ba6dd88e2e",
+    "text": "Stock Introduction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bd9c59ef8f987bf7",
+    "text": "Use this area of the interface to set the type and size of the blank stock material. An outlining perimeter corresponding to the set stock size will be displayed in the Design Area. The stock material types can be changed through",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ad04997cd1801e0d",
+    "text": "[Setting - Material Library]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bf353f37e621307e",
+    "text": ". The parameters for the Stock will also change depending on whether you're working in a 3-axis project or 4-axis project as 4-axis projects also allow for you to set the stock shape.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c4bac144574f79c6",
+    "text": "Functions Panel Introduction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "70a9028047210b17",
+    "text": "The Functions Panel mainly includes four parts: work coordinate system (WCS) tabs, 3D models, 2D layers, and Tool Paths.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "01c553f4e0e902bd",
+    "text": "Work Coordinate System partitioning supports the creation of multiple coordinate systems with different origin settings. By creating and switching between different work coordinate system tabs, you can quickly switch between different groups that include independent coordinate systems, layers, and tool paths within a single project document. The default work coordinate system (WCS 1) is set for the top of the stock.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1e0ad852cc060c8a",
+    "text": "Work Coordinate Systems (WCS)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a64133ce87eb3fed",
+    "text": "Creating a new WCS",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c604874051c1c38d",
+    "text": "button on the left side of the Functions Panel allows you to make a new WCS. You can also right-click the Work Coordinate System tab bar and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4f2335a141595c00",
+    "text": "[New Coordinate]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8d5f9b58f6ddd1e7",
+    "text": "in the pop-up menu .",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8875eac0a38657cd",
+    "text": "When creating a new work coordinate system, a name setting menu will be displayed in the Extended Properties Panel. Set the name of the new work coordinate system and select between10 coordinate origin control points in the TOP and BOTTOM planes within the stock outline in the Design Area to choose in the coordinate origin points of the new work coordinate system. Once set, click the Ok button in the Extended Properties Panel to complete the creation of the new work coordinate system.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a61251406cb7b916",
+    "text": "Modify the WCS",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4e780ebe0d4c82a1",
+    "text": "After right-clicking the WCS tab bar at the top of the Functions Panel, choose",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3335894212cafab6",
+    "text": "[Edit Coordinate]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7b758f81a665c967",
+    "text": "in the pop-up menu that appears. The current work coordinate system name setting interface will be displayed in the Extended Properties Panel allowing for the current work coordinate system name to be changed. The coordinate origin position of the current work coordinate system setting will be displayed in the Design Area. You can reselect 10 coordinate origin control points in the TOP and BOTTOM planes within the stock perimeter to modify the setting of the coordinate origin of the current work coordinate system. After completing various settings, click the Ok button to complete the modification of the work coordinate system.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1fe442b9eccfad0f",
+    "text": "If there is already a graphic object in the current coordinate system, the graphic object will adjust to changes of the coordinate origin and automatically match the new work coordinate system settings.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fe197b89edbbfa4f",
+    "text": "Deleting a Work Coordinate System",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "aada1c54df6d7d04",
+    "text": "Right-click the WCS tab that needs to be modified, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e3b2abda412eeff4",
+    "text": "[Delete]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6535aacf3572ebf5",
+    "text": "in the pop-up menu . The system will pop up a prompt to delete the selected WCS. Click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c6b789b0238baa95",
+    "text": "[Yes]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9ca1e4688678ad12",
+    "text": "to complete the deletion of the current coordinate system. When deleting a work coordinate system, the layer list and tool path list data under the coordinate system will be deleted at the same time.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "613bb3969db2bf3c",
+    "text": "Please confirm that all the data under the work coordinate system can be deleted before proceeding.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b0b644c538502569",
+    "text": "3D Models",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7a33bf4f91747c89",
+    "text": "Within a Makera CAM Project, the functions panel will display a section for any 3D model that has been imported or created in the project. See",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a6a7ce714a1e067f",
+    "text": "for more examples on how to work with 3D models.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bf71aaf307b9951d",
+    "text": "Each time a new 3D model is imported or created, it will be listed in this section of the Functions Panel. The color selection next to the name of the model will change the appearance of the model when it is not selected. When a 3D model is selected, it will be highlighted in blue with a yellow perimeter as described in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

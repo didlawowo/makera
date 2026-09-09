@@ -1,0 +1,61 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Software Installation</title><h1>Software Installation</h1><article><div><h1 id="windows-installation" class="toc-header"><a class="toc-anchor" href="#windows-installation">¶</a> Windows Installation</h1>
+<p>Click to download <a href="https://github.com/MakeraInc/CarveraController/releases/download/v0.9.14/carvera-controller-0.9.14-win-64.exe" class="is-external-link">Carvera Controller(Windows)</a></p>
+<p> </p>
+<figure class="image"><img src="https://wiki.makera.com/windows-setup.png"></figure>
+<ol>
+  <li>Launch the installer executable</li>
+  <li>Windows may ask if you trust the software, as Carvera Controller is not currently digitally signed</li>
+  <li>Select if you would like to create a desktop icon</li>
+  <li>Click <i>Install</i></li>
+  <li>Click <i>Finish</i></li>
+</ol>
+<p>That's it! Locate the Carvera Controller icon to launch the program</p>
+<p> </p>
+<p><span class="text-big"><strong>Install Windows USB Driver (if you connect the machine via USB)</strong></span></p>
+<p>After connecting the USB into your computer. Then open the device manager and under the <strong>Other devices</strong> tab you should see it as <strong>FTDI 232R UART</strong>. If it shows up there correctly then follow the steps from <strong>"STEP 1"</strong>. And if it shows up as <strong>USB Serial Port</strong>. In that case simply follow the steps from <strong>"STEP 2"</strong>.</p>
+<p><strong>Step 1: Installing First Set of USB drivers</strong></p>
+<figure class="image"><img src="https://wiki.makera.com/usb-driver-setup-1.png"></figure>
+<p>Firstly, Open the device manager, right click on the FTDI and click on <strong>Update drivers</strong>. Then click on <strong>Browse My computer for drivers</strong> and then just select the driver Folder where you downloaded the drivers. And then hit ok, make sure <strong>Include Subfolder</strong> is ticked. And now click on <strong>Next</strong> and it will install first set of drivers</p>
+<p><strong>Step 2: Installing Second Set of USB drivers</strong></p>
+<figure class="image"><img src="https://wiki.makera.com/usb-driver-setup-2.png"></figure>
+<p>This time it will show up as <strong>USB Serial Port</strong> under <strong>other devices</strong>. So now again right click on it and <strong>select update drivers</strong>. Then again click on <strong>Browse My computer for drivers</strong>. And then just select the driver Folder and hit ok again, make sure <strong>Include Subfolder</strong> is ticked. And now click on <strong>Next</strong> and it will install the second set of drivers. Which is same process as first one.</p>
+<p>If everything is done correctly, then the drivers will be installed and now you can use your USB without any problem.</p>
+<p> </p>
+<p> </p>
+<h1 id="macosx-installation" class="toc-header"><a class="toc-anchor" href="#macosx-installation">¶</a> Mac/OSX Installation</h1>
+<p>Click to download <a href="https://github.com/MakeraInc/CarveraController/releases/download/v0.9.3/carvera-controller-0.9.3-mac-64.dmg" class="is-external-link">Carvera Controller(Mac)</a></p>
+<p> </p>
+<figure class="image"><img src="https://wiki.makera.com/mac-setup.png"></figure>
+<ol>
+  <li>Double-click the dmg file to mount it</li>
+  <li>Drag the CarveraController application into your applications folder</li>
+  <li>Launch CarveraController from the launcher as normal</li>
+  <li>You can now eject the DMG file (drag it to the trash bin)</li>
+</ol>
+<p> </p>
+<p><span class="text-big"><strong>Solution for APP damage error</strong></span></p>
+<figure class="image"><img src="https://wiki.makera.com/app-damage-error.png"></figure>
+<p>If you encounter the warning as above, open the terminal window and execute the command below:</p>
+<p><strong>sudo xattr -r -d com.apple.quarantine /Applications/CarveraController.app</strong></p>
+<figure class="image"><img src="https://wiki.makera.com/app-damage-solution.png"></figure>
+<p>Reopen the CarveraController application, it should be OK now.</p>
+<p> </p>
+<p>If you still experience a crash, please execute the following command:</p>
+<p><strong>open /Applications/CarveraController.app/Contents/MacOS/carvera</strong></p>
+<p> </p>
+<p>After this, you can directly open it next time.</p>
+<p> </p>
+<p> </p>
+<h1 id="android-installation" class="toc-header"><a class="toc-anchor" href="#android-installation">¶</a> Android Installation</h1>
+<p>Click to download <a href="https://github.com/MakeraInc/CarveraController/releases/download/v0.9.3/carvera-controller-0.9.3-android.apk" class="is-external-link">Carvera Controller(Android)</a></p>
+<p> </p>
+<ol>
+  <li>Open your Android device's file explorer app. ...</li>
+  <li>Locate your APK file in your file explorer app and select it.</li>
+  <li>The APK installer menu will appear—tap Install. ...</li>
+  <li>Allow time for the app to install.</li>
+  <li>Tap Done or Open once the installation is complete.</li>
+</ol>
+<p> </p>
+<p> </p>
+</div></article></html>

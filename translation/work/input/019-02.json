@@ -1,0 +1,327 @@
+[
+  {
+    "id": "9f076c1c62b51e48",
+    "text": "Processing is performed in the order in which the graphic objects are manually selected by the user.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "45a8c2a0a7307fe8",
+    "text": "Inside Out:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "258e6bcd86f28eed",
+    "text": "Process according to the order of graphic object combination from inside to outside",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4539cc7e518f76dd",
+    "text": "Outside In:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "34e8c91314f8ca6a",
+    "text": "Process according to the order of graphic object combination from outside to inside",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a30cdbeb1d05c74",
+    "text": "Ramping Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d54cf50a13cbad77",
+    "text": "The bevel setting allows for a smoother start to material contact when machining hard materials. This helps to improve machining quality and reduce the risk of tool damage.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7f8174b9ebefd705",
+    "text": "Ramping Distance:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "210e02d796b536e7",
+    "text": "This sets the moving distance of the bevel cut. The tool moves smoothly along the graphics processing contour at a specified distance and at a fixed angle. When the set distance is reached, if the cutting depth is still not reached, it will return to the starting point and continue to move the tool at a fixed angle until the cutting depth is reached, and then move horizontally for cutting.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bc37886a753bf22e",
+    "text": "Ramping Angle:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "881706ae2e28500d",
+    "text": "Fixed Angle:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fdfe17c39a05de60",
+    "text": "Use a fixed angle to cut diagonally",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1c0313ff906aac35",
+    "text": "Auto Angle:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "169b0514be1046cb",
+    "text": "Automatically sets the angle based on the Ramping Distance",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "68d9f51e6a5c3849",
+    "text": "Start Z Height:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b8316efb12b60c93",
+    "text": "When the first layer of the bevel cutting tool path is cut, the height is offset upward based on the set starting height.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2ef9b8bf31c5e067",
+    "text": "Nested Strategies",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fef3345f152ea393",
+    "text": "If you select multiple nested graphics without contour intersection when setting tool path parameters, the program will automatically generate tool paths based on the nesting rules.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5a8b323ec3315c25",
+    "text": "When working with",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8cf3a3cb4fa4984b",
+    "text": "Contour",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ef903d0665f0726e",
+    "text": "tool paths:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5067918c317488c1",
+    "text": "If the processing strategy is",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "47abf1cc2c045f28",
+    "text": "Outside:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7e01482d8d23965c",
+    "text": "The selected outline is from outside to inside, the odd-numbered layers are Outside and the even-numbered layers are Inside.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2d6b3552b58922ad",
+    "text": "Inside:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ed68b8491c0967ae",
+    "text": "The selected outline of the object is from inside to outside, the odd-numbered layers are Inside and the even-numbered layers are Outside.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c298db0697bb3c53",
+    "text": "On Vector:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "526db0de0d41d31f",
+    "text": "All selected outlines are On Vector paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c13c5a5f8381d294",
+    "text": "Pocket",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e065b7cf24c71c40",
+    "text": "The selected object is nested from outside to inside, and the ring area generated is cleared of the odd-numbered area material and the even-numbered area material is retained.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "53b59ea38de5d9c8",
+    "text": "Laser Vector",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "661ecfc4a2910de4",
+    "text": "Processing strategy is",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d7852cd0d2453e8c",
+    "text": "Line",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "995f1733688210b7",
+    "text": "Indent Distance = 0",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d78fb1391ad9f2e7",
+    "text": "Laser processing along the contour of the graphic",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "92e733a7a6ef506b",
+    "text": "Indent Distance > 0",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5a835ff5d15b2652",
+    "text": "The graphic outline is from outside to inside, the odd-numbered layers are Outside and the even-numbered layers are Inside.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "27d7314b6d64c4b8",
+    "text": "Indent Distance < 0",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "310baf0fc018208e",
+    "text": "The outline of the graphic is from outside to inside, the odd-numbered layers are Inside and the even-numbered layers are Outside",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "153609929bdbfe1f",
+    "text": "Fill / Offset Fill",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "33559eedfb81871e",
+    "text": "The graphic outline is nested from the outside to the inside, and the ring area generated is cleared of the odd-numbered area material and the even-numbered area material is retained.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "64aa2a0532c14461",
+    "text": "(formerly referred to as Vector Pocket)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7a8834c2fee7b486",
+    "text": "are used to clear the material in selected 2D designs as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "98f376a8f9f2aeea",
+    "text": "To create 2D Pocket Tool Paths, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "084af22ce7315d0b",
+    "text": "Set tool path name",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2ab12fdc4ffafd60",
+    "text": "Set machining depth parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0ca967881df81e3f",
+    "text": "Set safe height and starting position",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8c586a0d548b24ff",
+    "text": "Select tool and modify/confirm tool processing parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e22eef6fc56c9827",
+    "text": "of our Wiki for recommended and default cutting parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8f51aec07ccf9934",
+    "text": "2D Pocket supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 2D design. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ca14092d29837604",
+    "text": "According to the rules for multi-tool clearing, it is recommended that the tool combination be set from top to bottom in order from large to small tool tip diameters. This allows for large-diameter tools to be used first to quickly clear most of the material. Then for the areas in the pocket that large-diameter tools cannot enter, subsequent small-diameter tools will continue to clear the material until the material fully meets the clearing requirements of the selected 2D design.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "762f3dcb9a4516ba",
+    "text": "Note: When setting up multi-tool clearing, it is recommended to combine tools with the same shank diameter to avoid the need to replace the spindle tool chuck.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ecb7ec4f354c45a6",
+    "text": "Also ensure tool numbers vary across different tools as discussed previously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6c8ad4f1548b1ba5",
+    "text": "Set Path Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6efd8d01c4bffee7",
+    "text": "Offset:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "61dbc07d2ba8085b",
+    "text": "Material removal using closed nested paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c775a0ce61d11a04",
+    "text": "The machining path is processed from the outer contour to the center of the selected 2D design",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2ac67af502274194",
+    "text": "Processing tool path from the center of the selected 2D design to the outer contour processing",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "033f437ddc2d9749",
+    "text": "Parallel:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6a82afcf44275f74",
+    "text": "Material removal using a reciprocating line operation",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fab1605f2bdee0a0",
+    "text": "Front To Back:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "34a8fa1e12d88970",
+    "text": "The machining path is processed from the starting point to the end point",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7f60715c1e5bf40d",
+    "text": "Back To Front:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e5ca97208e4a89b7",
+    "text": "The machining path is processed from the end point to the starting point",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f0277ab9ba6e2486",
+    "text": "Set Cutting Direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "be9d799a8578b58c",
+    "text": "[Move Down]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e8b5da1a25b17fbf",
+    "text": "in the pop-up menu that appears to move the order of the selected layer(s) up or down in the layer list. You can also adjust the layer order by dragging the layer with the left mouse button.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e82d925bf9a29f0a",
+    "text": "Change layer display color",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "821ba1a6815b6a76",
+    "text": "Click the color rectangular area to the right of the layer name to change the display color of the specified layer. Once the rectangle has been selected, a pop-up color selection interface will appear to change the display color of the selected layer.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9c7995b5bc817bc8",
+    "text": "Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f8f941e0000a4a5f",
+    "text": "The Path function contains a list of all tool paths set in the current work coordinate system. Note that the ‘T’ numbers shown before the type of path created refers to the tool or tools used in that path. See",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "877887eb2fe5876a",
+    "text": "for examples on how to work with paths.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "df0605da14a96fdd",
+    "text": "Create Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e1432dd1b6a6108e",
+    "text": "Right-click the Path function and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "76c680d563facf1b",
+    "text": "[New Tool Path]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "89695df6c43fedf8",
+    "text": "in the pop-up menu that appears to create the following types of machining tool paths:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7303b1a90fb0eeaa",
+    "text": "Create 2D machining tool paths for 2D designs and vector graphic objects, including 2D Contour / 2D Pocket / 2D Drilling / 2D Thread Milling / 2D Chamfer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1bb635ced203fb2e",
+    "text": "Create 3D machining tool paths for 3D models, including 3D Relief / 3D Contour / 3D Pocket / 3D Drilling / 3D Thread Milling / 3D Chamfer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5fc1f12dcc04a9a2",
+    "text": "Creating 4-axis rotary machining tool paths for imported 3D models including Rotation Relief",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9137e3d6ed20a0d6",
+    "text": "Creating Laser Processing Paths for imported images or 2D models, including Laser Vector / Laser Image",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "914025458c580fe3",
+    "text": "Edit Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4c052991399e77f1",
+    "text": "Double-click the tool path name, or right-click the tool path name to be edited and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fe1d0a33de83fd34",
+    "text": "[Edit]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8a8c70f6df9a9518",
+    "text": "in the pop-up menu that appears. The current tool path parameter setting interface will be displayed in the Extended Properties Panel. If the object associated with the tool path in the Design Area are visible, the associated graphic elements will be automatically selected when editing the tool path. After completing the adjustment of various tool path parameters, click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e60affa3d93723f9",
+    "text": "[Calculate]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7e3f3b97c11cce88",
+    "text": "at the bottom of the Extended Properties Panel to complete the tool path recalculation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ab04db572d2d64a9",
+    "text": "When recalculating the tool path, you must ensure that there is at least one selected object in the Design Area, and the selected object must meet the calculation requirements of the current tool path parameters, otherwise the specified tool path cannot be regenerated and an error message will appear. When editing a tool path, you can reselect the associated object. When recalculating, the tool path will be generated based on the most recently selected graphic object. The newly generated tool path will replace the original tool path information and will be bound to the most recently selected graphic in the Design Area.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "abece50632867acf",
+    "text": "If an object is transformed or adjusted after a tool path has been created, the tool path will not update automatically. You will need to select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cd63cfc2acf5258c",
+    "text": "to open the parameters for that tool path and click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3f444e48467efbb0",
+    "text": "Delete Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f52670d4bdda192f",
+    "text": "In the path list, left-click the tool path to be deleted. You can use Ctrl+left mouse button to select non-contiguous tool paths, or use Shift+left mouse button to select the beginning and end area of contiguous tool paths. After completing the tool path range selection, right-click the selected tool path name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0e1964a8f96e73e0",
+    "text": "in the pop-up menu that appears to complete the deletion of the selected tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c478fec47362ad4e",
+    "text": "Rename Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "37916a96d007399f",
+    "text": "In the path list, left-click the tool path to be renamed, then left-click the selected tool path name again, or right-click the selected tool path name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "183d272cc6758062",
+    "text": "in the pop-up menu that appears to rename the selected tool path. After adjusting the name as desired, press the Enter key on the keyboard or left-click anywhere else in the Functions Panel to complete the renaming operation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0917eed9d52ef588",
+    "text": "Duplicate Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b33115ed5b3c5565",
+    "text": "In the path list, left-click the tool path to be cloned, right-click the selected tool path name, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1fc1648eecefb325",
+    "text": "[Duplicate]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fa9832ecd63398ab",
+    "text": "in the pop-up menu that appears to duplicate and generate a copy of the selected tool path at the bottom of the tool path list.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "21b7e02bb1932f96",
+    "text": "Show/Hide Tool path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "179066b194133171",
+    "text": "In the path list, click the icon to switch between displaying/hiding the selected tool path. You can also right-click the specified tool path name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e40b39ed71b446d3",
+    "text": "in the pop-up menu that appears to toggle between showing / hiding the selected tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "26c9bb557ff30d3b",
+    "text": "To show or hide all tool paths, click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "47c215b5f70eb9c9",
+    "text": "eye",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c2d4b446a44ce54f",
+    "text": "icon",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

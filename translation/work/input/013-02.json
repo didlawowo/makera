@@ -1,0 +1,327 @@
+[
+  {
+    "id": "2ce269e522616fdd",
+    "text": "clamp or bench vise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "849ff36cfb735fa1",
+    "text": ", gently compress the assembly until the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "ed51faad1d923b85",
+    "text": "washer is flush with the bottom of the tool holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "97285015dc285660",
+    "text": "Caution:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "f82fc2ec70d21c3e",
+    "text": "Ensure the washer remains level and does not tilt during compression.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "db3f15ea75e1af18",
+    "text": "4. Final Assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "dcbb32c509806f48",
+    "text": "4.1 Reinstall the Tool Holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "7c9a058d92c831b0",
+    "text": "Place the fully assembled tool holder back into the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "28a6cb3cf32c7f35",
+    "text": "tool holder tray",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "7f01f3db26cf0170",
+    "text": "Reinsert and securely tighten the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "18415f54907ca7a3",
+    "text": "Spring and washer installed correctly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "e344dbc589f4c359",
+    "text": "Washer compressed flush with tool holder base",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "a0f661ede48c848a",
+    "text": "Tool holder securely reinstalled in tray",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "8326e9c382ccdde1",
+    "text": "Grub screw tightened",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "36c846a5194b4146",
+    "text": "You have now successfully reassembled the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "a1e4f30e43a4ea82",
+    "text": "tool holder",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/ATC/Toolholder"
+  },
+  {
+    "id": "872fa1edaa2417c2",
+    "text": "Accuracy troubleshooting",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "d35481ac37c22a93",
+    "text": "X,Y, and Z Backlash",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "d88f874fc815d95a",
+    "text": "Backlash causes some tolerance and inaccuracy in some operations.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "19eba12ed7ae67a7",
+    "text": "A slight movement would not affect accuracy too much.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "b5765606f0d924ab",
+    "text": "If there is a rattle or some excessive movement, it could cause accuracy problems.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "b046704fed191c7c",
+    "text": "Another scenario could be that the Z axis drops when the power is switched off.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "5e5856fba30cc86c",
+    "text": "For Y-axis backlash:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "79a4d9fdf68f71c7",
+    "text": "1. Remove the back panel (loosen all the screws as pictured below)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "5f23b4a98e54833b",
+    "text": "2. Remove the base lid (loosen 4 screws and slide the top out)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "b667b13d69c9329f",
+    "text": "3. Locate the axis tensioner nut in the middle bottom and the inner ball screw hold.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "0b3f3bbec147794a",
+    "text": "4. Do not over-tighten, tighten with increments to only remove the backlash.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "8dae81323b4e8373",
+    "text": "For X-axis backlash",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "8bfe2bff9a27271a",
+    "text": "Remove the back panel (loosen all the screws as pictured below)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "6e49d1d0d4692d22",
+    "text": "2. Remove the LHS panel by loosening the below screws:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "025dcbf50d704d7a",
+    "text": "3. Remember the 2 screws on the side.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "41dbf069939d3fef",
+    "text": "4. Remove the left side panel.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "ac084d8c28909011",
+    "text": "5. Remove the black dust cover and locate the axis tensioner nut and the inner ball screw hold.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "f11a64eeff411828",
+    "text": "For Z-axis backlash and Z-axis dropping when the machine is switched off.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "0b738c916ea497a1",
+    "text": "Remove the black dust cover and locate the axis tensioner nut and the inner ball screw hold.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "66184d4c9befdad7",
+    "text": "Do not over-tighten, tighten with increments to just remove the backlash.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Accuracy"
+  },
+  {
+    "id": "0a928c8b519619c9",
+    "text": "If the suction is bad or the vacuum is not working it could be caused by a few different scenarios:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "09060a195cabe5f9",
+    "text": "The vacuum motor is on but there is no suction.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "a85ec6cf91048d46",
+    "text": "The vacuum motor does not activate.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "7bf17acc42110f80",
+    "text": "Dust shoe does not stay down all the way.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "c2b66d9663ae4162",
+    "text": "-For the internal vacuum the pipe needs to be on the left-hand side.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "4c9fffdb58f598c3",
+    "text": "-Feel for debris or blockage in the pipe.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "14c3e40d8cbcfd20",
+    "text": "-Feel for suction at the dustbin outlet above the mesh section of the bin.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "355cf1517ef294eb",
+    "text": "-Open the back panel of the machine and see if there is any obstruction in the vacuum chamber.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "515a8d2baebd12fb",
+    "text": "-Remove the vacuum chamber if needed to remove any debris.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "f497d6200ca1620d",
+    "text": "- Check if the vacuum is working from the controller.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "fde41c8cb2fa5b29",
+    "text": "- Use manual commands to trigger the vacuum.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "2bfee699cb8a7767",
+    "text": "M801 S100 switch on",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "46a2b39e6342114f",
+    "text": "M802 to switch off",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "02e46a7097ac8dae",
+    "text": "-Check if the vacuum is plugged in correctly on both sides.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "59548263582ff361",
+    "text": "3. Dust shoe does not stay down all the way.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "ccf8e496f003ba8c",
+    "text": "To prevent the dust shoe from lifting up you can re-adjust (pull slightly) the pipe in the top clamp to slightly push down on the dust shoe.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Dust-collection"
+  },
+  {
+    "id": "d82b2569804c75e3",
+    "text": "How to refocus the laser.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "ad2223968d1a9bd4",
+    "text": "• Please use UV safety goggles for this procedure.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "3e09ad30aa00832e",
+    "text": "• Remove the silicone cap from the laser head.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "6f89d11b3b52c6b0",
+    "text": "• Add an MDF spoil board for this test.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "c6c613a467fc6b7c",
+    "text": "• Start the sample laser file (AudreyHepburnSmall)  and stop the file when the laser operation starts. (Include a Z probe in the run config.)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "52ad1b2e937680c6",
+    "text": "• From the top toolbar in the controller, enable the laser and enable the test laser function, the power of the laser is set to 0.1 power, so it won’t burn the material.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "76ddb6f9b782be8f",
+    "text": "• On the laser’s head is a tunable knob that focuses the laser, use this to manually focus the laser.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "2a752c2272eb5362",
+    "text": "• (Look at the laser dot and make sure it is set to its most focused position)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "5ebd1f382361a49c",
+    "text": "• rerun the file and test if the laser has been focused.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "1ed8d3adbe9a0375",
+    "text": "How to realign the laser",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "7e7c506d6b1a98f7",
+    "text": "After the laser has been focused and you need to adjust the offset distance, follow the below steps:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "37a6084c7c1839f2",
+    "text": "1. Enter the laser mode, open the laser test again, go to x=0, y=0, z=0,",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  },
+  {
+    "id": "2c1f9e0d5afb8245",
+    "text": "2. Measure the laser red pointer offset in relation to the anchor point 1 position.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/Laser"
+  }
+]

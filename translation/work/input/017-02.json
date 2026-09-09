@@ -1,0 +1,327 @@
+[
+  {
+    "id": "98a82c6594f33f6c",
+    "text": "section of this guide earlier. If an item in this section of the Functions Panel is right-clicked, the following options appear:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "723b5a58a26056b9",
+    "text": "Import 3D Model…",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cc8606996de44529",
+    "text": "This allows you to select a 3D model in STL / STEP file formats from your computer and import it into your Makera CAM project.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b7e23f4525d9c43d",
+    "text": "Create 3D Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3d0d7912b3edbe85",
+    "text": "This opens the extended properties panel to allow for you to create a dimensioned 3D model within Makera CAM - including a cube, cylinder, or cone shape as discussed later in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d51c71eba61e2595",
+    "text": "Creating Objects",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "42a8875ff190b24d",
+    "text": "Clone Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7d54fe79c5f8b397",
+    "text": "This will make a duplicate of the selected 3D model and list it as a new object within the Functions Panel.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fcaa002f4d06a6e9",
+    "text": "Hide All Models / Show All Models",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "605c971f959da909",
+    "text": "To show/hide all 3D Models, you can also click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "606dc3ab29a46bd1",
+    "text": "eye icon",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d7cc85943b79fb45",
+    "text": "in front of the 3D Models functions a the top of the 3D models list to toggle visibility of all 3D Model objects. You can also right-click on the 3D Models function and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ef44f95ff18f9baf",
+    "text": "[Show All Layers]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e87067fa8621d009",
+    "text": "[Hide All Layers]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "807cd7e82a04f950",
+    "text": "to toggle the visibility of all 3D Models.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ba78785459650b86",
+    "text": "2D Layers",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3b2e2abe3ff6f0ef",
+    "text": "The Layers function within the Functions Panel contains a list of all 2D layers in the current work coordinate system. See",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cfca3928316b82a1",
+    "text": "for more examples on how to work with layers.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "94b006921f78a94b",
+    "text": "Each time a new Makera CAM project is created, a single layer will be made and selected as the active layer. When a 2D design is imported, it will be created as a new layer and listed within the 2D Layers section of the Functions Panel. When a 2D design or image is imported and selected, it will be displayed and highlighted in the color selection for the layer as described in the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "028232652c600956",
+    "text": "Import Graphic",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6f4266d8758c0be4",
+    "text": "Choose between importing an",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1aa4cb0bcca76e92",
+    "text": "Image",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8a7172fb1e9c2e02",
+    "text": "(JPG / PNG / BMP), importing a",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "094176a307fc8243",
+    "text": "2D Model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "539643ba7fb41cec",
+    "text": "(SVG / DXF), or importing the components of a",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c47bca76c51bf3ae",
+    "text": "gerber file.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b09ba564b06be5e2",
+    "text": "New Layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c4ab2a29e94359ee",
+    "text": "In the layer list, click the position where you want to insert a new layer, right-click, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0b02dd8cad6b8097",
+    "text": "[Insert layer]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "890e12a6f82fe30a",
+    "text": "in the pop-up menu that appears. A new layer will be inserted",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "88c7f08d0be5407e",
+    "text": "above",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d0dc3a4544f97b56",
+    "text": "the selected layer position. The new layer name is “New Layer” by default. The newly created layer will be activated as the current layer by default. To insert a new layer at the bottom of the layers list, right-click on the Layer Function at the top of the list and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0ada32935bccf915",
+    "text": "[New Layer]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e8f5d76260631bef",
+    "text": "from the pop-up menu to insert a new layer at the bottom of the layer list.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "89f6aeb6f2047fec",
+    "text": "Delete a layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "abd361366009cebe",
+    "text": "In the layer list, left-click the layer you want to delete to select it. To delete multiple layers at a time, you can use Ctrl+left-click to select non-contiguous layers, or use Shift+left-click to select the beginning and end areas of contiguous layers in the list. After selecting the layer(s) you want to delete, right-click the selected layer(s) and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cbe412235c3ca003",
+    "text": "in the pop-up menu to complete the deletion of the selected layer(s).",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "aba472823c9ccba2",
+    "text": "Deleting a layer will delete all objects in the selected layer. If the graphics have generated corresponding tool path information, deleting the layer will",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "254bb97b57f12e16",
+    "text": "not",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bd01f3dd849137c4",
+    "text": "delete the tool path information associated with the graphics. NOTE: An active layer cannot be deleted. You must first switch to another layer before attempting to delete the layer that is currently active.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9d9c56ec3df5c0b6",
+    "text": "Rename a layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "259e9fd37f6b3bd6",
+    "text": "In the layer list, left-click the layer to be renamed, then left-click the selected layer name again, or right-click the selected layer name and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e04fd56c22c79110",
+    "text": "[Rename]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1d6b3aea11fd5e07",
+    "text": "in the pop-up menu that is displayed to rename the selected layer. After modifying the layer name, press Enter on the keyboard or left-click anywhere else in the Functions Panel system window to complete the renaming operation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "12b60a109fc0e002",
+    "text": "Show/Hide Layers",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "64b0de6e649c9927",
+    "text": "In the 2D Layer list, click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b1191448c1d073d2",
+    "text": "in front of each layer to switch between showing/hiding the contents of the selected layer. You can also right-click on a layer and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7ab994d50c468ec0",
+    "text": "[Show]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1e8eae8e1cb262ba",
+    "text": "in the pop-up menu that is displayed, or",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2c870fbc44c36de9",
+    "text": "[Hide]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b57da5663fe613e6",
+    "text": "to toggle between showing and hiding the contents of the selected layer.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5a92f4ee22c280da",
+    "text": "To show/hide all layers, click the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1679bb283e35d15e",
+    "text": "in front of the 2D Layers functions a the top of the layers list to toggle visibility of all layers. You can also right-click on the 2D Layers function and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "07553cad297abf88",
+    "text": "to toggle the visibility of all 2D Layers.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3743698b02c41e52",
+    "text": "Activate current layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b918a7daa705ae42",
+    "text": "In the 2D Layers list, there is an activated current layer by default. When creating a new graphic or pasting a graphic, it will be placed on the active layer by default. To activate a layer, right-click the name of the layer you want to make active and choose",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "85d209f46fb651d1",
+    "text": "[Active]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "021936a57425be6f",
+    "text": "in the pop-up menu that appears to set this as the active layer. After the layer is set to be the default active layer, the layer name will be highlighted in the Functions Panel.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6bc048f06e7f384c",
+    "text": "Select all graphics in the layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2520605e5fd6a494",
+    "text": "In the 2D Layers list, select the name of the layer for which you want to select all graphics, right-click the layer name, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8215fe76bf5692f7",
+    "text": "[Select Graphics]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "45c5b9cf16b9cbf5",
+    "text": "in the pop-up menu that appears to select all graphics in the current layer. You can also double-click the layer name to quickly select all graphics in the layer.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1a159f8221ffd863",
+    "text": "Move the layer order",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e98e8425b4b940aa",
+    "text": "In the 2D Layers list, select the layer you want to move, right-click the layer name, and select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "065b58c3f745345b",
+    "text": "[Move Up]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

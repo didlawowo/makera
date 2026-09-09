@@ -1,0 +1,327 @@
+[
+  {
+    "id": "ad255d359009e12e",
+    "text": "When you're ready, its time to get hands on with your desktop CNC machine so that you may begin to manufacture incredible things! Visit the Knowledge Sharing page of our Wiki site for fun projects and tutorials. You can also find more resources on the official",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "0108d7b22fd1097e",
+    "text": ", and step by step how to's on the official",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "d29b39379fdeb20e",
+    "text": "Makera Instructables",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "53bb4301088fe731",
+    "text": "page. For machine-specific resources to get started, see below:",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "1e9e87dc27d34450",
+    "text": "Getting Started with the Carvera",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "69abda0d986e07b1",
+    "text": "Getting Started with the Carvera Air",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "8ff583341798a45f",
+    "text": "Carvera Manual and Examples Projects",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "57b46b4fe9631ee0",
+    "text": "Carvera How To's and Guides",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "c0ada523908e5853",
+    "text": "Carvera Official Facebook Group",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "51f68f9df4bca7a5",
+    "text": "Official Makera Discord Channel",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "ca41575ce320187c",
+    "text": "Carvera Air Manual and Examples Projects",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "6e0f215442c8acf6",
+    "text": "Carvera Air How To's and Guides",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "66a221fccacaf049",
+    "text": "Carvera Air Official Facebook Group",
+    "page": "https://wiki.makera.com/en/GettingStarted"
+  },
+  {
+    "id": "af35c80a399aea90",
+    "text": "Makera Engraving Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "75d51d6887f05c82",
+    "text": "Installation：",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "1ee3f3dd45aff877",
+    "text": "1. Install the engraving module into the spindle collet as you would a standard tool. Ensure the orientation matches the illustration (label facing outward).",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "78475f56e0dd0905",
+    "text": "2. Connect the laser module cable to the",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "6715d4c50a7c3650",
+    "text": "port on the right side of the spindle housing.",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "17ced91884404bc4",
+    "text": "3-pin",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "dfaa7954f553e581",
+    "text": "3. Use the included silicone tube to connect the air inlet of the engraving module to the machine’s air outlet to enable air assist (Optional, Carvera Air only).",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "913b4990dfd109ac",
+    "text": "1. After installation, ensure the engraving module is securely tightened and cannot rotate",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "3e0ed0c0b2efff30",
+    "text": "2. Make sure the workpiece surface is flat and free of interference",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "73c4b813c1e89c51",
+    "text": "3. Always wear laser safety goggles during operation",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Engraving-Module"
+  },
+  {
+    "id": "ae87e3255cb0ee83",
+    "text": "Makera 3D Probe",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "a47c364023b535e1",
+    "text": "Makera 3D Probe Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "999aa4d816093ac4",
+    "text": "The 3D probe enables automatic X / Y / Z probing on both conductive and non-conductive materials. It is ideal for edge finding and center finding on regular shapes (such as square or round workpieces), especially when using custom fixtures like vises.",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "204c7b2a7911489b",
+    "text": "Operation:",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "fa879a399e2c7769",
+    "text": "1. Follow the on-screen instructions to switch to the 3D probe",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "93368e7f1beeb2ea",
+    "text": "2. Remove the current tool and install the 3D probe",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "62fda7b5f6d020cc",
+    "text": "3. Unplug the wired probe connector and connect the 3D probe cable",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "0c8272816c5293e3",
+    "text": "4. Tap ‘Continue’ or press the main button to start automatic calibration",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "e0ae17f0e021afe9",
+    "text": "5. Follow the on-screen guidance to perform probing process",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "648bc27b43e62a9a",
+    "text": "1. After changing the spindle collet, use the appropriate adapter sleeve",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "64edf15d524f4738",
+    "text": "2. The probe is factory-calibrated. Recalibration is required after collisions or when changing the probe holder (see wiki.makera.com)",
+    "page": "https://wiki.makera.com/en/Makera-Accessories/Makera-3D-Probe"
+  },
+  {
+    "id": "4eed103d12adf77b",
+    "text": "Please read this manual carefully before using the Carvera. Failure to read the manual may lead to personal injury, inferior results, or damage to the Carvera products.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "1b58bb4936cebc21",
+    "text": "Carvera is equipped with multiple sensors (Motor stall sensor, Spindle abnormal sensor, etc.). However, you should always pay attention in operation that milling cutters revolving in high-speed, unstable components or laser in operation are dangerous to people without protection. Please carefully read the safety instructions below to avoid unnecessary casualties.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "46927792cdb25d4f",
+    "text": "1. Always wear safety goggles when operating Carvera, especially when the protective cover is open.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "826d2ea6694e19b4",
+    "text": "2. Always wear laser protection goggles when using laser function.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "18be7f447f49f9ad",
+    "text": "3. Please wear hearing protection when Carvera is machining on the hard materials.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "bff70614f7ee1af3",
+    "text": "4. Do not put your hands close to the spindle or machining area. Keep the protective cover closed when operating Carvera.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "ef1e3545038b70a6",
+    "text": "5. Do not leave your Carvera unattended while it is machining.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "b43357896d94a18d",
+    "text": "6. Please be aware of the sharpness of the milling bits during installation, dust collection, and other operations.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "a2a31a27a0429a23",
+    "text": "7. Milling and laser carving will generate heat. Inappropriate parameters will cause fire hazards. Make sure an extinguisher is in your vicinity.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "842ac97f1ce9ac1b",
+    "text": "8. Some materials are harmful to people when machining or laser craving, such as carbon fiber and epoxy resin. Please wear a face mask and turn on the automatic dust collection.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "3a7e829556ba7066",
+    "text": "9.  Do not expose this machine to rain or wet conditions.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "f5c2f085134186fe",
+    "text": "10. Keep children and bystanders away while operating this machine. It requires supervision and the assistance of an adult when children use this machine.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "8a66b177ccb83d1b",
+    "text": "If an emergency occurred in machining, such as the workpiece being loose from holding, components damaging, unusual light or sound coming from the machine, etc. Press the main button or E-Stop button, all ongoing procedures will stop immediately, or cut off the power to shut it down. Carvera is built by closed-loop servo motors, and it saves the coordinates and status at each step. Therefore, no need to recalibrate after reboot, just restart the job.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "40dc08b4605243ff",
+    "text": "Carvera has a safety option that allows the machine to automatically stop working when opening the cover, which is useful for schools or work environments where children may reach.",
+    "page": "https://wiki.makera.com/en/Safety"
+  },
+  {
+    "id": "fcab6354e414c217",
+    "text": "Makera Z1 - Accessories",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "ed1d272ecf8ed83c",
+    "text": "Makera Z1-Accessories",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "bf8099316bf54979",
+    "text": "Accessories of the Makera Z1: the Makera Z1 4th Axis Module, Makera Z1 Vacuum Bed and Makera Z1 Low-Profile Vise.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "02e142e92d8ed872",
+    "text": "Makera Z1 4Axis Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "e5227c2187ccd220",
+    "text": "/en/Z1/Accessories/4Axis",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "392a36f0c268e394",
+    "text": "Makera Z1 Vacuum Bed Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "7f3093fba09f860b",
+    "text": "/en/Z1/Accessories/VacuumBed",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "de6030058fb10717",
+    "text": "Makera Z1 Low-Profile Vise Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "8f04a8bdbcd04d9d",
+    "text": "/en/Z1/Accessories/Low-Profile-Vise",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "a90d99210f939650",
+    "text": "Makera Z1 Ionizer Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "e06cb12f578cc280",
+    "text": "/en/Z1/Accessories/Ionizer",
+    "page": "https://wiki.makera.com/en/Z1/Accessories"
+  },
+  {
+    "id": "b0ac4d0ab473bbe9",
+    "text": "Makera Z1 4Axis Quick Start",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "44e3788b16c28bc5",
+    "text": "Makera Z1 4th Axis Module Quick Start Guide",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "198b268f33d176a5",
+    "text": "1. Preparation:",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "10dfd30f8655a9f5",
+    "text": "For shipping, the 4th-axis headstock is positioned to the right. It must be adjusted before use: Refer to the illustration, loosen the 4 mounting screws, slide the headstock to the left until aligned with the base, then retighten.",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "765d321e65d32e37",
+    "text": "2.1 Home the machine in the control software, then power it off (spindle at the far right, machine bed at the front)",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  },
+  {
+    "id": "36d9f021f28e6de1",
+    "text": "2.2 Remove any tool from the spindle to avoid injury",
+    "page": "https://wiki.makera.com/en/Z1/Accessories/4Axis"
+  }
+]

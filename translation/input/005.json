@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "16e28c6cf732deaa",
+    "text": "3. Dust Extraction: Connect an external vacuum cleaner to the dust port on the rear of the machine (22mm inner diameter; an adapter may be required). You can manually start and stop the dust collection system. Alternatively, you can automatically control the external dust collection equipment using the machine's external control port. For detailed instructions, please refer to the official knowledge base: https://wiki.makera.com/",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "ba11b1d0a81aa73f",
+    "text": "Note: Installing the dust shoe may interfere with rapid tool changes. You can choose to remove the dust shoe during tool changes based on your usage preferences.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "497c8bd0ef53eeaa",
+    "text": "Note: Use caution when installing or removing the dust shoe, particularly if a milling bit is present in the spindle.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "070cbb71809ea426",
+    "text": "1. Preparation: To facilitate transportation, the spindle box for the 4th axis is fixed in the right position. Refer to the illustration to loosen the four screws securing the spindle box. Carefully align the leftmost side of the 4th axis spindle box with the left side of the 4th axis base plate.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "d3312ed24b784fbc",
+    "text": "2. Installation:",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "bcb77a2f23787027",
+    "text": "2.1 Using two 4mm alignment pins, position the 4th axis at the center of the worktable as shown in the illustration. Fasten the 4th axis to the worktable with six M5×20 screws.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "481928594240c0a3",
+    "text": "2.2 Ensure the machine is powered off before proceeding.Bend the 4th axis connection cable towards the rear inside the machine. Insert the cable into the 4th axis interface at position 1 in the illustration (ensure the dust cover at the interface is open first). Using the hex key and M4×8 screws provided in the 4th axis packaging, secure the cable clamp to position 2 shown in the illustration (remove the existing screws from the original position first).",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "5eb40516a8032637",
+    "text": "3. Workpiece holding:",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "c9a394af9f93b6a2",
+    "text": "3.1. Loosen the locking screw at position A on the tail stock as shown in the figure, adjust the tail stock tip to the right side by turning the knob counterclockwise.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "600bab9ffa8767f8",
+    "text": "3.2. Loosen the 2 fixing screws at position B.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "2a0c6f8929777e01",
+    "text": "3.3. Use two wrenches to adjust the opening size of the chuck and place the workpiece in.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "75802e4222af0ca3",
+    "text": "3.4. Align the tail stock tip to the end of the workpiece, and tighten the two fixing screws at position B.（We highly recommend drilling a small hole at the end of the block tail for better holding strength, especially for hard materials.)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "a56cff09f6f389aa",
+    "text": "3.5. Use two wrenches to tighten the chuck, push the tail stock tip close to the workpiece by turning the knob clockwise, and lock the locking screw at position A. (Don't push too hard to the workpiece, it's ok when there is no gap and backlash, better drill a small hole first at the center of the workpiece tail for fixing.)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "bdf6ad6dc9374906",
+    "text": "4. Software Settings: The right edge of the headstock is the reference point for setting the working coordinates of the rotary module. When performing rotary machining, you only need to set the distance between the X axis and the reference point and set Y to 0.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "0164c43b81650de7",
+    "text": "Note: Usually, you don’t need to move the head stock, because the reference point on the head stock should be fixed for precise positioning. Ensure that the holding position/size/G-Code/work coordinate of the workpiece match with each other, otherwise it may cause damage to the module or tool bit.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "d906a423c590f7cf",
+    "text": "Carvera Air comes with a 1/8 inch(3.175mm) spindle collet. This is the commonly used size for desktop-level CNC machines, which can meet most machining requirements. For special sizes such as 4mm/6mm/6.35mm, you can change the spindle collet and the tail shaft of the wired probe.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "b3c0b84dff90ac4c",
+    "text": "1. Change spindle collet: Use the handle to drop the current tool, insert the spindle collet installer into the current collet, and rotate counterclockwise to remove the current collet. Use the same way to install the new collet. (Do not over tighten)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "f76734aa462d31cb",
+    "text": "2. Change the tail shaft of the wir ed probe: Rotate the wired probe’s tail shaft counterclockwise to uninstall. Use the same method to change the new tail shaft. (Do not over tighten)",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "47d37e2eb402862d",
+    "text": "The Carvera Air machine has an optional 5W diode laser module, which can engrave wood, plastic, and other materials, an excellent complement to the Milling function.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "33968b6071e85a7b",
+    "text": "Installation/Removal: Insert the laser module as you would a standard milling bit, ensuring its orientation matches the direction indicated in the image. Confirm that the laser module does not rotate post-installation. Connect the cable to the laser module and to the 3-pin socket located at the",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "ae6df35a780550f5",
+    "text": "top right of the spindle casing.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "d18198791c1b6854",
+    "text": "Optional - you can use the included silicone tube to connect the air inlet of the laser module to the air nozzle for Air Assist during laser processing, achieving better laser engraving results.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "a6800c56c3ef6b2f",
+    "text": "Note: The focal length of the laser module is fixed at approximately 5mm below the laser module (including the protective plate). Please ensure the material is flat, and make sure there are no obstacles higher than 5mm around the workpiece.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "3654c6f5fd612df1",
+    "text": "Note: Always wear laser protection goggles when using laser function.",
+    "page": "https://wiki.makera.com/en/Air/Manual/toolkit"
+  },
+  {
+    "id": "2d3208e1758481c3",
+    "text": "Carvera Air Troubleshooting",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "7ebd0aa9d556af28",
+    "text": "Carvera Air general preliminary troubleshooting",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "46774c469da61a5f",
+    "text": "Please note that this page is a WOP and Makera reserves the right to modify and update content accordingly.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "b3337e87d8684b4a",
+    "text": "When an error occurs on the machine it can be mostly solved by following the steps below:",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "4d512f0db31c58e9",
+    "text": "1. Have you tried it a second time?",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "a87e8b90178be2a3",
+    "text": "2. Is your firmware and the controller software updated?",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "e3b0c3aa45b505e2",
+    "text": "3. Have you unplugged all cables and reset the machine?",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "ca8162962c845c2a",
+    "text": "4. Are you using the right post processor?",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "994ff9787a1621b9",
+    "text": "If the above does not solve the problem, further investigation is needed. Below are a few general troubleshooting topics.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "7ec79f1146d948b3",
+    "text": "Click on the link and follow the steps accordingly.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "79eac48dc7e2a6a7",
+    "text": "If a problem is not found under the troubleshooting content, please contact support (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "f4d0777948e8afdc",
+    "text": "support@makera.com",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "eb09d08200dad3f0",
+    "text": "Spindle troubleshooting",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "e076410f3318bea9",
+    "text": "Fixing a Loose Collet Lever",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "bfeb9883b2713ecf",
+    "text": "Problematic X Y and Z movement",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "5501e14c9feff8e8",
+    "text": "Linear guide adjustment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "487128ac49effb91",
+    "text": "Ball screw adjustment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "c256d4d04719e399",
+    "text": "Replace X axis Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "7aaf6a5889b01c79",
+    "text": "Wi-Fi connection",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "4e2fb45a6bd35eb6",
+    "text": "Resolving Network Conflict with eero",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "4b160181363e8224",
+    "text": "4th Axis",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "0b00f7de40e21325",
+    "text": "Rotational Z Offset",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting"
+  },
+  {
+    "id": "320d6900e05b17c8",
+    "text": "eero Wi-Fi connection error",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "fe4a66566c989faa",
+    "text": "Issue Summary",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "cd2fc3509ac1f1ce",
+    "text": "The default network segment for e",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "89672feebddaf95c",
+    "text": "ero",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "fa51fd49abf67705",
+    "text": "is",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "aa15cbc8fe7fcc98",
+    "text": ", which conflicts with the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "61fc88e5b1f1ea72",
+    "text": "AP network segment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "e0db96a21aba6b8f",
+    "text": "of the machine, causing connectivity issues.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "cd76b83adc00bd0d",
+    "text": "Solution Options",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "edc4789d70c02c87",
+    "text": "To resolve this conflict, choose one of the following methods:",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "db060f26b4672e98",
+    "text": "Method 1: Disable the Machine’s AP Network",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "4b51b940ceab66db",
+    "text": "Access the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "892ec847b0c08b25",
+    "text": "MDI (Machine Diagnostic Interface)",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "1bfd0000f5dfaa00",
+    "text": "Enter the following command:  ap disable",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "9ed1273e9b5a5579",
+    "text": "Press",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "dc8659db6d416dc3",
+    "text": "Enter",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "039283fe2620748b",
+    "text": "to execute the command.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "065bfc3e5047b712",
+    "text": "Verify that the machine’s AP network is disabled.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "5d75480b03922149",
+    "text": "Method 2: Modify the Eero Network Segment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "15559fde5c14ccf3",
+    "text": "Eero app",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "53ab743cc3c3e1aa",
+    "text": "on a connected mobile device.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "5060552031a7d1da",
+    "text": "Navigate to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "a47d5574d1b5c0c6",
+    "text": "Network Settings",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "011f7e4eae188870",
+    "text": "Locate the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "ca1bdb6924c9eb23",
+    "text": "IP Addressing",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "7175517a370b5cd2",
+    "text": "or",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "c722d48f88b93719",
+    "text": "Subnet Settings",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "50f6f281c7bac853",
+    "text": "option.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "6f428e75e7aa701e",
+    "text": "Change the default",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "c9a1827182d09c25",
+    "text": "network segment to a different subnet (e.g.,",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "1e40836b25c3af1e",
+    "text": "Save the changes and allow the Eero network to restart.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "454638943fdc62c0",
+    "text": "After applying either solution, verify that the network conflict is resolved by testing connectivity between devices.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/EEro_connection_guide"
+  },
+  {
+    "id": "a18c3fff99b5400d",
+    "text": "Replace broken coupling on the x axis ball screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "7c38a3419392a477",
+    "text": "Technical Manual – Replacing the X-Axis Ball Screw Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2682f314cb19776a",
+    "text": "1. Tools & Preparation",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "55084680a9df07a4",
+    "text": "Preparation:",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "f3fe0b9dc9a8f9bb",
+    "text": "unplugged",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "acc0e84b4a3aebc1",
+    "text": "before beginning.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "10c2b3631d4f77da",
+    "text": "✔ Follow the disassembly instructions for",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "a91e64a27944cce8",
+    "text": "removing the X-axis ball screw covers",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "1c8936ef11b9df9d",
+    "text": "as outlined in the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "ac87864bce5ce10b",
+    "text": "XYZ Motor Error Troubleshooting Guide",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2cd01f58905deb11",
+    "text": "2. Removing the Existing Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "8d2d976e18258140",
+    "text": "2.1 Accessing the Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "49db11dc6b5a5e95",
+    "text": "Once the covers have been removed, locate the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "5fd795abab3727a2",
+    "text": "ball screw coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3265cce9ce4e0947",
+    "text": ". It is positioned on the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d3d40da34e3b7892",
+    "text": "left-hand side",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d6e3c63ab4d60e81",
+    "text": ", connecting the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "8f2a2199a6820b11",
+    "text": "motor shaft to the ball screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "12e66ef26221f11d",
+    "text": "Figure 1 – Location of the ball screw coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2eed001a078d44e4",
+    "text": "2.2 Loosening the Grub Screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "629506cb905a5e4a",
+    "text": "The coupling is secured by",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "10d778ddd5170e62",
+    "text": "four grub screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "32100d2161b276fe",
+    "text": "—two on the motor shaft side and two on the ball screw side.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "de1fa6052feb0b7a",
+    "text": "to loosen all four grub screws (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "1b34ba99151db938",
+    "text": "Figure 2 – Loosening grub screws on the ball screw coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "f6c599bb00d5798e",
+    "text": "2.3 Removing the Stepper Motor",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "50f01aa95cc5c4d7",
+    "text": "to remove the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "5bd47b9824862262",
+    "text": "holding the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d375fb3b974bab27",
+    "text": "X-axis stepper motor",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "28f281cc55c1bc71",
+    "text": "in place (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "8610ee7f198a945e",
+    "text": "Figure 3 – Removing the stepper motor mounting screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "aa23c948bd1428a9",
+    "text": "2.4 Loosening the Ball Nut Screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2ca63860b24b5634",
+    "text": "Slightly loosen the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "cab867c33e42a99a",
+    "text": "ball nut screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2731e929553fa662",
+    "text": "located on the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "386abdffee62cbef",
+    "text": "right-hand side behind the spindle assembly",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "8cb8209aa6c02aa1",
+    "text": ". Do not fully remove them—just enough to allow slight movement (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "c259a1056c7ebdd0",
+    "text": "Figure 4 – Loosening the ball nut screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "a11386a1c9d862cc",
+    "text": "3. Removing the Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "f4676dbf3562a659",
+    "text": "3.1 Creating Space to Remove Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "c3572cf7b61a0d21",
+    "text": "Slide the coupling to the far left",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "0855a56c10140ce0",
+    "text": "as shown in",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "c3c50b6e1cd48b31",
+    "text": "Apply moderate force to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3a40b425f2f955f3",
+    "text": "gently flex the ball screw backwards",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "6956222f8022134d",
+    "text": "to create a gap.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3233b2c3e99002a4",
+    "text": "Once there's enough clearance,",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "34c6ffaf4c5dfec8",
+    "text": "slide the coupling out towards the right",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "7817f424799e1c3c",
+    "text": "Figure 5 – Sliding the coupling to the left",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "ca41cf5367e8c092",
+    "text": "Figure 6 – Flexing the ball screw to remove the coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "1036a690d1942894",
+    "text": "4. Installing the New Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "7298885c8bf56612",
+    "text": "4.1 Positioning the New Coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3c269165fd37f74d",
+    "text": "With the ball screw still gently flexed,",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "7bfb6e17dbc13b20",
+    "text": "slide the new coupling into position",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "bd50bbd8f2ed97f3",
+    "text": "flat sections",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "51baf1bef5d301e2",
+    "text": "on the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "02f185afc42fa757",
+    "text": "ball screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "53f3d103247cfa48",
+    "text": "motor shaft",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "1cf41fe966ccc6c9",
+    "text": "with the respective grub screw holes (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "ab9c5278cff11fbf",
+    "text": "Figure 7 and 8",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "a7d0bff342fbee92",
+    "text": "Tighten the grub screws using the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "9e358f8d38ad09b1",
+    "text": "Figure 7 – Aligning and fastening grub screw on the ball screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "aa17abc9f2fbcb23",
+    "text": "Figure 8 – Aligning and fastening grub screw on the motor shaft",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "cb9009c9b9708dd0",
+    "text": "5. Final Assembly",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d6725f00c1d8bd5c",
+    "text": "5.1 Securing Components",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "3e244dabfbe27830",
+    "text": "Tighten all four grub screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "10a37db376e315b0",
+    "text": "on the ball screw coupling securely.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "b22eb4f48d1100fd",
+    "text": "Reinstall and fasten the stepper motor",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "278b86b5926f2c73",
+    "text": "using the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "c78825efa1d369b0",
+    "text": "Re tighten the ball nut screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "426a9827dc4fdfed",
+    "text": "—be careful not to over-tighten.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "ec3360c33a6223ae",
+    "text": "5.2 Reattaching Covers",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "27335208d88788d8",
+    "text": "Replace all previously removed covers to restore full machine enclosure.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "994603cd63d0c8ff",
+    "text": "Completion Checklist",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "b87f9a74f0804391",
+    "text": "Coupling installed and secured with all grub screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "90ad43e04e4f3291",
+    "text": "Stepper motor securely fastened",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "9cb02b6e43a80850",
+    "text": "Ball nut screws tightened (not over tightened)",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "12469b275260dc96",
+    "text": "Covers replaced",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "2c445ceb8e11e9c9",
+    "text": "Machine safe and ready for power-up",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "a1df3b28e39d1971",
+    "text": "You have now successfully replaced the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "b9071635835996c6",
+    "text": "X-axis ball screw coupling",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "69f6e9452248e436",
+    "text": "Carvera Air",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/Replace_x_axis_coupling"
+  },
+  {
+    "id": "d0009aa7eb3c4bd3",
+    "text": "Collet Lever",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "b1f5d1ab4d28157f",
+    "text": "1.5mm Allen key",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "d115e373addb51f6",
+    "text": "2.5mm Allen key",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "9c280284ef2669a2",
+    "text": "Procedure",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "5650bb5c1c4e9069",
+    "text": "Step 1: Remove the Grub Screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "b837b360424a8da1",
+    "text": "grub screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "13262a3c3f156ff5",
+    "text": "securing the collet lever shaft.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "fa602e3d717f71f3",
+    "text": "Using a",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "ad82fcb7aa13e1a8",
+    "text": ", remove the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "a7c7f48f63f52167",
+    "text": "front grub screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "efd4b3264fa300f3",
+    "text": "Similarly, remove the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "6a3982c585375423",
+    "text": "rear grub screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "366f01b43b3b4517",
+    "text": "as indicated in",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "6bbde193b732b4f1",
+    "text": "Step 2: Remove the Collet Release Lever",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "509605ce24837fd6",
+    "text": "With the grub screws removed,",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "d72f0dad34d54978",
+    "text": "lift the collet release lever upward and out",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "9fb9ee8dc55cca60",
+    "text": "of the collet lever shaft.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "3240c78dfd6f765d",
+    "text": "Ensure that no debris or obstructions are present before proceeding to the next step.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "c758265c36125b4c",
+    "text": "Step 3: Tighten the Shaft Securing Screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "becf83b1d7deb649",
+    "text": "Looking from the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "133b67d69eebb0ee",
+    "text": "left side",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "869334dcaf720260",
+    "text": ", locate the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "89b0f339c1b7c35e",
+    "text": "central hole in the collet lever shaft",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "d62f42fcc6f58e12",
+    "text": "Inside this hole, identify the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "91a627e411d7c240",
+    "text": "2.5mm Allen screw",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "bf2dbf1a0a47b7e2",
+    "text": "that secures the shaft in place (",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "05f053d780f95735",
+    "text": "tighten",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "30a048a72d423023",
+    "text": "this screw, ensuring the shaft is firmly secured.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "7cc834877744fc78",
+    "text": "Step 4: Reinstall the Collet Release Lever",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "5b9d793f2dd8926a",
+    "text": "Position the collet release lever back onto the shaft.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "c144c09c51ea1cd2",
+    "text": "Insert and",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "e10c6f521db824ec",
+    "text": "tighten the grub screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "0c2cafeaf24ab254",
+    "text": ", ensuring they are properly seated in the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "75940ab215c74a87",
+    "text": "small locating hole near the end of the shaft",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "c907a425c9e808bb",
+    "text": "Confirm that the collet lever moves freely without excessive play.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "c6d656e1c7f8f74d",
+    "text": "Ensure all screws are securely fastened to prevent future loosening.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "1a910afe75f92451",
+    "text": "Test the functionality before returning the machine to operation.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/collet_lever"
+  },
+  {
+    "id": "86fc1c8c22898a3f",
+    "text": "Adjusting the Z-Axis Rails",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "764fc2948988d0e9",
+    "text": "(included in the tool kit)",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "736e072d9b2bbb47",
+    "text": "Step 1: Preparation",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "9b7b2598110fb2d2",
+    "text": "Ensure that the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "ea0bdaf4d8444a52",
+    "text": "before beginning the adjustment.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "a74590ef211b0481",
+    "text": "two screws to the left of the spindle head",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "6ff5308cf28e03a3",
+    "text": "(Figures 1 and 2).",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "c866620dad653f53",
+    "text": "Step 2: Loosening the Screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "30687c918629c83a",
+    "text": "loosen the two screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "60941c783023b886",
+    "text": "securing the Z-axis rails. Do not remove them completely.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "ef9fe130b3dfd4dd",
+    "text": "Step 3: Adjusting the Spindle Head",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "71cfd4bc2177cacc",
+    "text": "Gently push the spindle head down by hand",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "608e7d287d7cfa2f",
+    "text": "(Figure 3).",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "8d919f33c93d1dab",
+    "text": "Be cautious not to allow the spindle head to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "8ac4213bac176dc0",
+    "text": "crash into the auto tool setter",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "bbd786d5b0bc3cd1",
+    "text": "(Figure 4)",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "22a122b66658dd0f",
+    "text": "Step 4: Securing the Adjustment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "2bd2613dfeb22ac7",
+    "text": "With the spindle head in its",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "765189980235e5c0",
+    "text": "lowest position",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "aa419379cfd6daa3",
+    "text": "re-tighten the screws",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "007a74feb220acc4",
+    "text": "(Figures 5 and 6).",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "58f1b7d64ab2a19d",
+    "text": "Avoid over tightening, as this may cause binding in the movement.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "d8953388162adfd1",
+    "text": "Step 5: Testing the Adjustment",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "e2f43dccc587e7a7",
+    "text": "Manually slide the spindle head up and down",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "f33a1854eefcb334",
+    "text": "to ensure smooth movement.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "cab8a9cadca2aa6d",
+    "text": "Verify that there is",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "bc05a76fb7df7792",
+    "text": "no play or backlash",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "5eb5e2f38da310ac",
+    "text": "in the Z-axis movement.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "56ae73d00a1b2346",
+    "text": "Confirm that the spindle head moves smoothly.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "ecca47fb20b92f7b",
+    "text": "Ensure that the Z-axis rails are properly secured without excessive tension.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "eaa2f86e4cef89ec",
+    "text": "Restart the machine and perform a test operation to verify proper function.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "af4d4a48a59fe27d",
+    "text": "The Z-axis rail adjustment is now complete.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/linear_rail_adjustment"
+  },
+  {
+    "id": "1fd9094cc7d22e17",
+    "text": "Machine is halted X, Y, Z Axis Motor Error, reset needed",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "3430bdae2cbe777c",
+    "text": "1. X Axis ball screw.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "ba572e603b9534d2",
+    "text": "To gain access to the x-axis ball screw remove the horizontal covers that are visible from the front of",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "5654f77301a99041",
+    "text": "the machine behind the spindle head. Fig 1. Make sure the machine is off and unplugged.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "d2285cbd52912354",
+    "text": "1. Push the spindle head all the way left along the X-axis.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "dcfdfa3b141223b5",
+    "text": "2. With an Allen key unscrew the screws as per Fig.1, then remove the metal cover.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "48cb798cc7bb6b6e",
+    "text": "Fig 1",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "3962a7830477e6a1",
+    "text": "3. Push the spindle head all the way right along the X-axis",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "dcd4c30a529832e1",
+    "text": "4. With an Allen key unscrew the screws as per Fig.2, then remove the metal cover",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "3ccdcb748892e35e",
+    "text": "Fig 2",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "4ecdb4b5aefad9a8",
+    "text": "5. Looking from down the ball screw you will see two Allen screws on the ball nut as in Fig. 3",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "b5a960d077d975ef",
+    "text": "loosen both roughly half a turn, push the spindle head left and right to feel if it is looser, and wiggle",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "d52b7ea7d69f2ab0",
+    "text": "the spindle head to check for backlash, you want the spindle to move freely with some",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "733408ea5430ee09",
+    "text": "resistance but without any backlash.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "866a00557082fcae",
+    "text": "Fig 3",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "97388646f114b5de",
+    "text": "2. Y Axis Ball screw.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "377caeb1d5dcf1c8",
+    "text": "The ball screw for the Y-axis is under the bed.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "7c0dff6ac7c8ab57",
+    "text": "1. Lift the machine from the front and place a prop under the legs high enough for you to get",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "22c4355dddb033de",
+    "text": "access to the ball nut screws Fig. 4",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "aa66628c1eb55098",
+    "text": "Fig 4",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "55215824ab14c280",
+    "text": "2. There are two Allen screws on the ball nut Fig. 5, loosen them about half a turn and push the bed",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "206fd1390bca7223",
+    "text": "back and forth to feel if it is looser, wiggle the bed back and forth to check for backlash, the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "a19714ee6803bc02",
+    "text": "bed must be able to move with some resistance but without any backlash.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "132677e103bf8f5e",
+    "text": "Fig 5",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "1e4dc6ee81304360",
+    "text": "3. Z-Axis ball screw.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "91e3f4bbc06c88c6",
+    "text": "Access to the Z-axis ball screw is the vertical cover directly behind the spindle head Fig. 6.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "915852c03e1fb0ee",
+    "text": "Fig 6",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "3e17c3480de7ca40",
+    "text": "1. Raise the spindle head this will reveal two cover screws Fig 7, and unscrew them with an Allen key.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "dcaf5cad463c324a",
+    "text": "Fig 7",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "d1fe25e8ce1a1797",
+    "text": "2. Ensure the spindle head is roughly centered, and the bed is all the way forward. Push the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "632c8d0587a2b837",
+    "text": "spindle head all the way down, and make sure there are no cutting bits in the spindle. Remove the",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "4f1a05efa996305c",
+    "text": "4 remaining cover screws Fig. 8",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "e9f1ef1a8a03afa6",
+    "text": "Fig 8",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "848969def9eace15",
+    "text": "3. Unclip the metal cover from the clear plastic lid. Fig. 9. This will allow the ball screw cover to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "a974f6d0c0eaf083",
+    "text": "slide down.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "87381b84a0673f5a",
+    "text": "Fig 9",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "b27a820e960c33fe",
+    "text": "4. From the top you can see two Allen screws on the ball nut (use your smartphone camera to",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "c4d2176ac07d5e25",
+    "text": "get an easier view of the screws). Fig. 10",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "ade3b6b3cb3b7fbe",
+    "text": "5. Loosen the Allen screws about a half turn and push the spindle dead up and down to feel if it is",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "8187c6bc702f2e56",
+    "text": "looser, wiggle the head to feel for backlash. The head must move with some resistance but",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "1a561d2f981a6501",
+    "text": "without any backlash.",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "2f119c9c515c15b0",
+    "text": "Fig 10",
+    "page": "https://wiki.makera.com/en/Air/Troubleshooting/xyzaxismotorerror"
+  },
+  {
+    "id": "5c9485f3b0cc7a5c",
+    "text": "Cyclone Dust Collector Maintenance",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "34dc98cc8a9f9b6b",
+    "text": "The Makera Cyclone Dust Collector is a complex electromechanical device full of sensors, electronics, and mechanical parts.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "d4b6605c1205a1ff",
+    "text": "Regular maintenance will reduce the wear and increase the life of the Dust Collector.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "0ce4fe00389de8f5",
+    "text": "Before starting any maintenance procedures ensure the Dust Collector is turned off and unplugged.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "ce6675c2ecc79849",
+    "text": "Vacuum or compressed air can be used for cleaning, do not wash filters or parts.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "eadfa5c59b39b55f",
+    "text": "Cyclone Dust Collector Routine Maintenance Tutorial Video",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "97341a2d3e7e99a9",
+    "text": "Usage of External Control for the Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneMaintenance"
+  },
+  {
+    "id": "ba7446a1ed4b59b0",
+    "text": "Cyclone Manual",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "62dca007a0990ba1",
+    "text": "Click here",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "1ead326a0b0b406c",
+    "text": "to view our tutorial videos for the Makera Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "fde214fc6df00de1",
+    "text": "Instruction Manual for the Makera Cyclone Dust Collector",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "df8a36d620d01e50",
+    "text": "Overview Video",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "6171b2a461207d19",
+    "text": "Statement",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "b346d5bcfe9cd00b",
+    "text": "FCC statement:",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  },
+  {
+    "id": "fb8d9ca025a16f66",
+    "text": "Any Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.",
+    "page": "https://wiki.makera.com/en/Cyclone/CycloneManual"
+  }
+]

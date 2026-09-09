@@ -1,0 +1,167 @@
+[
+  {
+    "id": "a77e529f66967553",
+    "text": "The Carvera machine has an optional laser protective cover which can greatly reduce the laser radiation. It's suitable for people who intend to use laser function a lot and operate at spaces where children or bystanders can reach easily. You can choose this accessory at our online store.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "e1eb06a2ba0d32f2",
+    "text": "Note: A lens protective cover is installed by default. Make sure to remove it before using the laser function and install it back when not in use.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "63dd76c9ab43e485",
+    "text": "Note: To use the Carvera laser function, you must first enter the laser mode. The commands for entering and exiting the laser mode are: M321 and M322, please add them in the G code post-processing.",
+    "page": "https://wiki.makera.com/en/carvera/manual/tool-kit"
+  },
+  {
+    "id": "2f606d406646acf2",
+    "text": "The mass of the box weighs more than 70Kg/ 154lb. The net weight of the Carvera CNC desktop milling machine is around 50Kg/110lb. We suggest moving this machine by at least two people (with gloves) to ensure both personal and machine’s safety. Please make sure your desk is sturdy enough and has no less than 60 x 60 cm space to place this machine.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "e974cdc8ca556eb9",
+    "text": "1. Pry up buckles as shown at bottom of the crate, open the upper part.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "8991d7517428deac",
+    "text": "2. Put the machine on a solid, flat and horizontal surface by two people. Keep at least 10 centimetres distance from the wall to ensure no obstacle for protective cover or plugs.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "ee958139ef01dce6",
+    "text": "3. Remove the plastic bag and printed materials.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "6ab1e9df4662b8e0",
+    "text": "4. Cut off the zip ties and take off the packing boxes inside the machine.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "f7ecd2642e449815",
+    "text": "5. Remove the fixing structures at positions A, B, C, and D as shown in the figure, and restore 4 counter sink screws(in a plastic bag) to the red indication at positions A, B, and C.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "e27ef5d88396272b",
+    "text": "6. Tear off the protective tape at position E that is used to fix the dust bin.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "c2620ee339d84c5b",
+    "text": "7. All sorted! Let’s commence!",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "1fd6dce4235e16d2",
+    "text": "2. Carvera homes all 3 axes automatically and turn on the work lights.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "69b3c3239bf555e7",
+    "text": "For easy transportation, the tools are not loaded by default. Please put the wireless probe and milling bits into right positions as shown in the figure. You can find the wireless probe in the accessory box, milling bits in the tool box and the optional solder mask removal tool in the PCB pack. The default tool installed is a test rod (No 6 tool).",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "c78a6fe299960177",
+    "text": "This 1-6 tool positions are for the examples. If you run your own toolpath in the future, you should layout your tools accordingly.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "c45fed8af6dfaaea",
+    "text": "Phone/Pad Stand Installation",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "8a882ba129354f67",
+    "text": "For the sake of transportation, the phone/pad stand has not been preinstalled. To install it, remove the screws at the stand base, put the stand on and screws it. Please note that the notch should be in the same direction as the USB port (charging only).",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "70e9e7831fd5796e",
+    "text": "For your convenience, the phone/tablet stand can be installed on either the right or left side of the machine. The default is the right side.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "82256f7b6ba57909",
+    "text": "Adjust Dust Shoe",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "1fbe12d76033d67b",
+    "text": "The default state of the dust shoe is locked. To use the vacuum system correctly you need to unlock the dust shoe first. Pull the plug outwards, rotate it for about 30 degrees, make sure it is unlocked, thus the dust shoe can go up and down freely (Locking and unlocking modes are toggled every 30 degrees of rotation). For other instructions on the vacuum system, please turn to Chapter 6.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "b93b92524b283d96",
+    "text": "Charge Wireless Probe",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "499c0a4c690c0ded",
+    "text": "The wireless probe is one of the main components of Carvera. It is an indispensable component for Z-axis tool setting and automatic leveling. Please fully charge it before using it for the first time.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "30dab11664c7be40",
+    "text": "1. After the device is turned on, the yellow indicator light will light up as the wireless probe automatically starts charging.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "3d7276103779328c",
+    "text": "2. Please charge the wireless probe for at least 30 minutes or the yellow indicator light runs out which means it’s  fully charged. If the machine is used frequently (at least once a week), then there is no need to charge it every time.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "d5a6e45498b1c109",
+    "text": "1. Goto www.makera.com, download and install the Carvera control software（Now support computer/pad/phone with Windows/Mac/Android system, will add IOS/Linux support later）. We suggest using computer version control software for the first time. Please turn to the next chapter for the software instruction.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "79640635574f6748",
+    "text": "2. Download and install the Carvera USB driver if you intend to use the USB connection method.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "b3ce898637b608a1",
+    "text": "The purpose of configuring WIFI is to allow Carvera to join the network at your workplace so that your computer can control the machine without being restricted.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "fe87c84aa06cd429",
+    "text": "1. The network can be configured via a USB cable or the machine’s  built-in WiFi accessing point.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "962927a8574b76b1",
+    "text": "2. Connect via USB: Connect the USB cable and open the Carvera control software.  Click the status button in the status bar, click “USB...”, you will see your USB device and choose one to connect. Then the status button will be updated, displaying machine is connected in USB mode.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "4a7cd056144eb81e",
+    "text": "3. Connect via accessing point: Open the WiFi setting on your computer, find the accessing point named CARVERA_WIFI_XXXXX and connect (No password). After successfully connected, open the Carvera control software; click the status button in the status bar; click” WIFI…”;Carvera will automatically search connectable devices. Please refresh it if Carvera cannot find any devices. After connecting to the device, the status button will be updated; displaying machine is connected in WiFi mode.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "e126994f5e344173",
+    "text": "4.  WiFi configuration:  Click the “more” button (end of the status bar) in the status bar; click the WIFI icon, the system will start searching WIFI in the workplace. Select a WIFI, enter the password and connect. Please retry if the connection failed.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "e0fe3da6bebb76f2",
+    "text": "5. Disconnect:  Click the status button; click “Disconnect”; Switch back to your WiFi.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "08fbf3e68c3065b7",
+    "text": "6. Redo step 3 from Click “WIFI”to connect Carvera through WIFI.",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  },
+  {
+    "id": "7395a2409a3fe9cd",
+    "text": "Test Auto Tool Changer",
+    "page": "https://wiki.makera.com/en/carvera/manual/unpack"
+  }
+]

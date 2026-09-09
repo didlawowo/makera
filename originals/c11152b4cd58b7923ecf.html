@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>eero Wi-Fi connection error</title><h1>eero Wi-Fi connection error</h1><article><div><h1 id="resolving-network-conflict-with-eero" class="toc-header"><a class="toc-anchor" href="#resolving-network-conflict-with-eero">¶</a> Resolving Network Conflict with eero</h1>
+<h3 id="issue-summary" class="toc-header"><a class="toc-anchor" href="#issue-summary">¶</a> Issue Summary</h3>
+<p>The default network segment for e<strong>ero</strong> is <strong>192.168.4.x</strong>, which conflicts with the <strong>AP network segment</strong> of the machine, causing connectivity issues.</p>
+<h3 id="solution-options" class="toc-header"><a class="toc-anchor" href="#solution-options">¶</a> Solution Options</h3>
+<p>To resolve this conflict, choose one of the following methods:</p>
+<h4 id="method-1-disable-the-machines-ap-network" class="toc-header"><a class="toc-anchor" href="#method-1-disable-the-machines-ap-network">¶</a> Method 1: Disable the Machine’s AP Network</h4>
+<ol>
+  <li>Access the <strong>MDI (Machine Diagnostic Interface)</strong>.</li>
+  <li> Enter the following command:  ap disable</li>
+  <li> Press <strong>Enter</strong> to execute the command.</li>
+  <li> Verify that the machine’s AP network is disabled.</li>
+</ol>
+<h4 id="method-2-modify-the-eero-network-segment" class="toc-header"><a class="toc-anchor" href="#method-2-modify-the-eero-network-segment">¶</a> Method 2: Modify the Eero Network Segment</h4>
+<ol>
+  <li> Open the <strong>Eero app</strong> on a connected mobile device.</li>
+  <li> Navigate to <strong>Network Settings</strong>.</li>
+  <li> Locate the <strong>IP Addressing</strong> or <strong>Subnet Settings</strong> option.</li>
+  <li> Change the default <strong>192.168.4.x</strong> network segment to a different subnet (e.g., <strong>192.168.10.x</strong>).</li>
+  <li> Save the changes and allow the Eero network to restart.</li>
+</ol>
+<figure class="image image_resized" style="width:17.13%;"><img src="https://wiki.makera.com/eero/weixin_image_20250210131549.jpg"></figure>
+<figure class="image image_resized" style="width:17.94%;"><img src="https://wiki.makera.com/eero/weixin_image_20250210131540.jpg">
+  <figcaption> </figcaption>
+</figure>
+<figure class="image image_resized" style="width:18.54%;"><img src="https://wiki.makera.com/eero/weixin_image_20250210131529.jpg"></figure>
+<p>After applying either solution, verify that the network conflict is resolved by testing connectivity between devices.</p>
+</div></article></html>

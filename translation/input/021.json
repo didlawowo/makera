@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "73fa7b19ae3a3a3e",
+    "text": "The Retract Height sets a safe position for the tool to retract to during machining operations, and must be greater than or equal to the width and height of the stock in order to avoid potential collisions.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1b7b2aad37605172",
+    "text": "When working with the 4th axis, a safe clearance height is typically ½ the stock diameter + 3 mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2164a49cba21f21d",
+    "text": "The depth to which the tool cuts each time it descends through the material. This feature can be safely disabled only when creating finishing passes if material was cleared out in a previous tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9597dbdb852079b9",
+    "text": "Direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0f44cee4fb454546",
+    "text": "Horizontal:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c65c7990e3ec5c12",
+    "text": "The part will be machined from side to side while gradually cutting deeper each pass. This is ideal for roughing passes or when clearing out a large amount of material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "161864c687c09791",
+    "text": "Vertical:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0f834cf6749f6cbe",
+    "text": "The areas in the part are machined vertically based on the step down parameter before moving horizontally to continue to machine the part. This is ideal for finishing passes or when following along complex geometries within a model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "aea232d109e47f3c",
+    "text": "Tailstock:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "65930de865452cfe",
+    "text": "The part that holds the stock within the 4th axis opposite to the chuck is called the Tailstock.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c1e4d6b5443cbbd6",
+    "text": "Enabled Tailstock (checked):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d42b80648312959c",
+    "text": "tool paths will be contained entirely by the selected model",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dee0aec388fb9ae3",
+    "text": "Disable Tailstock (unchecked):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cfa19af069c1a039",
+    "text": "tool paths will be contained by the length (Y) of the stock.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e9d1c81fa1d7fef4",
+    "text": "Rotation Relief Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7adf6e2b1ad53c40",
+    "text": "are used to create concave and convex machining operations around the geometric features of an imported 3D mesh file (.STL) using the 4th axis module, as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "25c0641223921aa0",
+    "text": "To create Rotation Relief Tool Paths, first import a 3D Model and transform it to fit within the stock. Then create tabs as described in the section above or in the attached tutorial. Once your model has been prepared, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2ccba43f23a5587f",
+    "text": "With this option checked, the relief will machine to a specified depth rather than to the surface of the model.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3f5989d74d3071b6",
+    "text": "Set Clearance Height and Retract Height",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2d8b9f0feb77a22b",
+    "text": "Rotation Relief supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 3D model. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6ab3c509ecb9b7b9",
+    "text": "Note: We typically create two separate tool paths for roughing and finishing passes.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "120992635290d1cb",
+    "text": "This is because a large quantity of chips are created during a roughing pass for rotation tool paths, and these chips should be cleared before starting a finishing pass.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "48bbba22fb5489d3",
+    "text": "As discussed previously, this parameter determines the depth of cut per pass. With Rotation Relief and multi-material clearing, you can set unique step down values per tool, and disable it for finishing pass purposes after material has been cleared previously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d6e3c219327aff45",
+    "text": "Set Direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "750e1c79f16b05f5",
+    "text": "Horizontal or Vertical",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ec27ecb33d839381",
+    "text": "Enable Tailstock",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "70652fc0c6cfe265",
+    "text": "Makera CAM can be used to prepare PCB files using typical 3-Axis machining configurations. You can use the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bef793c65a476a1c",
+    "text": "Import PCB",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "424683bed7efd6e6",
+    "text": "feature to import components from a Gerber file after it has been unzipped. You can also import SVG and DXF 2D design files for 2D tool path creation with the intention of creating PCBs. For more information on how to work with PCBs in Makera CAM, see this",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "98609c1401a23ad4",
+    "text": "Preparing PCB Files for Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "560ef2f887f8dd87",
+    "text": "Prior to exporting your PCB file, there are a few settings and parameters which should be adjusted to optimize the result in Makera CAM:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "68afa92486f3588e",
+    "text": "For sizing lines and features in your PCB file, recommended minimums are:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "77a76c96f2a7f07e",
+    "text": "Line width > 0.2mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "11bb5816ce128f52",
+    "text": "Line spacing > 0.2mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e90c9fdef877ffa1",
+    "text": "Via diameter >= 0.4mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1689e88c804cfa63",
+    "text": "Silk screen line width > 0.25mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4829b5b3d13b235b",
+    "text": "Drill unit to metric mm 3.3 format",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8963487ab69615f1",
+    "text": "And the smallest flat bottom tip tools that can be used are 0.1mm\\60° or 0.2mm\\30°",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c4838c8da61b8363",
+    "text": "Additional settings for exporting a PCB file to use with Makera CAM:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b5ff07d67b624560",
+    "text": "Export line widths when exporting Gerber files which facilitates Makera CAM's tool path generation based on automatic nesting",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a00e250097229c1f",
+    "text": "Makera CAM will automatically recognize the solder mask information in the Gerber pad and split it into an independent layer. but if the solder mask layer differs from the actual pad shape on the PCB design layer, a separate solder mask file needs to be exported",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e7a207d3fa9d0a9b",
+    "text": "And if the Top or Bottom layer does not contain an outline, a separate outline file needs to be exported to create a contour tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "022270b310666074",
+    "text": "Importing and Preparing PCB Files with Makera CAM",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b3512e26eba3d991",
+    "text": "When importing your PCB files, it is recommended to import all files needed before making any adjustments to your design (move, rotate, scale, mirror, etc). This will allow for automatic alignment in Makera CAM, as the file was when created.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8db49f9b9ab7f974",
+    "text": "To align PCB files after transformations have been made, or when working with separate WCS, the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9a07ce7145195fc9",
+    "text": "tool can be used for easy alignment. Selecting circular holes as the reference and target objects typically works best as alignment for concentric shapes is universal. To select parts of your PCB, you can easily select all graphics across one or several layers using the 2D Layers list within the Functions Panel:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e345f214cbc00d16",
+    "text": "If line widths are exported, it is likely that the outline of your PCB will be imported as two nested lines:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5497c51ec778f8c0",
+    "text": "The outer most line is typically used for creating contour paths, while the inner line should be selected and used when creating pocket tool paths for the traces. It is recommended that you move the outer most line to its own layer for easier selection and tool path generation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "75a2d6ad58b519a1",
+    "text": "And for two sided PCBs, you can create a second WCS with the origin set to the bottom right corner, relative to the default WCS, to horizontally flip your PCB for two sided manufacturing:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8746b5f0f1d03cf7",
+    "text": "2D Layers and Paths will be unique per WCS, though you can preview aspects of the design.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "26740822b09cb274",
+    "text": "can be used with objects across different WCS for easy alignment with two-sided PCB projects. You can also use the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "611384153a0fc814",
+    "text": "tools to set specific positions, or move and rotate your design manually. To create alignment pin holes, use the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9ce1769449d7ebdc",
+    "text": "tool to create a hole. You can then use the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "90fade6fb78eaa0e",
+    "text": "Mirror",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bc2d5cb011fcc538",
+    "text": "tool to mirror the hole across the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "18461f5a249ec6ab",
+    "text": "for easy alignment during the stock flip.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8dceccab732a6116",
+    "text": "Creating PCB Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "127f97a8b68d70ca",
+    "text": "Many of the general Tool Path creation strategies discussed in earlier sections can be applied when making PCBs as well. Makera CAM's nesting features will allow for easy tool path generation, when line widths are exported as discussed previously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "998741a58ed2b411",
+    "text": "Traces",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "57d98f01ae04dccc",
+    "text": "Traces can be created using 2D Pocket Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "560222e9a2d4835e",
+    "text": "(formerly referred to as Vector Pocket Tool Paths)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "49fe9798e3e59396",
+    "text": "For creating traces, the following settings are typically recommended:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ba4205653db957b1",
+    "text": "Tool(s):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1b96326219424ea7",
+    "text": "Engraving bit for metal, 0.2 / 30 degree or 0.1 / 60 degree",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eb69e7fae80f05ab",
+    "text": "Corn Bit, 0.6 mm, 0.8 mm, 1 mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5b23a371fdcbd3f8",
+    "text": "One or more tools can be combined in the 2D Pocket Operation from biggest tool to smallest in tip diameter",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9deb3f90fb5e6634",
+    "text": "Cutting Parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "079bc29d5db8d082",
+    "text": "set to PCB parameter defaults. See the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "37679a1f5c841319",
+    "text": "Path Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d97c090927f2006c",
+    "text": "Parallel",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3060ff8d0acc889d",
+    "text": "Ramping:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "59be71333c960fd0",
+    "text": "Optional",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6fd0589d9beca690",
+    "text": "Holes and Vias",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ea7cb95edf086aa0",
+    "text": "Holes and Vias can be created using 2D Pocket Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "998a9f4cc0c54f71",
+    "text": "or 2D Drilling Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e797df3e7a8a7528",
+    "text": "For creating holes, the following settings are typically recommended:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ba26b5882f44f771",
+    "text": "+0.3 mm past PCB thickness",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d2bf83b86c5999e1",
+    "text": "Drills for 2D Drilling operations",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5430e10c9e7a3706",
+    "text": "Corn bits for 2D Pocket operations",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2be6ce374b5c7e36",
+    "text": "Parallel (2D Pocket)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "629a6cc42a5c2949",
+    "text": "Optional (2D Pocket)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1e9daadb549a485e",
+    "text": "Retract:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e2a25fce61bef7a1",
+    "text": "Enabled (2D Drilling)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "070ba2e8a1ca153b",
+    "text": "Perimeters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "81bb39c7ae66ebe1",
+    "text": "The outer perimeter of your PCB can be machined using a 2D Contour Tool Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "92ef05fee4ba7ae8",
+    "text": "For creating 2D contour cuts, the following settings are typically recommended:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e4a9fd6bfef18857",
+    "text": "Corn Bits",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dacf15163a11c489",
+    "text": "Outside",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0bb4c96fb7347f9a",
+    "text": "Tabs:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "267d8aaa306d0fd6",
+    "text": "Optional, if no tabs are used ensure the PCB is secured using double-sided tape",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6624b3256fba80b1",
+    "text": "Pads (for solder-masked PCBs)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "76ed46af2640b340",
+    "text": "When making solder-masked PCBs, the pads can be machined using 2D Pocket Tool Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "951a3122cd79e7da",
+    "text": "For creating pads, the following settings are typically recommended:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5c82cd1142efa0b6",
+    "text": "Solder Mask Removal Tool",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "57789a56a1101c21",
+    "text": "Silk Screen Layer (for solder-masked PCBs)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b454c4baa3fea1f6",
+    "text": "When making solder-masked PCBs, a silk screen layer can be engraved using the laser module and a Laser Vector Tool Path:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a6e0bb88e7a6fcf",
+    "text": "For engraving a silk screen layer, we can use the following settings with a Laser Vector operation:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "db4aaf017193bb18",
+    "text": "20% for light solder-mask",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "031a1a5b62c52614",
+    "text": "30% for dark solder-mask",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "033955d469b620d6",
+    "text": "Fill",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e0dcc5a6dbe3f0f4",
+    "text": "Exporting and Manufacturing PCBs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "564a4fd29ca03681",
+    "text": "When exporting your PCB tool paths, different techniques can be used based on how you plan to create your PCB.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c7d346067ace7a20",
+    "text": "For unmasked copper PCBs, you would typically manufacture your PCB in a",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "985ff9e37188f63c",
+    "text": "single job",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4b2268d363ee60d7",
+    "text": ", and in the following order:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e973f06f22f1cb7b",
+    "text": "Job 1/1:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "04e3eae948f82774",
+    "text": "2D Pocket - Traces",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ead5507af861c80b",
+    "text": "2D Pocket and or 2D Drilling - Holes / Vias",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ce528cb82d252a6d",
+    "text": "2D Contour - Outline",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "309b9847f6d01eaa",
+    "text": "When creating solder-masked PCBs, you would typically manufacture your PCB in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f9f044124ebccf12",
+    "text": "two jobs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7df0e4773c43c23c",
+    "text": "Job 1/2:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4ffef1755c0b3439",
+    "text": "Apply solder-mask & cure solder-mask with a UV curing lamp, then run",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1288346fa4e79e45",
+    "text": "Job 2/2:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "db3ebd2c261a52f6",
+    "text": "2D Pocket - Pads w/ Solder Mask Removal Tool",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8c39de65bf2bb898",
+    "text": "When creating solder-masked PCBs with a laser engraved silk screen, you would typically manufacture your PCB in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e09f7108611a3989",
+    "text": "three jobs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "79bf25cbeb77cbd0",
+    "text": "Job 1/3:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f54021f24e21a39b",
+    "text": "Job 2/3:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7a574df70481b768",
+    "text": "Apply solder-mask but do not cure it, then run",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "caaac8463768eb71",
+    "text": "Job 3/3:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b962c70306ab8b7d",
+    "text": "Laser Vector - Curing the silk screen layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3c05e4dce184502a",
+    "text": "Wipe away excess solder-mask with alcohol wipes to complete the silkscreen layer",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f7311e2f3715895a",
+    "text": "When configuring your PCB files for manufacturing, it is recommended to use",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c217a070b85b5211",
+    "text": "Auto Leveling",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "12712f9156c86f68",
+    "text": "to measure any deviations in across your stock so the machine can then compensate for deviations automatically based on the probing result. And when creating PCBs with multiple jobs, you typically do not need to measure Z-height or auto leveling after the first job, as long as the machine is not reset between jobs (when apply solder-mask, etc).",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8a83915505faf5a6",
+    "text": "For more information and a step by step guide on how to machine simple PCBs using Makera CAM, see this",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fa989cfb9adab11d",
+    "text": "tutorial video",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2392ddd64ead0729",
+    "text": "1. Installing MasterCAM Software.",
+    "page": "https://wiki.makera.com/en/software/MasterCAM"
+  },
+  {
+    "id": "fda90393301f19e3",
+    "text": "2. Start MasterCAM.",
+    "page": "https://wiki.makera.com/en/software/MasterCAM"
+  },
+  {
+    "id": "0a957c50df91557d",
+    "text": "3. Copy the file \"MPFAN - C.pst\" to the \"C:\\Users\\Public\\Documents\\Shared Mastercam 2021\\mill\\Posts\" folder;",
+    "page": "https://wiki.makera.com/en/software/MasterCAM"
+  },
+  {
+    "id": "d1d4cb1a574a080f",
+    "text": "4. Create a new project, and then follow the instructions shown in the following picture.",
+    "page": "https://wiki.makera.com/en/software/MasterCAM"
+  },
+  {
+    "id": "b43b4ece5c8bf670",
+    "text": "1. Make sure the active post is “MPFAN-C.PST”.",
+    "page": "https://wiki.makera.com/en/software/MasterCAM"
+  },
+  {
+    "id": "96048279f4ad75b2",
+    "text": "2. If the active post is not “MPFAN-C.PST”.",
+    "page": "https://wiki.makera.com/en/software/MasterCAM"
+  },
+  {
+    "id": "2873fc551d09f981",
+    "text": "3. Generate the G-code file.",
+    "page": "https://wiki.makera.com/en/software/MasterCAM"
+  },
+  {
+    "id": "5412b3871ce88a2b",
+    "text": "1. Open the NX installation folder, the path should be: Program Files -> Siemens -> NX 10.0 -> MACH -> resource -> postprocessor.",
+    "page": "https://wiki.makera.com/en/software/SiemensNX"
+  },
+  {
+    "id": "7a40057b6ab70ca3",
+    "text": "2. Copy the files ‘CARVERA.DEF’, ‘CARVERA.PUI’, and ‘CARVERA.TCL’ into the ‘postprocessor’ folder.",
+    "page": "https://wiki.makera.com/en/software/SiemensNX"
+  },
+  {
+    "id": "2cc6e0bf6eacd713",
+    "text": "3. Locate the ‘template_post.dat’ file in the ‘postprocessor’ folder and open it using Notepad.",
+    "page": "https://wiki.makera.com/en/software/SiemensNX"
+  },
+  {
+    "id": "28a53bcc079e77e1",
+    "text": "1. Open the NX project file, right-click on the desired program file, select \"Postprocess,\" and after configuring the settings as shown in the picture, click \"OK\" to generate the toolpath file.",
+    "page": "https://wiki.makera.com/en/software/SiemensNX"
+  },
+  {
+    "id": "4bcf87070a7ef7e5",
+    "text": "1. Install SolidCAM and then copy the files 'gMilling_Carvera_3x.gpp' and 'gMilling_Carvera_3x.vmid' to the directory 'C:\\Users\\Public\\Documents\\SolidCAM\\SolidCAM2019\\GPPTOOL'.",
+    "page": "https://wiki.makera.com/en/software/SolidCAM"
+  },
+  {
+    "id": "26def40d34dccda6",
+    "text": "2. Load the SolidCAM plug-in, launch Solidworks, and click on: Tools → SolidCAM → SolidCAM Settings,",
+    "page": "https://wiki.makera.com/en/software/SolidCAM"
+  },
+  {
+    "id": "a5e50c99a4870885",
+    "text": "Set the post-processing file directory to 'C:\\Users\\Public\\Documents\\SolidCAM\\SolidCAM2019\\GPPTOOL',",
+    "page": "https://wiki.makera.com/en/software/SolidCAM"
+  },
+  {
+    "id": "27e19ace01e31834",
+    "text": "Set Milling CNC-Controller to: 'gMilling_Carvera_3x' and confirm to save.",
+    "page": "https://wiki.makera.com/en/software/SolidCAM"
+  },
+  {
+    "id": "5cc0834b6b9498d5",
+    "text": "3. Configure the G-code editor as illustrated in the image below.",
+    "page": "https://wiki.makera.com/en/software/SolidCAM"
+  },
+  {
+    "id": "4b401ff22edc10f1",
+    "text": "4. Create a new milling project, ensure that the CNC machine tool is set to 'gMilling_Carvera_3x', and then proceed to design the toolpath program according to your requirements.",
+    "page": "https://wiki.makera.com/en/software/SolidCAM"
+  },
+  {
+    "id": "2fe959957f733b34",
+    "text": "1. Generate G codes for the operation, and save the file to the 'C:\\Program Files (x86)\\CarveraController\\gcodes' directory. Please ensure to select the UTF-8 encoding method when saving the file.",
+    "page": "https://wiki.makera.com/en/software/SolidCAM"
+  },
+  {
+    "id": "35dcb3db12bc510e",
+    "text": "SolidworksCAM",
+    "page": "https://wiki.makera.com/en/software/SolidworksCAM"
+  },
+  {
+    "id": "e0cadb70a8041da4",
+    "text": "1. Ensure proper installation of Solidworks to enable seamless functioning of Solidworks CAM.",
+    "page": "https://wiki.makera.com/en/software/SolidworksCAM"
+  },
+  {
+    "id": "e46b3b457f15b559",
+    "text": "2. Copy 'Carvera-3axis.ctl' and 'Carvera-3axis.lng' files to the directory: 'C:\\ProgramData\\SOLIDWORKS\\SOLIDWORKS CAM 20XX\\Posts\\Mill';",
+    "page": "https://wiki.makera.com/en/software/SolidworksCAM"
+  },
+  {
+    "id": "c35af235f4b38b45",
+    "text": "3. Create a CAM project and follow the instructions depicted in the following picture to proceed with editing machine parameters.",
+    "page": "https://wiki.makera.com/en/software/SolidworksCAM"
+  },
+  {
+    "id": "313a43576a678b6a",
+    "text": "1. Generate Gcode to the directory of C:\\ProgramFiles(x86)\\CarveraController\\gcodes ;",
+    "page": "https://wiki.makera.com/en/software/SolidworksCAM"
+  },
+  {
+    "id": "8d450fc8f38944ac",
+    "text": "Fusion360",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "85faf1d07a6845c9",
+    "text": "1. Start Fusion 360.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "45284a1be0f30253",
+    "text": "2. Navigate to the Manufacture Workspace.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "0ca7281dee9e2993",
+    "text": "3. Under the Manage group, select the Post Library button.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "3255731d212f3e3a",
+    "text": "4. Navigate to the \"My Posts->Local\" folder.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "3f087229d2d696ab",
+    "text": "5. Click the \"Import\" button.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "86618ad922306c0f",
+    "text": "6. Select the \"Carvera.cps\" file and finish the importing.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "77b560727acbe8cd",
+    "text": "Install Machine",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "978c6033b28a1bcc",
+    "text": "1. Under the Manage group, select the Machine Library button.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "57dbf3344f7b4dbd",
+    "text": "2. Navigate to the \"My Machines->Local\" folder.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "f200e82e97b9139e",
+    "text": "3. Click the \"Import\" button.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "dad1931afd16ee95",
+    "text": "4. Select the \"Carvera 3-axis.mch\" file and finish the importing.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "2c05f2587a9209eb",
+    "text": "5. Repeat importing the \"Carvera 4-axis.mch\" file.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "bb8f79b67d1f4a3a",
+    "text": "Install Tool Library",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "827c5b4b1e23b7d2",
+    "text": "Under the Manage group, select the Tool Library button.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "82c204f12825dc25",
+    "text": "2. Navigate to \"All->Local\".",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "7d5d39a2e456a322",
+    "text": "3. Right click the \"Local\" folder and click the \"New folder\" button, create a new folder named \"Carvera Tools\".",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "bff8b41a7a119796",
+    "text": "4. Right click the new folder and then click the \"Import libraries\" button",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "7845305c1b2ff48e",
+    "text": "5. Select the \"Example Tools.tools, Spare Tools.tools, PCB Tools.tools\" files and finish the importing.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "da82c55f3388a078",
+    "text": "Using Fusion360 Profiles",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "9b69a31a3a417380",
+    "text": "1. When creating setups, select the \"Makera Carvera 3-axis\" or \"makera Carvera 4-axis\" machine.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "00e3dd4bba9963bf",
+    "text": "2. When doing post process, select the Makera Carvera machine and Carvera post file.",
+    "page": "https://wiki.makera.com/en/software/fusion360"
+  },
+  {
+    "id": "7841a886742887c1",
+    "text": "1. Start VCarve Desktop.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "e9252dc86e4b9ca0",
+    "text": "2. Navigate to the \"Machine\" menu and click \"Post-Processor Management\".",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "e854d6fea50c8e95",
+    "text": "3. Click the \"Install Post-Processor\" button.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "f84bccfa55a41688",
+    "text": "4. Select and import the \"Carvera ATC (mm) (!.cnc).pp\" file.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "b1333a92985caa14",
+    "text": "5. Repeat importing the \"Carvera Wrap X2A ATC (mm) (!.cnc).pp\" file and \"Carvera Laser (mm) (!.cnc).pp\" file.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "cd283129c2b0cc32",
+    "text": "Create Machine",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "ccf80ff9d2f512ab",
+    "text": "1. Navigate to the \"Machine\" menu and click \"Machine Configuration Management\".",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "d996cf9aab883540",
+    "text": "2. Click the \"Add a custom machine\" button.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "02aaa5f9ef8586ef",
+    "text": "3. Fill in the information as shown below.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "1da4adaa2fd34301",
+    "text": "4. Select the post processors just imported and set the \"Carvera ATC (mm)(*.cnc)\" as default.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "59fc09e14027c440",
+    "text": "5. Click \"Apply\" then \"OK\" to save the configuration.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "61ce094a2de2cceb",
+    "text": "Install Tool Database",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "4c63cf1412044bb5",
+    "text": "1. Navigate to the \"Toolpaths\" menu and click \"Tool Database\".",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "baf9ffbcca3f2c17",
+    "text": "2. Click the \"Import a tool database\" button.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "60e04960c43c95a8",
+    "text": "3. Select the \"CarveraTools.vtdb\" file.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "5c4f851d9df65ce6",
+    "text": "4. Click the \"Merge\" button on the popup confirm dialog and finish the import.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "b691ac5f508c63d9",
+    "text": "Using VCarve Desktop Profiles",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "8521d352a8e09919",
+    "text": "When saving Tool paths, select Carvera Desktop CNC Machine and a suitable post processor for your job.",
+    "page": "https://wiki.makera.com/en/software/vcarve-desktop"
+  },
+  {
+    "id": "dbcb3161f6870b5c",
+    "text": "Milling Spindle - 3.175mm (1/8\") Shank Diameter Bits",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "932b6ea696f530e7",
+    "text": "The following recommended parameters are based on current tests. The machining speed with small diameter tools/hard materials should be slow and fast in opposite. We will conduct more tests and provide more detailed parameter recommendations in the future on our website.",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e4deac588d1c11d2",
+    "text": "Please start the test from the lower limit of the parameter, and adjust them based on the test results. For additional information and support, check out our",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b8ae3038aab2abe4",
+    "text": "tutorials and guides.",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "fd4279c6045da4f3",
+    "text": "*RPM: SpindleSpeed(RPM) / Feed: FeedRate(mm/min) / PFeed: PlungeFeedRate(mm/min) / DOC: Depth of Cut(mm)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "34ca0e76608842ff",
+    "text": "Group",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "bf61918ceda355fa",
+    "text": "Aluminum",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "54fb636380fa6abc",
+    "text": "Brass",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "45dc1993cb60cec2",
+    "text": "Carbon Fiber",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "d35b0efe21288fd5",
+    "text": "Copper",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "7d540a95c1bc7d06",
+    "text": "Hardwood",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b83700147fd748ac",
+    "text": "Plastic",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "cd3a31270e4e78e5",
+    "text": "Softwood",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "5190b593ad82f9fe",
+    "text": "Single Flute Metal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "345c699dfc5867e4",
+    "text": "1*3mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "5bd464abc1f20747",
+    "text": "RPM:12000",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "6db8926b957c73b6",
+    "text": "Feed:500",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0bc9a62b84d887e9",
+    "text": "PFeed:200",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e9d8d475c8b79264",
+    "text": "DOC:0.1",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "fd63b285290a5021",
+    "text": "Feed:300",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2cc5e7ea58005f20",
+    "text": "PFeed:100",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "48d424cba9d90cd8",
+    "text": "DOC:0.05",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "f18dfcbbb85488fa",
+    "text": "RPM:10000",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2e2a97503e9b9f25",
+    "text": "Feed:1000",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0d7815cc292d6cab",
+    "text": "PFeed:300",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "28ff03cc1151331d",
+    "text": "DOC:0.5",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b9adb375e994e758",
+    "text": "DOC:1",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "1f150babdcd58071",
+    "text": "1.5*6mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "a6dc873e0198bcfb",
+    "text": "2*8mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "c955c4fa682c576f",
+    "text": "DOC:0.15",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "af75714b9794fb64",
+    "text": "2.5*12mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "1d8a9263c92988b3",
+    "text": "DOC:0.2",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "ea90ffec6a9a5438",
+    "text": "DOC:2",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "15420285373d58c5",
+    "text": "3.175*12mm Flat End(Metal)",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "96a3008317aae693",
+    "text": "Single Flute Non Metal",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "d3f1f7743b463419",
+    "text": "1*3mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "0ff0448cee95699a",
+    "text": "1.5*8mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "4f059ab97fd7ca48",
+    "text": "2*12mm Flat End",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  }
+]

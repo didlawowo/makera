@@ -1,0 +1,237 @@
+[
+  {
+    "id": "353e7647075b1a08",
+    "text": "Within the Extended Properties Panel, you can enter specific angles to rotate the selected object to along the XY, XZ, or YZ planes, as well as view the current angle of selected objects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8d3cb66003d31a5d",
+    "text": "Next to the manual angle parameters, you can use the quick rotation buttons to rotate +90 or -90 degrees along the XY, XZ, or YZ planes.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ff211f08eeb83b32",
+    "text": "You can also drag the mouse to select the circular mark in the center of the selected object, then left-click and drag and rotate it freely.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e9b74c8ec3f44e1b",
+    "text": "Scale:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5403cdf8e613b2d1",
+    "text": "Select the object to be scaled and enter the scaling transformation mode.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8b851df7c4f00b3e",
+    "text": "There are 5 moving reference anchor points at the top of the transformation parameter settings on the right. By selecting different anchor point positions, the position of the selected object corresponding to the anchor point will be used as the origin when scaling.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "70739f13d36f8803",
+    "text": "Within the Extended Properties Panel, you can enter specific measurements to scale the selected object in the Length(X), Width(Y), or Height(Z) dimensions, as well as view the current size of selected objects.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f3c233e744a64f45",
+    "text": "You can also drag the mouse in the Design Area to select the coordinate axis mark in the center area of the selected object and scale it in the direction of the coordinate axis.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b708724a23bf11c2",
+    "text": "With",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e2ee99e17218b1f1",
+    "text": "LinkXYZ",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6556192bdc6cac17",
+    "text": "checked, the proportions of the selected object will be maintained during scaling transformations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ad914009d551ff3e",
+    "text": "Mirror:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c64333e148dbe51b",
+    "text": "The mirroring transformation supports horizontal flipping and vertical flipping. If the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4adff138b9177a78",
+    "text": "Create Copy",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2e3db3d81c99c765",
+    "text": "option is checked, the original object will be retained during mirroring and a copy of the object after the mirroring operation will be created. To mirror selected objects:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ab06dfd10c687955",
+    "text": "Select the object to be mirrored and enter the mirroring operation through the transform tools in the Extended Properties Panel.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "432896de1d07da42",
+    "text": "Within the Mirror transformation parameters, select the desired axis to mirror around (",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0abba441f16eff90",
+    "text": "Horizontal",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "727cd3a64d792ad4",
+    "text": "Vertical",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e7b006b43a6d287e",
+    "text": "Select the center origin for the mirroring operation (Object",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d946067427e930a1",
+    "text": "Center",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "60a6d101cf750abd",
+    "text": "Stock Center",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8f0343dbb0c35db9",
+    "text": "Check the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "975bcbca72acdb6a",
+    "text": "option if desired.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "08e1e1002594e118",
+    "text": "[Generate",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ad48bfc94f411932",
+    "text": "Mirror]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "703f3454a170f580",
+    "text": "button to complete the mirroring operation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "da2afcfa756586bb",
+    "text": "Center To Center",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "24def1af9af0c0b5",
+    "text": "The center-to-center movement mode can align and move selected objects in relation to the location of target objects across work coordinate systems as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "aa31d64df6146141",
+    "text": "To align two objects from Center to Center:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8950a32352bce703",
+    "text": "Select the object(s) you want to align (2D or 3D).",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "202ca1a183184dd2",
+    "text": "Enter the center-to-center mode through the Move parameters in the transform tools shown in the Extended Properties Panel as described in the previous section.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "615170ac57871437",
+    "text": "According to the prompt information shown in the Extended Properties Panel, select the reference object that needs to be moved and aligned in the object combination subset. The next step will use the center of this object as the alignment reference.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5f9c933441c2f7c0",
+    "text": "Following the prompts, select the target object to be aligned. After the operation is successful, the original object will be moved using the center of the reference object set in the previous step to align to the center of the target object selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a0230e8187af86fd",
+    "text": "Create Tools",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "61a182a6afe9e553",
+    "text": "The Create functions can create 2D or 3D objects within the Design Area according to the dimensions set during creation as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "df86fe189b80ac54",
+    "text": "Creating 2D Models:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "418cc8e5f631d180",
+    "text": "Enter the Create 2D model operation through the top menu bar, main toolbar, and right-click menu.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "92137ee0a104d350",
+    "text": "In the Extended Properties Panel, select the type of shape you want to create (circle or rectangle).",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "04f39953b5cb3d2b",
+    "text": "Set the size of the shape. For a circle, this is set by the diameter of the shape. For a rectangle, this is set by the length and width of the shape.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d342ab7aa7838afd",
+    "text": "Move the cursor to the area you want to create the shape within the Design Area of the current work coordinate system, click the left mouse button to generate the shape based on the parameters entered at the location of the mouse cursor. This will create 2D design objects on the Active Layer selected in the 2D Layers list within the Functions Panel.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "869b4ddd3e09d0ed",
+    "text": "Creating 3D Models:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "82fbf241a928c001",
+    "text": "Enter the Create 3D model operation through the top menu bar, main toolbar, and right-click menu.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4d7832a9d6d4dacd",
+    "text": "In the Extended Properties Panel, select the type of shape you want to create (cube, cylinder, Cone Frustum).",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c3675e1e07d0d664",
+    "text": "Set the size of the shape. For a Cube, this is set by Length, Width, and Height. For a Cylinder or Cone, this is set by Diameter(s) and Height.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6c8cbce5efd15026",
+    "text": "Move the cursor to the area you want to create the shape within the Design Area of the current work coordinate system, click the left mouse button to generate the shape based on the parameters entered at the location of the mouse cursor. This will create a new list item in the 3D Models group within the Functions Panel.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2e45285b6c4101e2",
+    "text": "Trace Tools",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "79ae0c113043369e",
+    "text": "5.4.5. Set tool: Manually set the current tool number. Only use when the tool number is wrong.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "fe3f890b693c5160",
+    "text": "6. Laser status and control",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "59d400c6beb3888c",
+    "text": "6.1. Symbol: Laser icon",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "edf3ce336d9db222",
+    "text": "6.2. Main data: Current laser rate",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "4ef69cce03c95def",
+    "text": "6.3. Sub-data: Laser power scale",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "8e8bcc69a53dbfe4",
+    "text": "6.4. Drop-down list:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "4919f25bbba2a326",
+    "text": "6.4.1. Laser Status: Laser power scale",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "83c4a2c9e4fcdedc",
+    "text": "6.4.2. Enable Laser: Switch to laser mode. The working coordinates will be automatically updated according to the preset offset. If there is a tool on the current spindle, Carvera will drop it first and calibrate again to check the laser head’s height.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "219bd2b41111040b",
+    "text": "6.4.3. Laser Test: Performing a laser test after turn on the laser mode will trigger a low-power laser beam for focus calibration.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "f2d91f0f12856ef4",
+    "text": "6.4.4. Power Scaling: Set the laser power range by percentage. For safety reasons, the adjustment amount range is limited from 50% to 200%.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "fa89a05d466ca3c1",
+    "text": "Note: Carvera has already set the coordinate offset of the laser before delivery, only reset it when the coordinates deviate. We will add relevant tutorials in the online instructions.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "8ac0293f435678f5",
+    "text": "7. Other functions",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "2fd39c0a9b375097",
+    "text": "7.1. Manual control: Same function as the arrow button on the right side of the interface. Switch to display manual control interface and file preview interface .",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "c741f0c86fe60b02",
+    "text": "7.2. Device status diagnose: Check and your Carvera in detail and debug. No need to use it when Carvera Air runs in good condition. We will add a tutorial in the formal version of the instruction manual.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "bcc545d126fdeaaa",
+    "text": "7.3. WiFi configuration: Refer to the previous WiFi setting instruction in chapter 4.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "85293a255b9b7c10",
+    "text": "7.4. Software Upgrade:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "49d8b09dd82a856b",
+    "text": "7.4.1. Controller: Controll software upgrade",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "dd58f394786d173c",
+    "text": "7.4.2. Firmware: Firmware upgrade",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "95d86b9c2e345d88",
+    "text": "7.4.3. Download: Link to the download page",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "b0f1e1c4e27e30fd",
+    "text": "7.4.4. Upgrade：For control software, just install the new version and you are ready to use. For firmware, you need to upload it to the machine using the control software",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "7421dabb1e8456fe",
+    "text": "7.4.5. Check at Startup：Check software updates and notice at the startup",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "b49a21966e475a9c",
+    "text": "7.5. Language selection",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "56a52e448ac78ed6",
+    "text": "7.6. Parameters settings:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "45ed71470cfb0ee2",
+    "text": "7.6.1. Basic parameters: Adjust functional parameters by requirements.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "400b2783ca84136b",
+    "text": "7.6.2. Advanced parameters: System-level of the machine. All set in the factory generally does not need to be changed. Do not change it unless it has to.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "f6518378d9452a25",
+    "text": "7.6.3. Restore setting: Restore factory setting, or save current setting as factory setting.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "723676660582fa25",
+    "text": "Note:  You need to click the Apply button to save all parameters after changing them and rebooting the machine to apply changes. Parameter introduction and recommended settings are provided in the parameter list. We will add more detailed parameter introductions and setting suggestions in the online instruction manual.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "627476aab17a6e93",
+    "text": "1. File management and selection",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "b663c1d098a9f1f9",
+    "text": "Carvera AIr’s G-Code is executed in the controller to ensure the task’s efficiency and stability and avoid task failures caused by WiFi or USB connection instability. Therefore, the G-Code file needs to be uploaded to the machine before running the program. We have created examples folder on the machine and have already uploaded sample G-Code files.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "0b39b0f1cc938ae6",
+    "text": "1.1. Remote file management:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "24aa1af6c85f99f2",
+    "text": "1.1.1. Rename: Rename files or folders in the machine.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "f3bf8f3668f12671",
+    "text": "1.1.2. Delete: Delete files or folders in the machine.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "9fa8f44b142eaf4d",
+    "text": "1.1.3. New Folder: Create a new folder under the current file path.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d033bca4c2eaa93f",
+    "text": "1.1.4. Upload File: Switch to local file interface for uploading.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "dc1d9c4d2742e627",
+    "text": "1.1.5. Close: Close the file management interface.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "4d9dffe63dfaef3c",
+    "text": "1.1.6. Clear Selection: Clear the currently selected G code file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d646d76fc481981c",
+    "text": "1.1.7. Select files: Select the G-Code file to run.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "e1613cc39fc7f970",
+    "text": "1.1.8. Recent Places: Short cut for recently used directories.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "7e6d9b2350ef7780",
+    "text": "1.2. Local file browsing:",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "8bc24e33c599369e",
+    "text": "It opens the gcodes subdirectory under the local program installation directory by default. Therefore, we recommend putting your G-Code files here for easy management.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "95d8aad78840c771",
+    "text": "Upload: Select and upload local files.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "056635fe446c87a5",
+    "text": "Open: Open the file and preview it without uploading it (you can also do this without connecting the Carvera).",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "6e8c608eb4c46ba0",
+    "text": "Close: Back to the remote file management interface.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "875d13879e5bce9a",
+    "text": "Recent Places: Short cut for recently used directories.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "726dd194c5fcc40e",
+    "text": "2. Task configuration and execution",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "5cf4b15d789a9565",
+    "text": "If you have used CNC before, you definitely know that a CNC machining task requires a lot of preparation work, including setting the work coordinates (XY axis tool setting), Z-axis tool setting, workpiece levelling (PCB processing) and so on.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "5f4caf60c402b3c9",
+    "text": "Because Carvera  Air has automatic detection and leveling functions, we have integrated these settings and task execution into one interface.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "6053051c362bf38d",
+    "text": "We provide an innovative method that using “anchor points” for work coordinate setting, allowing you to locate XY-axis positions accurately through easy configuration.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "c819d7bb5b0e031f",
+    "text": "2.1. Auto Vacuum: Allows the machine to automatically toggle the dust collection signal during task execution enabling automatic control of external dust collection equipment. We will provide detailed instructions in the 'Tool Kit' chapter.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "8defd709549f1f58",
+    "text": "2.2. Machining area preview: Display the preview of the machining area according to the current work coordinates and G-Code file.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "cbed443c68af2a79",
+    "text": "L-shaped gray symbol: Anchor point position. You can choose to install the L-shaped bracket to be located either to point 1 or point 2.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "ec7d56a01607001e",
+    "text": "Blue",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "59d625a55d41ea7d",
+    "text": "Circle: Zero position of work coordinate.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "d486dfbd5fb57834",
+    "text": "Green",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "3d7816107718bfc5",
+    "text": "line area: G-Code file machining range.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "c6278e4ebf74e976",
+    "text": "Bold line area: Indicates that Scan Margin is activated to automatically scan the area before machining.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "ba19e9c3d5f49882",
+    "text": "Red",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "79aa49affc8e211e",
+    "text": "Circle: Z probe position when Auto Z Probe is selected.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "19dd83f117525b93",
+    "text": "Yellow",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  },
+  {
+    "id": "c853c776582b3d00",
+    "text": "Circle matrix: Levelling matrix when Auto Levelling is selected.",
+    "page": "https://wiki.makera.com/en/Air/Manual/Air-software"
+  }
+]

@@ -1,0 +1,43 @@
+version: '3'
+
+tasks:
+  export:
+    desc: Reprendre les pages manquantes et suivre les liens internes du wiki
+    env:
+      RETRY_MISSING: '{{.RETRY_MISSING | default "0"}}'
+    cmds:
+      - bash scripts/export.sh
+  status:
+    desc: Contrôler et récupérer les sauvegardes locales sans téléchargement
+    cmds:
+      - uv tool run --offline --from trafilatura==2.2.0 python scripts/wiki_export.py status
+  test:
+    desc: Vérifier le traitement des pages hors ligne
+    cmds:
+      - uv tool run --offline --from trafilatura==2.2.0 python -m unittest discover -s tests
+  build:
+    desc: Assembler le site français et les pages originales
+    cmds:
+      - uv tool run --offline --from trafilatura==2.2.0 python scripts/split_translation.py
+      - uv tool run --offline --from trafilatura==2.2.0 python scripts/build_site.py
+  serve:
+    desc: Ouvrir le wiki sur ce Mac (http://127.0.0.1:8768)
+    cmds:
+      - python3 scripts/serve.py --port {{.PORT | default "8768"}}
+  netlify:check:
+    desc: Vérifier que le dossier statique Netlify est publiable
+    cmds:
+      - test -f site/index.html
+      - test -f site/assets/style.css
+      - test -f site/assets/app.js
+      - test -f site/assets/search-data.js
+      - test -f site/fr/58aad18200dc6379fe3c.html
+      - uv tool run --offline --from trafilatura==2.2.0 python scripts/check_site.py
+  netlify:build:
+    desc: Préparer et vérifier le site statique pour Netlify
+    cmds:
+      - test -f site/index.html
+      - test -f site/assets/style.css
+      - test -f site/assets/app.js
+      - test -f site/assets/search-data.js
+      - test -f site/fr/58aad18200dc6379fe3c.html

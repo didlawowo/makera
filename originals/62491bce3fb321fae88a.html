@@ -1,0 +1,178 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>LED light</title><h1>LED light</h1><article><div><figure class="image image_resized" style="width:44.73%;"><img src="https://wiki.makera.com/%E4%B8%BB%E9%A1%B5%E6%A1%88%E4%BE%8B%E4%B8%BB%E5%9B%BE4.png"></figure>
+<p> </p>
+<p>The LED light in this example consists of four parts: the circuit, the base, the display light board, and the touch switch, which shows the comprehensive capabilities of the Carvera smart desktop CNC milling machine.</p>
+<p>With Carvera, you can greatly accelerate the speed from design to prototype and even commercial products. The CAM software using in this example are CopperCAM, ArtCAM, Fusion360 and LightBurn.</p>
+<h1 id="tutorial-video" class="toc-header"><a class="toc-anchor" href="#tutorial-video">¶</a> Tutorial Video</h1>
+<p><a href="https://youtu.be/q7St8raphz8" class="is-external-link">https://youtu.be/q7St8raphz8</a></p>
+<h1 id="circuit" class="toc-header"><a class="toc-anchor" href="#circuit">¶</a> Circuit</h1>
+<figure class="image image_resized" style="width:33.39%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_13.png"></figure>
+<p> </p>
+<h2 id="material-preparation" class="toc-header"><a class="toc-anchor" href="#material-preparation">¶</a> Material preparation</h2>
+<figure class="image image_resized" style="width:33.38%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_23.png"></figure>
+<p> </p>
+<h2 id="machining-process" class="toc-header"><a class="toc-anchor" href="#machining-process">¶</a> Machining process</h2>
+<p>1. Cut the 2mm MDF (Medium Density Fiberboard) with a size of 150*100mm as the wasteboard. </p>
+<figure class="image image_resized" style="width:35.79%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_33.png"></figure>
+<p>2. Fix the PCB and the wasteboard to the table, as shown in the figure. Place it close to the L-bracket at anchor point 1.</p>
+<p> </p>
+<blockquote>
+  <p>Note：Use the edge of the top clamps to fix the PCB and leaves sufficient space for dust collection and milling.  </p>
+</blockquote>
+<blockquote>
+  <p>Note：The PCB board may deform after being stored for a long time. It is recommended to flatten the PCB before machining to increase accuracy.Better use some double-sided tape between the wasteboard and the bed / PCB for further consistency.</p>
+</blockquote>
+<p> </p>
+<p>3. Check if the milling bits are in the right position. No.2-30°0.2mm V-bit，No.3-0.8mm corn bit，No.5-UV solder mask removal bit (Optional.)  </p>
+<p>4. Turn on the power and wait for the automatic homing to complete.</p>
+<p>5. Open the control software and connect to Carvera (please read Carvera instruction manual for detailed steps.)</p>
+<p>6. Open the Root-&gt;Examples-&gt;LED folder under the Remote directory and select the machining file. If you bought the PCB pack and want to use the UV solder mask, please turn to the Use UV solder mask section; otherwise, continue the No UV solder mask section.</p>
+<p> </p>
+<figure class="image image_resized" style="width:37.26%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_43.png"></figure>
+<p> </p>
+<h2 id="no-uv-solder-mask" class="toc-header"><a class="toc-anchor" href="#no-uv-solder-mask">¶</a> No UV solder mask</h2>
+<p>1. Select the “PCB-NO-UV-MASK.nc” files to automatically run the tasks of PCB isolation, area cleaning, drilling and cutting contours.</p>
+<p> </p>
+<figure class="image image_resized" style="width:37.34%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_53.png"></figure>
+<p> </p>
+<p>2. Open the task configuration and operation dialog box.  </p>
+<p>3. Set working coordinate to X offset 15, and Y offset 10 relative to anchor 1.</p>
+<p>4. Check the “Scan Margin” option.</p>
+<p>5. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.</p>
+<p>6. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 5, and the detection height to 2.</p>
+<p>7. Check the configuration and click run, then wait for the completion.</p>
+<p>8. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.</p>
+<p> </p>
+<figure class="image image_resized" style="width:37.69%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_63.png"></figure>
+<p> </p>
+<p>9. Take out the PCB board and cut off the tabs with the handsaw in the accessory kit.</p>
+<p> </p>
+<h2 id="use-uv-solder-maskif-you-bought-the-pcb-pack" class="toc-header"><a class="toc-anchor" href="#use-uv-solder-maskif-you-bought-the-pcb-pack">¶</a> Use UV solder mask（If you bought the PCB pack）</h2>
+<h3 id="machining-step-1" class="toc-header"><a class="toc-anchor" href="#machining-step-1">¶</a> Machining step 1: </h3>
+<h4 id="pcb-isolation-and-area-cleaning" class="toc-header"><a class="toc-anchor" href="#pcb-isolation-and-area-cleaning">¶</a> PCB isolation and area cleaning</h4>
+<p>1. Select the “PCB-UV-MASK (PART1).nc” file.</p>
+<p>2. Open the task configuration and operation dialog box.(The figure is the same as the first step of not using the UV solder mask)</p>
+<p>3. Set working coordinate to X offset 15, and Y offset 10 relative to anchor 1.</p>
+<p>4. Check the “Scan Margin” option.</p>
+<p>5. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.</p>
+<p>6. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 5, and the detection height to 2.</p>
+<p>7. Check the configuration according to the figure above and click Run, then wait for the task to finish.</p>
+<p>8. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.</p>
+<p> </p>
+<h4 id="apply-uv-solder-mask" class="toc-header"><a class="toc-anchor" href="#apply-uv-solder-mask">¶</a> Apply UV solder mask</h4>
+<p>1. Use the sanding block in the accessory kit to polish the PCB surface.</p>
+<p>2. Use the roller to apply a thin layer of UV solder mask evenly.</p>
+<p>3. Put the UV lamp above the PCB and wait for the UV layer solid.</p>
+<p>4. Clean extra solder mask on the roller and other parts using alcohol wipes.</p>
+<p> </p>
+<blockquote>
+  <p>Note: Apply less UV solder mask first, increase later, its hard to clean up if apply too much. The curing time will varies with different UV solder mask and different UV lights. Please wait until the solder mask is completely solid.</p>
+</blockquote>
+<p> </p>
+<figure class="image image_resized" style="width:30.37%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_73.png"></figure>
+<p> </p>
+<h3 id="machining-step-2" class="toc-header"><a class="toc-anchor" href="#machining-step-2">¶</a> Machining step 2: </h3>
+<h4 id="remove-uv-solder-mask-drilling-and-cutting-contours" class="toc-header"><a class="toc-anchor" href="#remove-uv-solder-mask-drilling-and-cutting-contours">¶</a> Remove UV solder mask, drilling and cutting contours</h4>
+<p>1. Select the “PCB-UV-MASK (PART2).nc” file.</p>
+<p>2. Open the task configuration and operation dialog box (the automatic detection has been completed in step 1, no need to redo here)</p>
+<p>3. Uncheck“Scan Margin” option.</p>
+<p>4. Uncheck “Auto Z Probe” option.</p>
+<p>5. Uncheck “Auto Leveling” option.</p>
+<p>6. Check the configuration and click Run, then wait for the task to finish.</p>
+<p>7. You can move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.</p>
+<p>8. Take out the PCB board and cut off the remaining tabs with the handsaw in the accessory kit. Flatten the edges using the sanding block.</p>
+<p> </p>
+<h1 id="base" class="toc-header"><a class="toc-anchor" href="#base">¶</a> Base</h1>
+<figure class="image image_resized" style="width:27.78%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_123.png"></figure>
+<p> </p>
+<h2 id="material-preparation-1" class="toc-header"><a class="toc-anchor" href="#material-preparation-1">¶</a> Material preparation</h2>
+<figure class="image image_resized" style="width:34.37%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_93.png"></figure>
+<p> </p>
+<h2 id="machining-process-1" class="toc-header"><a class="toc-anchor" href="#machining-process-1">¶</a> Machining process</h2>
+<p>1. Cut the 2mm MDF board with a size of 150*150mm as the wasteboard.</p>
+<figure class="image image_resized" style="width:33.22%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_103.png"></figure>
+<p>2. Fix the ABS plastic board and the wasteboard to the table as shown in the figure. Align it to the L-bracket at anchor point 1.</p>
+<p>3. Check if the milling bits are in the right position. No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.  </p>
+<p>4. Turn on the power and wait for the automatic homing to complete.</p>
+<p>5. Open the control software and connect to Carvera (please read Carvera instruction manual for detailed steps)</p>
+<p>6. Open Root-&gt;Examples-&gt;LED in the remote directory. Select“ABS-Base.nc” machining file.</p>
+<p>7. Open the task configuration and operation dialog box</p>
+<p> </p>
+<figure class="image image_resized" style="width:36.48%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_113.png"></figure>
+<p> </p>
+<p>8. Set working coordinate to X offset 15, and Y offset 20 relative to anchor 1.</p>
+<p>9. Check the “Scan Margin” option.</p>
+<p>10. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.</p>
+<p>11. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 3, and the detection height to 2.</p>
+<p>12. Check the configuration and click run, then wait for the completion.</p>
+<p>13. Move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.</p>
+<p>14. Use a vacuum to clean the table, take out the ABS board and use the handsaw in the accessory kit to remove the tabs.</p>
+<p> </p>
+<h1 id="display-board" class="toc-header"><a class="toc-anchor" href="#display-board">¶</a> Display board</h1>
+<figure class="image image_resized" style="width:26.81%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_133.png"></figure>
+<p> </p>
+<h2 id="material-preparation-2" class="toc-header"><a class="toc-anchor" href="#material-preparation-2">¶</a> Material preparation</h2>
+<figure class="image image_resized" style="width:23.82%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_143.png"></figure>
+<p> </p>
+<h2 id="machining-process-2" class="toc-header"><a class="toc-anchor" href="#machining-process-2">¶</a> Machining process</h2>
+<p>1. Cut the 2mm MDF board with a size of 150*180mm as the wasteboard. </p>
+<figure class="image image_resized" style="width:35.07%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_153.png"></figure>
+<p>2. Remove the protective film on the top. Fix the acrylic board and the wasteboard to the table, as shown in the figure. Align it to the L-bracket at anchor point 1.</p>
+<p>3. Check if the milling bits are in the right position. No.1-3.175*25mm single flute spiral bit, No.2-30°0.2mmV-bit.  </p>
+<p>4. Turn on the power and wait for the automatic homing to complete.</p>
+<p>5. Open the control software and connect to Carvera (please read Carvera instruction manual for detailed steps)</p>
+<p>6. Open Root-&gt;Examples-&gt;LED in the remote directory. Select the “ACRYLIC-XXXX.nc” file. Here we provided 5 pictures for you. You can choose the one of your preference.</p>
+<p>7. Open the task configuration and operation dialog box.</p>
+<p>8. Set working coordinate to X offset 15, and Y offset 25 relative to anchor 1.</p>
+<p>9. Check the “Scan Margin” option.</p>
+<p> </p>
+<figure class="image image_resized" style="width:37.45%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_163.png"></figure>
+<p> </p>
+<p>10. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.</p>
+<p>11. Check the “Auto Leveling” option, set the number of X detection points to 5, Y to 5, and the detection height to 2.</p>
+<p>12. Check the configuration and click run, then wait for the completion.</p>
+<p>13. Move the machine to the clearance position after the operation is completed to reduce the interference to subsequent operations.</p>
+<p>14. Use a vacuum to clean the worktop and remove the acrylic board.</p>
+<p>15. Break the acrylic board by aligning the V-groove with an edge of a table.</p>
+<p> </p>
+<h1 id="touch-switch" class="toc-header"><a class="toc-anchor" href="#touch-switch">¶</a> Touch switch</h1>
+<figure class="image image_resized" style="width:12.83%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_173.png"></figure>
+<p> </p>
+<h2 id="material-preparation-3" class="toc-header"><a class="toc-anchor" href="#material-preparation-3">¶</a> Material preparation</h2>
+<figure class="image image_resized" style="width:22.94%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_183.png"></figure>
+<p> </p>
+<h2 id="machining-process-3" class="toc-header"><a class="toc-anchor" href="#machining-process-3">¶</a> Machining process</h2>
+<p>1. Cut the 2mm MDF with a size of 100*100mm as the wasteboard. </p>
+<figure class="image image_resized" style="width:35.41%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_193.png"></figure>
+<p> </p>
+<p>2. Fix the aluminium alloy board and the wasteboard to the table, as shown in the figure. Align it to the L-bracket at anchor point 1.</p>
+<p>3. Check if the milling bit is in the right position. No.4-3.175*12 single flute spiral bit for metal.  </p>
+<p>4. Turn on the power and wait for the automatic homing to complete.</p>
+<p>5. Open the control software and connect to Carvera (please read Carvera instruction manual for detailed steps)</p>
+<p>6. Open Root-&gt;Examples-&gt;LED in the remote directory. Select the “ALUMINUM-Button.nc” file.</p>
+<p>7. Open the task configuration and operation dialog box</p>
+<p> </p>
+<figure class="image image_resized" style="width:38.92%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_203.png"></figure>
+<p> </p>
+<p>8. Set working coordinate to X offset 10, and Y offset 10relative to anchor 1.</p>
+<p>9. Check the “Scan Margin” option.</p>
+<p>10. Check the “Auto Z Probe” option, set the probe point to X offset 5, Y offset 5 relative to Path Origin.</p>
+<p>11. Check the “Auto Leveling” option, set the number of X detection points to 3, Y to 3, and the detection height to 2.</p>
+<p>12. Check the configuration and click run, then wait for the completion.</p>
+<p>13. Move the machine to the clearance area after the operation is completed to reduce the interference to subsequent operations.</p>
+<p>14. Use a vacuum to clean the worktop, remove the board and use the handsaw in the accessory kit to remove the tabs.</p>
+<p> </p>
+<h1 id="led-lamp-assembly" class="toc-header"><a class="toc-anchor" href="#led-lamp-assembly">¶</a> LED lamp assembly</h1>
+<p> </p>
+<h2 id="solder-pcboptional" class="toc-header"><a class="toc-anchor" href="#solder-pcboptional">¶</a> Solder PCB（Optional）</h2>
+<p>We provide a soldered PCB for your direct use. If you want to make your own, please refer to our soldered PCB board for components choosing and placement.</p>
+<p> </p>
+<h2 id="assembly" class="toc-header"><a class="toc-anchor" href="#assembly">¶</a> Assembly</h2>
+<figure class="image image_resized" style="width:40.06%;"><img src="https://wiki.makera.com/%E8%B5%84%E6%BA%90_213.png"></figure>
+<p> </p>
+<p>1. Glue the aluminium alloy touch button to the side of the base.</p>
+<p>2. Fix the PCB board to the bottom of the base with 4 screws.</p>
+<p>3. Insert the acrylic display board into base.</p>
+<p>4. Plug Type-C USB cable and the assembly is finished.</p>
+<p>5. You can adjust the brightness and turn on/off the light by touching the aluminum button.</p>
+<p> </p>
+</div></article></html>

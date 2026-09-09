@@ -1,0 +1,327 @@
+[
+  {
+    "id": "8746b5f0f1d03cf7",
+    "text": "2D Layers and Paths will be unique per WCS, though you can preview aspects of the design.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "26740822b09cb274",
+    "text": "can be used with objects across different WCS for easy alignment with two-sided PCB projects. You can also use the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "611384153a0fc814",
+    "text": "tools to set specific positions, or move and rotate your design manually. To create alignment pin holes, use the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9ce1769449d7ebdc",
+    "text": "tool to create a hole. You can then use the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "90fade6fb78eaa0e",
+    "text": "Mirror",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bc2d5cb011fcc538",
+    "text": "tool to mirror the hole across the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "18461f5a249ec6ab",
+    "text": "for easy alignment during the stock flip.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8dceccab732a6116",
+    "text": "Creating PCB Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "127f97a8b68d70ca",
+    "text": "Many of the general Tool Path creation strategies discussed in earlier sections can be applied when making PCBs as well. Makera CAM's nesting features will allow for easy tool path generation, when line widths are exported as discussed previously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "998741a58ed2b411",
+    "text": "Traces",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "57d98f01ae04dccc",
+    "text": "Traces can be created using 2D Pocket Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "560222e9a2d4835e",
+    "text": "(formerly referred to as Vector Pocket Tool Paths)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "49fe9798e3e59396",
+    "text": "For creating traces, the following settings are typically recommended:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ba4205653db957b1",
+    "text": "Tool(s):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1b96326219424ea7",
+    "text": "Engraving bit for metal, 0.2 / 30 degree or 0.1 / 60 degree",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eb69e7fae80f05ab",
+    "text": "Corn Bit, 0.6 mm, 0.8 mm, 1 mm",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5b23a371fdcbd3f8",
+    "text": "One or more tools can be combined in the 2D Pocket Operation from biggest tool to smallest in tip diameter",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9deb3f90fb5e6634",
+    "text": "Cutting Parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "079bc29d5db8d082",
+    "text": "set to PCB parameter defaults. See the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "37679a1f5c841319",
+    "text": "Path Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d97c090927f2006c",
+    "text": "Parallel",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "3060ff8d0acc889d",
+    "text": "Ramping:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "59be71333c960fd0",
+    "text": "Optional",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6fd0589d9beca690",
+    "text": "Holes and Vias",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ea7cb95edf086aa0",
+    "text": "Holes and Vias can be created using 2D Pocket Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "998a9f4cc0c54f71",
+    "text": "or 2D Drilling Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e797df3e7a8a7528",
+    "text": "For creating holes, the following settings are typically recommended:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ba26b5882f44f771",
+    "text": "+0.3 mm past PCB thickness",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d2bf83b86c5999e1",
+    "text": "Drills for 2D Drilling operations",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5430e10c9e7a3706",
+    "text": "Corn bits for 2D Pocket operations",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2be6ce374b5c7e36",
+    "text": "Parallel (2D Pocket)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "629a6cc42a5c2949",
+    "text": "Optional (2D Pocket)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1e9daadb549a485e",
+    "text": "Retract:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e2a25fce61bef7a1",
+    "text": "Enabled (2D Drilling)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "070ba2e8a1ca153b",
+    "text": "Perimeters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "81bb39c7ae66ebe1",
+    "text": "The outer perimeter of your PCB can be machined using a 2D Contour Tool Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "92ef05fee4ba7ae8",
+    "text": "For creating 2D contour cuts, the following settings are typically recommended:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e4a9fd6bfef18857",
+    "text": "Corn Bits",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dacf15163a11c489",
+    "text": "Outside",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0bb4c96fb7347f9a",
+    "text": "Tabs:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "267d8aaa306d0fd6",
+    "text": "Optional, if no tabs are used ensure the PCB is secured using double-sided tape",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6624b3256fba80b1",
+    "text": "Pads (for solder-masked PCBs)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "76ed46af2640b340",
+    "text": "When making solder-masked PCBs, the pads can be machined using 2D Pocket Tool Path",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "951a3122cd79e7da",
+    "text": "For creating pads, the following settings are typically recommended:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5c82cd1142efa0b6",
+    "text": "Solder Mask Removal Tool",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "57789a56a1101c21",
+    "text": "Silk Screen Layer (for solder-masked PCBs)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b454c4baa3fea1f6",
+    "text": "When making solder-masked PCBs, a silk screen layer can be engraved using the laser module and a Laser Vector Tool Path:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a6e0bb88e7a6fcf",
+    "text": "For engraving a silk screen layer, we can use the following settings with a Laser Vector operation:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "db4aaf017193bb18",
+    "text": "20% for light solder-mask",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "031a1a5b62c52614",
+    "text": "30% for dark solder-mask",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "033955d469b620d6",
+    "text": "Fill",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e0dcc5a6dbe3f0f4",
+    "text": "Exporting and Manufacturing PCBs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "564a4fd29ca03681",
+    "text": "When exporting your PCB tool paths, different techniques can be used based on how you plan to create your PCB.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c7d346067ace7a20",
+    "text": "For unmasked copper PCBs, you would typically manufacture your PCB in a",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "985ff9e37188f63c",
+    "text": "single job",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4b2268d363ee60d7",
+    "text": ", and in the following order:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e973f06f22f1cb7b",
+    "text": "Job 1/1:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "04e3eae948f82774",
+    "text": "2D Pocket - Traces",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ead5507af861c80b",
+    "text": "2D Pocket and or 2D Drilling - Holes / Vias",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ce528cb82d252a6d",
+    "text": "2D Contour - Outline",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "309b9847f6d01eaa",
+    "text": "When creating solder-masked PCBs, you would typically manufacture your PCB in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f9f044124ebccf12",
+    "text": "two jobs",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7df0e4773c43c23c",
+    "text": "Job 1/2:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4ffef1755c0b3439",
+    "text": "Apply solder-mask & cure solder-mask with a UV curing lamp, then run",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1288346fa4e79e45",
+    "text": "Job 2/2:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

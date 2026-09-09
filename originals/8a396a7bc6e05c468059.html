@@ -1,0 +1,55 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Usage of External Control</title><h1>Usage of External Control</h1><article><div><h2 id="usage-of-external-control-interfaces" class="toc-header"><a class="toc-anchor" href="#usage-of-external-control-interfaces">¶</a> Usage of External Control interfaces:</h2>
+<p>1. The External Control pin is located on the back panel of the machine and connected through an aviation plug (GX12-4).</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <figure class="image image_resized" style="width:100%;"><img src="https://wiki.makera.com/externalcontrol.png"></figure>
+        </td>
+        <td>
+          <figure class="image"><img src="https://wiki.makera.com/externalcontrol-2.png"></figure>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p> </p>
+<p>2. Instructions for aviation plug pins</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <th>pin </th>
+        <th>name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <th>1</th>
+        <th>GND</th>
+        <th>Terminal used to return current</th>
+      </tr>
+      <tr>
+        <th>2</th>
+        <th>External Control output</th>
+        <th>Output voltage is 24V, maximum output current is 2A.The output signal is modulated by PWM, with a frequency of 100Hz. Turn on the extended port power by M Codes of ‘M851 S100’ ,The S parameter sets the duty ratio of the PWM output. Turn off the extened port by M Codes of ‘M852’.</th>
+      </tr>
+      <tr>
+        <th>3</th>
+        <th>Reserved</th>
+        <th>Not used</th>
+      </tr>
+      <tr>
+        <th>4</th>
+        <th>Reserved</th>
+        <th>Not used</th>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>3. Drive the opening and closing of high-power loads with external relays.</p>
+<p>        we can connect the ‘external control output’ to the coil pins of a 24V relay, and then connect the high-power load to the output pins of the relay. When entering the "M851 S100" command in the MDI window of the controller, the relay output node will be closed. After entering the "M852" command, the relay output node will be opened.</p>
+<p> </p>
+<p>Example Wiring diagram：</p>
+<figure class="image"><img src="https://wiki.makera.com/extendout-usage.png"></figure>
+</div></article></html>

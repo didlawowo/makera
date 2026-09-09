@@ -1,0 +1,69 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Limitswitcherrors</title><h1>Limitswitcherrors</h1><article><div><h1 id="limit-switch-errors" class="toc-header"><a class="toc-anchor" href="#limit-switch-errors">¶</a> Limit switch errors</h1>
+<p> </p>
+<p><strong>The machine is designed with limit switches to insure that no harm is done to the machine when hitting the max distance in any of the axis.</strong></p>
+<p> </p>
+<p>There are soft limit switches that are software-related. (They can be switched off in the advanced setting menu) soft limit were introduced in firmware version 0.9.5</p>
+<p>And there are hard limit switches that are hardware-related. (actual switches on the machine)</p>
+<p> </p>
+<p>There are a few cases where you will get limit switch errors:</p>
+<p> </p>
+<p><strong>1. You are triggering the soft limit switch error when running a file. (Normal)</strong></p>
+<ul>
+  <li>This means that your path origin falls out of the boundary of the machine and you need to adjust the offset in the run config or change the file size or origin in the CAM software.</li>
+</ul>
+<p> </p>
+<p><strong>2. You are hitting the hard limit switch at the end of any of the axis. (Normal)</strong></p>
+<ul>
+  <li>This means that the soft limit are not activated and your path origin falls out of the boundary of the machine and you need to adjust the offset in the run config or change the file size or origin in the CAM software.</li>
+</ul>
+<p> </p>
+<p><strong>3. You are triggering a soft limit when running a 4th axis job. </strong></p>
+<p> </p>
+<ul>
+  <li>On firmware 0.9.6 and 0.9.7 The soft limit switch values in X was set to low. So you need to adjust the settings-advanced-xmin coordinates should be -371.5 by default. in the latest firmware, it was set to -370, which means that the machine hits a soft limit when trying to probe the 4th axis.</li>
+</ul>
+<p> </p>
+<p><strong>4. One of the limit stays triggered and continues giving errors (machine fault)</strong></p>
+<ul>
+  <li>The limit switches are "normally closed" which means if there is any disconnect in the connection to the switches, an alarm will trigger.</li>
+  <li>You can find the specific limit switch being triggered in the midi window.</li>
+</ul>
+<figure class="image image_resized" style="width:21.86%;"><img src="https://wiki.makera.com/screenshot_2024-06-24_115902.png"></figure>
+<ul>
+  <li>The best way to diagnose this is to open the diagnose window and see if that limit switch is engaged. If none are engaged , keep the diagnose window open and try to find the problematic area. This could be any of the below:</li>
+</ul>
+<p> </p>
+<ul>
+  <li>The limit switch itself</li>
+  <li>The plug at the end of the limit switch</li>
+  <li>The wires into the plug of that limit switch</li>
+  <li>The wires and plugs from the limit switch to the control board.</li>
+  <li>The connection on the control board.</li>
+</ul>
+<p>Diagnose window:</p>
+<figure class="image"><img src="https://wiki.makera.com/screenshot_2024-06-25_132702.png"></figure>
+<ul>
+  <li>If you can get the limit switch to trigger in the diagnose window you have found the faulty area.  We have had some recent encounters where the wires to the plug of the limit switch may be faulty.</li>
+</ul>
+<p> </p>
+<p>For all different limit switches these areas are different. Please see your midi window for which limit switch troubleshoot.</p>
+<p> </p>
+<p>For X- (to the left of the gantry) and X+ (to the right of the gantry) Please check if the limit switches are okay and not physically damaged.</p>
+<p>X+ limit switch</p>
+<figure class="image image_resized" style="width:33.35%;"><img src="https://wiki.makera.com/2_dsc6862.jpg"></figure>
+<p>X- limit switch</p>
+<figure class="image image_resized" style="width:33.47%;"><img src="https://wiki.makera.com/1_dsc6861.jpg"></figure>
+<p>X- and X+ limit switch plugs</p>
+<figure class="image image_resized" style="width:33.52%;"><img src="https://wiki.makera.com/_dsc68611.jpg"></figure>
+<p>Y- and Y+ you can access from the underside of the machine</p>
+<figure class="image image_resized" style="width:33.49%;"><img src="https://wiki.makera.com/_dsc6876.jpg"></figure>
+<p>Z+ can be found on the top side of the gantry. There is no Z- limit switch. (the limit switch is on the frontside of the gantry, under the cable sheath at the top)</p>
+<figure class="image image_resized" style="width:33.31%;"><img src="https://wiki.makera.com/_dsc6862.jpg"></figure>
+<p> </p>
+<p>If you can not find the limit switch error trigger, or you are RANDOMLY getting Hard limit errors without hitting any of the limit switches. Please contact support@makera.com</p>
+<p> </p>
+<p>We are testing a firmware version with a delayed trigger to the limit switches that may resolve very short limit switch triggers.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div></article></html>

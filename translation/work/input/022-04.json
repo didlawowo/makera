@@ -1,0 +1,302 @@
+[
+  {
+    "id": "5dd8582b2e8a1ec3",
+    "text": "Execute a calibration, and the TLO (tool length offset) for the current tool will be reset",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "f1acc2075fd40cdc",
+    "text": "Set the status of automatic tool change，subcode 1: Drop tool, subcode 2: Pick tool, subcode 3:Calibrate, subcode 4:margin, subcode 5:Zprobe, subcode 6: Autolevel, subcode 7: Done, subcode 0: None",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "bc71affd940cf93a",
+    "text": "Pauses the machine and waits for a resume command to continue",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "26f808bb86d3a3e2",
+    "text": "Turn on the internal vacuum (Carvera). The S parameter sets the power of the vacuum (S100 = 100%)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "6dce23d665d32b49",
+    "text": "Turn off the internal vacuum (Carvera)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "4a1ec219a1b902ef",
+    "text": "Turn on the spindle cooling fan.  The S parameter sets the power of the fan",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "29bf4143c0625e2f",
+    "text": "Turn off the spindle cooling fan",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "6f199329a5853c88",
+    "text": "Turn on the light",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "89124f757072d922",
+    "text": "Turn off the light",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7d520c4ce5301b9e",
+    "text": "Turn on the tool detector sensor laser",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1a996ff5e845efc9",
+    "text": "Turn off the tool detector sensor laser",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7e42907c68cc7bf1",
+    "text": "Turn on the wireless probe charging power",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "24c6651b4586c22b",
+    "text": "Turn off the wireless probe charging power",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "05e9319c08376027",
+    "text": "Turn on the extended port power.  The S parameter sets the PWM output of the port, such as the suction power  (S50 = 50%)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "57fcfd3ad36ef1c3",
+    "text": "Turn off the extended port power",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "cd73950dcdd2e503",
+    "text": "Turn on the beep. (only for Carvera Air)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8d5cfba608da3896",
+    "text": "Turn off the beep. (only for Carvera Air)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8bacd900aecd504f",
+    "text": "Console Commands",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "a0b6023a990c646e",
+    "text": "The smoothieware supports console commands to operating files, running jobs, monitoring status, etc. The Carvera firmware support most of them too,",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ab0de4b998bc0c0e",
+    "text": "checkout here",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "a185aacd886a1f85",
+    "text": ". We have integrated them into GUI so you don't need to run manually. The below list are the ones are modified or added by the Carvera.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "713166971d730f81",
+    "text": "Command",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "16ec9aa6660b6592",
+    "text": "Command_Example",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7978f506baa16285",
+    "text": "ap",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "98cb656d8af085cd",
+    "text": "Enable/disable or change the password for the WiFi Access Point",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "acd85906eb4edc85",
+    "text": "'ap ssid xxxx' (change AP name ).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0c124192b940ed54",
+    "text": "'ap password xxxx' (set password ).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "22667c5f3221a4e3",
+    "text": "'ap disable' (disable AP).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "5acc00f31bea40a6",
+    "text": "'ap enable' (enable AP).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "89e448883d6895da",
+    "text": "ap xxxx",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "a3cacc8283f848a0",
+    "text": "goto",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b966d6040511d3f5",
+    "text": "Resume a job from a certain line.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8d59829c1e15afe1",
+    "text": "Usage",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "e6fa05269542a708",
+    "text": "Open the job, and start normally.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "5a21c26aaceddd21",
+    "text": "When the job begins to execute, pause it.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "eef6dbf747f424b2",
+    "text": "When it is successfully paused, go to the MDI window and manually input goto XXXX",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "306d292ca3f6a1f2",
+    "text": "You will see the job jump to XXXX line",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8c0f7e59f9ec06a5",
+    "text": "Hit resume and continue the job.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "4b598102b961c35c",
+    "text": "Be very careful about Z height, and avoid any collisions, you can lift the Z a bit after pausing the job.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "3e958ddbef0b0b00",
+    "text": "goto xxxx",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "336074805fc85398",
+    "text": "time",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "df53e0e57f746755",
+    "text": "Retrieve the current time of the control board, displayed in timestamp format",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "5ca4f3850ccc331a",
+    "text": "version",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b5b952aa1ee9ce15",
+    "text": "Retrieve the current firmware version",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0a443a771fa4d848",
+    "text": "wlan",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "649f3a5a22b6d979",
+    "text": "Connect/disconnect or scan the WiFi network.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "22f30d06cddcb8c2",
+    "text": "'wlan' (scan WiFi ).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ec7aeed1b5fe9fee",
+    "text": "'wlan ssid password' (connect to a certain WiFi AP).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "9997d6e9e8d87829",
+    "text": "'wlan -d' (Disconnect from WiFi AP).",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1748a478cdf71874",
+    "text": "wlan xxxx",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "3d07af5e675af33b",
+    "text": "Check the functionality of the 4th axis module (harmonic drive version) on the Carvera and Carvera Air",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8978eeb8f1383699",
+    "text": "‘enable_4th’ (enable 4th axis module with harmonic drive ) - Carvera",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "2c6f4a7b0abd7208",
+    "text": "‘disable_4th’ (disable 4th axis module with harmonic drive ) - Carvera",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7f1df453e621c31c",
+    "text": "‘check_4th’ (checks rotation limits of 4th axis module with harmonic drive) - Carvera & Carvera Air",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "708dd2dcb62e5dce",
+    "text": "check_4th",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "d01b7ce9154ef026",
+    "text": "beep",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c3f06ffa7df4227e",
+    "text": "Enable or disable the beep tone played on the Carvera Air",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "87184b63f4f5712d",
+    "text": "‘config-set sd switch.beep.enable false’ (disable the tone)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c73e211316a2a6b1",
+    "text": "config-set sd switch.beep.enable true (enable the tone)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "aa665e395e9b4e76",
+    "text": "Reset the machine after running these commands for the change to take effect",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  }
+]

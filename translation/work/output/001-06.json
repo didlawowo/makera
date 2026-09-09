@@ -1,0 +1,15 @@
+{
+  "a830d4490e334264": "Procédure d'usinage",
+  "f250ebb2ab668cf4": "1. Branchez le câble et installez l'axe rotatif. (Veuillez lire le manuel d'instructions de la Carvera Air pour utiliser l'axe rotatif.) Si votre Carvera Air est allumée, éteignez d'abord la machine avant l'installation.",
+  "f63df017d613a18e": "2. Fixez le plateau d'usinage en époxy sur l'axe rotatif, en orientant les coins vers le haut et vers le bas.",
+  "4d5f3603104c8790": "3. Vérifiez que les fraises nécessaires sont prêtes : n°1, fraise hélicoïdale à une dent de 3.175*25mm; n°2, fraise en V de 30° 0.2mm.",
+  "9f57b6bc2f36e583": "4. Mettez la machine sous tension et attendez la fin de la prise d'origine automatique.",
+  "b3e2452baaf2fae9": "5. Ouvrez le logiciel de commande et connectez-vous à la Carvera Air (veuillez lire le manuel d'instructions de la Carvera Air pour connaître les étapes détaillées).",
+  "535d33a6eb1df14b": "6. Ouvrez Root->Examples->Rotation dans le répertoire distant.",
+  "15f8053bdc37c9ad": "Procédure d'ébauche",
+  "993321a10cd6a954": "1. Sélectionnez le fichier d'ébauche « NefertitiRough.nc ».",
+  "8f9e11a75b61bb7e": "2. Ouvrez la boîte de dialogue de configuration et d'utilisation de la tâche.",
+  "be9c82b440a0fc57": "3. Définissez le système de coordonnées de travail avec un décalage X de 50 (par rapport au bord droit de la poupée du quatrième axe) et un décalage Y de 0.",
+  "b3f17f08f46cadb5": "4. Cochez l'option « Scan Margin ».",
+  "df55db55cafe68c7": "5. Cochez l'option « Auto Z Probe » (la sonde Z du quatrième axe est à une position fixe et ne nécessite aucune configuration)."
+}

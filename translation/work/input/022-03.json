@@ -1,0 +1,327 @@
+[
+  {
+    "id": "86427847ffa07e44",
+    "text": "Feed:200",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "17826d544b36003a",
+    "text": "DOC:0.25",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "b80dbdf396dd8783",
+    "text": "Feed:100",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "66cc36c759e02aeb",
+    "text": "Feed:150",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "64822935d898e66c",
+    "text": "PFeed:150",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "8799316689b754bc",
+    "text": "DOC:0.4",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "e927edd9468d9525",
+    "text": "DOC:0.45",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "714a5e039c037eb5",
+    "text": "Feed:250",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "2d3a64c8059157fc",
+    "text": "PFeed:250",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "ea56ffc058de1998",
+    "text": "DOC:0.7",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "3e6f3a7d983775a5",
+    "text": "DOC:0.8",
+    "page": "https://wiki.makera.com/en/speeds-and-feeds"
+  },
+  {
+    "id": "9ccaa35947f47dae",
+    "text": "Supported Codes",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "af5ca955bd4beb7c",
+    "text": "The Carvera firmware is based on Smoothieware, which support both CNC and 3d printing, we only list Carvera Desktop CNC related codes below, check",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "f41fba482905e3d9",
+    "text": "for the original code support by Smoothieware.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "6ef84e472a05a727",
+    "text": "G Codes",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "340f463033e0fd5d",
+    "text": "Code",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1cfa117418e67ed4",
+    "text": "Code_Example",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "8d71dbe6de622437",
+    "text": "Move to the given coordinates. It is used to go to a new area without cutting, it is also called a “rapid” move. Note that the F parameter can be used here and is remembered by subsequent commands",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ccca09641c2509c4",
+    "text": "Move to the given coordinates, see above for the difference with G0. Takes the same F parameter as G0",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0a312d759af7df49",
+    "text": "Clockwise circular motion : go to point with coordinates XYZ while rotating around point with relative coordinates IJ",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "284ecbe1bcc243cf",
+    "text": "Counter-clockwise motion : see above",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "25cc9eadcfff456e",
+    "text": "Dwell P<seconds>",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "d231748affd3781c",
+    "text": "Set workspace coordinates",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "752610ed2a230746",
+    "text": "Select XYZ plane (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0d056b9976c3aa9f",
+    "text": "Select XZY plane (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7840835c97916816",
+    "text": "Select YZX plane (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "3c32d431286d9cbd",
+    "text": "Inch mode : passed coordinates will be considered as Inches, so internally translated to millimeters",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "9e41acc7b96d9ffa",
+    "text": "Millimeter mode (",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "37a8eec1ce19687d",
+    "text": "default",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "38770d4a2580bcd6",
+    "text": ") : passed coordinates will be considered as millimeters",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c1c2dd0ceba6a252",
+    "text": "G28 means goto clearance position on the Carvera",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "082e5d62173fcc16",
+    "text": "G32 probes the grid and turns the compensation on, this will remain in effect until reset or M370, X and Y are the start position, A and B are the width and length, I and J are the grid size, H is the height.",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "bf2a3603cba642d7",
+    "text": "Standard probe commands implemented as documented",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b79020f8a166dcf1",
+    "text": "Must be on a line by itself OR the first G code on a line, the directly following G0/G1 will be executed in MCS coordinates",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "aa7a175e88241c60",
+    "text": "Use workspace coordinates",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "611baa8a9a07b738",
+    "text": "Absolute mode (",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ea6060ffb2df92b4",
+    "text": ") (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "2b01ccecb6cce966",
+    "text": "Relative mode (command is modal)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "14ba17a42ed46e2d",
+    "text": "Set global workspace coordinate system to specified coordinates",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "f8406fa8bdeeb17f",
+    "text": "Clear the G92 offsets",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b82868d11da68a86",
+    "text": "Manually set homing (MCS) for XYZ",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "b33c8139abc69936",
+    "text": "M Codes",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "d50432a7e1286e6c",
+    "text": "Starts the spindle. The S parameter sets the speed in rotations per minute",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "51ec1cf313b397d7",
+    "text": "Stops the spindle",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "132e2bf2246ce58a",
+    "text": "Auto tool change,  T0 indicates wireless probe, T-1 indicates None",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "65bed0e2a6c221e8",
+    "text": "Starts the airflow",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "51e114883dd3ffb9",
+    "text": "Stops the airflow",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "9adc37a714fbd250",
+    "text": "End of the program, no action on the Carvera",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "cecb2236eceada85",
+    "text": "Read the current spindle temperature",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c7c4cf85621e3a99",
+    "text": "S<factor in percent>- set feed speed factor override percentage",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "705c7a329a14e3bb",
+    "text": "S<factor in percent>- set spindle speed factor override percentage",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "39b9af87647c5e0c",
+    "text": "Enter the laser mode, The machine will drop the current tool automatically and calibrate the spindle Collet (to set the laser offset to the working surface)",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1120af02d5c6ddc8",
+    "text": "Exit the laser mode",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "2af60e6570fde822",
+    "text": "Enter the laser test mode, the laser module will be supplied a very low power, usually used for re-focusing the laser",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "16713b0685adbe04",
+    "text": "Exit the laser test mode",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "ad6fa597cedd948c",
+    "text": "S<factor in percent>- set laser power factor override percentage",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "c6bad87994d49da8",
+    "text": "Turn on the auto vacuum mode, if on, the vacuum will be turned on automatically when the spindle is running and turned off when the spindle is not running",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "1eca6ca7ccc7a41e",
+    "text": "Turn off the auto vacuum mode",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "bdb56807ddd75804",
+    "text": "Clears the auto bed levelling data and disabled the compensation until G32 is run again",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "0d03703086dadcc1",
+    "text": "Display the current bed leveling grid data in the MDI window",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "021a4c1f20d12a81",
+    "text": "Retrieve device MAC address",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "7f87abe53d330ff8",
+    "text": "Retrieve device IP address",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "2d62b354f84b4941",
+    "text": "Execute the ATC homing process, homing will be executed automatically when issuing M490.1 or M490.2 if needed",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "3321b901020c602a",
+    "text": "Tightens the spindle collect to secure a new tool in the spindle",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  },
+  {
+    "id": "38d18e25f34283d8",
+    "text": "Loosens the spindle collet and drops the current milling bit",
+    "page": "https://wiki.makera.com/en/supported-codes"
+  }
+]

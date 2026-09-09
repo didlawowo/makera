@@ -1,0 +1,942 @@
+[
+  {
+    "id": "b08e006332165ebd",
+    "text": "Makera CAM v0.2.0 and later offers the ability to trace the features and geometries detected within two different types of imported objects: Images and 3D Models.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2f6f5144c231b493",
+    "text": "Trace Image:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7d57fd0642a5736a",
+    "text": "Trace Image function can convert the high-contrast information of raster image file type (JPG/PNG/BMP) into a vector contour graphic as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "dff0fd6f7de5d4f1",
+    "text": "The converted vector graphics can be used directly for vector tool path operations. Simple high-contrast images work best for optimal tracing results.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2764b9864ab57010",
+    "text": "Trace 3D Contour:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "29c85c86b32e0ca5",
+    "text": "The Trace 3D Contour function can generate 2D contour paths around detected geometries for 3D STL / STEP design files.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6496c30c53428ba5",
+    "text": "Contours will be generated automatically based on the geometric features detected in the model. These 2D paths will be created on a new layer in the 2D Layers section of the Functions Panel, and the can be selected for 2D Tool Path or Laser Tool Path operations. You can also generate Contour Paths within 3D Tool Path operations, as discussed later in this guide.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9000a3335c6c02e4",
+    "text": "3-Axis Tool Paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "78d8ad661512484f",
+    "text": "When working in a 3-Axis Project, a wide range of Tool Paths can be made based on selected objects for manufacturing processes to be created. Through 2D operations, 3D operations, and laser operations, various manufacturing processes can be created for both 3-axis machining.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7e9b9563d4961d4f",
+    "text": "General 3-Axis Techniques",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e90f19051f70f4da",
+    "text": "Before moving into strategies for setting up specific types of tool paths, we will cover general settings that are universal across various tool path creation techniques for 3-Axis machining operations.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "263d3214d320c3eb",
+    "text": "Common Machining Parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c886b0448e7eed01",
+    "text": "In tool path creation, some parameters are common across various types of tool paths. These common parameters include:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a857a8c791a181a",
+    "text": "Tool path Name:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5da99110b7e12f1e",
+    "text": "The name of the current tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7bd5e39230cac898",
+    "text": "Cutting Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "104d1d3d56a400c8",
+    "text": "Start Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ce0b88bbf5274e76",
+    "text": "The Z-axis 0 coordinate is used as a reference. This is typically detected by the probe at the point which the tool contacts the top of the stock material for cutting. A positive value indicates a downward offset of the Z-axis 0 coordinate, and a negative value indicates an upward offset of the Z-axis 0 coordinate.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "560d91e617c2b0ef",
+    "text": "End Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bed03cd1499233c9",
+    "text": "The Z-axis 0 coordinate detected by the probe is used as the reference, and the end depth value at which the tool ends cutting. A positive value indicates a downward offset of the Z-axis 0 coordinate, and a negative value indicates an upward offset of the Z-axis 0 coordinate.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ee08822a4869671f",
+    "text": "Last Pass Depth:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "538b3c8bf7661ba3",
+    "text": "The cutting depth of the last layer. When this parameter is enabled, the tool will set the cutting depth of the last layer according to this parameter.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b40257da3e7d542a",
+    "text": "Safe locations:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c490b3f3f044e436",
+    "text": "Safe height Z:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cf5d6daf9da6a819",
+    "text": "The Z-axis 0 coordinate detected by the probe is used as the reference for the safe Z-axis height of the tool. When the tool executes the G0 command for rapid movement, the tool will first be lifted to the safe height, then move horizontally rapidly.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9d76c9fdc25da155",
+    "text": "Initial processing coordinates Position:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "29bf4790767b5741",
+    "text": "The tool will first move to the X / Y coordinate of the initial processing coordinate at the safety height, and then descend to the Z coordinate height of the initial processing coordinate before machining.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "df79506b98870849",
+    "text": "Choose Tool (Add Tool)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1fcff99d66939afb",
+    "text": "This will open the Tool Library to allow you to select the tool information you want to use for the Tool Path operation. Select the corresponding preset material processing parameters below the tool list, and click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c7f937836f5d82d5",
+    "text": "Choose",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "666ddf3df9d61786",
+    "text": "to complete the tool selection confirmation.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a0ec977712874f82",
+    "text": "If the tool is configured with the same material preset processing parameters as the current stock setting, the Makera CAM will automatically select the corresponding material processing parameters based on the current blank setting. For example: if the current stock setting is aluminum alloy, and if the aluminum alloy processing parameters are enabled in the selected tool, the aluminum alloy processing parameters entry will be automatically selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a75cb97587b29b22",
+    "text": "Tool Parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "23c70433345d24b0",
+    "text": "See the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c171134a41658f7b",
+    "text": "of our Wiki for recommended Parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "92625d6a6017b431",
+    "text": "Step Down:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1a95eb14d15272e0",
+    "text": "The depth to which the tool cuts each time it descends through the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2a9ea44262d60a8a",
+    "text": "Feed Rate:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "56147b5486ee4d2b",
+    "text": "The horizontal movement speed of the tool when cutting the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9a4ecd45b063b610",
+    "text": "Plunge Rate:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ff1e65dcf4d3e4d5",
+    "text": "The downward cutting speed of the tool in the Z-axis direction when cutting the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6b11441650ad32e4",
+    "text": "Spindle Speed:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c9fa0bcfdc739ce0",
+    "text": "The speed at which the tool rotates as it cuts through the material.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a58aea022b6b77c8",
+    "text": "Tool Number:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "700a10a77efb74a9",
+    "text": "The number of the tool used in the current tool path. When multiple designed tool paths use the same tool number, the device will not trigger the tool change action. Therefore, when designing tool paths, be sure to confirm that different tools use different tool numbers.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "41cb5751de873f60",
+    "text": "When using the Carvera Desktop CNC machine with an automatic tool changer, the tool number corresponds to the tool holder number where the tool is actually inserted into the automatic tool changer (1-6).",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "17d0c19ef7502158",
+    "text": "When using a device with manual tool change function such as the Carvera Air Desktop CNC machine, the tool number corresponds to the tool number prompted by the device for automatic pauses and manual tool changes.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8132ec6be3946f2e",
+    "text": "Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "20f68d2cdcbe7ca8",
+    "text": "Offset (machining offset):",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f7e595beef208aeb",
+    "text": "Based on the graphic contour, the contour is offset according to the specified distance. A positive value is offset toward the positive side of the graphic contour processing, and a negative value is offset toward the negative side of the graphic contour processing.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c375b460ce62895c",
+    "text": "Cutting Direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9df5ff5951bdd467",
+    "text": "Can be set to process in either down milling or up milling mode",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "79a7ca37a6484521",
+    "text": "Cutting Order:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4fe816d5940fec9b",
+    "text": "Auto:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "84103efbcd3e1fab",
+    "text": "The processing sequence is automatically planned by the program, and is planned according to the principle of proximity to the starting point and nearest processing.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d24d1f150c404094",
+    "text": "Selection:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9f076c1c62b51e48",
+    "text": "Processing is performed in the order in which the graphic objects are manually selected by the user.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "45a8c2a0a7307fe8",
+    "text": "Inside Out:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "258e6bcd86f28eed",
+    "text": "Process according to the order of graphic object combination from inside to outside",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4539cc7e518f76dd",
+    "text": "Outside In:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "34e8c91314f8ca6a",
+    "text": "Process according to the order of graphic object combination from outside to inside",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4a30cdbeb1d05c74",
+    "text": "Ramping Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d54cf50a13cbad77",
+    "text": "The bevel setting allows for a smoother start to material contact when machining hard materials. This helps to improve machining quality and reduce the risk of tool damage.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7f8174b9ebefd705",
+    "text": "Ramping Distance:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "210e02d796b536e7",
+    "text": "This sets the moving distance of the bevel cut. The tool moves smoothly along the graphics processing contour at a specified distance and at a fixed angle. When the set distance is reached, if the cutting depth is still not reached, it will return to the starting point and continue to move the tool at a fixed angle until the cutting depth is reached, and then move horizontally for cutting.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bc37886a753bf22e",
+    "text": "Ramping Angle:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "881706ae2e28500d",
+    "text": "Fixed Angle:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fdfe17c39a05de60",
+    "text": "Use a fixed angle to cut diagonally",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1c0313ff906aac35",
+    "text": "Auto Angle:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "169b0514be1046cb",
+    "text": "Automatically sets the angle based on the Ramping Distance",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "68d9f51e6a5c3849",
+    "text": "Start Z Height:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b8316efb12b60c93",
+    "text": "When the first layer of the bevel cutting tool path is cut, the height is offset upward based on the set starting height.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2ef9b8bf31c5e067",
+    "text": "Nested Strategies",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fef3345f152ea393",
+    "text": "If you select multiple nested graphics without contour intersection when setting tool path parameters, the program will automatically generate tool paths based on the nesting rules.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5a8b323ec3315c25",
+    "text": "When working with",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8cf3a3cb4fa4984b",
+    "text": "Contour",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ef903d0665f0726e",
+    "text": "tool paths:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5067918c317488c1",
+    "text": "If the processing strategy is",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "47abf1cc2c045f28",
+    "text": "Outside:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7e01482d8d23965c",
+    "text": "The selected outline is from outside to inside, the odd-numbered layers are Outside and the even-numbered layers are Inside.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2d6b3552b58922ad",
+    "text": "Inside:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ed68b8491c0967ae",
+    "text": "The selected outline of the object is from inside to outside, the odd-numbered layers are Inside and the even-numbered layers are Outside.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c298db0697bb3c53",
+    "text": "On Vector:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "526db0de0d41d31f",
+    "text": "All selected outlines are On Vector paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c13c5a5f8381d294",
+    "text": "Pocket",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e065b7cf24c71c40",
+    "text": "The selected object is nested from outside to inside, and the ring area generated is cleared of the odd-numbered area material and the even-numbered area material is retained.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "53b59ea38de5d9c8",
+    "text": "Laser Vector",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "661ecfc4a2910de4",
+    "text": "Processing strategy is",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d7852cd0d2453e8c",
+    "text": "Line",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "995f1733688210b7",
+    "text": "Indent Distance = 0",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d78fb1391ad9f2e7",
+    "text": "Laser processing along the contour of the graphic",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "92e733a7a6ef506b",
+    "text": "Indent Distance > 0",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "5a835ff5d15b2652",
+    "text": "The graphic outline is from outside to inside, the odd-numbered layers are Outside and the even-numbered layers are Inside.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "27d7314b6d64c4b8",
+    "text": "Indent Distance < 0",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "310baf0fc018208e",
+    "text": "The outline of the graphic is from outside to inside, the odd-numbered layers are Inside and the even-numbered layers are Outside",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "153609929bdbfe1f",
+    "text": "Fill / Offset Fill",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "33559eedfb81871e",
+    "text": "The graphic outline is nested from the outside to the inside, and the ring area generated is cleared of the odd-numbered area material and the even-numbered area material is retained.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "64aa2a0532c14461",
+    "text": "(formerly referred to as Vector Pocket)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7a8834c2fee7b486",
+    "text": "are used to clear the material in selected 2D designs as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "98f376a8f9f2aeea",
+    "text": "To create 2D Pocket Tool Paths, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "084af22ce7315d0b",
+    "text": "Set tool path name",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2ab12fdc4ffafd60",
+    "text": "Set machining depth parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0ca967881df81e3f",
+    "text": "Set safe height and starting position",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8c586a0d548b24ff",
+    "text": "Select tool and modify/confirm tool processing parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e22eef6fc56c9827",
+    "text": "of our Wiki for recommended and default cutting parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8f51aec07ccf9934",
+    "text": "2D Pocket supports the use of multiple tool combinations to complete material removal. When selecting a tool, you can choose the appropriate tool combination based on the size of the area to be cleared in the selected 2D design. The program will use the specified tools from top to bottom in the tool list to remove materials according to the final list of tool combinations selected.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ca14092d29837604",
+    "text": "According to the rules for multi-tool clearing, it is recommended that the tool combination be set from top to bottom in order from large to small tool tip diameters. This allows for large-diameter tools to be used first to quickly clear most of the material. Then for the areas in the pocket that large-diameter tools cannot enter, subsequent small-diameter tools will continue to clear the material until the material fully meets the clearing requirements of the selected 2D design.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "762f3dcb9a4516ba",
+    "text": "Note: When setting up multi-tool clearing, it is recommended to combine tools with the same shank diameter to avoid the need to replace the spindle tool chuck.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ecb7ec4f354c45a6",
+    "text": "Also ensure tool numbers vary across different tools as discussed previously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6c8ad4f1548b1ba5",
+    "text": "Set Path Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6efd8d01c4bffee7",
+    "text": "Offset:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "61dbc07d2ba8085b",
+    "text": "Material removal using closed nested paths",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c775a0ce61d11a04",
+    "text": "The machining path is processed from the outer contour to the center of the selected 2D design",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2ac67af502274194",
+    "text": "Processing tool path from the center of the selected 2D design to the outer contour processing",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "033f437ddc2d9749",
+    "text": "Parallel:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6a82afcf44275f74",
+    "text": "Material removal using a reciprocating line operation",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fab1605f2bdee0a0",
+    "text": "Front To Back:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "34a8fa1e12d88970",
+    "text": "The machining path is processed from the starting point to the end point",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7f60715c1e5bf40d",
+    "text": "Back To Front:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e5ca97208e4a89b7",
+    "text": "The machining path is processed from the end point to the starting point",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f0277ab9ba6e2486",
+    "text": "Set Cutting Direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "bead63810fe8c261",
+    "text": "Conventional or Climb",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "09fc881eb549811f",
+    "text": "Set Cutting Order:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1058c29ea8c22add",
+    "text": "Auto, Selection, Inside Out, Outside In",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "599d2b0d68135751",
+    "text": "Set the Ramping Strategy",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0059798b7f7023e4",
+    "text": "(optional)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4d5d33312cdb5742",
+    "text": "to complete the tool path calculation and to generate a preview of the created tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7ef30e16a180877d",
+    "text": "(formerly referred to as Vector Contour)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4faa88d12894c3f3",
+    "text": "can be used to create cuts along the edges or outlines of 2D Design files as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b1b6f18ea3eb9803",
+    "text": "To create 2D Contour Tool Paths, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eb37c95849c708c0",
+    "text": "Select tool and modify/confirm tool processing parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "26c48c7b0c7a2ed7",
+    "text": "Set the Processing Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7c06997c2c0054d2",
+    "text": "The outer contour created by the tool is processed along the inner side of the selected 2D path. If the selected selected 2D paths intersect, this mode will not generate a tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "4bfce09bd38fe996",
+    "text": "The inner contour created by the tool cutting is processed along the outer side of the selected 2D path. If the selected 2D paths intersect, this mode will not generate a tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fcd5dc85d63a2f63",
+    "text": "The tool axis is processed along the contour line of the selected 2D path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9229938cab77a977",
+    "text": "Allows for you to adjust the position of the cutting tool relative to the selected path strategy",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d584425880cabe56",
+    "text": "Set the cutting direction:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "117b4c0a40f93f73",
+    "text": "Set the cutting order:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e18b470edc1d914a",
+    "text": "Set Ramping parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cd9462c72e6ff628",
+    "text": "Consider enabling Tab Supports:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e8f5afa694828dbb",
+    "text": "Tabs can be enabled and added along the edges of the contour cut to hold the material so that it does not break off the stock during machining. Tabs are retained and can be cut manually after machining processes are finished. Tabs are not enabled by default, select",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "494ca78f7374e46f",
+    "text": "Custom",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a2ca2a2fcc04c647",
+    "text": "to enable tab supports.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ed4659fa5392e46a",
+    "text": "Setting tab parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "76ad34254f0e3671",
+    "text": "Select support shape:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "560ce6788f12f62e",
+    "text": "triangle or rectangle",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "c855af44884e7dcf",
+    "text": "Set support width:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "09c49bb780f79c7e",
+    "text": "Sets the horizontal width of the tab created that will not be cut off.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b4dcad97c9cb2254",
+    "text": "Set the support thickness:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2b78904222f1b418",
+    "text": "End Depth is used as the reference, and the height of the uncut area is retained along the Z axis.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "2c244301efa0b333",
+    "text": "to enter the manual tab addition mode:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "895894dbf77cde67",
+    "text": "Click the left mouse button where you want a tab to be created along the outline of your selected 2D path. After the tab is successfully added, the tab position will be marked on the graphic outline. Multiple supports can be added to the selected 2D path continuously.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "d8e948fac5281afe",
+    "text": "In the",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "9fd728c66c9a256b",
+    "text": "Add",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "010e89671a601ed0",
+    "text": "mode, click the center of the generated tab mark with the left mouse button to delete the corresponding tab support.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0b732761554ab4c3",
+    "text": "When you are finished, click",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "eff399da091f1c7b",
+    "text": "[Exit]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "352ae25141964033",
+    "text": "[Clear]",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e3f12b3ed4aeb343",
+    "text": "to clear all tab supports in the current tool path at once.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "083488fc2e85c7f1",
+    "text": "to complete the tool path calculation and to display a preview of the generated tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6e4c98f1a122b67b",
+    "text": "(formerly referred to as Vector Drilling)",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "516bf1260e066e5a",
+    "text": "allows for drilling operations according to the selected 2D object center as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ef23ed5c5e9eb2ac",
+    "text": "The created drilling diameter is related to the selected tool diameter and has nothing to do with the selected 2D path boundary size. To create 2D Drilling Tool Paths, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "cd1bce438d1d589c",
+    "text": "Set Cutting Depth Parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6fa89c0e865bc825",
+    "text": "Select tool (drill) and modify/confirm tool processing parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "58e1005c45030940",
+    "text": "Select a Retract Strategy:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "6a4d0fddebcdab01",
+    "text": "None:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8426ab7f8dee0fbc",
+    "text": "No special processing strategy, the tool directly drills to the end depth according to the set processing parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1fcb1243d3839ca1",
+    "text": "Fixed Z Height:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7fa0910801f526e9",
+    "text": "Using the Start Depth as the reference, the tool drills down a lower cutting depth according to the set processing parameters, and retracts to a fixed height above the starting depth according to the set retraction height.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "a87c1e2383a63138",
+    "text": "Relative Retract:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "10d67ddfe8023fbe",
+    "text": "Each time the tool drills a lower cutting depth according to the set processing parameters, it retreats upward by a relative height displacement of the set distance relative to the current position.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b8cb4de724bf66d7",
+    "text": "to complete the tool path calculation and to generate a preview of this tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "b55e3f5887967d77",
+    "text": "2D Thread Milling Tool Paths allows for Thread Milling operations according to the selected 2D objects which have been drilled as shown in",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "ee902e4fb2caebbf",
+    "text": "The created Thread size is relative to the selected cutting tool and the diameter of the hole created in a previous Drilling Tool Path, it has nothing to do with the selected 2D path boundary size. It is important that a selected 2D object has already had a 2D Drilling Operation created prior to attempting to create a 2D Thread Milling Tool path.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "61ccc88387c98129",
+    "text": "To create 2D Thread Milling Tool Paths, consider and adjust the following parameters:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "20f16dcafdffb33a",
+    "text": "Select Thread Type:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "930ce30c41a8c511",
+    "text": "Internal:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "8e0137c9a1043271",
+    "text": "This will create threads along the internal boundaries of a cylindrical hole.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "df3fa5eaf05ea1be",
+    "text": "External:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "e1fd9928e99c05e9",
+    "text": "This will create threads along the external boundaries of a cylindrical object.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1059e5cdae03fef2",
+    "text": "Left-Handed / Right-Handed:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "7624c43312021d91",
+    "text": "Choose the thread direction",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "fa8070810cb32de2",
+    "text": "Repeat:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "921fb7eab28bd4b9",
+    "text": "Will repeat the thread milling operation using the selected parameters",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "f75103f1bcdb986c",
+    "text": "Multilayer:",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "1099d358d6cbfbc6",
+    "text": "Creates multiple thread passes based on set parameter. The default is 1.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  },
+  {
+    "id": "0d2982bbece83453",
+    "text": "Select tool (thread milling bit) and modify/confirm tool processing parameters.",
+    "page": "https://wiki.makera.com/en/software/MakeraCAM_userguide"
+  }
+]

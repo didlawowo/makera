@@ -1,0 +1,431 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Supported Codes</title><h1>Supported Codes</h1><article><div><blockquote>
+  <p>The Carvera firmware is based on Smoothieware, which support both CNC and 3d printing, we only list Carvera Desktop CNC related codes below, check <a href="http://smoothieware.org/supported-g-codes" class="is-external-link">here</a> for the original code support by Smoothieware.</p>
+</blockquote>
+<p> </p>
+<h2 id="g-codes" class="toc-header"><a class="toc-anchor" href="#g-codes">¶</a> G Codes</h2>
+<figure class="table">
+  <table style="border-bottom:ridge;border-left:ridge;border-right:ridge;border-top:ridge;">
+    <thead>
+      <tr>
+        <th style="border-bottom:2px solid rgb(221, 221, 221);border-top:0px;padding:5px;vertical-align:bottom;">Code</th>
+        <th> Description</th>
+        <th>Code_Example</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://smoothieware.org/g0" class="is-external-link">G0</a></td>
+        <td>Move to the given coordinates. It is used to go to a new area without cutting, it is also called a “rapid” move. Note that the F parameter can be used here and is remembered by subsequent commands</td>
+        <td>G0 X10 Y5 F100</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g1" class="is-external-link">G1</a></td>
+        <td>Move to the given coordinates, see above for the difference with G0. Takes the same F parameter as G0</td>
+        <td>G1 X20 Y2.3 F200</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g2" class="is-external-link">G2</a></td>
+        <td>Clockwise circular motion : go to point with coordinates XYZ while rotating around point with relative coordinates IJ </td>
+        <td>G2 X10 J5</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g3" class="is-external-link">G3</a></td>
+        <td>Counter-clockwise motion : see above</td>
+        <td>G3 Y5 X10 I2</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g4" class="is-external-link">G4</a></td>
+        <td style="border-top:1px solid rgb(221, 221, 221);padding:5px;vertical-align:top;">Dwell P&lt;seconds&gt;</td>
+        <td>G4 P1</td>
+      </tr>
+      <tr>
+        <td>G10</td>
+        <td>Set workspace coordinates <a href="http://linuxcnc.org/docs/html/gcode/coordinates.html" class="is-external-link">http://linuxcnc.org/docs/html/gcode/coordinates.html</a> and <a href="http://linuxcnc.org/docs/html/gcode/g-code.html#gcode:g10-l2" class="is-external-link">http://linuxcnc.org/docs/html/gcode/g-code.html#gcode:g10-l2</a></td>
+        <td>G10 L2 P1 X0</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g17" class="is-external-link">G17</a></td>
+        <td style="border-top:1px solid rgb(221, 221, 221);padding:5px;vertical-align:top;">Select XYZ plane (command is modal)</td>
+        <td>G17</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g18" class="is-external-link">G18</a></td>
+        <td>Select XZY plane (command is modal)</td>
+        <td>G18</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g19" class="is-external-link">G19</a></td>
+        <td>Select YZX plane (command is modal)</td>
+        <td>G19</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g20" class="is-external-link">G20</a></td>
+        <td>Inch mode : passed coordinates will be considered as Inches, so internally translated to millimeters</td>
+        <td>G20</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g21" class="is-external-link">G21</a></td>
+        <td>Millimeter mode ( <i>default</i> ) : passed coordinates will be considered as millimeters</td>
+        <td>G21</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g28" class="is-external-link">G28</a></td>
+        <td>G28 means goto clearance position on the Carvera</td>
+        <td>G28</td>
+      </tr>
+      <tr>
+        <td>G32</td>
+        <td>G32 probes the grid and turns the compensation on, this will remain in effect until reset or M370, X and Y are the start position, A and B are the width and length, I and J are the grid size, H is the height.</td>
+        <td>G32 R1 X0 Y0 A10 B10 H2</td>
+      </tr>
+      <tr>
+        <td>G38</td>
+        <td>Standard probe commands implemented as documented <a href="http://linuxcnc.org/docs/2.6/html/gcode/gcode.html#sec:G38-probe" class="is-external-link">here</a></td>
+        <td>G38.2 Z-10</td>
+      </tr>
+      <tr>
+        <td>G53</td>
+        <td>Must be on a line by itself OR the first G code on a line, the directly following G0/G1 will be executed in MCS coordinates</td>
+        <td>G53 G0 X0 Y0</td>
+      </tr>
+      <tr>
+        <td>G54</td>
+        <td>Use workspace coordinates <a href="http://linuxcnc.org/docs/html/gcode/coordinates.html" class="is-external-link">http://linuxcnc.org/docs/html/gcode/coordinates.html</a> and <a href="http://linuxcnc.org/docs/html/gcode/g-code.html#gcode:g54-g59.3" class="is-external-link">http://linuxcnc.org/docs/html/gcode/g-code.html#gcode:g54-g59.3</a></td>
+        <td>G54</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g90" class="is-external-link">G90</a></td>
+        <td>Absolute mode ( <i>default</i> ) (command is modal)</td>
+        <td>G90</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g91" class="is-external-link">G91</a></td>
+        <td>Relative mode (command is modal)</td>
+        <td>G91</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/g92" class="is-external-link">G92</a></td>
+        <td>Set global workspace coordinate system to specified coordinates <a href="http://linuxcnc.org/docs/html/gcode/g-code.html#gcode:g92" class="is-external-link">http://linuxcnc.org/docs/html/gcode/g-code.html#gcode:g92</a></td>
+        <td>G92 X0 Y0 Z0</td>
+      </tr>
+      <tr>
+        <td>G92.1</td>
+        <td>Clear the G92 offsets</td>
+        <td>G92.1</td>
+      </tr>
+      <tr>
+        <td>G92.4</td>
+        <td>Manually set homing (MCS) for XYZ</td>
+        <td>G92.4 X0 Y0 Z0</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p> </p>
+<h2 id="m-codes" class="toc-header"><a class="toc-anchor" href="#m-codes">¶</a> M Codes</h2>
+<figure class="table">
+  <table style="border-bottom:ridge;border-left:ridge;border-right:ridge;border-top:ridge;">
+    <thead>
+      <tr>
+        <th>Code</th>
+        <th>Description</th>
+        <th>Code_Example</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://smoothieware.org/m3" class="is-external-link">M3</a></td>
+        <td>Starts the spindle. The S parameter sets the speed in rotations per minute</td>
+        <td>M3 S5000</td>
+      </tr>
+      <tr>
+        <td><a href="https://smoothieware.org/m5" class="is-external-link">M5</a></td>
+        <td>Stops the spindle</td>
+        <td>M5             </td>
+      </tr>
+      <tr>
+        <td>M6</td>
+        <td>Auto tool change,  T0 indicates wireless probe, T-1 indicates None</td>
+        <td>M6 T1</td>
+      </tr>
+      <tr>
+        <td>M7</td>
+        <td>Starts the airflow</td>
+        <td>M7</td>
+      </tr>
+      <tr>
+        <td>M9</td>
+        <td>Stops the airflow</td>
+        <td>M9</td>
+      </tr>
+      <tr>
+        <td>M30</td>
+        <td>End of the program, no action on the Carvera</td>
+        <td>M30</td>
+      </tr>
+      <tr>
+        <td>M105</td>
+        <td style="border-top:1px solid rgb(221, 221, 221);padding:5px;vertical-align:top;">Read the current spindle temperature</td>
+        <td>M105</td>
+      </tr>
+      <tr>
+        <td>M220</td>
+        <td>S&lt;factor in percent&gt;- set feed speed factor override percentage</td>
+        <td>M220 S50</td>
+      </tr>
+      <tr>
+        <td>M223</td>
+        <td>S&lt;factor in percent&gt;- set spindle speed factor override percentage</td>
+        <td>M223 S80</td>
+      </tr>
+      <tr>
+        <td>M321</td>
+        <td>Enter the laser mode, The machine will drop the current tool automatically and calibrate the spindle Collet (to set the laser offset to the working surface)</td>
+        <td>M321</td>
+      </tr>
+      <tr>
+        <td>M322</td>
+        <td>Exit the laser mode</td>
+        <td>M322</td>
+      </tr>
+      <tr>
+        <td>M323</td>
+        <td>Enter the laser test mode, the laser module will be supplied a very low power, usually used for re-focusing the laser</td>
+        <td>M323</td>
+      </tr>
+      <tr>
+        <td>M324</td>
+        <td>Exit the laser test mode</td>
+        <td>M324</td>
+      </tr>
+      <tr>
+        <td>M325</td>
+        <td>S&lt;factor in percent&gt;- set laser power factor override percentage</td>
+        <td>M325 S50</td>
+      </tr>
+      <tr>
+        <td>M331</td>
+        <td>Turn on the auto vacuum mode, if on, the vacuum will be turned on automatically when the spindle is running and turned off when the spindle is not running</td>
+        <td>M331</td>
+      </tr>
+      <tr>
+        <td>M332</td>
+        <td>Turn off the auto vacuum mode</td>
+        <td>M332</td>
+      </tr>
+      <tr>
+        <td>M370</td>
+        <td>Clears the auto bed levelling data and disabled the compensation until G32 is run again</td>
+        <td>M370</td>
+      </tr>
+      <tr>
+        <td>M375.1</td>
+        <td>Display the current bed leveling grid data in the MDI window</td>
+        <td>M375.1</td>
+      </tr>
+      <tr>
+        <td>M482.4</td>
+        <td>Retrieve device MAC address</td>
+        <td>M482.4</td>
+      </tr>
+      <tr>
+        <td>M482.5</td>
+        <td>Retrieve device IP address</td>
+        <td>M482.5</td>
+      </tr>
+      <tr>
+        <td>M490</td>
+        <td>Execute the ATC homing process, homing will be executed automatically when issuing M490.1 or M490.2 if needed</td>
+        <td>M490</td>
+      </tr>
+      <tr>
+        <td>M490.1</td>
+        <td>Tightens the spindle collect to secure a new tool in the spindle</td>
+        <td>M490.1</td>
+      </tr>
+      <tr>
+        <td>M490.2</td>
+        <td>Loosens the spindle collet and drops the current milling bit</td>
+        <td>M490.2</td>
+      </tr>
+      <tr>
+        <td>M491</td>
+        <td>Execute a calibration, and the TLO (tool length offset) for the current tool will be reset</td>
+        <td>M491</td>
+      </tr>
+      <tr>
+        <td>M497</td>
+        <td>Set the status of automatic tool change，subcode 1: Drop tool, subcode 2: Pick tool, subcode 3:Calibrate, subcode 4:margin, subcode 5:Zprobe, subcode 6: Autolevel, subcode 7: Done, subcode 0: None</td>
+        <td>M497.1</td>
+      </tr>
+      <tr>
+        <td>M600</td>
+        <td>Pauses the machine and waits for a resume command to continue</td>
+        <td>M600</td>
+      </tr>
+      <tr>
+        <td>M801</td>
+        <td>Turn on the internal vacuum (Carvera). The S parameter sets the power of the vacuum (S100 = 100%)</td>
+        <td>M801 S100</td>
+      </tr>
+      <tr>
+        <td>M802</td>
+        <td>Turn off the internal vacuum (Carvera)</td>
+        <td>M802</td>
+      </tr>
+      <tr>
+        <td>M811</td>
+        <td>Turn on the spindle cooling fan.  The S parameter sets the power of the fan</td>
+        <td>M811 S100</td>
+      </tr>
+      <tr>
+        <td>M812</td>
+        <td>Turn off the spindle cooling fan</td>
+        <td>M812</td>
+      </tr>
+      <tr>
+        <td>M821</td>
+        <td>Turn on the light</td>
+        <td>M821</td>
+      </tr>
+      <tr>
+        <td>M822</td>
+        <td>Turn off the light</td>
+        <td>M822</td>
+      </tr>
+      <tr>
+        <td>M831</td>
+        <td>Turn on the tool detector sensor laser</td>
+        <td>M831</td>
+      </tr>
+      <tr>
+        <td>M832</td>
+        <td>Turn off the tool detector sensor laser</td>
+        <td>M832</td>
+      </tr>
+      <tr>
+        <td>M841</td>
+        <td>Turn on the wireless probe charging power</td>
+        <td>M841</td>
+      </tr>
+      <tr>
+        <td>M842</td>
+        <td>Turn off the wireless probe charging power</td>
+        <td>M842</td>
+      </tr>
+      <tr>
+        <td>M851</td>
+        <td>Turn on the extended port power.  The S parameter sets the PWM output of the port, such as the suction power  (S50 = 50%)</td>
+        <td>M851 S50</td>
+      </tr>
+      <tr>
+        <td>M852</td>
+        <td>Turn off the extended port power</td>
+        <td>M852</td>
+      </tr>
+      <tr>
+        <td>M861</td>
+        <td>Turn on the beep. (only for Carvera Air)</td>
+        <td>M861</td>
+      </tr>
+      <tr>
+        <td>M862</td>
+        <td>Turn off the beep. (only for Carvera Air)</td>
+        <td>M862</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p> </p>
+<h2 id="console-commands" class="toc-header"><a class="toc-anchor" href="#console-commands">¶</a> Console Commands</h2>
+<blockquote>
+  <p>The smoothieware supports console commands to operating files, running jobs, monitoring status, etc. The Carvera firmware support most of them too, <a href="https://smoothieware.org/console-commands" class="is-external-link">checkout here</a>. We have integrated them into GUI so you don't need to run manually. The below list are the ones are modified or added by the Carvera.</p>
+</blockquote>
+<figure class="table">
+  <table style="border-bottom:ridge;border-left:ridge;border-right:ridge;border-top:ridge;">
+    <thead>
+      <tr>
+        <th>Command</th>
+        <th>Description</th>
+        <th>Command_Example</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ap</td>
+        <td>
+          <p>Enable/disable or change the password for the WiFi Access Point</p>
+          <ul>
+            <li>'ap ssid xxxx' (change AP name ).</li>
+            <li>'ap password xxxx' (set password ).</li>
+            <li>'ap disable' (disable AP).</li>
+            <li>'ap enable' (enable AP).</li>
+          </ul>
+        </td>
+        <td>ap xxxx</td>
+      </tr>
+      <tr>
+        <td>goto</td>
+        <td>
+          <p>Resume a job from a certain line.<br>Usage</p>
+          <ol>
+            <li>Open the job, and start normally.</li>
+            <li>When the job begins to execute, pause it.</li>
+            <li>When it is successfully paused, go to the MDI window and manually input goto XXXX</li>
+            <li>You will see the job jump to XXXX line</li>
+            <li>Hit resume and continue the job.</li>
+          </ol>
+          <p>Be very careful about Z height, and avoid any collisions, you can lift the Z a bit after pausing the job.</p>
+        </td>
+        <td>goto xxxx</td>
+      </tr>
+      <tr>
+        <td>time</td>
+        <td>Retrieve the current time of the control board, displayed in timestamp format</td>
+        <td> time</td>
+      </tr>
+      <tr>
+        <td>version</td>
+        <td>Retrieve the current firmware version</td>
+        <td> version</td>
+      </tr>
+      <tr>
+        <td>wlan</td>
+        <td>
+          <p>Connect/disconnect or scan the WiFi network.</p>
+          <ul>
+            <li>'wlan' (scan WiFi ).</li>
+            <li>'wlan ssid password' (connect to a certain WiFi AP).</li>
+            <li>'wlan -d' (Disconnect from WiFi AP).</li>
+          </ul>
+        </td>
+        <td> wlan xxxx</td>
+      </tr>
+      <tr>
+        <td>4th Axis</td>
+        <td>
+          <p>Check the functionality of the 4th axis module (harmonic drive version) on the Carvera and Carvera Air</p>
+          <ul>
+            <li>‘enable_4th’ (enable 4th axis module with harmonic drive ) - Carvera</li>
+            <li>‘disable_4th’ (disable 4th axis module with harmonic drive ) - Carvera</li>
+            <li>‘check_4th’ (checks rotation limits of 4th axis module with harmonic drive) - Carvera &amp; Carvera Air</li>
+          </ul>
+        </td>
+        <td>check_4th</td>
+      </tr>
+      <tr>
+        <td>beep</td>
+        <td>
+          <p>Enable or disable the beep tone played on the Carvera Air</p>
+          <ul>
+            <li>‘config-set sd switch.beep.enable false’ (disable the tone)</li>
+            <li>config-set sd switch.beep.enable true (enable the tone)</li>
+          </ul>
+          <p>Reset the machine after running these commands for the change to take effect</p>
+        </td>
+        <td>config-set sd switch.beep.enable false</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+</div></article></html>

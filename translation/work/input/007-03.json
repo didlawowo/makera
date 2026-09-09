@@ -1,0 +1,242 @@
+[
+  {
+    "id": "2379030cf4e4ce0c",
+    "text": "Install Software",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "615780a6232b8e58",
+    "text": "Wi-Fi Setup and Machine Connection",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "28b963a5e70616d2",
+    "text": "Your First Job",
+    "page": "https://wiki.makera.com/en/Z1/Manual"
+  },
+  {
+    "id": "0d1550dac495ca10",
+    "text": "Makera Z1 Quick start",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "8c73d91688335b48",
+    "text": "Please read this manual carefully before using the Makera Z1（Z1&Z1Pro）. Failure to read the manual may lead to personal injury, inferior results, or damage to the Makera Z1（Z1&Z1Pro） machine.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "e1f390166011074e",
+    "text": "3. Please wear hearing protection when Makera Z1（Z1&Z1Pro） is machining on the hard materials.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "68373cea8999d8d6",
+    "text": "9. It is not allowed for children to operate this product. Only skilled personnel are permitted to use this product.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b5c2587f28b08621",
+    "text": "Makera Z1（Z1&Z1Pro） has a safety option that allows the machine to automatically stop working when opening the cover, which is useful for schools or work environments where children may reach.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c9b654cd69c9f502",
+    "text": "Desktop CNC Safety",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "099b273442d0c182",
+    "text": "- If an emergency occurred in machining, such as the workpiece being loose from holding, components damaging, unusual light or sound coming from the machine, etc. Press the main button or E-Stop button, all ongoing procedures will stop immediately, or cut off the power to shut it down.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "83fb6c299eeb43c9",
+    "text": "- Makera Z1& Makera Z1 Pro has a safety option that allows the machine to automatically stop working when opening the cover, which is useful for schools or work environments where children may reach.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "53e5e7e22a905a76",
+    "text": "- The use of materials not supplied or specified for Makera's desktop CNC equipment may require additional protective and safety measures. Always review the Safety Data Sheet (SDS) provided by the material supplier for detailed safety instructions before use.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "4a109cc49467be33",
+    "text": "Compliance",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d58b258e988c2080",
+    "text": "The mass of the box weighs more than 30Kg/ 60lb. The net weight of the Makera Z1（Z1&Z1Pro）desktop milling machine is around 20Kg/40lb. We suggest moving this machine by at least two people (with gloves) to ensure both personal and machine’s safety. Please make sure your desk is sturdy enough and has no less than 60 x 60 cm space to place this machine.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "377764cd849063aa",
+    "text": "After opening the package, remove the protective materials from the top and sides. With assistance, carefully lift the machine out using the bottom handles and place it on a stable, level surface.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2c6e23a94a5e726f",
+    "text": "Follow the illustration to open the machine cover and remove the internal protective foam and accessories",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "6e19c45dfa1c406e",
+    "text": "1.Due damping mechanism, the cover must be opened to a near-vertical position to stay in place. Do not force it beyond this angle, as it may cause damage.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b4f526280616af11",
+    "text": "2. Keep the packaging materials for future use. Keep plastic bags away from children to prevent suffocation.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "dc11d520ed0a3045",
+    "text": "What‘s Included",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "f78a1f4edc0c9ed0",
+    "text": "Material Dimension Information",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "3f1000360409aa25",
+    "text": "Epoxy Tooling board：100mm*100mm*10mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7a2ae7782b79ac71",
+    "text": "Aluminum plate：100mm*100mm*5mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "bb7ca0c81251601d",
+    "text": "MDF Board：100mm*100mm*2mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "e69b8cbc9860874d",
+    "text": "Bicolor Stock：100mm*100mm*1.3mm",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c2296fb7e7dbdee8",
+    "text": "Note：",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b705dee309bdcbbf",
+    "text": "- Due to certain tolerances in material cutting, please use a caliper (or other measuring tools) to verify dimensions before machining.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "2ad2c6efdfe5afbd",
+    "text": "- CNC machining is a subtractive manufacturing process. We recommend developing the habit of confirming material dimensions before machining, as this will help improve your machining results.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "68c16f37a3298db5",
+    "text": "Quick Tool Change is a key feature of Makera Z1(Z1 & Z1Pro), allowing you to replace tools in just a few seconds and significantly improve workflow efficiency.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "af36241011f3fd10",
+    "text": "Operation Steps",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "ca4fa2f4ccf7af49",
+    "text": "1. Hold the tool collar just below the spindle collet with your right hand. (We recommend using tools with a collar to help position the shank length and reduce the risk of finger injury.)",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "b2f85a2acc1ac2a8",
+    "text": "2. Press down the lever with your left hand to release the tool.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d0d9b4dad64b2c7b",
+    "text": "3. Gently remove the tool with your right hand",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "a4e7ee702f760877",
+    "text": "Do not pull it out forcefully to avoid injuring your fingers",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "1cdaabb3f3d5b286",
+    "text": "4. Insert the new tool into the spindle collet.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "e2b5584c8f6604fc",
+    "text": "5. Release the lever with your left hand to let it return automatically, then release your right hand.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "97bd41bac1720367",
+    "text": "1. A 3.175 mm protective rod is pre-installed in the collet at the factory.Please replace it with an actual tool before use.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "a8c48f21ba7f1201",
+    "text": "2. CNC tools are sharp. Handle with care to avoid injury.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "c965dd38568bd48e",
+    "text": "Makera Z1 (Z1 & Z1Pro) simplifies workholding and XYZ positioning with its anchor-based system and automatic Z-axis probing. Simply place and secure the workpiece at the anchor position as shown, and the system will automatically detect the lower-left corner as the machining origin (commonly used zero point).",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "aa3f2514ba8ee1af",
+    "text": "1. Install the L-Bracket",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "55b2e13df174dd73",
+    "text": "Secure the L-bracket at the anchor position using two 4 mm dowel pins and three M5×20 screws (Use longer screws for the thick bracket)",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d0e04eced5bae24b",
+    "text": "Place the workpiece against the inner side of the bracket for initial positioning",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7d04ea8d2fa7e0d0",
+    "text": "2. Secure the Workpiece",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "d360c7be6e8164bd",
+    "text": "Insert two M5 screws into the semi-circular openings of the bracket to fix the lower-left corner",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "7470ad05a276a0a6",
+    "text": "Use top clamps to secure the upper-right corner and complete the setup.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "0d557e8b3e13b3d4",
+    "text": "1. Do not overtighten the top clamps to avoid damaging the clamps or the workpiece",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "fd256c25017895e9",
+    "text": "2. Use screws of appropriate length based on the workpiece thickness to prevent scratching the base plate",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "6984b456c7edada1",
+    "text": "Makera Z1 (Z1 & Z1Pro) features an innovative dust collection system. The spindle fan directs chips below the work surface, where external airflow and machine vibrations guide them into the bottom dust tray. An external dust collector then removes the debris, keeping the workspace clean.",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  },
+  {
+    "id": "49d748ac34043e53",
+    "text": "Operation Steps:",
+    "page": "https://wiki.makera.com/en/Z1/QuickStart"
+  }
+]

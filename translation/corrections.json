@@ -1,0 +1,6 @@
+{
+  "8d5f9b58f6ddd1e7": "dans le menu contextuel.",
+  "8875eac0a38657cd": "Lors de la création d’un nouveau système de coordonnées de travail, un menu de nom s’affiche dans le panneau des propriétés étendues. Définissez le nom du nouveau système, puis choisissez, parmi 10 points de contrôle d’origine dans les plans SUPÉRIEUR et INFÉRIEUR à l’intérieur du contour du brut dans la zone de conception, les points d’origine du nouveau système. Une fois le réglage effectué, cliquez sur le bouton OK du panneau des propriétés étendues pour terminer la création.",
+  "8fc469456a9e8ab5": "Si le quatrième axe réagit, le problème vient soit du module de commande du moteur (driver), soit de la carte de commande.",
+  "24feb9cd76cdf9e8": "Pour écarter un problème de carte de commande, retirez le capot du contrôleur, intervertissez les modules de commande des moteurs (drivers) et vérifiez si le quatrième axe réagit."
+}

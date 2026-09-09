@@ -1,0 +1,327 @@
+[
+  {
+    "id": "40389653f94f9e44",
+    "text": "Optional: Custom 3D-printed gripping tool",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "6aeb9e16ff461058",
+    "text": "Step-by-Step Solution",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "fdd3ea3c27c0b7a7",
+    "text": "1. Remove the Spindle Cover",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "7c3e45d48dca89eb",
+    "text": "Power off and unplug the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "173b3370acda7471",
+    "text": "Remove the outer spindle cover by unscrewing the mounting screws",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1780e755dbce5a90",
+    "text": "Carefully expose the internal spindle assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "553090ad228c837b",
+    "text": "2. Disassemble the Spindle",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "76321e58aa1f7a05",
+    "text": "4 long screws at the bottom of the spindle",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "2c4d2d0a4016518e",
+    "text": "Remove them to separate the spindle housing",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "ec1049e3ed391647",
+    "text": "3. Remove the Stepper Motor and Mid Section",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "cb6b2eefbc410db7",
+    "text": "Detach the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "4e6ad63c4f54bc9b",
+    "text": "stepper motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "28cc0fa237b231a2",
+    "text": "middle section of the spindle assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "53368d7731010728",
+    "text": "Set all parts aside carefully",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "d06bca59ca1a71b4",
+    "text": "4. Remove the Limit Switch Pin",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "b01bf0a6d79cc141",
+    "text": "limit switch",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "9567ebb814978f01",
+    "text": "steel pin underneath it",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "234d13fa9cdcf839",
+    "text": "This will allow access to the tool changer mechanism",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "33a542569b201bec",
+    "text": "5. Extract the Tool Changer Mechanism",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "64632cfdca2f3ca5",
+    "text": "Pull out the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "849ce97dc3a24d25",
+    "text": "automatic tool changer assembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "4fcb00bef5be270e",
+    "text": "Ensure nothing is obstructing the removal",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "c35eb405df780a32",
+    "text": "6. Identify the Brass Coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "32db8e56e445a5e7",
+    "text": "brass threaded piece on the shaft",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "eb909f1d37b9638f",
+    "text": "This is the component that is typically stuck",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "28f938f3d5db4466",
+    "text": "7. Loosen the Brass Coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "496d6960431c6302",
+    "text": "Important:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "a1bd203415696476",
+    "text": "The gearbox makes it difficult to rotate the shaft backward",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "6334ceb147d4d52e",
+    "text": "You may need firm, controlled force",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "0f5f6e4eebb7b583",
+    "text": "Recommended methods:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "443e9efd74e8be7b",
+    "text": "Option A: Manual Grip",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "842e7bcb44e2e5a4",
+    "text": "Use a rubber grip or cloth",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "2ed4a625b61e5dd7",
+    "text": "Attempt to loosen the brass piece by hand",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "c5b7457abd6fad0d",
+    "text": "Option B: Pliers (Use Carefully)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "a7b09b6029607966",
+    "text": "Apply controlled force",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "487c62313563480f",
+    "text": "Avoid damaging the brass surface",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "c308c37bea9c7cb6",
+    "text": "Option C: 3D-Printed Tool (Best Method)",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "00452aebee21aaed",
+    "text": "Use a custom tool that fits around the brass coupling",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "2b34be2c1b1ad47e",
+    "text": "Add a rubber insert for extra grip",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "8c6da268923f247e",
+    "text": "Provides strong torque without damage",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "676ead35fcfed355",
+    "text": "Pro Tip",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "45110e8c781d4174",
+    "text": "If the shaft spins while trying to loosen the brass piece:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "77146325433e6804",
+    "text": "Reinstall the",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "35494a6d7042404e",
+    "text": "stepper motor into the gearbox",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1868cf01cebee6f8",
+    "text": "This will prevent the shaft from rotating and make loosening easier",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "8d188364cf9dcbdb",
+    "text": "Reassembly",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "b7367f6cdd8c046b",
+    "text": "Once the brass coupling is loosened:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "e3ecf2167e925e52",
+    "text": "Reinstall the tool changer mechanism",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "e0b0c9cfbaeb3892",
+    "text": "The brass nut can be positioned anywhere on the shaft.",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "1937f7475bc5fde5",
+    "text": "Replace the limit switch pin",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "bd8d76b62c5ef083",
+    "text": "Reassemble the spindle sections",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "d478ee999186ae6a",
+    "text": "Reattach the stepper motor",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "4d72a78ebae2a333",
+    "text": "Install the spindle cover",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "8b237da691cade89",
+    "text": "Power on the machine",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "89c5be88a733da11",
+    "text": "Run a tool change operation",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "23d7b5d9382e54b9",
+    "text": "Confirm:",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "386b62e0cb26b272",
+    "text": "No grinding noise",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "2ce06fb8a5a85e21",
+    "text": "Smooth tool engagement",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "33596dbb80ed5876",
+    "text": "No ATC errors",
+    "page": "https://wiki.makera.com/en/carvera/troubleshooting/troubleshooting/brass_nut_issue"
+  },
+  {
+    "id": "dbc468a14b601d5d",
+    "text": "FAQ",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "c910d474dcd724bf",
+    "text": "General",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "14b1f165b62d9f02",
+    "text": "I am new to CNC, how can I quickly get familiar with Carvera and make my own projects?",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "051df637a686cb18",
+    "text": "CNC is a quite big topic, especially the CAD and CAM aspects. There are a lot of materials you can look at on the internet. For the Carvera machine, we will provide a detailed instruction manual and example guide for new users to get familiar with.",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "001e35f67dc36d38",
+    "text": "We are making step-by-step video tutorials on our",
+    "page": "https://wiki.makera.com/en/faq"
+  },
+  {
+    "id": "c048cfebb41d5d86",
+    "text": "YouTube channel",
+    "page": "https://wiki.makera.com/en/faq"
+  }
+]
