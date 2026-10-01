@@ -10,6 +10,6 @@ permissions:
 
 jobs:
   integrity:
-    uses: didlawowo/workflow-ci/.github/workflows/policy-integrity.yml@v1.15.2
+    uses: didlawowo/workflow-ci/.github/workflows/policy-integrity.yml@v1.15.5
     with:
       runner: arc-runner-makera
