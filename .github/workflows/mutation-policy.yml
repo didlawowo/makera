@@ -12,6 +12,6 @@ permissions:
 
 jobs:
   policy:
-    uses: didlawowo/workflow-ci/.github/workflows/mutation-issue-policy.yml@v1.15.8
+    uses: didlawowo/workflow-ci/.github/workflows/mutation-issue-policy.yml@v1.16.1
     with:
       runner: arc-runner-makera
