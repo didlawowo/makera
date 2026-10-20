@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "GitHub Light High Contrast",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#fbd4c8",
+    "activityBar.background": "#fbd4c8",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#f68b67",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#fbd4c8",
+    "statusBar.background": "#f9b098",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#f68b67",
+    "statusBarItem.remoteBackground": "#f9b098",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#f9b098",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#f9b09899",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "window.title": "🟠 public · makera ${separator}${activeEditorShort}"
+}
